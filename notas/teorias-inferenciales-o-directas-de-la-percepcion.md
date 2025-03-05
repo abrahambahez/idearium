@@ -1,0 +1,3 @@
+# teorías inferenciales o directas de la percepción
+
+Para @chemero2018, la diferencia entre las teorías de la percecpción directa y la percepción inferencial está en dónde se localiza el contenido perceptual. En la segunda, el contenido está dentro del animal (o en su cerebro) ya que elabora inferencias a partir de sensaciones percibidas en el entorno. En la primera el animal simplemente recibe información de un entorno que ya posee el contenido de la percepción; pero esto implica que si el entorno contiene significados no puede ser meramente físico y eso implicaría una ontología que se oponga al actual consenso fisicalista del mundo [@chemero2018, p. 181]. La teoría de *[disponibilidad-(affordance)](disponibilidad-%28affordance%29.md)* de Gibson posee una ontología

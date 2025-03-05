@@ -1,0 +1,5 @@
+# espacio como lugar
+
+El espacio como lugar hace referencia a su dimensión posicional y orientativa. La característica básica de esta perspectiva es entender el espacio como algo que se puede localizar y tiene por tanto una *cualidad indexical*, es decir, que puede ser señalada. Es su interpretación más común y con la que se relacionan estrategias de representación como la cartografía, estrategias de administración como las fronteras geopolíticas y en general, las lógicas territoriales que implican *delimitación*.
+
+La idea de territorio es muy usada para entender el espacio como lugar. Aunque esta lectura no es exclusiva, lo cierto es que el concepto se ha extendido en diferentes tradiciones intelectuales hasta definir cosas muy diversas. Por ejemplo, para @deleuze&guattari2002 [cap. 11] constituye un proceso dinámico que atraviesa lo material, lo biológico, lo semiótico y lo cultural; desde algunas miradas feministas se entiende al [cuerpo-femenino-como-territorio](cuerpo-femenino-como-territorio.md); también hay una lectura que entiende a la [casa-como-microterritorio](casa-como-microterritorio.md).

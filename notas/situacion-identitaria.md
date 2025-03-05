@@ -1,0 +1,5 @@
+# situación identitaria
+
+Esta noción toma como base el concepto de [situacion-mercantil](situacion-mercantil.md) de @appadurai1991 [29] y lo extiende por [analogia](analogia.md) a un marco particular de expresión de identidad cultural. Del mismo modo que el componente básico de la situación mercantil es un momento, un lugar, un entorno y unos sujetos donde la característica de intercambio es socialmente relevante, podría decirse que la [situacion](situacion.md) identitaria de la cultura es el contexto donde a partir de unos marcos valorativos, unos sujetos, objetos y unas [practicas-culturales](practicas-culturales.md) posibles, algunos rasgos de lo cultural se vuelven socialmente relevantes para producir identificaciones [@hall1996; @kraay2007] o diferenciaciones.
+
+Si la cultura y la identidad son relevantes por la diversidad y la diferencia; hacer notar que la diferencia siempre es **diferencia de** algo. Ese algo, o alguien, está situacionalmente dado. Por supuesto, esa situación aparece siempre en un marco más general, y es ahí donde la [configuracion-cultural](configuracion-cultural.md) puede orientar la interpretación.

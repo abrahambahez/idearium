@@ -1,0 +1,10 @@
+# interculturalismo
+
+El interculturalismo es la variante del [culturalismo](culturalismo.md) que hace referencia a la *interacción* entre culturas, y no meramente a su existencia (o co-existencia); también se refiere, en términos ético-políticos, a la idea de entablar una relación igualitaria entre ellas; entre otros varios sentidos. Por ejemplo, @barabas2018 [p. 24] propone que el término sea entendido bajo dos acepciones:
+
+1. De uso común y no situacional; que se refiere genéricamente al contacto entre culturas y reconoce la diferencia entre ellas
+1. De uso literario-científico y situacional; que alude al contacto entre culturas diversas en el marco de la globalización, el multiculturalismo y los derechos humanos.
+
+Para @mignolo2018 [pp. 57-58], la interculturalidad es una herramienta para la práctica [decolonial](decolonialidad.md), en la medida en que varios actores usan el concepto como posibilidad de un proyecto de humanidad alternativo al del capitalismo y [etnocentrismo](etnocentrismo.md); aunque también es usado por organismos internacionales y gobiernos neoliberales como parte de proyectos que reproducen relaciones de [colonialidad](colonialidad.md) en la forma de *hospitalidad condescendiente*. A este uso los autores lo llaman *interculturalidad funcional* (que se opone a una *inteculturaldad crítica descolonizadora*).
+
+La interculturalidad es definida por @bartolome2008 como *la puesta en relación de miembros de diferentes culturas así como a los mecanismos sociales necesarios para lograr una comunicación eficiente, sin que ninguno de los participantes se vea obligado necesariamente a renunciar a su singularidad cultural para lograrlo* [@bartolome2008, p. 124]; pero reconoce que, aunque los casos de diálogo existen, no es poco común que los grupos indígenas deban recurrir a estrategias de poder bajo las lógicas occidentales como formas más eficientes de ser escuchados y respetados, esas formas van de la acción militar, la movilización colectiva o la participación política [@bartolome2008, p. 131].

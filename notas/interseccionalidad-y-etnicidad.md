@@ -1,0 +1,7 @@
+# interseccionalidad y etnicidad
+
+El artículo de [@adlparvar&tadros2016](@adlparvar&tadros2016.md) explora la evolución de la teoría de la etnicidad y destaca la importancia de integrar la interseccionalidad para una comprensión más completa. La interseccionalidad, un concepto que ha ganado prominencia en las últimas décadas, reconoce que las diferentes dimensiones de la identidad, como la etnicidad, el género, la clase social y la religión, no existen de forma aislada, sino que **se intersectan e influyen mutuamente**. Da para eso algunos ejemplos ligados a estudios del Instituto de Desarrollo (IDS):
+
+* **Oosterhoff et al. (2011, 2013):**  Este estudio destaca la intersección entre la identidad de género y la identidad étnica, mostrando cómo el impacto del Estado en la etnicidad puede variar según el género.
+* **Shankland (2010):**  Este trabajo analiza la representación de los grupos indígenas en el sector de la salud de Brasil, ilustrando cómo la intersección de las identidades étnicas y raciales puede influir en la legitimidad de los representantes y en las tensiones que surgen en los espacios deliberativos.
+* **Adlparvar (2015):**  Este estudio examina el impacto del desarrollo socioeconómico y la reconstrucción política en la etnicidad en Afganistán, mostrando cómo la adquisición de recursos por parte de un grupo étnico puede generar tensiones con otros grupos, y cómo la etnicidad puede utilizarse para legitimar o desafiar las desigualdades.

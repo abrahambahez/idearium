@@ -1,0 +1,8 @@
+# cuestión indígena
+
+De acuerdo con [@bengoa2000](@bengoa2000.md), en los ochenta se dio un proceso de organización indígena, de la mano de una [conciencia-etnica](conciencia-etnica.md) [22], reflejadas en el «Levantamiento indígena del Ecuador» en 1990, y el alzamiento del [EZLN](EZLN.md) en 1994.
+
+Este contexto produjo la inserción del nuevo sujeto indígena en las discusiones políticas, sociales, económicas y culturales de los Estados latinoamericanos. He aquí la «cuestión indígena», es decir, la necesidad de incluir las demandas de la organización en las agendas públicas.
+
+ >
+ > La "cuestión indígena" es un concepto neutro que denota la aparición de la temática étnica en las sociedades latinoamericanas pero posicionada de un nuevo modo. La "cuestión indígena" conlleva la existencia de nuevos actores indígenas, organizaciones étnicas, reuniones y declaraciones de carácter etnicista, acciones de reivindicación, movimientos étnicos y, en fin, un conjunto de demandas en que el carácter indígena aparece como central. Los indígenas han tenido históricamente demandas frente a la sociedad y el gobierno. Sin embargo no siempre esas demandas ponían por delante los aspectos étnicos, esto es, la diferencia existente entre la cultura indígena y la cultura global o criolla. Lo que caracteriza la demanda indígena es que combina diversas peticiones de orden económico y material con la exigencia de respeto por la diversidad cultural y con la gestión de la propia especificidad étnica. Cuestión indígena y demanda indígena son dos conceptos clave para entender la nueva situación que denominamos "emergencia indígena en América Latina" [@bengoa2000, 24-25].

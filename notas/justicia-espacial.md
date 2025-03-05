@@ -1,0 +1,6 @@
+# justicia espacial
+
+Es un término legal relacionado con el [giro-espacial](giro-espacial.md).
+
+ >
+ > The term ‘spatial justice’ formally made its appearance in South African legislation in the SPLUMA of 2013. The preamble to the act sets out its aims. Importantly, it envisions spatial planning that is ‘inclusive, developmental, equitable and efficient’. The act also aims to ensure that different levels of government address regulatory and special imbalances. This, the preamble states, is in addition to encouraging greater ‘consistency and uniformity’ in decision-making and other procedures undertaken by various forms of authority that are responsible for decisions on the utilisation of land. [@villiers2016, p.2]

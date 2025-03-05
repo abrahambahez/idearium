@@ -1,0 +1,6 @@
+# principio de progreso
+
+ >
+ > Through exhaustive analysis of diaries kept by knowledge workers, it appears that Professor Teresa M. Amabile and researcher Steven J. Kramer stumbled upon a remarkable phenomenon which they called the progress principle. In their Harvard Business Review (HBR) article “The Power of Small Wins” (2011, 70–80), they wrote: “Of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work. And the more frequently people experience that sense of progress, the more likely they are to be creatively productive in the long run. Whether they are trying to solve a major scientific mystery or simply produce a high-quality product or service, everyday progress—even a small win—can make all the difference in how they feel and perform.” [@haak2021, cap. 1]
+
+[hacks-de-motivacion](hacks-de-motivacion.md)

@@ -1,0 +1,6 @@
+# La generación de teoría antropológica en América Latina: Silenciamientos, tensiones intrínsecas y puntos de partida
+
+Esteban Krotz 1996, [zotero](zotero://select/items/@krotz1996)
+
+ >
+ > Esteban Krotz mostraba que en el Sur usamos conceptos y autores del norte sin tener la menor idea de cuáles son sus discusiones ni cuál es la historia de los conceptos. Así, mientras examinamos y analizamos prácticas y categorías de nuestros nativos, tomamos teorías y autores descontextualizados como si se tratara de cabezas que van y vienen por nuestros programas, cuyos dictados pueden ser aplicados como si no tuvieran historia, sociedad, cultura y nación. A veces reparamos en el género pero sólo a veces. Ciertamente, agrega Krotz, el asunto no se resuelve diciendo que los antropólogos británicos fueron el brazo intelectual del colonialismo, y los norteamericanos la punta de lanza de la contrainsurgencia. Estas simplificaciones, demasiado groseras pero siempre a mano para enchastrar a otros colegas, evitan discutir a los autores y las teorías en términos de problemas de investigación concretos y de datos que avalan o no la resolución de esos problemas [@guber2017]

@@ -1,0 +1,10 @@
+# etnicidad como proyecto
+
+Similar a la [agencia-como-proyecto](agencia-como-proyecto.md), esta distinción, centrada en la definición dinámica y contextual que propone @jones2002 [chap. 4] mira a la [etnicidad](etnicidad.md) no sólo como el producto de la dinámica de diferenciación ([frontera-etnica](frontera-etnica.md))-[autoadscripcion-etnica](autoadscripcion-etnica.md) y las [narrativas-de-descendencia-comun](narrativas-de-descendencia-comun.md), sino como una comunidad que tiene la disposición para crear un proyecto histórico compartido, tan complejo, contradictorio o heterogéneo como el de los Estados modernos, aunque a escala y con valores posiblemente distintos.
+
+Appadurai:
+
+ >
+ > I've been hinting, in some small way here and there, especially in the recent book Modernity at Large, at something that partly comes to me out of Stuart Hall. That is, the idea that identity, especially that form of identity that we still for lack of a better word, rightly I think, call ethnic, has somehow, not only analytically but historically, become in the etymological sense, a project. That is to say, one can see ethnic identity as projected, so that it has a future, without entirely giving up the idea that it is produced by histories that are marked, and that identities are particular, and cannot therefore be completely expansive.
+ >
+ > Moreover, if one looks at identity movements, and sees them as projects that have futures, then one has a completely different sense, first, of the question of the past in relation to those projects and second, to put it simply, of who can join. This allows a kind of openness to inclusion in the project, although not necessarily to inclusion in the history. One does not have to say that the history is open and unmarked and anything might have happened, but at the same time, while resisting that, one can open the project up, so that the project can tie up with other projects, and so on. That becomes politically really interesting. [Appadurai en entrevista, en @bell1999, 26-27]

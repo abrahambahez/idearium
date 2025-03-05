@@ -1,0 +1,7 @@
+# acción serial
+
+La acción serial es un [constructo-teorico](constructo-teorico.md) propuesto por @johannesen2004 para explorar las dinámicas de la identidad étnica desde las condiciones materiales inmediatas de las personas.
+
+Muchos de los grupos socialmente constituidos pueden ser mejor entendidos como *series*, es decir, como el efecto de *acciones separadas* fijas, en lugar de grupos sociales o categorías como tal. Para formar parte de un grupo social los individuos tendrían que actuar de manera consciente y deliberada como miembros, cuando vemos un grupo de personas esperando el autobús no están actuando como un grupo social ni se reconocerían como parte de él, están ahí con el fin de abordar el camión. Son más una colección de individuos que siguen agendas y tienen identidades diferentes.
+
+Las acciones seriales pueden constituirse como una **homogeneidad temporal**. Son útiles en el análisis de la pluralidad social, pues brindan una forma distinta de concebir grupos sociales que no requiere acudir a estructuras o pertenencias identitarias. En tanto expresiones de agencia humana están condicionadas a su contexto material; las acciones nunca se llevan a cabo en la nada, siempre están rodeadas por las condiciones materiales

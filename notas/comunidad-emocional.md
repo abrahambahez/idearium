@@ -1,0 +1,8 @@
+# comunidad emocional
+
+Es una idea que hace énfasis en las emociones compartidas por un grupo de personas que despierta en ellas una fuerza social de solidaridad e incluso de identidad emergente. Una elaboración importante en el contexto de la antropología latinoamericana es la de Myriam Jimeno:
+
+ >
+ > Desde un punto de vista analítico, las comunidades emocionales son comunidades de sentido y afecto, que enlazan personas y sectores distintos y aun distantes, en las cuales el dolor ocasionado trasciende la indignación y alimenta la organización y la movilización. El poder simbólico de la [victima](victima.md) para congregar y potencializar la acción política reside pues, ante todo, en vínculos de naturaleza emocional. Por esto es central entender las emociones como actos relacionales, imbricados en la estructura sociocultural y no tan sólo como sentimientos personales. Justamente la naturaleza emocional de la categoría de víctima hace posible que el dolor sea comunicable como crítica social, y pueda convertirse en instrumento político para afianzar la débil institucionalidad. La afirmación y el vigor de la víctima hacen parte de un proceso social progresivo en el sentido de la afirmación de la sociedad civil frente al impacto de la violencia de las últimas décadas. [@jimeno&al2020]
+
+Relacionado con: [comunidad-imaginada](comunidad-imaginada.md), [tacticas-de-hacer-comunidad](tacticas-de-hacer-comunidad.md)

@@ -1,0 +1,16 @@
+# checklist comunicacion
+- ¿De dónde viene esta perspectiva? Reflexiona sobre tu propia experiencia antes de responder.
+- ¿Puedes relacionar tu punto con algo que la otra persona ya conoce? Busca puntos de conexión.
+- ¿Cómo comunicar las ventajas de tu argumento para la otra persona? Piensa en su interés.
+- Prepárate para abordar las **posibles preocupaciones** que la otra persona podría tener al respecto
+- Utiliza ejemplos concretos y anécdotas para ilustrar tu punto y hacerlo **más accesible**.
+- Escucha activamente antes de responder, asegurándote de comprender completamente la perspectiva del interlocutor.
+- Practica la empatía, intenta ponerte en el lugar de la otra persona para **comprender sus sentimientos**.
+- ¿Cómo encuentras un terreno común en lugar de enfocarte en las diferencias? Busca un punto de acuerdo
+- Sé claro y conciso en tu comunicación, evita **jerga o lenguaje complicado**.
+- Siempre busca retroalimentación Pregunta si la otra persona ha entendido o si tiene alguna pregunta.
+- Si te encuentras con desacuerdo, en lugar de argumentar pregunta más sobre su punto de vista.
+- Cómo puedes adaptar tu comunicación al estilo de aprendizaje de la otra persona visual, auditivo, kinestésico, etc.
+- Evita respuestas impulsivas. Tómate un momento **para pensar antes de responder en situaciones emotivas**.
+- Utiliza lenguaje corporal positivo, como e**l contacto visual y gestos abiertos**, para respaldar tu mensaje.
+- Trata de comunicarte de manera constructiva, enfocándote en soluciones en lugar de quejas o críticas.

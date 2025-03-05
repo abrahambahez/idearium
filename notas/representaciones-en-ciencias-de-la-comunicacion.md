@@ -1,0 +1,8 @@
+# representaciones en ciencias de la comunicación
+
+Para algunas elaboraciones de la teoría de la comunicación, las representaciones son elementos clave para entender la acción comunicativa. Por ejemplo, para la [teoria-de-la-mediacion-dialectica-de-la-comunicacion](teoria-de-la-mediacion-dialectica-de-la-comunicacion.md), «la representación, en el campo de la comunicación, actúa organizando un conjunto de datos de referencia proporcionados por el producto comunicativo, en un modelo que posee algún sentido para el usuario o los usuarios de esa representación» [@martinserrano1982, p. 216]. Una representación implica la organización de ciertos elementos y también de sus relaciones
+
+En otro momento, Martín Serrano hace referencia a las representaciones como “conjuntos de datos de referencia que están organizados en un modelo” [@martinserrano2007, p. 135]. De acuerdo con la sostenida por José Luis Piñuel:
+
+ >
+ > Debiera advertirse que en la elaboración de representaciones mentales intervienen regulaciones de muy diversa índole, a las que se somete la actividad cognitiva de los individuos, y que estas regulaciones atañen tanto a las relaciones que entre sí mantienen los usuarios de los mensajes, como a las relaciones que los mensajes mantienen con su referencia, como a las relaciones que los sujetos establecen con su entorno conocido o cognoscible y sin las cuales sería imposible hasta la propia referencia [@pinuelraigada2013, p. 11]

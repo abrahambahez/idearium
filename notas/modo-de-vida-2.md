@@ -1,0 +1,3 @@
+# modo de vida 2
+
+El *«modo de vida 2»* corresponde al trabajo asalariado como ocupación principal. En este [modo-de-vida](modo-de-vida.md) el concepto de *trabajo* se entiende fundamentalmente como la *antítesis del tiempo libre*. Trabajo es toda actividad realizada en un tiempo que no es tiempo libre, por tanto, trabajo es *obligación* y actividad carente de importancia en la vida del trabajador; porque la importancia está en el tiempo libre, que permite realizar actividades hacia las que el trabajador siente más inclinación o gusto. Es en este sentido que *ganarse la vida* se entiende como cumplir con la obligación de trabajar a cambio de un salario que permita disfrutar el tiempo libre.

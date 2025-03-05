@@ -1,0 +1,3 @@
+# racismo como construcción de una diferencia inasimilable
+
+Tengo algunas intuiciones teóricas sobre la naturaleza de los fenómenos sociales como universalmente construidos de modo sociocultural. Bajo esta premisa la diferencia entre cada tipo de fenómeno social y cultural radica en sus criterios de construcción. Tengo la intuición de qué el criterio de construcción de el [racismo](racismo.md) y la [raza](raza.md) es la de una diferencia *inasimilable* (imposible de ocultar) y por tanto debe estar naturalizada o ser obvia bajo cierta mirada cultural

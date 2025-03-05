@@ -1,0 +1,7 @@
+* [antropologia](antropologia.md)
+* [historia](historia.md)
+* [arqueologia](arqueologia.md)
+* [matematicas](matematicas.md)
+* [filosofia](filosofia.md)
+* [arquitectura](arquitectura.md)
+* [semiotica](semiotica.md)

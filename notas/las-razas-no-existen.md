@@ -1,0 +1,5 @@
+# las razas no existen
+
+El concepto de [raza](raza.md) fue desarrollado históricamente como una supuesta *realidad biológica* en la que los seres humanos pertenecen a grupos discretos con características diferentes, pero los cambios en las perspectivas científicas (sucedió al principio del [Proyecto-Genoma-Humano](Proyecto-Genoma-Humano.md)) e históricas han mostrado que esta realidad es falsa.
+
+Aunque las razas no existen, el [racismo](racismo.md) sí. Esto se debe a diversas razones que siguen reproduciendo la diferencia jerárquica. Por ejemplo, ==hay un hábito visual racializado==, en el que se miran cuerpos de otros y se les asigna una categoría racial a partir de representaciones sociales. De este modo, en la práctica se forman estructuras diferenciales que atribuyen características esenciales a grupos de personas, no solo físicas, sino intelectuales y morales, entre otras. Como consecuencia se justifican tratos excluyentes, opresiones y explotaciones.

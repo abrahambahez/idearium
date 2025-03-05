@@ -1,0 +1,5 @@
+# estética organizacional
+
+La emergencia de la estética orientada a la acción [@saito2021, § 7] borra la separación entre el arte y la vida. Esta separación puede darse en términos de el arte llegando a la vida cotidiana, o de la vida cotidiana llegando al arte, en casos como la *estética organizacional* o la estrategia de [artificacion](artificacion.md), que lleva prácticas de creación artística a contextos diversos como la medicina, los negocios, la ciencia, el deporte, entre otros.
+
+Para @saito2021 [§ 8] esta versión de la estética se basa en la premisa de que los seres humanos, en cualquier contexto, *negocian* sus vidas a través de conocimiento sensorial y experiencias afectivas cuando interactúan con otros o con el entorno. Así, privilegiar estos aspectos, se argumenta, ayuda a alcanzar objetivos organizacionales y contribuye al bienestar de los participantes.

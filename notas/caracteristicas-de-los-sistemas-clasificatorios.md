@@ -1,0 +1,41 @@
+# características de los sistemas clasificatorios
+
+Tres puntos sobre la caracterización del proceso clasificatorio:
+
+1. Una forma general de entender la clasificación es como la relación que vincula una categoría con una persona (palabra que aquí significará individuo, grupo o institución), hecha por ella misma o por otra persona
+
+   Los elementos que componen al proceso son, por tanto: una categoría, una relación y una persona *designadora* y una *designada*, que pueden ser la misma. No hay clasificación, ni identificación, sin categoría, es decir, sin un elemento que *implique* la diferencia.
+
+1. La categoría opera al *indicar* un conjunto de características atribuibles a la persona con que se relacione.
+
+   Para que una persona reciba la categoría de «mexicana» puede cumplir con el conjunto de características especificadas en el artículo 30 constitucional: haber nacido en territorio-espacio mexicano, tener padres mexicanos o (esta es una disyunción lógica que forma parte de la regla) haberse naturalizado, aunque también puede *mexicanizarse* usando otros conjuntos de características; también podría autoadscribirse mexicana en virtud de haber vivido muchos años en el país, conocer las costumbres y ser reconocida por otros mexicanos. Este tipo de definición de los conjuntos de características privilegia la lógica *intensional* [cfr. @fitting2022] por sobre la *extensional*, o sea, *designa a su objeto definiendo, no señalando cuál es cada uno de sus miembros*. Esto implica que la categoría es susceptible de ser expresada como una regla semántica [cfr. @morris2014]. Otro atributo de las categorías es que *no existen en el mundo*, es decir, no se corresponden ontológicamente con los objetos que designan. En términos semióticos [@peirce2012a, 182-183, 570], son signos-tipo o clases, no casos o instancias (*tokens*). Estas clases *se actualizan*, se *objetivan* en los casos donde están instanciadas.
+
+   La forma en que se configura y se define *el conjunto de características* tiene múltiples dimensiones, de las cuales posiblemente la pragmática sea la más importante, ya que es en las *prácticas clasificatorias* donde aparecen las relaciones de poder o autoridad o las condiciones históricas y culturales que influyen en la clasificación.
+
+1. Las personas, contrario a las categorías, pertenecen a un dominio ontológico fluido y complejo
+
+   Es fluido porque, como expuse en el marco epistemológico, a partir de la distinción de los *tipos teóricos*, ningún objeto del mundo satisface estrictamente la regla aquiniana de la *adequatio rei et intellectus* (el mundo no equivale al concepto), ni las muestras de *oro puro*, ni mucho menos las personas. Si la teoría de los tipos naturales es problemática para describir objetos de las ciencias duras, en el contexto antropológico debería considerarse simplemente falsa. A lo largo de diferentes escalas, las personas son tan diferentes entre sí como se quiera demostrar, pero cualquier ostentación de *diferenciación* implica una categorización, ya que opera necesariamente como la selección de una o más características de diferencia y esta selección *produce una categoría, un [signo](signo.md)-tipo*. Además, este resulta ser un orden complejo, es decir, está sujeto a múltiples condiciones que determinan su estado de *ser* presente, estas condiciones involucran factores ecológicos, sociohistóricos, personales, inter-personales, entre otros [cfr. una elaboración, aunque no analítica, en @pereztaylor2002]
+
+1. Las relaciones entre la categoría (conjunto de características) y las personas (particulares o colectivas) orientan la interpretación de la clasificación
+
+   ¿Qué clases de relaciones puede haber? ¿El conjunto de características *c* se relaciona con la persona *p* en virtud de una representación, una designación, un legado-herencia, una esencia, una emergencia, una construcción histórica?
+
+Como consecuencia de estas consideraciones, los procesos clasificatorios poseen ciertos atributos:
+
+1. La función básica de la categoría es *separar* entidades (cosas, personas, procesos, fenómenos) en virtud de una regla semántica (conjunto de características, en el caso de las identidades)
+
+1. A escala de la [estructura-social](estructura-social.md), las categorías imponen un orden discreto en un mundo continuo con el fin de volverlo *inteligible*.
+
+   Igual que con la operación epistemológica usada por ciencias cuantitativas, de *clasificar para entender*, reduciendo la complejidad, la identidad *estabiliza* la situación seleccionando características que compondrán al conjunto de la categoría. Esto es evidente en múltiples situaciones donde el mismo conjunto de características produce diferentes categorías si la interacción cambia, como en la persona que puede ser calificada de *chilango* o de *huache* a partir del mismo modo de hablar o gesticular. También, la misma persona se autoatribuye diversas categorías si la interacción cambia, una persona puede ser mexicana si está con extranjeros, pero yucateca si está con mexicanos, y meridana si está con motuleños. El factor relevante en todos los casos es el grado de *inteligibilidad* alrededor de la interacción donde la clasificación es relevante, que incluso puede ser deliberadamente oscurecido si la situación lo amerita.
+
+1. La identificación implica dos posiciones: una *categorizante*, es decir, la persona que clasifica, y una *categorizada*, la persona clasificada. Estas posiciones pueden ser ocupadas por la misma persona en el caso de la autoidentificación.
+
+   En este proceso hay dos elementos clave: el *locus de enunciación* y la *situación identitaria*. Si ponemos atención al *locus de enunciación*, en un acto clasificatorio puede notarse que hay categorías que parecen proclives a funcionar mejor en una lógica *emic* o de autoidentificación: *soy k-poper* (fan de grupos de pop koreanos), *soy latina*; y otras en una *etic* o de identificación *desde fuera*: *eres fifí*, *es indio* o *es huache*. Esto no implica necesariamente que unas posean connotaciones positivas y las otras negativas, ni tampoco que sean fijas (no es infrecuente que una expresión exógena sea apropiada por la persona *designada*). Lo que sí implica es que una persona no siempre elige cómo ser clasificada, y que para modificar una clasificación debe actuar, ya sea influyendo sobre el *locus de enunciación* o sobre la *situación identitaria*.
+
+   La situación identitaria [que defino a partir de una analogía con la *situación mercantil* de @appadurai1991, 29] sería el escenario donde a partir de unos marcos valorativos, unos sujetos, un contexto material y unas prácticas posibles, algunas características de se vuelven socialmente relevantes para producir identificaciones [@hall1996; @kraay2007] o clasificaciones. Esto significa enfatizar que la diferencia siempre es *diferencia de* algo o alguien. Ese algo, o alguien, está situacionalmente dado. El control de los recursos estructurales, materiales o culturales impactaría directamente en la configuración de una situación identitaria.
+
+1. Si la identidad es dinámica, estará sujeta siempre a ser un campo en disputa.
+
+   Una identidad *duradera* sería, bajo esta explicación, aquella capaz de ser relevante durante más tiempo para más situaciones, o presentarse más frecuentemente de forma consistente. Esto tiene que ver más con el *locus de enunciación* y la situación identitaria que con cualquier atributo *esencial*, *inherente* o *primordial*. Las identidades pueden ser producidas, re-producidas, renovadas y legitimadas a partir de múltiples dispositivos de poder. Pero, dado su carácter fluido, para permanecer debe buscar garantizar su reproducción a través de la hegemonía.
+
+A partir de estas ideas podemos pasar a la discusión antropológica sobre «los mayas de la zona norte de Mérida». En el camino habrá elementos qué matizar y posturas encontradas, pero no hay que olvidar que el trabajo intelectual de las antropólogas y antropólogos que han abordado el asunto en las comisarías es también parte del discurso general que influyó en la reflexividad de los mayas de Copó y Chablekal y que retroalimenta la reflexión académica de éste y otros trabajos futuros.

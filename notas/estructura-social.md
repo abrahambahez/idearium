@@ -1,0 +1,3 @@
+# estructura social
+
+Nodo.

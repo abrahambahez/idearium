@@ -1,0 +1,5 @@
+# racismo científico
+
+Una [pseudociencia](pseudociencia.md) desarrollada en el siglo XIX que sostiene la existencia la categoría [raza](raza.md) para clasificar grupos humanos y ordenarlos jerárquicamente ([racismo](racismo.md)).
+
+Su [marco-epistemologico](marco-epistemologico.md) es el positivismo (neo)darwinista y su obsesión por el [analisis-clasificatorio](analisis-clasificatorio.md). Tiene antecedentes en el *Systemma Naturae* de Linneo, donde por primera vez se presenta una clasificación humana por «razas». Es defendido por filósofos europeos como el [Conde de Gobineau](https://es.wikipedia.org/wiki/Joseph_Arthur_de_Gobineau). Se extiende a diversos países, adoptando múltiples formas donde se aplica. Va perdiendo fuerza explícita tras la segunda guerra mundial, hasta llegar a la [Declaración sobre la raza y los prejuicios raciales](https://www.ohchr.org/es/instruments-mechanisms/instruments/declaration-race-and-racial-prejudice) de la UNESCO, tras lo cual se va convirtiendo en un [racismo-cultural](racismo-cultural.md).

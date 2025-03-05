@@ -1,0 +1,3 @@
+# conducta adictiva
+
+Una conducta adictiva se da cuando una persona realiza actividades o interactúa con sustancias que producen picos altos sobre el nivel base de [dopamina](dopamina.md), que al descender generan la necesidad de repetir la actividad o la ingesta de sustancias para recuperar el nivel de motivación o placer, pero al hacerlo cae en un ciclo donde la base desciende cada vez más y la actividad o sustancia producen picos cada vez más alejados del nivel inicial.

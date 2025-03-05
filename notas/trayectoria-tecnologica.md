@@ -1,0 +1,1 @@
+# trayectoria tecnológica
