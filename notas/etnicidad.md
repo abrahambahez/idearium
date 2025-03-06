@@ -1,6 +1,6 @@
 # etnicidad
 
-\#inbox/1 esquema y exploración para los capítulos 1 y 6 de la tesis
+#inbox
 
 La etnicidad es un [constructo-teorico](constructo-teorico.md) con el que se caracteriza la diversidad humana, enfatizando los aspectos filogenéticos, geográficos, lingüísticos y comunitarios de las poblaciones humanas.
 

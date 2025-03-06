@@ -8,4 +8,4 @@ $$
 Runway=\frac{BankBalance}{AvgBurn}
 $$
 
-En términos simples, el dinero disponible entre el [burn-rate](burn-rate.md).
+En términos simples, el dinero disponible entre el [*burn rate*](burn-rate.md).

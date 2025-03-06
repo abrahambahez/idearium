@@ -1,4 +1,4 @@
-# estrategias de investigación militante
+# Estrategias de investigación militante
 
 Desde @scheper-hughes1995 sobre la antropología descalza. La escritura antropológica como un sitio de resistencia.
 

@@ -1,4 +1,4 @@
-# cosmohistoria
+# Cosmohistoria
 
 Concepto presentado por Federico Navarrete [@navarretelinares2021].
 

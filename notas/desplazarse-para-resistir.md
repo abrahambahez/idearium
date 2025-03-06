@@ -1,4 +1,4 @@
-# desplazarse para resistir
+# Desplazarse para resistir
 
 A partir de la lectura del capítulo 4 de [@durin2019](@durin2019.md), ella habla del desplazamiento como resistencia.
 

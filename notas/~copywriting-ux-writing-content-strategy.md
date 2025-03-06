@@ -1,4 +1,4 @@
-# ~copywriting ux-writing content strategy
+# Copywriting,  UX Writing, Content Strategy
 
 * [decir-mas-con-menos](decir-mas-con-menos.md)
 
