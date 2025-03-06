@@ -5,5 +5,5 @@ Este *changelog* usa el versionado de fechas. Aquí documento los cambios más s
 
 Esta versión es una evolución de mis notas anteriores (v3) que usaban el estilo markdown de Obsidian. Traté de convertir todas las notas a un formato Markdown más estándar cercano al de Pandoc.
 
-El contenido es esencialmente el mismo que he desarrollado los últimos tres años. Para saber más, visita la sección de **estructura básica** en el [Readme](README.md).
+El contenido es esencialmente el mismo que he desarrollado los últimos tres años. Para saber más, visita la sección de **estructura básica** en el [Readme](README.md#estructura-basica).
 
