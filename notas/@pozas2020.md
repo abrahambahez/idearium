@@ -15,3 +15,6 @@ Características destacadas de la descripción son que:
 * La descripción de sus características culturales y morales [9-10]
 
 ## Biografía
+
+Un hombre chamula nace, trabaja en haciendas de café, participa en la revolución mexicana, regresa a su pueblo, se casa, participa en el sistema de cargos de la comunidad, fallece por alcoholismo.
+

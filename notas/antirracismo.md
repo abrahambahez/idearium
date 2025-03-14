@@ -1,8 +1,3 @@
----
-aliases:
-- antirracista
----
-
 # antirracismo
 
-Lucha directa, mayormente explícita, contra el [[racismo].
+Lucha directa y explícita contra el [racismo](racismo.md).

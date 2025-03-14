@@ -1,4 +1,4 @@
-# tecnicas-de-lectura-2-lectura-inspeccional
+# tecnicas-de-lectura-2
 
 ## Introducción
 

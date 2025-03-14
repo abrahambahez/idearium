@@ -1,4 +1,4 @@
-# racismo
+# Racismo
 
 Un modo de relación social desarrollado históricamente que establece superioridad de un grupo humano sobre otro con base en  el concepto de [raza](raza.md), que a su vez implica distinciones *biológicas* arbitrariamente seleccionadas. El conjunto de características que producen la diferenciación entre personas sirve a la legitimación de la estructura de poder.
 

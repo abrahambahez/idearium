@@ -61,3 +61,4 @@ La envidia moral es común en comunidades de activistas, religiosas y también e
 [Alienation Is Not ‘Bullshit’: An Empirical Critique of Graeber’s Theory of BS Jobs](https://journals.sagepub.com/doi/full/10.1177/09500170211015067)
 
 [Reseña de Charles Haywood](https://theworthyhouse.com/2019/12/10/bullshit-jobs-a-theory-david-graeber/)
+

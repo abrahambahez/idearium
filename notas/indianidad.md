@@ -6,3 +6,4 @@ La indianidad implica una esencialización. Puede ser genérica si es:
 
  >
  > Una construcción ideológica, aunque basada en sociedades y situaciones concretas, que puede ser recuperada políticamente por los pueblos indios para el logro de sus propios fines [57]
+

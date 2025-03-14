@@ -4,7 +4,7 @@ Alain Badieu, Pierre Bourdieu, Judith Butler, Georges Didi-Huberman, Sadri Khiar
 
 ## Resumen
 
-Libro de ensayos de múltiples intelectuales franceses que abordan el concepto «[pueblo](pueblo.md)».
+Libro de ensayos de múltiples intelectuales franceses que abordan el concepto «[pueblo](pueblo.md)» desde una perspectiva crítica a la de los Estados occidentales modernos.
 
 Notas separadas por sección.
 

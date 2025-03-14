@@ -2,21 +2,21 @@
 
 ## Técnicas avanzadas de lectura
 
-1. Cómo crear tu estrategia de notas de lectura
-2. El arte de la síntesis
-3. El arte de la estructura argumental
-4. (Lectura analítica) Conceptos y términos: La herramienta intelectual más importante del mundo
-5. (Lectura analítica) Mapas argumentativos
-6. (Lectura analítica) Actitudes proposicionales: de la etiqueta al humanismo
-7. Lectura sintópica
-8. Lectura multimedia
-9. Lectura hipertextual
-10. Lectura incremental
-11. Antilectura
-
-## Ideas desordenadas
+1. cómo crear tu estrategia de notas de lectura
+2. el arte de la síntesis
+3. el arte de la estructura argumental
+4. (lectura analítica) conceptos y términos: la herramienta intelectual más importante del mundo
+5. (lectura analítica) mapas argumentativos
+6. (lectura analítica) actitudes proposicionales: de la etiqueta al humanismo
+7. lectura sintópica
+8. lectura multimedia
+9. lectura hipertextual
+10. lectura incremental
+11. antilectura
 
 ## Estrategia de publicaciones
 
-- [Estrategia de publicaciones](yt-posts.md)
+- [Estrategia de publicaciones de Youtube](YT-pubs.md)
+
+## Ideas desordenadas
 

@@ -74,7 +74,11 @@ template = "default.md"
 #filename = "{{format-date now}}"
 #[group."<NAME>".extra]
 #key = "value"
+[group.journal]
 
+[group.journal.note]
+filename = "{{format-date now}}"
+template = "daily.md"
 
 # MARKDOWN SETTINGS
 [format.markdown]

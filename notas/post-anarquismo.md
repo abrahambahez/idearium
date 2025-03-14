@@ -6,7 +6,7 @@ Una corriente de la [post-izquierda](post-izquierda.md) que ubica su crítica de
 * La especialización de roles en la organización, por extensión
 * La representación (crítica de la moralidad) y la [ideologia](ideologia.md) como orientaciones de acción. Proponen una *auto-teoría crítica* inspirada en el egoísmo filosófico de Stirner
 * La [identidad](identidad.md) como proceso de [clasificacion-social](clasificacion-social.md). Ve también el [problema-de-las-identidades-colectivas](problema-de-las-identidades-colectivas.md)
-* La crítica al [trabajo](trabajo.md) como algo valioso
+* La crítica al [trabajo](trabajo.md) como algo valioso [@black1991]
 
 Ver:
 

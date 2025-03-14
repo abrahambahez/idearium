@@ -1,3 +1,5 @@
+# The science of making and breaking habits (Huberman)
+
 Podcast: [The science of making and breaking habits](https://spotify.link/6bkFpqwnzDb) de Andrew Huberman
 
 Los hábitos se dificultan por lo que Huberman llama fricción límbica (o esfuerzo cognitivo y volitivo), propone enfrentar esto usando lo que llama *Task bracketing*: La técnica de task bracketing consiste en establecer un marco de tiempo específico para realizar una tarea, lo que ayuda a nuestro cerebro a enfocarse en la tarea y a reducir la fricción límbica ([búsqueda en Perplexity](https://www.perplexity.ai/search/0cbe2eeb-3164-4e47-b691-a1cbb73200ce?s=u)), similar al [bloqueo-de-tiempo-(time-blocking)](bloqueo-de-tiempo-%28time-blocking%29.md).
@@ -12,11 +14,9 @@ Cómo evitar los «hábitos reflejo» indeseables: inmediatamente después de re
 
 Reward prediction error como un hack para el [disfrute-del-esfuerzo](disfrute-del-esfuerzo.md), pensar en las cosas positivas cuando nos estamos esforzando va liberando dopamina que contribuye a la motivación. Pero no puede ser interrumpido por un pico fácil (como ver redes sociales), porque el resultado final del esfuerzo se percibirá como mucho menos placentero.
 
-# huberman2022-01habits
-
 * [Teoría Hebbiana](https://es.wikipedia.org/wiki/Teor%C3%ADa_hebbiana)
 
-# Referencias recomendadas en las notas:
+## Referencias recomendadas en las notas:
 
 * [Excellent review on science of habits](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033417)
 * [Meta-analysis on habits](https://journals.sagepub.com/doi/full/10.1177/1539449219876877)

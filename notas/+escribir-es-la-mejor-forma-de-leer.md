@@ -10,8 +10,6 @@ Tener una estrategia es *necesario* para hacer análisis profundos de las lectur
 
 No hemos llegado a ese momento iconoclasta del curso, en el cual tendremos que destruir el libro de manera ritual para poder absorber su escencia. Pero hoy vamos a rayar los libros. Como sé que esa es una cuestión que no les gusta a todos, dedicaré un espacio a conversar sobre las dos dimensiones fundamentales de un libro: como objeto y como medio de comunicación. Si quieres saltar la discusión puedes ir a la sección *Anotar los libros*.
 
-# libro como objeto
-
 Cuando pensamos en un libro como una cosa, suele parecernos su dimensión más superficial. Valoramos más su dimensión de contenido intelectual. Pero su lado objetual es tan complejo e interesante como el otro.
 
 Un libro es un [artefacto-cultural](artefacto-cultural.md). Como objeto, posee una dimensión estética inmediata relacionada con su materialidad: el papel, la encuadernación, la composición tipográfica y, en algunos casos, elementos visuales como ilustraciones o el diseño de la portada.
@@ -33,8 +31,6 @@ Ver también:
 * Consumo digital, autopublicación
 
 ## El libro como medio de comunicación
-
-# libro como medio de comunicación
 
 Mientras las tecnologías de reproducción facilitan cada vez más la multiplicación, el libro tiende a identificarse  más con su mensaje concreto, como el discurso específico que queda fijado por el medio de reproducción. Así, podemos decir que una edición digital, una impresa y un audiolibro son esencialmente el mismo libro, porque en todos esos casos aparece con la misma secuencia discursiva. El [libro-como-objeto](libro-como-objeto.md) va perdiendo relevancia y se vuelve una cuestión de gusto personal o de colección.
 

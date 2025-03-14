@@ -1,7 +1,6 @@
 # How to read a book: The classic guide to intelligent reading
 
 Mortimer J Adler, Charles Van Doren
-[Abrir libro](/Users/sabhz/archivo/notas/librero/adler2014.epub)
 
 ## Notas
 
@@ -14,7 +13,7 @@ Mortimer J Adler, Charles Van Doren
 Adler distingue los propósitos de la lectura entre lectura por *entretenimiento*, lectura para la *información* y lectura para la *comprensión*. Cada propósito se encuentra en un menor o mayor rango dentro del proceso donde el sujeto pasa de *entender menos* a *entender más*.
 
 * [literacidad](literacidad.md)
-* [ideas/lectura-inspeccional](lectura-inspeccional.md)
+* [lectura-inspeccional](lectura-inspeccional.md)
 * [lectura-analitica](lectura-analitica.md)
 * [lectura-sintopica](lectura-sintopica.md)
 

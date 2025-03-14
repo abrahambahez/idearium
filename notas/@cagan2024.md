@@ -12,7 +12,7 @@ Uno de los libros de la serie principal del SVPG sobre el proceso de transformac
 
 ## Lectura inspeccional
 
-<!--Según el título, prefacio, epígrafe, solapa-->El tema principal del libro es responder a la pregunta ¿cómo es posible que una organización se mueva al [[modelo operativo de producto]]? El libro está en la categoría de trabajo y cultura organizacional.
+<!--Según el título, prefacio, epígrafe, solapa-->El tema principal del libro es responder a la pregunta ¿cómo es posible que una organización se mueva al [modelo operativo de producto](modelo-operativo-de-producto.md)? El libro está en la categoría de trabajo y cultura organizacional.
 
 <!--Según la tabla de contenido, índices, apéndices-->El libro tiene 11 partes con diversos capítulos cada una. Comenzando por introducir el modelo, sus componentes (como el equipo, el rol del liderazgo, las prácticas, etcétera) así como ejemplos, casos y argumentos para las objeciones principales.
 

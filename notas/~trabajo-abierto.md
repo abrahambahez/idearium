@@ -1,4 +1,4 @@
-# ~trabajo abierto
+# trabajo abierto
 
 Giro cualitativo
 
@@ -7,3 +7,4 @@ Giro cualitativo
   * orientación a resutados
 * vacaciones abiertas
 * [trabajo-asincronico](trabajo-asincronico.md)
+
