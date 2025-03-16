@@ -1,3 +1,0 @@
-# cismogénesis
-
-Término acuñado por Gregory Bateson a propósito de un ritual llamado *naven* del grupo que llamó «pueblo Iatmul» asentado en el río Sepik, en nueva Guinea. La cismogénesis es un proceso de [retroalimentacion](retroalimentacion.md) entre grupos/personas que puede ser **simétrica** si los interactuantes responden con la misma acción y en la misma magnitud ([don](don.md) por don, violencia con violencia) o puede ser **complementaria** si se responde con acciones contrarias interdependientes (dominación/sumisión, exhibicionismo voyeurismo) similar a una relación [dialectica](dialectica.md).

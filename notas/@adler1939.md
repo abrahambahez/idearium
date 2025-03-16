@@ -2,9 +2,7 @@
 source: https://radicalacademy.org/adlerlessonincriticism.html
 author: Mortimer J. Adler
 ---
-
 <!-- Reproducción Total de su artículo-->
-
 # A Lesson in Criticism
 
 ***Four questions to ask yourself when you are making up your mind about a book***

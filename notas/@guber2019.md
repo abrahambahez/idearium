@@ -4,12 +4,13 @@ Rosana Guber (2019), [zotero](zotero://select/items/@guber2019), [kindle](https:
 
 ## Resumen
 
+
 ## Notas
 
-[atencion-flotante](atencion-flotante.md)
+[[atención flotante]]
 
 Perplejidad por la diversidad humana
 
-Descripción densa como análisis de una [regla-pragmatica](regla-pragmatica.md)
+Descripción densa como análisis de una [[regla pragmática]]
 
-Crítica etnográfica: al final del texto, añadir la idea de "evaluar las lógicas de provincialismo metropolitano y el cosmopolitismo provincial" que se describen en el libro de antropologías del mundo de @ribeiro2009
+Crítica etnográfica: al final del texto, añadir la idea de "evaluar las lógicas de provincialismo metropolitano y el cosmopolitismo provincial" que se describen en el libro de antropologías del mundo de @ribeiro2009 

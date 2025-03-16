@@ -1,6 +1,0 @@
-# guion de planteamiento de investigación
-
-Es un guión que esquematiza el planteamiento general con la [tecnica-de-investigacion](tecnica-de-investigacion.md).
-
- >
- > El propósito (finalidad, objetivo, etc.) de este estudio <!--tipo (tipo: fenomenológico, etnográfico, de [[teoría fundamentada]], de investigación-acción, de caso…)--> es <!--(objetivo central: describir, comprender, etc.)--> el (la) <!--problema (fenómeno o problema estudiado)--> en <!--(de, con, para…)--> <!--[unidad] (casos, unidades o participantes, como ciertos individuos, organizaciones, hechos —personas de cierto perfil con cáncer de prós tata, mujeres de determinadas características que fueron víctimas de abuso sexual en su infancia, etc.—)--> de (en) <!--contexto (contexto, ambiente, sitio de la investigación. Por ejemplo, una ciudad, una escuela, una comunidad, etc.)-->. Como instrumento de recolección de los datos se utilizará <!--[instrumento] (mencionarlo)-->. El (la) <!--[problema] (problema estudiado)--> puede definirse (concebirse) como <!--[definición] (definición general)-->[@hernandezsampieri2014, p. 359]

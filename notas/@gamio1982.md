@@ -1,5 +1,4 @@
 # Forjando patria
-
 Manuel Gamio 1982, [zotero](zotero://select/items/@gamio1982)
 
 %% Gamio 1982. Forjando Patria.pdf %%
@@ -10,7 +9,7 @@ Manuel Gamio 1982, [zotero](zotero://select/items/@gamio1982)
 
 El proceso de formación de las «patrias amerindias» se interrumpió con la conquista [5].
 
-Las independencias jugaron por un momento a formar la gran patria de América Latina, pero fallaron. Luego pasaron a crear patrias más pequeñas, pero basadas en la tradición latina, y olvidaron las raíces (la «raza» indígena). Los revolucionarios de México serían los responsables de crear una patria «hecha de hierro y de bronce» [6] (metáfora también usada por [@vasconcelos1993](@vasconcelos1993.md)).
+Las independencias jugaron por un momento a formar la gran patria de América Latina, pero fallaron. Luego pasaron a crear patrias más pequeñas, pero basadas en la tradición latina, y olvidaron las raíces (la «raza» indígena). Los revolucionarios de México serían los responsables de crear una patria «hecha de hierro y de bronce» [6] (metáfora también usada por [[@vasconcelos1993]]).
 
 ¿Pueden considerarse patrias naciones donde coexisten grupos diversos sin estar integrados? [7]
 
@@ -18,8 +17,7 @@ Raza, idioma y civilización son causas primordiales del origen de las patrias [
 
 Otros factores relevantes son: la distancia geográfica, el aspecto económico (subsistencia), el sistema político [11], del cual cito:
 
- >
- > Basta con que un individuo de la capital —foco característico del idioma, de la raza y de la cultura de origen europeo— se dirija a Yucatán, Quintana Roo, parte de Chiapas, riberas del Yaqui, territorio Huichol y muchas otras regiones, para que se encuentre en ambiente extraño, más muchas veces que lo hallaría en algunos países europeos, principalmente España: idioma, aspecto físico, usos, costumbres, ideales, aspiraciones, esperanzas, placeres, todo es diferente. [12]
+> Basta con que un individuo de la capital —foco característico del idioma, de la raza y de la cultura de origen europeo— se dirija a Yucatán, Quintana Roo, parte de Chiapas, riberas del Yaqui, territorio Huichol y muchas otras regiones, para que se encuentre en ambiente extraño, más muchas veces que lo hallaría en algunos países europeos, principalmente España: idioma, aspecto físico, usos, costumbres, ideales, aspiraciones, esperanzas, placeres, todo es diferente. [12]
 
 Las pequeñas patrias son de dos grupos: las indígenas y las mestizas («fusión armónica de la raza indígena y la raza de origen europeo»). El desconocimiento de las patrias indígenas es «crimen imperdonable contra la nacionalidad mexicana» [12] porque ignorarlas impide su asimilación.
 

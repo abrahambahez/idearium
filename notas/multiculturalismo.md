@@ -1,12 +1,11 @@
 # multiculturalismo
-
-El multiculturalismo es una variante de [culturalismo](culturalismo.md) con diferentes usos políticos, teóricos, metodológicos, entre otros.
+El multiculturalismo es una variante de [[culturalismo]] con diferentes usos políticos, teóricos, metodológicos, entre otros.
 
 Para @barabas2018 [p. 19], el multiculturalismo se ha usado en tres sentidos diferentes:
 
 1. La existencia de múltiples culturas
-1. La ideología de respeto y convivencia de múltiples culturas
-1. Una política implementada por gobiernos sustentada en esta ideología
+2. La ideología de respeto y convivencia de múltiples culturas
+3. Una política implementada por gobiernos sustentada en esta ideología
 
 El término comenzó en los sesenta para referirse a políticas canadienses de reconocimiento de *minorías étnicas*  y evolucionó sin abandonar ese criterio. Se incorporó al enfoque de los estudios culturales, se popularizó en EEUU en los ochentas.
 
@@ -16,7 +15,7 @@ Multiculturalismo no debe confundirse con pluralismo. El pluralismo busca un pro
 
 La cultura del multiculturalismo no es la *alta cultura* de las élites, ni la *noción antropológica de cultura* que asigna a cada ser humano una sólo por su capacidad simbólica; se refiere más bien a un conjunto heterogéneo de factores como la lengua, la identidad religiosa, la identidad étnica, la identidad sexual. Dado que implica un reconocimiento que antes se consideraba obvio, el multiculturalismo es un proyecto ideológico [p. 73]
 
-Para Sartori, se sobreutilizan nociones como *[opresion](opresion.md)*, violencia (estructural); se cae en el relativismo cultural que *invalida el valor de las culturas al igualarlas* [p. 80]
+Para Sartori, se sobreutilizan nociones como *[[opresión]]*, violencia (estructural); se cae en el relativismo cultural que *invalida el valor de las culturas al igualarlas* [p. 80]
 
 Para @segato2015, el multiculturalismo es una creación de la modernidad colonial que se basa en la ilusión que ella misma creó de un Otro que nació con su dominación. Por lo tanto lo propone como una solución para ese problema que viene de ella misma.
 
@@ -29,9 +28,9 @@ Así, demostró que los estados no se crearon en un vacío cultural, sino que lo
 @reygadas2007 lo define en tres proposiciones
 
 1. La preservación de las culturas tradicionales
-   Al decir que «Hay que preservar las culturas tradicionales» se está sugiriendo que esas culturas son homogéneas y estáticas. Realmente no hay una cultura qué reservar, porque hay una versión de ella para hombres y otra para mujeres, de grupos dominantes y subalternos, unas que impulsan transformaciones y otras que procuran mantener los cambios.
+Al decir que «Hay que preservar las culturas tradicionales» se está sugiriendo que esas culturas son homogéneas y estáticas. Realmente no hay una cultura qué reservar, porque hay una versión de ella para hombres y otra para mujeres, de grupos dominantes y subalternos, unas que impulsan transformaciones y otras que procuran mantener los cambios.
 
-El derecho a la diferencia multicultural es una cosa distinta de la preservación de una cultura en particular. El papel del Estado en este caso sería análogo al de su carácter de laico: garantizar derechos y libertades (bajo alguna clase de [autonomia](autonomia.md) no clara), no posicionarse a favor de una cultura, etnia o religión.
+El derecho a la diferencia multicultural es una cosa distinta de la preservación de una cultura en particular. El papel del Estado en este caso sería análogo al de su carácter de laico: garantizar derechos y libertades (bajo alguna clase de [[autonomía]] no clara), no posicionarse a favor de una cultura, etnia o religión. 
 
 2. La relación entre la diversidad cultural y el derecho a la igualdad
 
@@ -45,4 +44,4 @@ También sucede con el dilema de la «redistribución» y el «reconocimiento».
 
 Los dos mecanismos de la desigualdad: la explotación (apropiación o toma mayoritaria de la riqueza generada socialmente) y el acaparamiento (acceso *exclusivo* de un grupo a determinado recurso). La lucha contra la explotación ha generado avances en materia de su regulación y limitación.
 
-En el caso de la exclusión la visibilización de la diferencia es insuficiente, es necesario generar el [dialogo-intercultural](dialogo-intercultural.md) y cuidar que esas diferencias no se conviertan en criterios de exclusión
+En el caso de la exclusión la visibilización de la diferencia es insuficiente, es necesario generar el [[diálogo intercultural]] y cuidar que esas diferencias no se conviertan en criterios de exclusión

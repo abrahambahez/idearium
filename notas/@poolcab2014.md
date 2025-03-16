@@ -1,6 +1,6 @@
 # Las reinvenciones de la etnicidad en la arqueología maya
-
 Marcos Noé Pool Cab
+
 
 C. 5
 
@@ -46,23 +46,23 @@ A través del estudio arqueológico del lenguaje escrito (y asumiendo la estrech
 
 Los grupos étnicos son unidades de adscripción y de identificación; dependen de factores objetivos y subjetivos. Los mayas yucatecos antes de la conquista se diferenciaban de otros grupos.
 
-Las fuentes etnohistóricas sugieren que se dio una identificación entre lengua y [territorio](territorio.md): «Territorio es igual a lengua» (p. 176), en ese sentido, las variantes regionales pueden también indicar colectivos étnicos diversos (haciendo una lectura sustantivista pp. 177-178).
+Las fuentes etnohistóricas sugieren que se dio una identificación entre lengua y [[territorio]]: «Territorio es igual a lengua» (p. 176), en ese sentido, las variantes regionales pueden también indicar colectivos étnicos diversos (haciendo una lectura sustantivista pp. 177-178).
 
 Algunos colectivos, como los Tutul Xiu se acercan a la categoría étnica, pues «se diferenciaban por su lengua, cultura, organización y memoria ancestral territorial» (p. 181)
 
 ### Consideraciones sobre ciertas identidades extranjeras en el norte de Yucatán según las fuentes coloniales
 
-Según las Crónicas de Calkiní, los ancestros de los Ah Canules provenían de *Zuyua* del poniente. Este lugar, *Zuyua*, es considerado un lugar mítico-real asociado con los nahuas que sugiere un origen tolteca; sin embargo hay evidencias de que *Zuyua* es una especie de «lenguaje ritual puro\* en su forma (grabado en las estelas de piedra y en la memoria) y complejo en su significado» (p. 185)
+Según las Crónicas de Calkiní, los ancestros de los Ah Canules provenían de *Zuyua* del poniente. Este lugar, *Zuyua*, es considerado un lugar mítico-real asociado con los nahuas que sugiere un origen tolteca; sin embargo hay evidencias de que *Zuyua* es una especie de «lenguaje ritual puro* en su forma (grabado en las estelas de piedra y en la memoria) y complejo en su significado» (p. 185)
 
 ### síntesis transdisciplinaria
 
 El análisis de la etnicidad peninsular en el clásico-postclásico puede sintetizarse considerando las diversas visiones teórico metodológicas para integrar el conocimiento de manera ordenada.
 
- > 
- > Al analizar cada uno de los componentes de la etnicidad acercando diferentes recursos, vemos que ninguna perspectiva por separado puede explicar en su totalidad la etnicidad en la época prehispánica. Sin embargo, de acuerdo con los diferentes recursos o fuentes de información, tampoco podemos negar la existencia de ciertos indicios de identidad étnica pasada. (p. 189)
+>Al analizar cada uno de los componentes de la etnicidad acercando diferentes recursos, vemos que ninguna perspectiva por separado puede explicar en su totalidad la etnicidad en la época prehispánica. Sin embargo, de acuerdo con los diferentes recursos o fuentes de información, tampoco podemos negar la existencia de ciertos indicios de identidad étnica pasada. (p. 189)
 
 Como es de esperarse, la identidad étnica es más o menos fuerte dependiendo de la perspectiva que se tome en relación con cada grupo según las fuentes usadas como evidencia.
 
 ## Referencias
 
 Pool Cab, M. N. (2014). Dilucidando la etnicidad en el norte de Yucatán durante el Clásico Tardío / Terminal-Posclásico. En "Las reinvenciones de la etnicidad en la arqueología maya". Ediciones de la Universidad Autónoma de Yucatán, pp. 137-189.
+

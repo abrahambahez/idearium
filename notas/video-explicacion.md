@@ -1,5 +1,0 @@
-# video-explicación
-
-Una [tecnica-de-descubrimiento-de-producto](tecnica-de-descubrimiento-de-producto.md) donde se comunica claramente la propuesta de valor, con el fin de validarla.
-
-![Analog de Ugmonk](https://youtu.be/nCNAmeKIhF4?si=3pVyqp7pxBoqiAAZ)

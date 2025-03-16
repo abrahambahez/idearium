@@ -1,3 +1,0 @@
-# agencia como acción intencional
-
-Desde el punto de vista filosófico [@schlosser2019], el significado de la [agencia](agencia.md) implicó inicialmente la capacidad de ejecutar «acciones intencionales», donde la intención es  entendida *actuar por una razón*. Esta visión relaciona eventos con estados mentales del agente. Posteriormente se desarrollaron diversos marcos de interpretación alejados de la intención, como los que están centrados en los agentes propiamente (donde un evento es una acción en función de la *historia causal* de esos agentes) o en la volición (una acción es tal en *virtud de la voluntad* del agente y no en tanto relación causal).

@@ -1,6 +1,0 @@
-# México profundo
-
-Guillermo Bonfil Batalla define esta idea como sigue:
-
- >
- > El México profundo está formado por una gran diversidad de pueblos, comunidades y sectores sociales que constituyen la mayoría de la población del país. Lo que los une y los distingue del resto de la sociedad mexicana es que son grupos portadores de maneras de entender el mundo y organizar la vida que tienen su origen en la civilización mesoamericana, forjada aquí a lo largo de un dilatado y complejo proceso histórico. Las expresiones actualesde esa civilización son muy diversas: desde las culturas que algunos pueblos indios hansabido conservar con mayor grado de cohesión interna, hasta la gran cantidad de rasgosaislados que se distribuyen de manera diferente en los distintos sectores urbanos. Lacivilización mesoamericana es una civilización negada, cuya presencia es imprescindiblereconocer. [@bonfilbatalla1994, primera parte]

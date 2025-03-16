@@ -1,8 +1,7 @@
 # “¡No somos indígenas!”: Una introducción a la identidad maya de Yucatán
-
 Quetzil E.Castañeda 2004
 
-La posibilidad de generalizar a los mayas de Chiapas con los habitantes de Yucatán (Chichén Itzá) representa una homogeneización falsa de una cultura históricamente diversa, heterogénea y localizada. [pueblo-maya](pueblo-maya.md)
+La posibilidad de generalizar a los mayas de Chiapas con los habitantes de Yucatán (Chichén Itzá) representa una homogeneización falsa de una cultura históricamente diversa, heterogénea y localizada. [[pueblo maya]]
 
 El panmayismo guatemalteco y el EZLN aparecen como alternativas que corresponden a una nueva política cultural, pero los mayas son «solemnizados» y eso crea una supuesta *solidaridad* de grupos externos que no llegan a comprender la diferencia entre sus representaciones externas y las formas internas regionales de los distintos grupos peninsulares o de tierras altas.
 
@@ -14,4 +13,5 @@ El glosario académico general sobre los mayas y sus prácticas tiene que ser *r
 
 Referencias
 
-[@castaneda&al2004](@castaneda&al2004.md)
+[[@castaneda&al2004]]
+

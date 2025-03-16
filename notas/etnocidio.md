@@ -1,5 +1,4 @@
 # etnocidio
+Toda iniciativa o acción que busca intencionalmente la eliminación o [[asimilación]] de un grupo étnico.
 
-Toda iniciativa o acción que busca intencionalmente la eliminación o [asimilacion](asimilacion.md) de un grupo étnico.
-
-Para Olivia Gall el [etnocidio](etnocidio.md) no equivale a genocidio.
+Para Olivia Gall el [[etnocidio]] no equivale a genocidio.

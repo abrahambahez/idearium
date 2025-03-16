@@ -1,12 +1,11 @@
 # Autoetnografía: una forma narrativa de generación de conocimientos
-
 Mercedes Blanco
 
 # Anotaciones **(10/10/2022 14:06:49)**
 
-\**
+**
 
-[autoetnografia](autoetnografia.md) "el cuestionamiento del positivismo y sus derivados, que muchas veces adquirían un cariz de crítica feroz, propició, entre otras cosas, aproximaciones más interpretativas. En este panorama se acuñó el término blurred genres (“géneros borrosos”) durante las décadas de 1970 y 1980; se señalaba —de ahí el rasgo distintivo que da nombre a esta corriente— que las fronteras entre las propias disciplinas sociales, y también con respecto a las humanidades, se habían vuelto indefinidas, “borrosas”, se traslapaban." (Blanco, 2012, p. 52)
+[[autoetnografía]] "el cuestionamiento del positivismo y sus derivados, que muchas veces adquirían un cariz de crítica feroz, propició, entre otras cosas, aproximaciones más interpretativas. En este panorama se acuñó el término blurred genres (“géneros borrosos”) durante las décadas de 1970 y 1980; se señalaba —de ahí el rasgo distintivo que da nombre a esta corriente— que las fronteras entre las propias disciplinas sociales, y también con respecto a las humanidades, se habían vuelto indefinidas, “borrosas”, se traslapaban." (Blanco, 2012, p. 52)
 
 "a lo largo del siglo XX y principios del XXi la etnografía ha ido ampliando su rango de aplicaciones y adaptaciones" (Blanco, 2012, p. 54)
 
@@ -24,4 +23,5 @@ Mercedes Blanco
 
 "La actividad específica del grupo es la escritura de pequeñas na­ rrativas autobiográficas para lo cual cada una de las integrantes se guía por temas comunes que son propuestos por la coordinadora12 y, a veces, por las propias asistentes. Posteriormente, los textos son leídos en voz alta para que todo el grupo pueda expresar sus comentarios, sugerencias, dudas y críticas; de esta manera, se da una constante interacción oral y escrita entre todas las participantes." (Blanco, 2012, p. 60)
 
-\**
+**
+

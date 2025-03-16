@@ -1,0 +1,8 @@
+# crítica al pasado en la identidad étnica
+Algunas definiciones sobre la [[identidad étnica]] presuponen una consolidación necesaria pretérita.
+
+> Planteo lo siguiente: la existencia de un grupo étnico, cualquiera que sea su situación en el momento en que se le estudia, presupone un momento previo en su proceso histórico en el cual el grupo dispuso de la autonomía cultural necesaria para delimitar y estructurar el universo inicial de sus elementos culturales propios capaces de garantizar, por sí mismos, la existencia y la reproducción del grupo; esto implica que fue una unidad política autónoma. Ése es el momento o periodo histórico en el que "cristaliza" una cultura singular y distintiva, se configura el grupo étnico y se define la identidad social correspondiente. Es, necesariamente, un periodo de autonomía, en el que se tiene la capacidad de decisión en todos los ámbitos fundamentales de la vida colectiva. A partir de ese momento, el proceso histórico puede restringir el control cultural autónomo del grupo, limitando el campo de las decisiones propias a espacios reducidos de la vida colectiva - como sucede con los grupos sometidos a un régimen de dominación colonial. [@bonfilbatalla1988, 10]
+
+Esto presupone una especie de proceso lineal que va de A a B, y por tanto, aunque multidimensional, no profundiza en la complejidad relacional del grupo.
+
+Aunque @bonfilbatalla1988 [11] afirma que este proceso no es inmutable sino que se modifica siempre, usando el ejemplo de los mayas de Yucatán, quienes, según él, tienen poca o nula herencia cultural del pasado, la matriz cultural que ordena el conjunto de elementos culturales es lo que los hace una cultura autónoma (paradoja del barco de Teseo)

@@ -1,5 +1,4 @@
 # The perception of the environment: Essays on livelihood, dwelling and skill
-
 Tim Ingold
 
 ## Herramientas, mentes y máquinas
@@ -23,3 +22,4 @@ El texto aborda cómo los animales y las personas *se hacen* en su habitat dentr
 En la persepctiva de la construcción subyace la idea de que *el entorno es aquello que puede ser tomado, y por extensión, apropiado*. La necesidad de explicar el origen de las primeras casas tiene interés arquitectónico y arqueológico, pero también tiene como fundamento a la perspectiva de la construcción: los primeros constructores ejecutaron un plan que resolvía un problema, el refugio, ya pensado dentro de su imaginación (p. 184)
 
 Oclc: 950744937
+

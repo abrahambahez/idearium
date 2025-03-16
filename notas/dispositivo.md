@@ -1,8 +1,7 @@
 # dispositivo
-
-Es un término usado en el contexto de un [marco-tecnologico](marco-tecnologico.md) para describir una aplicación técnica específica de concepto-herramienta.
+Es un término usado en el contexto de un [[marco tecnológico]] para describir una aplicación técnica específica de concepto-herramienta.
 
 Ver:
 
-* [tecnologia-como-modo-de-relacion](tecnologia-como-modo-de-relacion.md)
-* [~ciber-antropologia](~ciber-antropologia.md)
+- [[tecnología como modo de relación]]
+- [[ciber-antropología]]

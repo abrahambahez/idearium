@@ -1,9 +1,8 @@
 # esquema
+Un esquema es una estructura, un modelo, una representación formal. Tiene muchos sentidos en contextos diversos, uno epistemológico: [[esquemas naturales de clasificación]], o taxonómico, [[esquemas de clasificación enumerativos]], otro pedagógico como en la [[teoría del esquema]].
 
-Un esquema es una estructura, un modelo, una representación formal. Tiene muchos sentidos en contextos diversos, uno epistemológico: [esquemas-naturales-de-clasificacion](esquemas-naturales-de-clasificacion.md), o taxonómico, [esquemas-de-clasificacion-enumerativos](esquemas-de-clasificacion-enumerativos.md), otro pedagógico como en la [teoria-del-esquema](teoria-del-esquema.md).
-
-El arte de dar estructura al pensamiento escrito. ¿Cómo crear un esquema para pensar mejor?
+El arte de dar estructura al pensamiento escrito. ¿Cómo crear un esquema para pensar mejor? 
 
 Podemos pensar en un esquema como una radiografía. Permite hacer un diagnóstico de la estructura textual en cualquier momento del proceso. No necesita finalizarse antes de escribir, porque puede cambiar en función del texto escrito.
 
-Los esquemas pueden ser las [macroestructuras](macroestructuras.md) elaboradas por @vandijk1993.
+Los esquemas pueden ser las [[macroestructuras]] elaboradas por @vandijk1993.

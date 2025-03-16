@@ -1,0 +1,5 @@
+# valor económico como deseo
+Desde la perspectiva de la [[cultura de consumo]], el giro del capitalismo industrial centrado en la producción al capitalismo comercial centrado en el consumo implicó un cambio en el valor de las mercancías. La crítica de Simmel al respecto sostiene que el valor económico pasó a depender de las mercancías como objetos de deseo. De acuerdo con @marinas2000 [p. 200], en la filosofía de Simmel, los objetos y los bienes aparecen no como satisfactores de necesidad sino como una nueva relación entre sujeto-objeto donde el objeto se define en términos de no-posesión. La consecuencia de esto es la revalorización: mientras menos puedo tenerlo, más valioso es.
+
+@appadurai1991 [p. 18] rescata a Simmel cuando cita: *«llamamos valiosos a esos objetos que se resisten contra nuestro deseo de poseerlos»*, pero añade más sobre las consecuencias de este cambio valorativo, pues si al desear un objeto se le asigna un valor, en el momento de obtenerlo, si es a través del intercambio, entonces se hace a través del *sacrificio* de otro objeto (u objetos), de modo que el valor económico se constituye como la realización de este sacrificio.
+

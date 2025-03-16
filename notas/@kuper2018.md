@@ -1,5 +1,4 @@
 # Anthropology: Scope of the discipline
-
 Adam Kuper
 
 ## Esquema
@@ -22,7 +21,7 @@ Segun Henry **Morgan** creó una línea teórica donde la evolución de las soci
 
 ### Geografía, *folklore* y difusionismo: La escuela Alemana
 
-La noción de Johann G. von **Herder** de *Kultur* se refiería a un sistema de valores e ideas que se expresa en el lenguaje, los relatos populares, la música y las artes; de modo que cada [pueblo](pueblo.md) tiene un espíritu particular (p. 6).
+La noción de Johann G. von **Herder** de *Kultur* se refiería a un sistema de valores e ideas que se expresa en el lenguaje, los relatos populares, la música y las artes; de modo que cada [[pueblo]] tiene un espíritu particular (p. 6).
 
 Para la antropología alemana, hay una fuerte influencia de la **geografía**, que llega a sugerir un determinismo geográfico de la cultura y las características raciales de los pueblos (p. 7).
 
@@ -44,7 +43,7 @@ La **visión durkheimiana** de la sociedad el individuo es coaccionado o persuad
 
 ### El estudio comparativo de las sociedades «tribales»
 
-A partir de las visiones de Malinowski y Radcliffe-Brown, éste propuso la comparación de sociedades para desarrollar un [analisis-clasificatorio](analisis-clasificatorio.md), utilizando rasgos como los sistemas de parentezco y visiones teóricas como la de las sociedades «cerradas» (desde una visión [sistémica](sistema.md), *sistemas en equilibrio*), pero esta interpretación fue desafiada por perspectivas como las de Edmund Leach y Max Gluckman, que enfatizaban el dinamismo y el conflicto (p. 14).
+A partir de las visiones de Malinowski y Radcliffe-Brown, éste propuso la comparación de sociedades para desarrollar un [[análisis clasificatorio]], utilizando rasgos como los sistemas de parentezco y visiones teóricas como la de las sociedades «cerradas» (desde una visión [[sistema|sistémica]], *sistemas en equilibrio*), pero esta interpretación fue desafiada por perspectivas como las de Edmund Leach y Max Gluckman, que enfatizaban el dinamismo y el conflicto (p. 14).
 
 ### Después del colonialismo
 
@@ -64,49 +63,43 @@ Marvin Harris explica rituales y tabúes en teérminos funcionalistas y a las so
 
 ### Cultura y naturaleza humana
 
-En la obra «Culture and Practical Reason», Marshall Sahlins buscó reconciliar las aproximaciones contradictorias, Sherry Ortner exclamó por el final de los conflictos de paradigmas (p. 17, cfr [@ortner1993](@ortner1993.md))
+En la obra «Culture and Practical Reason», Marshall Sahlins buscó reconciliar las aproximaciones contradictorias, Sherry Ortner exclamó por el final de los conflictos de paradigmas (p. 17, cfr [[@ortner1993]])
 
 Dentro de la antropología física y la integración de sus modelos a la antropología:
 
- >
- > Edward O. Wilson's Sociobiology: The New Synthesis, published in 1975, inspired by the modern revolution in genetics, triggered a new and radical biological determinism. According to this, human nature has been formed by our long history as hunter-gatherers, when selective pressures were sharpest, and we share basic drives and responses with other primates,perhaps even with all living creatures; culture is no more than a thin veneer (p. 18).
+>Edward O. Wilson's Sociobiology: The New Synthesis, published in 1975, inspired by the modern revolution in genetics, triggered a new and radical biological determinism. According to this, human nature has been formed by our long history as hunter-gatherers, when selective pressures were sharpest, and we share basic drives and responses with other primates,perhaps even with all living creatures; culture is no more than a thin veneer (p. 18).
 
 En el contexto de las críticas de Marcus y Fischer:
 
- >
- > A younger generation pushed Geertz's interpretive anthropology further in a relativist direction. George Marcus and Michael Fischer (1986, vii) remarked that “contemporary interpretive anthropology is nothing other than relativism, rearmed and strengthened for an era of intellectual ferment.” (p. 19).
+>A younger generation pushed Geertz's interpretive anthropology further in a relativist direction. George Marcus and Michael Fischer (1986, vii) remarked that “contemporary interpretive anthropology is nothing other than relativism, rearmed and strengthened for an era of intellectual ferment.” (p. 19).
 
 ### Antropología en un mundo globalizado
 
 Más allá de la eliminación de las áreas boasianas, los conceptos principales se han mantenido esencialmente iguales.
 
- >
- > By the 1960s all the social sciences had radically recast, in some cases even abandoned, the classical equilibrium models, including functionalism and structuralism. Social scientists had to come to terms with rapid increases in urbanization, growing streams of migration, the internationalization of religious conflicts, and above all the exponential growth of trade (p. 20).
+>By the 1960s all the social sciences had radically recast, in some cases even abandoned, the classical equilibrium models, including functionalism and structuralism. Social scientists had to come to terms with rapid increases in urbanization, growing streams of migration, the internationalization of religious conflicts, and above all the exponential growth of trade (p. 20).
 
 Hay un intento de integrar los avances de la antropología física (o de las disciplinas médicas que la sostienen) con la antropología en general:
 
- >
- > Some anthropologists and psychologists attempted to define enduring features of behavior that had been inherited from primate ancestors and modified during the long age of human hunter-gatherers, and that perhaps persisted—with further modifications—through the Neolithic and still shaped motivations, modes of sexual behavior, and sociability. This broad thesis was operationalized in two successive movements, sociobiology and evolutionary psychology (p. 20).
+>Some anthropologists and psychologists attempted to define enduring features of behavior that had been inherited from primate ancestors and modified during the long age of human hunter-gatherers, and that perhaps persisted—with further modifications—through the Neolithic and still shaped motivations, modes of sexual behavior, and sociability. This broad thesis was operationalized in two successive movements, sociobiology and evolutionary psychology (p. 20).
 
 Pero también hay una crítica de entender lo sociocultural como en un estado de equilibrio:
 
- >
- > By the 1960s all the social sciences had radically recast, in some cases even abandoned, the classical equilibrium models, including functionalism and structuralism. Social scientists had to come to terms with rapid increases in urbanization, growing streams of migration, the internationalization of religious conflicts, and above all the exponential growth of trade [...] Conceptualizing this process of encompassment, or “modernization,” theorists emphasized relationships between what were termed “center” and “periphery.” These relations might be conceived of as primarily cultural, political, or economic and as taking the form of “globalization,” “modernization,” or “neoimperalism.”(p. 20).
+>By the 1960s all the social sciences had radically recast, in some cases even abandoned, the classical equilibrium models, including functionalism and structuralism. Social scientists had to come to terms with rapid increases in urbanization, growing streams of migration, the internationalization of religious conflicts, and above all the exponential growth of trade [...] Conceptualizing this process of encompassment, or “modernization,” theorists emphasized relationships between what were termed “center” and “periphery.” These relations might be conceived of as primarily cultural, political, or economic and as taking the form of “globalization,” “modernization,” or “neoimperalism.”(p. 20).
 
 Se llega al eclecticismo teórico como buena alternativa:
 
- >
- > The younger generation of social anthropologists is theoretically eclectic, drawing on a range of sociological and historical discourses (p. 21).
+>The younger generation of social anthropologists is theoretically eclectic, drawing on a range of sociological and historical discourses (p. 21).
 
 ### Comparación
 
-En los estudios sociales hay un centrismo de los países principales que es problemático metodológicamente y tiene consecuencias teóricas, esto forma parte del [sesgo-colonial](sesgo-colonial.md)
+En los estudios sociales hay un centrismo de los países principales que es problemático metodológicamente y tiene consecuencias teóricas, esto forma parte del [[sesgo colonial]]
 
- >
- > Nearly all research funding in the social sciences is earmarked for the study of North Americans and the population of the European Union. Ninety-six percent of the subjects of studies reported in the leading American psychology journals are drawn from Western industrial societies (Arnett2008). These represent a minuscule and distinctly non random sample of humanity (p. 21).
+>Nearly all research funding in the social sciences is earmarked for the study of North Americans and the population of the European Union. Ninety-six percent of the subjects of studies reported in the leading American psychology journals are drawn from Western industrial societies (Arnett2008). These represent a minuscule and distinctly non random sample of humanity (p. 21).
 
 ## Para leer en el futuro
 
-* Washburn, Sherwood (1951). “The New Physical Anthropology” — Para conocer los fundamentos de la antropología física
+- Washburn, Sherwood (1951). “The New Physical Anthropology” — Para conocer los fundamentos de la antropología física
 
-* Wilson, Edward O.(1975). Sociobiology — Para conocer los fundamentos de la antropología física
+- Wilson, Edward O.(1975). Sociobiology — Para conocer los fundamentos de la antropología física
+

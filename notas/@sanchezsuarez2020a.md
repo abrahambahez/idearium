@@ -1,70 +1,67 @@
 # Saberes del pak'lu'um. La tierra y la casa en el área maya
-
 Aurelio Sánchez Suárez
 
 ## Ideas destacadas
 
-La arquitectura de la casa maya, debido a los muros de [bajareque](bajareque.md), es una **arquitectura de tierra** (Jean Dethier), o *sistema constructivo de tierra* (Luis Fernando Guerrero Baca).
+La arquitectura de la casa maya, debido a los muros de [[bajareque]], es una **arquitectura de tierra** (Jean Dethier), o *sistema constructivo de tierra* (Luis Fernando Guerrero Baca).
 
- > 
- > La tierra es más fresca ¿no es así? El piso, no, porque si vienen los chamacos y se derrama agua, se caen y ocasiona accidente ¿no es así? Sí, por eso es más bonito piso de tierra (Landy Tzeek, comunicación personal, Nunkiní, 2017). Cuando está recién remojado tiene un olor agradable, el suelo huele rico (Juan de Dios Caamal, comunicación personal, Nunkiní, 2017). Los habitantes mayores reconocen las probidades de la tierra, bondades para una habitabilidad en un clima caluroso como el de la Península de Yucatán. Pero el valor de la tierra, y de toda la casa, se ha identificado en el proceso de subjetivación que Cabrera (2014:189-190) determina en las dimensiones analíticas de I) Maneras de ser, II) Maneras de hacer, III) Alquimias corporales, IV) Procesos de socialización como prácticas rituales y V) Las relaciones sociales/intersubjetivas.
+>La tierra es más fresca ¿no es así? El piso, no, porque si vienen los chamacos y se derrama agua, se caen y ocasiona accidente ¿no es así? Sí, por eso es más bonito piso de tierra (Landy Tzeek, comunicación personal, Nunkiní, 2017). Cuando está recién remojado tiene un olor agradable, el suelo huele rico (Juan de Dios Caamal, comunicación personal, Nunkiní, 2017). Los habitantes mayores reconocen las probidades de la tierra, bondades para una habitabilidad en un clima caluroso como el de la Península de Yucatán. Pero el valor de la tierra, y de toda la casa, se ha identificado en el proceso de subjetivación que Cabrera (2014:189-190) determina en las dimensiones analíticas de I) Maneras de ser, II) Maneras de hacer, III) Alquimias corporales, IV) Procesos de socialización como prácticas rituales y V) Las relaciones sociales/intersubjetivas.
 
 ### Glosario maya de construcción
 
- > 
- > No todos los nombres de las maderas de la cubierta tienen traducción al español, algunas hacen referencia al tipo de madera. La semiótica que encontramos en los significados son las que llevaron a la definición de los conceptos analizados en el presente trabajo.
+>No todos los nombres de las maderas de la cubierta tienen traducción al español, algunas hacen referencia al tipo de madera. La semiótica que encontramos en los significados son las que llevaron a la definición de los conceptos analizados en el presente trabajo.
 
-* **Jo'olnajche'**::Jo'ol: cabeza; naj: casa; y che': madera, “cabeza de la casa de madera”.
+- **Jo'olnajche'**::Jo'ol: cabeza; naj: casa; y che': madera, “cabeza de la casa de madera”.
 
-\<!–SR:2021-07-27,1,230–>
+<!–SR:2021-07-27,1,230–>
 
-* **Beel ch'o'**::Beel: camino; y ch'o': ratón en general, “camino del ratón”.
+- **Beel ch'o'**::Beel: camino; y ch'o': ratón en general, “camino del ratón”.
 
-\<!–SR:2021-07-27,1,230–>
+<!–SR:2021-07-27,1,230–>
 
-* **K'ab \`aak**::K'ab: extremidad superior del hombre: brazo, antebrazo y mano; extremidades anteriores de los animales, excepto las de las aves; y áak: tortuga, “brazo de tortuga”.
+- **K'ab `aak**::K'ab: extremidad superior del hombre: brazo, antebrazo y mano; extremidades anteriores de los animales, excepto las de las aves; y áak: tortuga, “brazo de tortuga”.
 
-\<!–SR:2021-07-27,1,230–>
+<!–SR:2021-07-27,1,230–>
 
-* **Wíinkil che'**::Wíinkil: cuerpo, conjunto orgánico de todo ser viviente; y che': árbol, palo, madera, “cuerpo de madera”.
+- **Wíinkil che'**::Wíinkil: cuerpo, conjunto orgánico de todo ser viviente; y che': árbol, palo, madera, “cuerpo de madera”.
 
-\<!–SR:2021-07-27,1,230–>
+<!–SR:2021-07-27,1,230–>
 
-* **Paach naj**::Paach: espaldas o el envés de cualquier cosa; y naj: casa en general, “espalda de la casa”.
+- **Paach naj**::Paach: espaldas o el envés de cualquier cosa; y naj: casa en general, “espalda de la casa”.
 
-\<!–SR:2021-07-27,1,230–>
+<!–SR:2021-07-27,1,230–>
 
-* **Chi' naj**::Chi': orilla, boca y naj: casa, “orilla o boca de la casa”.
+- **Chi' naj**::Chi': orilla, boca y naj: casa, “orilla o boca de la casa”.
 
-\<!–SR:2021-07-27,1,230–>
+<!–SR:2021-07-27,1,230–>
 
-* **Noj okom**::Noj: grande, principal; y okom: horcón,
+- **Noj okom**::Noj: grande, principal; y okom: horcón,
 
-\<!–SR:2021-07-28,2,250–>
+<!–SR:2021-07-28,2,250–>
 
-* **Jalab che'**::Sin traducción.
+- **Jalab che'**::Sin traducción.
 
-\<!–SR:2021-07-27,1,230–>
+<!–SR:2021-07-27,1,230–>
 
-* **T'oox che'**::Sin traducción.
+- **T'oox che'**::Sin traducción.
 
-\<!–SR:2021-07-27,1,230–>
+<!–SR:2021-07-27,1,230–>
 
-* **Baalo**::Sin traducción.
+- **Baalo**::Sin traducción.
 
-\<!–SR:2021-07-27,1,230–>
+<!–SR:2021-07-27,1,230–>
 
-* **Jolmuch'**::Lo interpretan los constructores como “vuelta”.
+- **Jolmuch'**::Lo interpretan los constructores como “vuelta”.
 
-\<!–SR:2021-07-27,1,230–>
+<!–SR:2021-07-27,1,230–>
 
-* **Okom mooy**::Okom: horcón, columna de madera; y mooy: rincón redondeado en los extremos de las casas maya.
+- **Okom mooy**::Okom: horcón, columna de madera; y mooy: rincón redondeado en los extremos de las casas maya.
 
-\<!–SR:2021-07-29,3,250–>
+<!–SR:2021-07-29,3,250–>
 
-* **Kololche'**::Sin traducción.
+- **Kololche'**::Sin traducción.
 
-\<!–SR:2021-07-30,4,270–>
+<!–SR:2021-07-30,4,270–>
 
 ### Relación entre la casa tradicional y la filosofía del Popol Vuh
 
@@ -76,6 +73,7 @@ La creación del mundo comienza con un trazo celeste; casa comienza con el traza
 
 ### El papel de los maestros constructres
 
-*"El reconocimiento de los maestros constructores de los pueblos originales es uno de los pasos para reactivar los escenarios de aprendizaje. Ellos, con su conocimiento, sabrán hacer un uso moderado de los recursos naturales"* (como así en vivienda, también en [territorio](territorio.md) a través de la propiedad social de la tierra). Conclusiones, párr. 12
+*"El reconocimiento de los maestros constructores de los pueblos originales es uno de los pasos para reactivar los escenarios de aprendizaje. Ellos, con su conocimiento, sabrán hacer un uso moderado de los recursos naturales"* (como así en vivienda, también en [[territorio]] a través de la propiedad social de la tierra). Conclusiones, párr. 12
 
 La vivienda maya como patrimonio biocultural implica que *debe verse más allá de los materiales*, porque si no, está en riesgo.
+

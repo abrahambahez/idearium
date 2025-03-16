@@ -1,71 +1,69 @@
 # Etnografía: alcances, técnicas y éticas
-
 Eduardo Restrepo
 
 ## Esquema
 
 ### Labor etnográfica
 
- > 
- > ... a un estudio etnográfico le interesa tanto las prácticas (lo que la gente hace) como los significados que estas prácticas adquieren para quienes las realizan (la perspectiva de la gente sobre estas prácticas) p. 16
+> ... a un estudio etnográfico le interesa tanto las prácticas (lo que la gente hace) como los significados que estas prácticas adquieren para quienes las realizan (la perspectiva de la gente sobre estas prácticas) p. 16
 
 **La comprensión contextual es densa, de la particularidad se intenta escalar a lo general. Porque lo particular expresa características culturales de un ámbito más general.**
 
 No confundir objeto de estudio con lugar de estudio
 
-* Etnografía **en** el lugar ≠ etnografía **del** lugar
+- Etnografía **en** el lugar ≠ etnografía **del** lugar
 
 Hay tres consideraciones para hacer etnografía
 
 1. Antes de observar hay que tener una pregunta: ayuda a distinguir, da dirección. Son las gafas del etnógrafo
 
-1. El problema del acceso: Ser aceptado por las personas con las que se realiza la investigación (entrevistas o la [etnografia-de-archivos](etnografia-de-archivos.md))
+2. El problema del acceso: Ser aceptado por las personas con las que se realiza la investigación (entrevistas o la [[etnografía de archivos]])
 
-1. Contar con tiempo suficiente para realizar la etnografía
+3. Contar con tiempo suficiente para realizar la etnografía
 
 Habilidades del etnógrafo
 
-* Aprender a percibir (la mirada, de nuevo Jociles Rubio (1999) Las técnicas de investigación en antropología. Mirada antropológica y proceso etnográfico.)
+- Aprender a percibir (la mirada, de nuevo Jociles Rubio (1999) Las técnicas de investigación en antropología. Mirada antropológica y proceso etnográfico.)
 
-* Aprender a escuchar. Considera la crítica que la antropología de los sentidos hace a través del *oculocentrismo*
+- Aprender a escuchar. Considera la crítica que la antropología de los sentidos hace a través del *oculocentrismo*
 
-* No asumir que ya entendiste
+- No asumir que ya entendiste
 
-* Aprender a percibir con todos los sentidos
+- Aprender a percibir con todos los sentidos
 
-* Saber estar: entender pautas de comportamiento, de cognición, de valoración y de comunicación
+- Saber estar: entender pautas de comportamiento, de cognición, de valoración y de comunicación
 
-* Registrar con férrea disciplina, elaborar interpretaciones
+- Registrar con férrea disciplina, elaborar interpretaciones
 
-* Ser un buen escritor
+- Ser un buen escritor
 
-* Capacidad de asombro: [extrañamiento](extra%C3%B1amiento.md) podría vincularse con el no asumir que se sabe
+- Capacidad de asombro: [[extrañamiento]] podría vincularse con el no asumir que se sabe
 
-* Evitar sociocentrismo (preferencia de clase o estrato) y etnocentrismo (preferencia de identidad étnica), derivados de la condición situada del etnógrafo
+- Evitar sociocentrismo (preferencia de clase o estrato) y etnocentrismo (preferencia de identidad étnica), derivados de la condición situada del etnógrafo
 
 Perspectivas *emic* (interpretación *desde dentro*, hacia el primer orden con los miembros de la comunidad) y *etic* (interpretación *desde fuera*, en segundo orden)
 
 Niveles de información
 
-* Lo que la gente hace (¿incluye lo que la gente dice mientras hace?)
+- Lo que la gente hace (¿incluye lo que la gente dice mientras hace?)
 
-* Lo que la gente dice que hace
+- Lo que la gente dice que hace
 
-* Lo que la gente debería hacer
+- Lo que la gente debería hacer
 
 La etnografía es cualitativa y cuantitativa
 
 Tipos de etnografía:
 
-* Como técnica (Observación participante)
+- Como técnica (Observación participante)
 
-* Como metodología (forma en que se operacionaliza y se organizan procesos investigativos), un conocimiento situado (de ahí su valor para entender contextos)
+- Como metodología (forma en que se operacionaliza y se organizan procesos investigativos), un conocimiento situado (de ahí su valor para entender contextos)
 
-* Tipo de escritura: producto del trabajo de campo
+- Tipo de escritura: producto del trabajo de campo
 
-* Multisituada
+- Multisituada
 
-* Digital
+- Digital
 
 ### Trabajo de campo
 
@@ -73,29 +71,29 @@ Su objetivo: material empírico
 
 El problema del lugar: el etnógrafo como sujeto ubicado
 
-* La triangulación (p. 37)
+- La triangulación (p. 37)
 
 ¿Por qué debe durar mucho la etnografía?
 
-* Mientras más estés en el terreno, más confianza lograrás
+- Mientras más estés en el terreno, más confianza lograrás
 
-* La experiencia significativa y duradera mejora la interpretación
+- La experiencia significativa y duradera mejora la interpretación
 
-* [observacion-participante](observacion-participante.md) (pp. 39 - 50)
+- [[observación participante]] (pp. 39 - 50)
 
 #### Informantes
 
-* Debe implicar una relación bi-direccional, la empatía es fundamental
+- Debe implicar una relación bi-direccional, la empatía es fundamental
 
-* Las características específicas del *informante* y las dimensiones que quieren estudiarse deben ser comunes.
+- Las características específicas del *informante* y las dimensiones que quieren estudiarse deben ser comunes.
 
-* La simpatía informante-etnógrafo es vital.
+- La simpatía informante-etnógrafo es vital.
 
-* El informante no es cualquier persona con la que se han tenido conversaciones informales. Usualmente se realizan sesiones de trabajo con esta persona
+- El informante no es cualquier persona con la que se han tenido conversaciones informales. Usualmente se realizan sesiones de trabajo con esta persona
 
-La [entrevista-etnografica](entrevista-etnografica.md)
+La [[entrevista etnográfica]]
 
-La [historia-de-vida](historia-de-vida.md)
+La [[historia de vida]]
 
 ### Escritura etnográfica
 
@@ -105,57 +103,57 @@ Implica la más diversa gama de materiales documentales y empíricos
 
 Ordenar materiales:
 
-* Realizar índice analítico (índice analítico como nota index ) del diario de campo: a partir de una referenciación (paginación del cuaderno, identificador de archivo de computadora)
+- Realizar índice analítico (índice analítico como nota index ) del diario de campo: a partir de una referenciación (paginación del cuaderno, identificador de archivo de computadora)
 
-* Primera lectura (análisis de contenido) con notas temáticas generales (o nodos en mi proceso)
+- Primera lectura (análisis de contenido) con notas temáticas generales (o nodos en mi proceso)
 
-* Nota índice de las temáticas
+- Nota índice de las temáticas
 
 Organización de los documentos disponibles (digitales y físicos)
 
 Ideas:
 
-* Por tipo: audio, documento, fotos, videos
+- Por tipo: audio, documento, fotos, videos
 
-* Por tema
+- Por tema
 
-* Cronológica
+- Cronológica
 
-* **Crear nomenclatura semántica que permita referenciarlos por cada una de las anteriores**
+- **Crear nomenclatura semántica que permita referenciarlos por cada una de las anteriores**
 
 #### Esquemas de redacción
 
-* A partir de la pregunta de investigación crear índices con diferentes exploraciones:
+- A partir de la pregunta de investigación crear índices con diferentes exploraciones:
 
-* Exploración temática
+- Exploración temática
 
-* Argumentaciones (notas tipo 3 que se han ido esbozando)
+- Argumentaciones (notas tipo 3 que se han ido esbozando)
 
 Redacción
 
-* Por capítulos: de fácil a difícil
+- Por capítulos: de fácil a difícil
 
-* Escritura libre y luego corrección
+- Escritura libre y luego corrección
 
 El texto etnográfico
 
-* Es denso en descripciones de las personas, pero también implica teorización
+- Es denso en descripciones de las personas, pero también implica teorización
 
-* Prefiere el detalle fino y la textura
+- Prefiere el detalle fino y la textura
 
-* Es polifónico
+- Es polifónico
 
-* Puede ser redactado a manera creativa y hasta literaria:
+- Puede ser redactado a manera creativa y hasta literaria:
 
-* Diálogos
+- Diálogos
 
-* Microrelatos
+- Microrelatos
 
-* Modelos narrativos
+- Modelos narrativos
 
 Estilos escriturales y las disputas políticas
 
-* Tener cuidado con la relación entre el estilo de escritura, su comunicabilidad y los aspectos políticos que implican
+- Tener cuidado con la relación entre el estilo de escritura, su comunicabilidad y los aspectos políticos que implican
 
 ### Consideraciones éticas
 
@@ -171,24 +169,25 @@ Lo que se investiga puede afectar a la comunidad; también implica algún grado 
 
 #### Trabajo de campo
 
-* Transparencia de la investigación (consentimiento expreso o tácito, sea cual sea el procedimiento que la comunidad requiera)
+- Transparencia de la investigación (consentimiento expreso o tácito, sea cual sea el procedimiento que la comunidad requiera)
 
-* "La grabadora debe verse" aunque ocultarla pueda cambiar la respuesta del entrevistado
+- "La grabadora debe verse" aunque ocultarla pueda cambiar la respuesta del entrevistado
 
-* No generar falsas expectativas
+- No generar falsas expectativas
 
-* Respetar los ritmos y cotidianidad de las personas
+- Respetar los ritmos y cotidianidad de las personas
 
 #### Análisis y presentación
 
-* Humildad al encarar los resultados de nuestra investigación
+- Humildad al encarar los resultados de nuestra investigación
 
-* Honestidad en los datos y la información que está presente o ausente
+- Honestidad en los datos y la información que está presente o ausente
 
-* Debe pensarse la forma más adecuada de devolverle los resultados del trabajo. No sólo una copia del trabajo, también el regreso a la comunidad para comunicarlo de otras formas
+- Debe pensarse la forma más adecuada de devolverle los resultados del trabajo. No sólo una copia del trabajo, también el regreso a la comunidad para comunicarlo de otras formas
 
-* Proteger identidad de los participantes
+- Proteger identidad de los participantes
 
 Representar a otros es una labor que ha perdido su inocencia, si es que alguna vez la tuvo: el etnógrafo comprometido
 
 Oclc: 1035802328
+

@@ -1,8 +1,7 @@
 # La historia de larga duración de fernand braudel
-
 Rómulo Navarrete Noble et al. (2014)
 
-Discusión del concepto de ==larga duración== y la relación entre historia y ciencias sociales (geografía, psicología, sociología y antropología) en un contexto de crisis espistemológica (cfr. [@braudel1992](@braudel1992.md)).
+Discusión del concepto de ==larga duración== y la relación entre historia y ciencias sociales (geografía, psicología, sociología y antropología) en un contexto de crisis espistemológica (cfr. [[@braudel1992]]).
 
 La historia no sólo reconoce testimonios sino que se reconoce en las ciencias sociales.
 

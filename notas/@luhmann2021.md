@@ -1,5 +1,4 @@
 # Learning How to Read
-
 Niklas Luhmann 2021, [enlace](https://luhmann.surge.sh/learning-how-to-read)
 
 ## Discusión
@@ -14,40 +13,33 @@ En cambio, la poesía *«demands an observant short-term memory and multi-layere
 
 Para los textos teóricos es diferente (especialmente los que se escriben en lenguajes naturales, no formales):
 
-#### [dimension-estocastica-en-la-expresion-de-ideas-escritas-en-lenguaje-natural](dimension-estocastica-en-la-expresion-de-ideas-escritas-en-lenguaje-natural.md)
+#### [[dimensión estocástica en la expresión de ideas escritas en lenguaje natural]]
 
- >
- > *«The large majority of passages in a text could also have been formulated differently; and they would have been formulated differently if they had been written on another day [...] how shall a reader find these words which are decisive?»* (párr. 5) ^parr-5
+>*«The large majority of passages in a text could also have been formulated differently; and they would have been formulated differently if they had been written on another day [...] how shall a reader find these words which are decisive?»* (párr. 5) ^parr-5
 
 Si esto pasa con los autores, los traductores y los lectores iniciantes tienen más retos:
 
- >
- > *«Theoretically interested readers should therefore follow the advice of learning as many languages as possible in such a way that they have at least passive mastery of them and thus can read and understand them.»* (párr. 7)
+>*«Theoretically interested readers should therefore follow the advice of learning as many languages as possible in such a way that they have at least passive mastery of them and thus can read and understand them.»* (párr. 7)
 
-#### [la-estructura-del-discurso-textual-es-en-principio-lineal](la-estructura-del-discurso-textual-es-en-principio-lineal.md)
+#### [[la estructura del discurso textual es en principio lineal]]
 
- >
- > *«Beginners, especially beginning students, find that they are first confronted with a mass of words, which are ordered in sentence-form, which they read sentence by sentence, and which they can understand as sentences. But what is important?»*(párr. 8)
+>*«Beginners, especially beginning students, find that they are first confronted with a mass of words, which are ordered in sentence-form, which they read sentence by sentence, and which they can understand as sentences. But what is important?»*(párr. 8)
 
 ### Estrategias de enfrentamiento conceptual
 
 Aprender nombres: *«Obviously most knowledge can also be ordered by names»* (párr. 9) tanto de autora:es como de teorías, el problema es que los nombres no abordan son las conexiones conceptuales o la naturaleza de los problemas que esos textos intentan resolver
 
- >
- > *«Still, even candidates in exams at the end of their studies want to be examined on Max Weber or, if that is too much, on Humberto Maturana, and they are prepared to report on what they know about these authors.»* (párr. 9)
+>*«Still, even candidates in exams at the end of their studies want to be examined on Max Weber or, if that is too much, on Humberto Maturana, and they are prepared to report on what they know about these authors.»* (párr. 9)
 
 **La elaboración estructurante de esquemas argumentales en notas escritas podría por una parte visibilizar la lógica subyacente a un texto argumentativo** (una idea tal vez muy estructuralista en Luhmann), y por otra **hacer patentes los vacíos de esas argumentaciones**
 
- >
- > *«Perhaps the best method would be to take notes—not excerpts, but condensed reformulations of what has been read. The re-description of what has already been described leads almost automatically to a training of paying attention to “frames,” or schemata of observation, or even to noticing conditions which lead the text to offer some descriptions but not others.»* (párr. 11) ^p-11
+>*«Perhaps the best method would be to take notes—not excerpts, but condensed reformulations of what has been read. The re-description of what has already been described leads almost automatically to a training of paying attention to “frames,” or schemata of observation, or even to noticing conditions which lead the text to offer some descriptions but not others.»* (párr. 11) ^p-11
 
-¿y con nuestros textos qué pasa? La [elaboracion-escrita](elaboracion-escrita.md) es un nivel más para el desarrollo de nuestro pensamiento teórico (al menos desde la perspectiva de una *praxis cognitiva* o [trabajo-cognitivo](trabajo-cognitivo.md)):
+ ¿y con nuestros textos qué pasa? La [[elaboración escrita]] es un nivel más para el desarrollo de nuestro pensamiento teórico (al menos desde la perspectiva de una *praxis cognitiva* o [[trabajo cognitivo]]):
 
- >
- > *«Certainly, at first we will produce mostly garbage [...] We should therefore reflect on whether and how we arrange our notes so that they are available for later access [...] The constant accommodation of notes is then a further step in our working process.»* (párr. 12)
+>*«Certainly, at first we will produce mostly garbage [...] We should therefore reflect on whether and how we arrange our notes so that they are available for later access [...] The constant accommodation of notes is then a further step in our working process.»* (párr. 12)
 
- >
- > *«It could be that, especially given the possibilities that computers offer, we now must return to the achievements inherent in writing itself.»* (párr. 13)
+>*«It could be that, especially given the possibilities that computers offer, we now must return to the achievements inherent in writing itself.»* (párr. 13)
 
 ## Referencias
 

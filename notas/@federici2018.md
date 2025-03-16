@@ -1,12 +1,11 @@
 # El patriarcado del salario
-
 Silvia Federici 2018, [zotero](zotero://select/items/@federici2018)
 
 ![El patriarcado del salario - Silvia Federici (Audiolibro)](https://youtu.be/xVR7IU_GKxs)
 
 Marxismo y feminismo se retroalimentan y transforman mutuamente.
 
-Marx no vio la importancia del trabajo reproductivo porque (1) su análisis se basa en la mercancía y el salario, (2) la primera revolución industrial explotaba a hombres y mujeres por igual, quienes no tenían tiempo para el [trabajo-domestico](trabajo-domestico.md) ni para configurar ningún modelo de familia obrera tal y como fue creada después.
+Marx no vio la importancia del trabajo reproductivo porque (1) su análisis se basa en la mercancía y el salario, (2) la primera revolución industrial explotaba a hombres y mujeres por igual, quienes no tenían tiempo para el [[trabajo doméstico]] ni para configurar ningún modelo de familia obrera tal y como fue creada después.
 
 Pero el trabajo reproductivo no es pre-capitalista ni lumpen, sino que constituye la base real de explotación del sistema capitalista, ya que permite la reproducción de la fuerza de trabajo más cuidada y disciplinada, necesaria para el capitalismo desde la segunda revolución industrial.
 

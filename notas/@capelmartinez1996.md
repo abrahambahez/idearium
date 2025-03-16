@@ -1,8 +1,7 @@
 # Cultura y Sociabilidad
-
 Rosa María Capel Martínez
 
-Historia breve del [humanismo](humanismo.md) ilustrado.
+Historia breve del [[humanismo]] ilustrado.
 
 ### Ilustración e ilustrados
 
@@ -92,8 +91,9 @@ Más allá de la educación esencial, se desarrollaron diferentes instituciones 
 
 La universidad conserva su tradición religiosa de formar al clero y ello implicará su decadencia (p. 554).
 
-La educación de la mujer, tanto por la preocupación pedagógica general como algunos efímeros cuestionamientos críticos comienzan a considerar la enseñanza de la lectura y el catecismo además de el [trabajo-domestico](trabajo-domestico.md) y de cuidado. Las escuelas elementales son el espacio donde las mujeres se educaban (p. 555-556). Los conventos de monjas son la alternativa de profesionalización femenina que viene de la edad media.
+La educación de la mujer, tanto por la preocupación pedagógica general como algunos efímeros cuestionamientos críticos comienzan a considerar la enseñanza de la lectura y el catecismo además de el [[trabajo doméstico]] y de cuidado. Las escuelas elementales son el espacio donde las mujeres se educaban (p. 555-556). Los conventos de monjas son la alternativa de profesionalización femenina que viene de la edad media.
 
 La problematización de los conceptos de alfabetización y analfabetismo la hacen un fenómeno difícil de medir y claramente no lineal (pp. 557-558). Factores como el geográfico, el origen social, el género (sexo según Capel), la lengua y la religión hacen que las configuraciones, proyectos y desarrollos sean muy variados (p. 559).
 
 La imprenta y la tradición oral constituyen otras formas de culturización; los libros y otros impresos se harán cada vez más populares y la formación lectora aumentará los lectores potenciales (pp. 560-563). En este siglo se inventan los periódicos.
+

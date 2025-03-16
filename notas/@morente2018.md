@@ -1,8 +1,7 @@
 # De la acumulación a la apropiación: una reflexión acerca del espacio público en la ciudad contemporánea
-
 Fran Morente
 
-Revisión de literatura sobre el [espacio-publico](espacio-publico.md).
+Revisión de literatura sobre el [[espacio público]].
 
 Un primer grupo se enfoca en estudiar casos de uno o varios espacios públicos [p. 51], con algunos intereses temáticos que forman subgrupos:
 
@@ -17,3 +16,4 @@ Un primer grupo se enfoca en estudiar casos de uno o varios espacios públicos [
 Espacio público pp. 51,52
 
 Espacialidad diferencial pp. 52
+

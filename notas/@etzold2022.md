@@ -1,8 +1,7 @@
 # Best Practices for Writing Reproducible and Maintainable Jupyter Notebooks
-
 Daniel Etzold
 
-[analisis-de-datos](analisis-de-datos.md)
+[[análisis de datos]]
 
 ## Simple steps to make your Jupyter Notebooks great
 
@@ -30,7 +29,7 @@ You can also use cloud services to write and execute notebooks. Google, for inst
 
 ## Example of a Jupyter Notebook
 
-Below you can see an example of a Jupyter Notebook which explains how to approximate *π* with a Monte Carlo Method. You can see three cells. The first cell is a Markdown cell which gives an introduction to the notebook. It contains, text, an animation and some simple math equations which are rendered via [MathJax](http://docs.mathjax.org/en/latest/).
+Below you can see an example of a Jupyter Notebook which explains how to approximate _π_ with a Monte Carlo Method. You can see three cells. The first cell is a Markdown cell which gives an introduction to the notebook. It contains, text, an animation and some simple math equations which are rendered via [MathJax](http://docs.mathjax.org/en/latest/).
 
 The second cell is a code cell that contains Python code. If this cell is executed the code produces a simple plot of a circle within a square.
 
@@ -54,9 +53,9 @@ Despite their popularity, Jupyter Notebooks have been subject to criticism (e.g.
 
 One anti-pattern that can be observed sometimes is that notebooks don’t have expressive names. Instead notebooks sometimes start with “Untitled” or end with “-Copy” in their names. This is due to the default behavior of Jupyter running in the browser. Every time you create a new notebook an untitled notebook is created and every time you create a copy of an existing notebook, the new notebook gets the suffix “-Copy”.
 
-You might assume that a lot of notebook names suffer from this anti-pattern if this is the default behavior of Jupyter. But surprisingly, as discovered by a study [1], less than 2% of the notebooks analyzed by the study (a subset of notebooks downloaded from GitHub) actually have “Untitled” and less than 0.7% have “-Copy” in their names. So it doesn’t seem to be a big issue.
+You might assume that a lot of notebook names suffer from this anti-pattern if this is the default behavior of Jupyter. But surprisingly, as discovered by a study \[1\], less than 2% of the notebooks analyzed by the study (a subset of notebooks downloaded from GitHub) actually have “Untitled” and less than 0.7% have “-Copy” in their names. So it doesn’t seem to be a big issue.
 
-However, the same study also found that almost 30% of the examined notebooks have characters in their names that are not recommended by the POSIX fully portable filenames guide which allows only the characters [A-Za-z0–9.-\_]. Notebooks with non-portable filenames might cause problems on some systems and therefore should be avoided.
+However, the same study also found that almost 30% of the examined notebooks have characters in their names that are not recommended by the POSIX fully portable filenames guide which allows only the characters \[A-Za-z0–9.-\_\]. Notebooks with non-portable filenames might cause problems on some systems and therefore should be avoided.
 
 **Ambiguous execution order**
 
@@ -66,7 +65,7 @@ This is also a common behavior when writing a notebook because typically you wri
 
 Due to that it’s sometimes difficult to follow the execution order which might negatively affect the notebook’s reproducibility.
 
-In the previously cited study [1] it was found that ambiguous execution order is an issue for many notebooks. 14% of the analyzed notebooks have this issue.
+In the previously cited study \[1\] it was found that ambiguous execution order is an issue for many notebooks. 14% of the analyzed notebooks have this issue.
 
 Let’s have a look at a related example that demonstrates an additional problem. In the following you can see 4 cells.
 
@@ -78,23 +77,23 @@ If you share this notebook with other people, these people will not be able to r
 
 **Missing modularization**
 
-In [1] it was found that
+In \[1\] it was found that
 
-*   only 10% of the analyzed notebooks had local imports (i.e. imports of modules stored in the repository directory)
+-   only 10% of the analyzed notebooks had local imports (i.e. imports of modules stored in the repository directory)
 
-*   54% of the notebooks define functions
+-   54% of the notebooks define functions
 
-*   less than 9% of the notebooks define classes
+-   less than 9% of the notebooks define classes
 
 These results show that modularization isn’t used often for Jupyter Notebooks. This is interesting as modularization is a well established pattern in software engineering with many benefits. It helps to
 
-*   reduce code (e.g. less copy&paste)
+-   reduce code (e.g. less copy&paste)
 
-*   split complex code into smaller pieces that are easier to understand
+-   split complex code into smaller pieces that are easier to understand
 
-*   produce code that can be tested more easily
+-   produce code that can be tested more easily
 
-*   reduce the number of global variables in a notebook which can result in lower memory usage (local variables get freed more often as they exist only in their local scope)
+-   reduce the number of global variables in a notebook which can result in lower memory usage (local variables get freed more often as they exist only in their local scope)
 
 However, not using modularization can have many reasons. For instance, notebooks without functions may be simple enough so that this abstraction is not required. A notebook might also not use modules because the author wants to simplify the distribution of a notebook. This is easier if just one single file needs to be distributed instead of multiple files which would be the case if code is moved into modules.
 
@@ -102,7 +101,7 @@ However, not using modularization can have many reasons. For instance, notebooks
 
 In software engineering testing is a common practice. Various testing strategies exist such as integration testing, regression testing or unit testing. You can find a nice overview of different approaches on [Wikipedia](https://en.wikipedia.org/wiki/Software_testing). Unit tests, for instance, are automatic tests which test small pieces of a software, typically a single function.
 
-Various frameworks exist for writing unit tests. For Python the module [unittest](https://docs.python.org/3/library/unittest.html) is well established and easy to use. According to [1] only few notebooks (less than 2%) import well known testing modules which might be an indicator that testing is not widely used.
+Various frameworks exist for writing unit tests. For Python the module [unittest](https://docs.python.org/3/library/unittest.html) is well established and easy to use. According to \[1\] only few notebooks (less than 2%) import well known testing modules which might be an indicator that testing is not widely used.
 
 Even though having no tests is an anti-pattern in software engineering in general, it might be reasonable for the majority of notebooks. Many notebooks are used for data analyzing and exploration to test hypothesis or for educational purposes to demonstrate something. Writing tests for these applications often doesn’t make much sense due to missing ground truths in case of analyzing and exploration tasks or because the demonstration produces the expected results.
 
@@ -114,47 +113,47 @@ Furthermore, dependencies don’t need to be imported at the beginning of a note
 
 And finally, also the name of an import might differ from the name of the package that need to be installed. For instance, to parse YAML files, PyYAML is widely used. This package can be installed via `pip install pyyaml`. However, to use this package you have to import `yaml`.
 
-According to [1] many notebooks do not declare module dependencies.
+According to \[1\] many notebooks do not declare module dependencies.
 
 **Data inaccessibility**
 
 For many notebooks to work data is needed. For instance, notebooks about machine learning usually need a dataset that is used for training. A validation set is used to determine the performance of the model on unknown data. If this data is not distributed with the notebook and does not exist, the results of a notebook cannot be reproduced.
 
-According to [1] inaccessibility of data is a common cause of errors when executing notebooks and two main reasons have been identified. Either the data simply does not exist, or in case the data is distributed with the notebook, absolute paths are used to access the data.
+According to \[1\] inaccessibility of data is a common cause of errors when executing notebooks and two main reasons have been identified. Either the data simply does not exist, or in case the data is distributed with the notebook, absolute paths are used to access the data.
 
 **Limited Reproducibility**
 
 An essential idea of Jupyter Notebooks is to make results reproducible. This idea is one reason why notebooks gain so much popularity in the scientific community. Here, reproducibility is important because the easier it is to reproduce results the more likely it is that the results produce new insights as others can reuse and build on your work.
 
-However, according to [1] many of the analyzed notebooks on GitHub cannot be reproduced. The results show that only between 22% and 26% of the notebooks could be executed successfully and that even only 4.9% to 15% notebooks produced the same results.
+However, according to \[1\] many of the analyzed notebooks on GitHub cannot be reproduced. The results show that only between 22% and 26% of the notebooks could be executed successfully and that even only 4.9% to 15% notebooks produced the same results.
 
 There are basically three reasons for non-reproducible notebooks which we’ve already discussed:
 
-*   missing dependencies
+-   missing dependencies
 
-*   out-of-order execution (and resulting hidden states)
+-   out-of-order execution (and resulting hidden states)
 
-*   data inaccessibility
+-   data inaccessibility
 
 ## Best practices
 
 To ensure that notebooks are easy to understand, maintainable and reusable, and furthermore to increase the likelihood that a notebook’s results can be reproduced, the following recommendations might be very helpful:
 
-*   Use expressive names for your notebooks that describe what your notebook is doing and use only characters that are included in the POSIX fully portable filenames guide.
+-   Use expressive names for your notebooks that describe what your notebook is doing and use only characters that are included in the POSIX fully portable filenames guide.
 
-*   Avoid ambiguous execution orders. To ensure that your notebook is reproducible and creates the expected results, restart the kernel and execute all cells of the notebook before you share your notebook.
+-   Avoid ambiguous execution orders. To ensure that your notebook is reproducible and creates the expected results, restart the kernel and execute all cells of the notebook before you share your notebook.
 
-*   Use modularization (i.e. modules, functions, classes) if reasonable.
+-   Use modularization (i.e. modules, functions, classes) if reasonable.
 
-*   Use testing frameworks to test your code if reasonable.
+-   Use testing frameworks to test your code if reasonable.
 
-*   Ensure that all data used in the notebook is distributed together with the notebook (or at least can be downloaded) and that you’re using relative paths to access the data.
+-   Ensure that all data used in the notebook is distributed together with the notebook (or at least can be downloaded) and that you’re using relative paths to access the data.
 
-*   Create a requirements.txt to pin the versions of all used dependencies and import all dependencies at the beginning of a notebook.
+-   Create a requirements.txt to pin the versions of all used dependencies and import all dependencies at the beginning of a notebook.
 
-*   Distribute a notebook with its outputs. This makes it easier to reproduce the results as everyone who executes the notebook can verify that the results are the same.
+-   Distribute a notebook with its outputs. This makes it easier to reproduce the results as everyone who executes the notebook can verify that the results are the same.
 
-*   Do not redefine variables.
+-   Do not redefine variables.
 
 ## Conclusion
 
@@ -162,4 +161,5 @@ Jupyter Notebooks are easy to write, but various studies have revealed that it s
 
 ## References
 
-[1] Pimentel, João Felipe, et al. “Understanding and improving the quality and reproducibility of Jupyter notebooks.” Empirical Software Engineering 26.4 (2021): 1–55.
+\[1\] Pimentel, João Felipe, et al. “Understanding and improving the quality and reproducibility of Jupyter notebooks.” Empirical Software Engineering 26.4 (2021): 1–55.
+

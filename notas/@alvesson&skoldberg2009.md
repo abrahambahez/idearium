@@ -4,10 +4,10 @@ Mats Alvesson, Kaj Sköldberg 2009, [zotero](zotero://select/items/@alvesson&sko
 
 ## Introducción
 
-* Noción popular de la investigación como basada en datos y hechos
-* hecho social vs interpretación subjetiva
-* realidad construida vs representada
-* La interpretación de los fenómenos está siempre bajo cierta perspectiva y orientada teóricamente (*theory-ladden*)
+- Noción popular de la investigación como basada en datos y hechos 
+- hecho social vs interpretación subjetiva
+- realidad construida vs representada
+- La interpretación de los fenómenos está siempre bajo cierta perspectiva y orientada teóricamente (*theory-ladden*)  
 
 ### Modos de explicación y entendimiento
 
@@ -20,20 +20,20 @@ Pero una alternativa que, de hecho, contribuye a la creación de *nuevo* conocim
 Las metodologías cualitativas son inherentemente *perspectivistas* y usan esto no como un defecto, sino como una herramienta para la construcción del conocimiento a partir del posicionamiento claro de la dirección de la investigación en términos de sus dimensiones ontológicas y epistemológicas.
 Los métodos cuantitativos suelen partir de esfuerzos por crear distanciamiento entre el *objeto de estudio* a partir de categorías, dimensiones observables y estandarizaciones procedimentales.
 
-### [investigacion-reflectiva-reflexiva](investigacion-reflectiva-reflexiva.md)
+### [[investigación reflectiva-reflexiva]]
 
 ## (post) positivismo, constructivismo social y realismo crítico
 
-* [post-positivismo](post-positivismo.md)
-* [constructivismo](constructivismo.md)
-* [realismo-critico](realismo-critico.md)
+- [[post-positivismo]]
+- [[constructivismo]]
+- [[realismo crítico]]
 
 ## Métodos orientados hacia los datos
 
 Dentro de los métodos que trabajan directamente con material empírico, Alvensson describirá 3: la Teoría Fundamentada, la Etnografía Inductiva y la Etnometodología.
 
-* [teoria-fundamentada](teoria-fundamentada.md)
-* [etnometodologia](etnometodologia.md)
-* [etnografia](etnografia.md)
+- [[teoría fundamentada]]
+- [[etnometodología]]
+- [[etnografía]] 
 
-## [hermeneutica](hermeneutica.md)
+## [[hermenéutica]]

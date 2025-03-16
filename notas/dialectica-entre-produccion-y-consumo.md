@@ -1,3 +1,0 @@
-# dialéctica entre producción y consumo
-
-La teoría de la producción elaborada por @marx2005 define la relación dialéctica que tiene con el consumo. Como materialista, establece una distinción entre *el tipo abstracto de la producción en sentido general* (las condiciones necesarias y suficientes para su realización *─instrumentos, almacenamiento, trabajo, un modo de relacionarse con el entorno─*), de la producción concreta realizada por individuos sociales bajo condiciones históricas (intelectuales y materiales) específicas. Históricamente estas condiciones posibilitarían la [produccion-de-consumo](produccion-de-consumo.md).

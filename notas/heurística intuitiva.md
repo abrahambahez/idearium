@@ -1,0 +1,2 @@
+# heurística intuitiva
+Para @kahneman2014 [cap. 1], la heurística intuitiva es uno de los componentes del sistema de pensamiento rápido (que él denomina sistema 1), junto con la [[intuición experta]], la percepción y la memoria. Esta heurística permite tomar decisiones rápidas con mínimo esfuerzo mental, eso implica una alta posibilidad de errar en el juicio.

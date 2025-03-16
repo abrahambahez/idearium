@@ -1,3 +1,3 @@
-# {{format-date now "short"}}
+# {{format-date now}} {{sontent}}
 
 

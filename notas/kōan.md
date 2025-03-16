@@ -1,6 +1,5 @@
 # kōan
-
-En el budismo [zen](zen.md), son relatos breves cuya intención es ser herramientas de pensamiento a las que enfrentarse, ir más allá de las palabras
+En el budismo [[zen]], son relatos breves cuya intención es ser herramientas de pensamiento a las que enfrentarse, ir más allá de las palabras
 
 ## Señalar la luna (cuento)
 
@@ -15,11 +14,10 @@ Si un día te encuentras al Buda, mátalo
 ### Manjushri atraviesa la puerta
 
 Un día, Manjushri se encontraba ante la puerta de la sala de meditación cuando Buda le llama:
-
-* Manjushri, Manjushri ¿por qué no entras?
-* No veo ninguna puerta ¿por qué debería entrar? - respondió Manjushri.
+- Manjushri, Manjushri ¿por qué no entras?
+- No veo ninguna puerta ¿por qué debería entrar? - respondió Manjushri.
 
 ## Fuentes
 
-* El zen habla
-* La Flauta de hierro
+- El zen habla
+- La Flauta de hierro

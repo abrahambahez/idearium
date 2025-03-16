@@ -1,14 +1,14 @@
 # Los trabajos de campo, lo experimental y el quehacer etnográfico. Presentación del dossier
-
 Xavier Andrade Andrade,Ana María Forero,Fiamma Montezemolo
 
 ## Resumen
 
-El texto habla sobre la importancia de repensar el [trabajo-de-campo](trabajo-de-campo.md) en antropología, entendiendo el campo como una relación en constante proceso de emergencia y mediación. Se mencionan distintos proyectos que cuestionan los procedimientos tradicionales del trabajo de campo y proponen nuevas formas de compromiso con las prácticas artísticas. Además, se reflexiona sobre la relación entre antropología y arte contemporáneo y se exploran distintas formas de documentación y representación en el trabajo etnográfico.
+El texto habla sobre la importancia de repensar el [[trabajo de campo]] en antropología, entendiendo el campo como una relación en constante proceso de emergencia y mediación. Se mencionan distintos proyectos que cuestionan los procedimientos tradicionales del trabajo de campo y proponen nuevas formas de compromiso con las prácticas artísticas. Además, se reflexiona sobre la relación entre antropología y arte contemporáneo y se exploran distintas formas de documentación y representación en el trabajo etnográfico.
+
 
 ## Anotaciones **(26/9/2022 12:36:31)**
 
-\**
+**
 
 "Este sentido de “correspondencia” es el que –desde nuestra perspectiva y a diferencia de la de Ingold– debe ser pensado a un nivel conceptual, precisamente porque invoca un sentido analítico de distancia y, eventualmente, de confrontación con los saberes de los informantes en el campo (Fabian 1996)"
 
@@ -38,4 +38,6 @@ El texto habla sobre la importancia de repensar el [trabajo-de-campo](trabajo-de
 
 "Este trabajo guarda el potencial de contribuir con una línea de la antropología contemporánea que estudia los paisajes de sonido en un sentido amplio, es decir, más allá de la etnomusicología, que por su peso en temas aurales es el equivalente al documental etnográfico en antropología visual."
 
-\**
+**
+
+

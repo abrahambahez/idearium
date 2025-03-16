@@ -1,3 +1,0 @@
-# gestión
-
-Nodo.

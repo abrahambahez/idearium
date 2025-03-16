@@ -1,19 +1,16 @@
 # Apologies to Thucydides: Understanding history as culture and vice versa (Marshall Sahlins 2004)
-
 [zotero](zotero://select/items/@sahlins2004)
 
 ## Resumen
 
+
 ## Contexto
-
 ## Notas
-
 <!--El libro se estructura en-->
 
 <!--Estructura conceptual:-->
-
+ 
 <!--Argumentos generales:-->
-
 (Basado en un resumen IA de una reseña del libro)
 
 Marshall Sahlins, en su obra Apologías a Tucídides: Entendiendo la Historia como Cultura y Viceversa, se embarca en un diálogo con el antiguo historiador ateniense de la Guerra del Peloponeso para explorar la relación entre las concepciones antropológicas de la cultura y el estudio de la historia. Si bien Tucídides es considerado hoy en día como el "ancestro de la historiografía" por historiadores, politólogos e incluso académicos militares, su relato de la guerra entre Atenas y Esparta permanece incompleto para Sahlins, ya que oscurece el papel de la cultura en favor de construcciones más universales de la naturaleza humana, imaginada como invariablemente egoísta.

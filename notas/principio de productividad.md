@@ -1,0 +1,2 @@
+# principio de productividad
+[[productividad]]

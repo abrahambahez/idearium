@@ -1,15 +1,12 @@
 # Scaling your impact: A polynomial model of career growth (Andreas Stuhlmueller 2024)
-
 [zotero](zotero://select/items/@stuhlmueller2024)
 [abrir](https://blog.elicit.com/career-growth/)
 
 ## Resumen
-
 In the past I've been confused by level frameworks. They often read to me as "incremental steps towards becoming a manager" or "just do bigger projects over time" or "your level is your years of experience," in a way that doesn't feel tied to fundamental value.
 
 ## Contexto
-
-Post muy interesante del blog de Elicit. Introduce lo que interpreto como la [escala-de-impacto](escala-de-impacto.md).
+Post muy interesante del blog de Elicit. Introduce lo que interpreto como la [[escala de impacto]].
 
 ## Notas
 
@@ -19,20 +16,20 @@ La idea general es que el nivel más básico, el impacto es *aditivo*, un trabaj
 
 Esto aplica desde el punto de vista interno del rol, ya que el impacto entre roles puede variar desde otras perspectivas:
 
-* Contratar a un líder técnico es aditivo desde la perspectiva del equipo de recursos humanos, pero multiplicativo desde la perspectiva del equipo de ingeniería.
-* Implementar una función es aditivo desde la perspectiva del equipo de ingeniería, pero puede aumentar permanentemente los retornos desde la perspectiva del equipo de producto.
+- Contratar a un líder técnico es aditivo desde la perspectiva del equipo de recursos humanos, pero multiplicativo desde la perspectiva del equipo de ingeniería.
+- Implementar una función es aditivo desde la perspectiva del equipo de ingeniería, pero puede aumentar permanentemente los retornos desde la perspectiva del equipo de producto.
 
 ## Extractos
 
-* *Junior work* is additive. It adds constant value per contribution.
-* *Mid-level work* keeps on giving even after it’s done, adding more value over time.
-* *Senior work* multiplies the value produced by your team.
-* *Principal work* increases our growth rate. It sets up feedback loops that lead to compounding growth.
+- _Junior work_ is additive. It adds constant value per contribution.
+- _Mid-level work_ keeps on giving even after it’s done, adding more value over time.
+- _Senior work_ multiplies the value produced by your team.
+- _Principal work_ increases our growth rate. It sets up feedback loops that lead to compounding growth.
 
 ![](https://blog.elicit.com/content/images/2024/06/image-9.png)
 
-|Role|Value|
-|----|-----|
+| Role |   Value  |
+| ---- | --- |
 |Product|How well do we understand what’s needed to make Elicit capable?|
 |Engineering|How capable is Elicit?|
 |HR|How many Elicians are on our team, and how effective are they?|

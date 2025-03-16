@@ -1,6 +1,5 @@
 # post-positivismo
-
-Para @alvessonskoldberg2009 es un [marco-teorico](marco-teorico.md) nacido del positivismo.
+Para @alvessonskoldberg2009 es un [[marco teórico]] nacido del positivismo.
 
 El positivismo nació con Comte en 1844 y evolucionó en un positivismo lógico (o empirismo lógico). Se sostiene en la doctrina de que la realidad brinda datos, hechos o información susceptible de ser ordenada, sistematizada e interpretada según reglas formales para obtener el conocimiento. Por lo tanto, usa métodos cuantitativos como la estadística y la teoría derivada de sus resultados tiene más valor cuanto mejor sustento formal y basado en datos provea. Los datos deben ser observables (o medibles) y la distinción entre la lectura de los datos y su interpretación es vigilada con cautela.
 

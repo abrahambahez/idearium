@@ -1,12 +1,11 @@
 # Resituando el Diario/Bitácora/Sketch en la producción de conocimiento y sentido antropológico
-
 Catalina Cortés Severino
 
-[etnografias-contemporaneas](etnografias-contemporaneas.md) y [diario-de-campo](diario-de-campo.md) visual
+[[etnografías contemporáneas]] y [[diario de campo]] visual
 
 # Anotaciones **(26/9/2022 12:01:52)**
 
-\**
+**
 
 "El “giro corporal” en “lo visual” nos lleva a situarnos no en un tipo de observación a la distancia, desprendida y objetiva" (Severino, 2017, p. 2)
 
@@ -48,4 +47,5 @@ Catalina Cortés Severino
 
 "Los proyectos sobre los que me enfoqué en este artículo me permitieron trabajar en los intersticios entre el análisis sociocultural y los lenguajes estéticos. Intervalos que tienen que ver con la experimentación y el análisis e interpretación del sentido, lo cual nos lleva también a la producción de otro tipo de conocimientos y, consecuentemente, a replantearnos las metodologías con las cuales trabajamos. Es decir, son propuestas que permiten reflexionar sobre la necesidad de la dimensión de la experiencia estética en la investigación antropológica para seguir explorando metodologías que proporcionen formas de aproximación a esta dimensión estética desde las ciencias sociales y que posibiliten otras formas de comprensión e interpretación de dichas realidades sociales." (Severino, 2017, p. 28)
 
-\**
+**
+

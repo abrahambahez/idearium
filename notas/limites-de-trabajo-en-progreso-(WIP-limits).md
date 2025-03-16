@@ -1,3 +1,0 @@
-# límites de trabajo en progreso (WIP limits)
-
-En el contexto de [kanban](kanban.md) los límites de trabajo en proceso son un número fijo que representa la cantidad máxima de ítems que se pueden poner en la columna «por hacer» (*doing*) con la finalidad de optimizar la cantidad de trabajo entregado y controlar la cantidad de trabajo entrante.

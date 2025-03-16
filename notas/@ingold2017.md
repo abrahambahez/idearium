@@ -1,17 +1,15 @@
 # ¡Suficiente con la etnografía!
-
 Tim Ingold
 
 ## Contexto
 
 De acuerdo con Igor Ayora:
 
- >
- >  su posición entraba en contraste y diálogo con la de Miller, la de Strathern, Howell, da Col, y otros en la revista [HAU, Vol. 7, Núm. 1, 2017](https://www.haujournal.org/index.php/hau/issue/view/hau7.1). Así, sin contexto, parece una provocación sin sentido [link añadido por mí]
+>  su posición entraba en contraste y diálogo con la de Miller, la de Strathern, Howell, da Col, y otros en la revista [HAU, Vol. 7, Núm. 1, 2017](https://www.haujournal.org/index.php/hau/issue/view/hau7.1). Así, sin contexto, parece una provocación sin sentido \[link añadido por mí\]
 
 # Anotaciones **(5/9/2022 12:36:50)**
 
-\**
+**
 
 "Arguyo que atribuir la etnograficidad a los encuentros con aquellos con quienes llevamos a cabo nuestra investigación, o en general al trabajo de campo, socava tanto el compromiso ontológico como el propósito educativo de la antropología como disciplina, así como su forma principal de trabajo, a saber, la observación participante." (Ingold, 2017, p. 143)
 
@@ -23,9 +21,9 @@ De acuerdo con Igor Ayora:
 
 "Tal como de los pintores holandeses del siglo XVII, se puede decir que los etnógrafos europeos y norteamericanos del siglo XX practicaron un arte de describir (Alpers 1983), pero en vez de usar línea y color, lo hicieron predominantemente con las palabras. Este es todavía un estándar contra el que medimos el trabajo contemporáneo. Estos asuntos han sido debatidos hasta la saciedad, y mucho de este debate ha caído bajo la  rúbrica de la llamada crisis de representación. Muy razonablemente se han hecho preguntas polémicas sobre quién tiene el derecho de describir, con base en qué una descripción puede considerarse como más veraz o autorizada que cualquier otra, en qué medida la presencia del autor puede o debe ser reconocida dentro del texto y cómo todo el proceso de escribirla puede hacerse de manera más colaborativa." (Ingold, 2017, p. 146)
 
-(Ingold, 2017, p. 147) La [etnografia](etnografia.md) es el resultado del proceso de encuentro, aprendizaje y desarrollo de competencias culturales
+(Ingold, 2017, p. 147) La [[etnografía]] es el resultado del proceso de encuentro, aprendizaje y desarrollo de competencias culturales
 
-"la [observacion-participante](observacion-participante.md) no es en absoluto una técnica encubierta de recolección de información sobre las personas con el pretexto de aprender de ellas. Es más bien una realización, de obra y de palabra, de lo que le debemos al mundo por nuestro desarrollo y formación. Esto es lo que quiero decir cuando hablo de compromiso ontológico." (Ingold, 2017, p. 150)
+"la [[observación participante]] no es en absoluto una técnica encubierta de recolección de información sobre las personas con el pretexto de aprender de ellas. Es más bien una realización, de obra y de palabra, de lo que le debemos al mundo por nuestro desarrollo y formación. Esto es lo que quiero decir cuando hablo de compromiso ontológico." (Ingold, 2017, p. 150)
 
 "Como mínimo, la observación participante consiste precisamente en tal práctica y hace un llamado al antropólogo novato para que preste atención: prestar atención a lo que otros hacen o dicen y a lo que está sucediendo a su alrededor; seguir a los otros adonde vayan y cumplir sus órdenes, sin importar lo que esto implique y adónde lo pueda llevar. Esto puede ser desconcertante e implica un riesgo existencial considerable." (Ingold, 2017, p. 151)
 
@@ -47,4 +45,5 @@ De acuerdo con Igor Ayora:
 
 "Ciertamente, la etnografía y la teoría se parecen más que nada a dos arcos de la hipérbola, que lanzan sus rayos en direcciones opuestas, iluminando las superficies de la mente y el mundo respectivamente" (Ingold, 2017, p. 158)
 
-\**
+**
+

@@ -1,11 +1,10 @@
 # The Archaeology of Ethnicity: Constructing Identities in the Past and Present
-
 Siân. Jones (2002)
 
-[etnicidad-en-@jones2002](etnicidad-en-@jones2002.md)
 
-# Anotaciones
+[[etnicidad en @jones2002]]
 
+# Anotaciones  
 (1/3/2023 8:43:50)
 
 "(1) The classic anthropological debate concerning the prioritization of etic or emic perspectives1 has been reconfigured in the form of a distinction between" (Jones, 2002, p. 56)
@@ -14,7 +13,7 @@ Siân. Jones (2002)
 
 "It has long been recognized that such a simplistic distinction between ‘objective’ and ‘subjective’ definitions of ethnicity is problematic as it entails the naive pre-supposition of a value-free objective viewpoint located with the researcher, versus the subjective culturally mediated perceptions of the people being studied." (Jones, 2002, p. 57)
 
-"(2) Definitions of ethnicity are also characterized by a tension between specificity and generality; that is between generic definitions which are considered to be too broad to be of any analytical use in the analysis of particular cases, and definitions that are so narrow that their comparative potential is minimal and their principal function is descriptive." (Jones, 2002, p. 57) [la-etnicidad-es-sensible-a-la-escala](la-etnicidad-es-sensible-a-la-escala.md)
+"(2) Definitions of ethnicity are also characterized by a tension between specificity and generality; that is between generic definitions which are considered to be too broad to be of any analytical use in the analysis of particular cases, and definitions that are so narrow that their comparative potential is minimal and their principal function is descriptive." (Jones, 2002, p. 57) [[la etnicidad es sensible a la escala]]
 
 "Classificatory systems quite rightly vary depending on the issues they are supposed to address, and Moerman and Narroll are attempting to classify the Lue people for quite different purposes. Nevertheless, Moerman’s analysis does question the kind of universal system of cross-cultural classification Narroll is proposing by illustrating the significance of ethnic categories, such as that of the Lue, in the structuring of social relations and social practices in northern Thailand. For how useful is the category, ‘Northern Thai’, even as a basis for the cross-cultural comparison of social and cultural practices, if it holds very little importance in ongoing social life in this region? Furthermore, Narroll’s notions of ‘true’ Lue and ‘post’ Lue assume that culture-bearing units are relatively permanent entities that have an original ‘pure’ culture. This concern with static, pristine cultural entities is symptomatic of an essentially synchronic perspective of human societies embedded in western notions of cultural continuity and tradition (see Clifford 1988; Williams 1989)" (Jones, 2002, p. 59)
 
@@ -28,11 +27,11 @@ Siân. Jones (2002)
 
 "To return to the overall primordial perspective, its main advantage is that it focuses attention on the strong emotions often associated with ethnic and national attachments, and the potency of the cultural symbols involved; aspects which are not adequately addressed by many recent instrumentalist approaches to ethnicity." (Jones, 2002, p. 68)
 
-"(1) Primordialist theories result in a romanticization and mystification of ethnic identity." (Jones, 2002, p. 68) [primordialismo](primordialismo.md)
+"(1) Primordialist theories result in a romanticization and mystification of ethnic identity." (Jones, 2002, p. 68) [[primordialismo]]
 
 "primordialism itself is a mystical psychological disposition, almost by definition ‘shadowy and elusive’" (Jones, 2002, p. 68)
 
-"Despite such problems, Stack (1986) and others argue that primordial approaches capture an essential aspect of ethnicity—the psychological and emotional strength of ethnic attachments. Yet there is no reason why such psychological dimensions should be shadowy or atavistic, leaving the analysis of this aspect of ethnicity devoid of any rigour or explanatory" (Jones, 2002, p. 68) [primordialismo](primordialismo.md)
+"Despite such problems, Stack (1986) and others argue that primordial approaches capture an essential aspect of ethnicity—the psychological and emotional strength of ethnic attachments. Yet there is no reason why such psychological dimensions should be shadowy or atavistic, leaving the analysis of this aspect of ethnicity devoid of any rigour or explanatory" (Jones, 2002, p. 68) [[primordialismo]]
 
 "power." (Jones, 2002, p. 69)
 
@@ -42,7 +41,7 @@ Siân. Jones (2002)
 
 "little, if any, analysis of the social and historical contexts in which particular ethnic groups are formulated. In a simplistic form, primordial explanations suggest that ethnic groups are formulated in a social and political vacuum." (Jones, 2002, p. 70)
 
-"The rapid growth of what can be broadly termed instrumentalist approaches to ethnicity has contributed to an understanding of the common processes and structures underlying the formation of ethnic groups and the politicization of ethnic identity" (Jones, 2002, p. 76) [instrumentalismo](instrumentalismo.md)
+"The rapid growth of what can be broadly termed instrumentalist approaches to ethnicity has contributed to an understanding of the common processes and structures underlying the formation of ethnic groups and the politicization of ethnic identity" (Jones, 2002, p. 76) [[instrumentalismo]]
 
 "(1) Many instrumentalist approaches fall into a reductionist mode of explanation whereby ethnicity is defined in terms of the observed regularities of ethnic behaviour in a particular situation" (Jones, 2002, p. 76)
 
@@ -50,7 +49,7 @@ Siân. Jones (2002)
 
 "(5) Finally, as a result of the tendency to define ethnicity as a politicized or mobilized group identity, and the neglect of the cultural and psychological dimensions of ethnicity, it is difficult to distinguish ethnic groups from other collective-interest groups (Hechter 1986:19)" (Jones, 2002, p. 79)
 
-"In what follows, a similar processual and relational approach to the definition of ethnicity is adopted. Ethnic groups are culturally ascribed identity groups, which are based on the expression of a real or assumed shared culture and common descent (usually through the objectification of cultural, linguistic, religious, historical and/or physical characteristics). As a process ethnicity involves a consciousness of difference, which, to varying degrees, entails the reproduction and transformation of basic classificatory distinctions between groups of people who perceive themselves to be in some respect culturally distinct (Eriksen 1992:3)." (Jones, 2002, p. 84) [procesualismo](procesualismo.md)
+"In what follows, a similar processual and relational approach to the definition of ethnicity is adopted. Ethnic groups are culturally ascribed identity groups, which are based on the expression of a real or assumed shared culture and common descent (usually through the objectification of cultural, linguistic, religious, historical and/or physical characteristics). As a process ethnicity involves a consciousness of difference, which, to varying degrees, entails the reproduction and transformation of basic classificatory distinctions between groups of people who perceive themselves to be in some respect culturally distinct (Eriksen 1992:3)." (Jones, 2002, p. 84) [[procesualismo]]
 
 "here have been a number of critiques of processual approaches" (Jones, 2002, p. 85)
 

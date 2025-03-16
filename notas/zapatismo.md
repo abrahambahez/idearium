@@ -1,3 +1,2 @@
 # zapatismo
-
-Experiencia política derivada del levantamiento del [EZLN](EZLN.md) en Chiapas en enero de 1994.
+Experiencia política derivada del levantamiento del [[EZLN]] en Chiapas en enero de 1994.

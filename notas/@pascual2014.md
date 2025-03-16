@@ -1,10 +1,10 @@
-# El [giro-espacial](giro-espacial.md) en historia. Derivas conceptuales y racconto historiográfico en Argentina. Imaginar los espacios de segregación localizados The spatial turn in history. Conceptual drifts and argentina´s historiographical racconto. Imagining located...
-
+# El [[giro espacial]] en historia. Derivas conceptuales y racconto historiográfico en Argentina. Imaginar los espacios de segregación localizados The spatial turn in history. Conceptual drifts and argentina´s historiographical racconto. Imagining located...
 Cecilia María Pascual
+
 
 # Anotaciones **(24/9/2022 15:02:17)**
 
-\**
+**
 
 "Como advierte Soja, Harvey identifica que la historia del capitalismo, con la ciudad como constructo infraestructural y ambiental generador de un paisaje específico, debe considerarse desde un mirada geográfica e históricamente situada. Esta concepción debe contemplar los procesos de urbanización y sus desplazamientos, las simultaneidades, la crisis y las transformaciones." (Pascual, 2014, p. 431)
 
@@ -16,4 +16,5 @@ Cecilia María Pascual
 
 "la reconstrucción histórica del pasado solo puede efectuarse a partir de las ruinas, más o menos heterogéneas, de una realidad ausente." (Pascual, 2014, p. 449)
 
-\**
+**
+

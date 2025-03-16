@@ -1,16 +1,15 @@
 # Historizando raza: Propuestas conceptuales y metodológicas
-
 Julio Arias,Eduardo Restrepo
 
 # Anotaciones **(5/9/2022 14:36:02)**
 
-\**
+**
 
-"en aras de evitar confusiones que la utilización de una sola palabra podría acarrear, proponen destinar la palabra “[raza](raza.md)” solo para “marcar los fenómenos que son identificados como tales por los contemporáneos”. en consecuencia, subrayan: “no asumimos que raza ha hecho referencia siempre y en todas partes a la biología, la herencia, la apariencia o intrínsecas diferencias corporales, sino que prestamos atención a cómo los actores mismos despliegan el término”. por otra parte, sugieren el concepto de “racialización” como el instrumento analítico referido al “proceso de marcación de las diferencias humanas de acuerdo con los discursos jerárquicos fundados en los encuentros coloniales y en sus legados nacionales”. esta distinción entre “raza” y “racialización” les “permite enfatizar la ubicuidad de la raza y la racialización, pero subrayando los específicos contextos que configuran el pensamiento y práctica racial” (Appelbaum et al., 2003: 2-3)." (Arias y Restrepo, 2010, p. 50)
+"en aras de evitar confusiones que la utilización de una sola palabra podría acarrear, proponen destinar la palabra “[[raza]]” solo para “marcar los fenómenos que son identificados como tales por los contemporáneos”. en consecuencia, subrayan: “no asumimos que raza ha hecho referencia siempre y en todas partes a la biología, la herencia, la apariencia o intrínsecas diferencias corporales, sino que prestamos atención a cómo los actores mismos despliegan el término”. por otra parte, sugieren el concepto de “racialización” como el instrumento analítico referido al “proceso de marcación de las diferencias humanas de acuerdo con los discursos jerárquicos fundados en los encuentros coloniales y en sus legados nacionales”. esta distinción entre “raza” y “racialización” les “permite enfatizar la ubicuidad de la raza y la racialización, pero subrayando los específicos contextos que configuran el pensamiento y práctica racial” (Appelbaum et al., 2003: 2-3)." (Arias y Restrepo, 2010, p. 50)
 
 "Wallerstein argumentó cómo el racismo constituye una de las doctrinas o pilares ideológicos del capitalismo histórico. Señala que el racismo “fue la justificación ideológica de la jerarquización de la fuerza de trabajo y de la distribución sumariamente desigual de sus recompensas” (Wallerstein, 1988: 68)" (Arias y Restrepo, 2010, p. 51)
 
-"Quijano considera que esta racialización se extendió desde América a una clasificación de la población de todo el mundo “en identidades `raciales' y dividida entre los dominantes/ superiores `europeos' y los dominados/inferiores \`no-europeos”'" (Arias y Restrepo, 2010, p. 51)
+"Quijano considera que esta racialización se extendió desde América a una clasificación de la población de todo el mundo “en identidades `raciales' y dividida entre los dominantes/ superiores `europeos' y los dominados/inferiores `no-europeos”'" (Arias y Restrepo, 2010, p. 51)
 
 "ara Quijano, las diferencias fenotípicas son centrales, pero para otros autores, como Walter mignolo, hay momentos donde la clasificación racial no se ancla en el de diferencias fenotípicas sino en la inferiorización de la diferencia" (Arias y Restrepo, 2010, p. 52)
 
@@ -42,4 +41,5 @@ Julio Arias,Eduardo Restrepo
 
 "cómo pensar nuestro más inmediato presente con categorías que han sido acuñadas en un reciente pasado y que, por tanto, pueden no ser las más adecuadas para capturar lo apenas naciente y aun nebuloso desde los marcos heredados?" (Arias y Restrepo, 2010, p. 63)
 
-\**
+**
+

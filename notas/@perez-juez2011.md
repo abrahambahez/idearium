@@ -1,14 +1,13 @@
 # Estudio interdisciplinar del hábitat post-talayótico: bioarqueología, geoarqueología y registro arqueológico para la revisión metodológica de la arqueología en Menorca
-
 Amalia Pérez-Juez
 
-* La arqueología ha sido acusada muchas veces de ser demasiado especulativa y romantizada. El apoyo de la disciplina con técnicas científicas permite extender el trabajo analítico al extender la información disponible a interpretar.
-* Sin embargo, dado que las técnicas forman parte de la metodología arqueológica, empujan a la interpretación arqueológica hacia una mayor rigurosidad interpretativa desde el punto de vista objetivista.
-* Si el trabajo interdisciplinario no necesariamente involucra la participación activa de diferentes profesionales de disciplinas ante un problema común (la lógica de los «estudios de ...» cfr. [@uribemallarino2012](@uribemallarino2012.md)), sino que puede limitarse a la utilización de las técnicas de otras disciplinas para el propósito exclusivo de una disciplina, como es este caso, podría pensarse como una forma de [interdisciplina](interdisciplina.md) más débil
+- La arqueología ha sido acusada muchas veces de ser demasiado especulativa y romantizada. El apoyo de la disciplina con técnicas científicas permite extender el trabajo analítico al extender la información disponible a interpretar.
+- Sin embargo, dado que las técnicas forman parte de la metodología arqueológica, empujan a la interpretación arqueológica hacia una mayor rigurosidad interpretativa desde el punto de vista objetivista.
+- Si el trabajo interdisciplinario no necesariamente involucra la participación activa de diferentes profesionales de disciplinas ante un problema común (la lógica de los «estudios de ...» cfr. [[@uribemallarino2012]]), sino que puede limitarse a la utilización de las técnicas de otras disciplinas para el propósito exclusivo de una disciplina, como es este caso, podría pensarse como una forma de [[interdisciplina]] más débil
 
 ## resumen esquemático
 
-El texto describe las nuevas formas de abordar, a partir de una aproximación interdisciplinar, el estudio de la [arquitectura](arquitectura.md) talayótica y post-talayótica; particularmente desde la bioarqueología y la geoarqueología, enfatizando el espacio doméstico.
+El texto describe las nuevas formas de abordar, a partir de una aproximación interdisciplinar, el estudio de la [[arquitectura]] talayótica y post-talayótica; particularmente desde la bioarqueología y la geoarqueología, enfatizando el espacio doméstico.
 
 De acuerdo con los autores, *«La cultura talayótica aparece en las islas de Mallorca y Menorca a principios del 1er milenio a.C., relacionada con dinámicas de cambio internas de las propias islas así como con la llegada del hierro al Mediterráneo Occidental. La isla pasó de ser un espacio abierto a convertirse en una sucesión de recintos que seguían patrones más o menos similares: muralla, recinto de taula, talayot, cuevas, zonas de habitación, salas hipóstilas, etc.»* (p. 139).
 

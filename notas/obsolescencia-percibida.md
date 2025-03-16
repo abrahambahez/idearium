@@ -1,3 +1,0 @@
-# obsolescencia percibida
-
-La obsolescencia percibida es un concepto sugerido por @monteromortola2011 que complementa al más famoso de [obsolescencia-programada](obsolescencia-programada.md). Se trata de una consideración subjetiva que convierte un bien en basura a través de un juicio valorativo en el contexto de la [cultura-de-consumo](cultura-de-consumo.md). Por ejemplo, con la ropa que se compra para usarse sólo una vez, con los celulares o los autos que se cambian cada año aunque estén en perfecto estado, y así con varios tipos de bienes cuya frecuencia de consumo es mucho más frecuente que su vida útil para un mismo individuo.

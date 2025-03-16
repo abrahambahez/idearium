@@ -1,20 +1,17 @@
 # Hacia una definición del término humanismo
-
 Emrique González González (1989)
 
 ## Discusión
-
 El humanismo inaugura la noción de la *barbarie gótica* en Europa (pp. ...,57)
 
 ## Términos
 
 ## Resumen esquemático
-
 Problemas al precisar el humanismo (p. 45):
 
-1. Es polisémico. LLamamos [humanismo](humanismo.md) a cosas muy diferentes y eso puede ser problemático, se llega a un vaciameinto de sentido
-1. Tiene una historicidad compleja
-1. Su vínculo específico con un movimiento desde el renacimieno
+1. Es polisémico. LLamamos [[humanismo]] a cosas muy diferentes y eso puede ser problemático, se llega a un vaciameinto de sentido
+2. Tiene una historicidad compleja
+3. Su vínculo específico con un movimiento desde el renacimieno
 
 ### humanismo y humanistas
 

@@ -1,6 +1,5 @@
 # prompt
-
-En el contexto de los [LLM](LLM.md) y el [prompt-engineering](prompt-engineering.md), un *prompt* es un tipo de *instrucción que se hace al modelo* con el objetivo de obtener la generación; puede contener cualquiera de los siguientes componentes:
+En el contexto de los [[LLM]] y el [[prompt engineering]], un *prompt* es un tipo de *instrucción que se hace al modelo* con el objetivo de obtener la generación; puede contener cualquiera de los siguientes componentes:
 
 **Instrucción** - una tarea o instrucción específica que deseas que el modelo realice
 

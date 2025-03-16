@@ -1,5 +1,4 @@
 # Cultura: la versión de los antropólogos
-
 Adam Kuper
 
 **Extracted Annotations (25/8/2021 10:11:10)**
@@ -10,11 +9,11 @@ Adam Kuper
 
 "Mucha gente cree que las culturas se pueden medir unas respecto a otras, y esta gente se siente inclinada a evaluar su propia cultura por encima de las de los otros. Incluso pueden pensar que sólo existe una civilización ge—" ([Kuper 2008:11](zotero://open-pdf/library/items/V6DGJT7S?page=11))
 
-*La cultura no sólo se ve como un elemento de distinción identitaria, sino también en su acepción de más derecha: como lo opuesto a la barbarie ([note on p.11](zotero://open-pdf/library/items/V6DGJT7S?page=11))*
+_La cultura no sólo se ve como un elemento de distinción identitaria, sino también en su acepción de más derecha: como lo opuesto a la barbarie ([note on p.11](zotero://open-pdf/library/items/V6DGJT7S?page=11))_
 
 "multiculturalistas" ([Kuper 2008:11](zotero://open-pdf/library/items/V6DGJT7S?page=11))
 
-*multiculturalismo como autenticidad y herramienta de lucha, en detrimento de fenómenos más sociales como la desigualdad, cfr [@reygadas2007](@reygadas2007.md) ([note on p.11](zotero://open-pdf/library/items/V6DGJT7S?page=11))*
+_multiculturalismo como autenticidad y herramienta de lucha, en detrimento de fenómenos más sociales como la desigualdad, cfr [[@reygadas2007]] ([note on p.11](zotero://open-pdf/library/items/V6DGJT7S?page=11))_
 
 "establishment" ([Kuper 2008:11](zotero://open-pdf/library/items/V6DGJT7S?page=11))
 
@@ -22,15 +21,15 @@ Adam Kuper
 
 "Pierre Bourdieu ha argumentado que, en el seno de la élite, el valora de la alta cultura reside precisapara hacer distinciones, confiere «distinción» por sí misma.'" ([Kuper 2008:11](zotero://open-pdf/library/items/V6DGJT7S?page=11))
 
-\_alta cultura vs [cultura-popular](cultura-popular.md)
+_alta cultura vs [[cultura popular]]
 
-([note on p.11](zotero://open-pdf/library/items/V6DGJT7S?page=11))\_
+([note on p.11](zotero://open-pdf/library/items/V6DGJT7S?page=11))_
 
 "A menudo se identifican de manera laxa una teoría de la cultura francesa, otra alemana y otra inglesa. De forma alternativa, e ~gu:al­o y de otro clásico. Son etiquetas improvisadas, prefabnca~as, para construcciones complejas que están sujetas a toda una variedad de transformaciones estructurales" ([Kuper 2008:11](zotero://open-pdf/library/items/V6DGJT7S?page=11))
 
 "En la tradición francesa, se representa la civilización como un logro distintivamente humano, progresivo y acumulativo." ([Kuper 2008:12](zotero://open-pdf/library/items/V6DGJT7S?page=12))
 
-"Seguro que la auténtica Kultur del [pueblo](pueblo.md) alemán sería preferible a la artificial Civilization de una élite francófona, cosmopolita y materialista" ([Kuper 2008:12](zotero://open-pdf/library/items/V6DGJT7S?page=12))
+"Seguro que la auténtica Kultur del [[pueblo]] alemán sería preferible a la artificial Civilization de una élite francófona, cosmopolita y materialista" ([Kuper 2008:12](zotero://open-pdf/library/items/V6DGJT7S?page=12))
 
 "Y, sin embargo, aunque se expresen según nuevos códigos, los discursos sobre la cultura no son inventados li-s que han persistido durante generaciones, expandiéndose desde Eu– hechizan a los escritores contemporáneos. Las nuevas formulacio-" ([Kuper 2008:14](zotero://open-pdf/library/items/V6DGJT7S?page=14))
 
@@ -100,7 +99,7 @@ Adam Kuper
 
 "gió hecho y derecho en 1951, con El sistema social. Entonces, la «culideas y de los valores. Su medio era la circulación de símbolos: «Los objetos culturales son elementos simbólicos de las tradiciones cultu-a propia. «Excepto en tanto que parte de un sistema de acción concre-" ([Kuper 2008:35](zotero://open-pdf/library/items/V6DGJT7S?page=35))
 
-"En concreto, Kluckhohn objetaba que se debería tratar, al menos parcialmente, la [estructura-social](estructura-social.md) como un elemento de la cultura: «la [estructura-social](estructura-social.md) es parte del mapa cultural, el sistema social se edifica sobre las vigas suministradas por la cultura, implí- humanista para poder aceptar que la [estructura-social](estructura-social.md) se pudiera separar de la cultura en calidad de «un nivel auténticamente inde-"" ([Kuper 2008:36](zotero://open-pdf/library/items/V6DGJT7S?page=36))
+"En concreto, Kluckhohn objetaba que se debería tratar, al menos parcialmente, la [[estructura social]] como un elemento de la cultura: «la [[estructura social]] es parte del mapa cultural, el sistema social se edifica sobre las vigas suministradas por la cultura, implí- humanista para poder aceptar que la [[estructura social]] se pudiera separar de la cultura en calidad de «un nivel auténticamente inde-"" ([Kuper 2008:36](zotero://open-pdf/library/items/V6DGJT7S?page=36))
 
 "Franz Boas, de este estancamiento intelectual: no produjo su primera definición de cultura hasta que tuvo setenta y dos años. Pero Boas simplecientíficos sociales americanos, muchos de ellos antropólogos, crea-" ([Kuper 2008:37](zotero://open-pdf/library/items/V6DGJT7S?page=37))
 
@@ -142,7 +141,7 @@ Adam Kuper
 
 "La nueva disciplina académica conocida como «estudios culturales» representa un potente desafío para la antropología cultural." ([Kuper 2008:132](zotero://open-pdf/library/items/V6DGJT7S?page=132))
 
-"En los estudios culturales, la «cultura» incluye las bellas artes, la literatura y la erudición, la materia del currículum de las humanidades, pero también admite el arte negro de los medios de comunicación y la esfera vagamente demarcada de la cultura popular (una mezcla de lo que se solía llamar folklore y del arte proletario, más deportes). Estas formas de cultura se valoran de manera muy diferente. A grandes trazos, se sospecha de la alta cultura oficial, mientras se condena la cultura de masas como sucedáneo, si no como corrupción irremediable (aunque, dentro del ramo, se puede condescender con un cierto placer obtenido de los culebrones); sin embargo, se trata con simpatía a la cultura popular. Los académicos radicales no contemplan la alta cultura como un [bien-comun](bien-comun.md), que deba ser conservado y transmitido. La «cultura» de élite se debe entender más bien como una forma conspicua de consumo, una marca de estatus," ([Kuper 2008:132](zotero://open-pdf/library/items/V6DGJT7S?page=132))
+"En los estudios culturales, la «cultura» incluye las bellas artes, la literatura y la erudición, la materia del currículum de las humanidades, pero también admite el arte negro de los medios de comunicación y la esfera vagamente demarcada de la cultura popular (una mezcla de lo que se solía llamar folklore y del arte proletario, más deportes). Estas formas de cultura se valoran de manera muy diferente. A grandes trazos, se sospecha de la alta cultura oficial, mientras se condena la cultura de masas como sucedáneo, si no como corrupción irremediable (aunque, dentro del ramo, se puede condescender con un cierto placer obtenido de los culebrones); sin embargo, se trata con simpatía a la cultura popular. Los académicos radicales no contemplan la alta cultura como un [[bien común]], que deba ser conservado y transmitido. La «cultura» de élite se debe entender más bien como una forma conspicua de consumo, una marca de estatus," ([Kuper 2008:132](zotero://open-pdf/library/items/V6DGJT7S?page=132))
 
 "Como mínimo, los antropólogos se ven apremiados para incorporar las proposiciones centrales de los estudios culturales: que la cultura sirve al poder y que es (y debe ser) contestada. Ahí hay claramente algo. Aunque la cultura no sea lo mismo que la ideología, sin duda hay un lugar para una descripción crítica de los mercaderes de la cultura. Pero muchos antropólogos se sienten estafados por el programa de los estudios culturales. La objeción obvia es que, cuando se restringe la cultura a las artes, los medios de comunicación y el sistema educacional, se trata sólo con una parte de lo que los antropólogos entienden por cultura y, además, desde una perspectiva muy particular." ([Kuper 2008:133](zotero://open-pdf/library/items/V6DGJT7S?page=133))
 
@@ -164,15 +163,15 @@ Adam Kuper
 
 "K. Anthony Appiah objeta que Taylor infravalora el coste de definir la identidad en términos culturales. Un individuo puede no estar dispuesto a aceptar un rol estereotipado o a atenerse a una línea de separación de bandos. Sin embargo, al revelarse como un gayo al hacer causa común con otros afroamericanos, una persona puede descubrir que se espera de él que se adapte a unas expectativas estrictas de cómo se ha de comportar. "Pedir respeto para la gente en tanto que gays o negros requiere que haya algunos guiones asociados con ser un afroamericano o con tener deseos hacia personas del mismo sexo. Habrá formas adecuadas de ser negro y gay, expectativas que satisfacer, demandas que establecer. Es en este punto en el que alguien que se tome en serio la autonomía se preguntará si no hemos reemplazado una clase de tiranía por otra.»" ([Kuper 2008:136](zotero://open-pdf/library/items/V6DGJT7S?page=136))
 
-*Esto se explica mejor bajo una noción contextualista de la cultura, pero debe asumir el principio fundamental de cultura basada en la identidad. Además de identificar la diferencia, el contexto ambiental determina la plena integración de cada individuo con su medio sociocultural, por eso el sólo hecho de no tener una mano aunque por todo lo demás se conforme con el modelo hegemónico de la cultura sea motivo para establecer una diferencia: las cosas y el mundo social están creados para personas con dos manos. ([note on p.136](zotero://open-pdf/library/items/V6DGJT7S?page=136))*
+_Esto se explica mejor bajo una noción contextualista de la cultura, pero debe asumir el principio fundamental de cultura basada en la identidad. Además de identificar la diferencia, el contexto ambiental determina la plena integración de cada individuo con su medio sociocultural, por eso el sólo hecho de no tener una mano aunque por todo lo demás se conforme con el modelo hegemónico de la cultura sea motivo para establecer una diferencia: las cosas y el mundo social están creados para personas con dos manos. ([note on p.136](zotero://open-pdf/library/items/V6DGJT7S?page=136))_
 
-*La perspectiva contextualista se opone al esencialismo pero sin relativizarlo completamente, pues que las cosas dependan del contexto no es igual a que las cosas sean relativas sin más p.274 ([note on p.137](zotero://open-pdf/library/items/V6DGJT7S?page=137))*
+_La perspectiva contextualista se opone al esencialismo pero sin relativizarlo completamente, pues que las cosas dependan del contexto no es igual a que las cosas sean relativas sin más p.274 ([note on p.137](zotero://open-pdf/library/items/V6DGJT7S?page=137))_
 
 "pese a que la noción americana popular de identidad cultural se ha extendido más allá de los grupos étnicos, hasta alcanzar otros tipos de minorías, continúa siendo doblemente esencialista: uno tiene una identidad esencial que, a su vez, deriva del carácter esencial de la colectividad a la que pertenece. La adscripción a un grupo se puede establecer únicamente después de un prolongado proceso de auto inspección, pero no se puede escapar a la propia identidad. Hay algo todavía más esencial que la ha fijado: la naturaleza misma de cada uno." ([Kuper 2008:137](zotero://open-pdf/library/items/V6DGJT7S?page=137))
 
 "Los antropólogos americanos contemporáneos repudian las ideas populares, según las cuales, las diferencias son naturales y la identidad cultural se debe fundar sobre una identidad biológica primordial. Sin embargo, una retórica que pone gran énfasis en la diferencia y en la identidad no es la mejor ubicada para contrarrestar semejantes opiniones. Al contrario, la insistencia en que se pueden observar diferencias radicales entre pueblos y gentes sirve para sostenerlas. Esto se evidencia de inmediato en un repaso a las argumentaciones dedicadas a todo un amplio abanico de temas delicados, por ejemplo, aquellas que pretenden que los tesoros culturales se deben devolver a sus tierras nativas o las que objetan la idea de que un académico blanco sea el director de un programa de estudios afroamericanos. Porque, ¿cómo se puede conocer si la identidad cultural de una persona es auténtica? Sólo si se asume que la identidad se fija por filiación." ([Kuper 2008:137](zotero://open-pdf/library/items/V6DGJT7S?page=137))
 
-*Los problemas del multiculturalismo esencialista también pueden analizarse epistemológicamente. El esencialismo, aunque no exclusivamente, fundamenta el privilegio epistémico que a su vez justifica la autoridad epistémica. La antropología debería estar debatiendo también desde el nivel de su epistemología ([note on p.137](zotero://open-pdf/library/items/V6DGJT7S?page=137))*
+_Los problemas del multiculturalismo esencialista también pueden analizarse epistemológicamente. El esencialismo, aunque no exclusivamente, fundamenta el privilegio epistémico que a su vez justifica la autoridad epistémica. La antropología debería estar debatiendo también desde el nivel de su epistemología ([note on p.137](zotero://open-pdf/library/items/V6DGJT7S?page=137))_
 
 "miso con la identidad racial»."tura no es c. ..) una crítica del racismo», concluye Míchaels, «es una forma de racismo. Y, de hecho, a medida que ha aumentado el escepticismo sobre la definición biológica de raza, se ha convertido, al menos entre los intelectuales, en la forma de racismo dominante»." Lo mismo se aplica a la identidad: «lo que está mal de la identidad cultural es que carece de sentido si no recurre a la identidad racial que dice repudiar (en sus ma-" ([Kuper 2008:138](zotero://open-pdf/library/items/V6DGJT7S?page=138))
 
@@ -184,7 +183,7 @@ Adam Kuper
 
 "Otro tipo de objeción al culto a la diferencia, que debe preocupar a sus abogados, es que, en general, las cosas no aparecen así a los ojos de aquellos que tienen que abrirse camino entre extranjeros. A pesar de la supuesta realidad inevitable de la alteridad y la fuerza del determinismo cultural, el hecho es que, en general, los inmigrantes, refugiados y comerciantes parecen arreglárselas muy bien en sus nuevos hogares, dadas las oportunidades que se les presentan; no olvidan sus orígenes, pero se adaptan." ([Kuper 2008:139](zotero://open-pdf/library/items/V6DGJT7S?page=139))
 
-*Lo mismo que en el caso de la identidad, hay que explorar y definir mucho mejor lo que se entiende por diferencia para matizar el extremo del determinismo. No hay nada que impida definir a la diferencia en términos contextuales e históricos en lugar de esenciales o inherentes ([note on p.139](zotero://open-pdf/library/items/V6DGJT7S?page=139))*
+_Lo mismo que en el caso de la identidad, hay que explorar y definir mucho mejor lo que se entiende por diferencia para matizar el extremo del determinismo. No hay nada que impida definir a la diferencia en términos contextuales e históricos en lugar de esenciales o inherentes ([note on p.139](zotero://open-pdf/library/items/V6DGJT7S?page=139))_
 
 "Formuladas en términos ambiguos y débiles, todas las teorías dicen algo que, hoy por hoy, es bastante obvio y que apenas merece ser destacado, aunque la luz difusa que emiten pueda ser ocasionalmente útil. Sólo retienen el poder de impactar, incluso de interesar, cuando se las establece con fuerza, pero, entonces, sus pretensiones parecen exageradas, no reconciliables con lo que conocemos por propia experiencia. Además, a pleno rendimiento, tenemos razones para sospechar que no son buenas para la salud. Estas teorías comparten una debilidad fundamental. Nociones complejas como cultura o discurso inhiben el análisis de las relaciones entre variables que se aglutinan en un todo. Hasta las sofisticadas formulaciones modernas tienden a representar la cultura -o el discursocomo un sistema único, aunque atravesado por todo tipo de incoherencias y polémicas. De todas maneras, para entender la cultura, la debemos deconstruir. Se deberían separar las creencias religiosas, los rituales, el conocimiento, los valores morales, las artes, los géneros retóricos y demás, en vez de atarlos junto en un solo hato etiquetado como cultura, conciencia colectiva, superestructura o discurso. Al separar estos elementos, se obliga a explorar las configuraciones cambiantes de las relaciones mutuas entre lenguaje, conocimiento, técnicas, ideologías políticas, rituales, mercaderías y demás. Se puede replicar argumentando que la abstracción de un sistema de procesos culturales es un requerimiento puramente metodológico. Se puede tratar adecuadamente la esfera cultural como si fuese un todo autónomo, si bien sólo por motivos analíticos. Pero el problema reaparece agudizado, cuando se convierte este artificio metodológico (habitualmente implícito) en la presunción de que la cultura se puede explicar en sus propios términos, una maniobra que incapacitará los futuros análisis." ([Kuper 2008:140](zotero://open-pdf/library/items/V6DGJT7S?page=140))
 
@@ -194,24 +193,24 @@ Adam Kuper
 
 ## Notas del capítulo 7
 
-* Las característiscas de la cultura que tienen un consenso relativo en antropología
+- Las característiscas de la cultura que tienen un consenso relativo en antropología
 
-* Las características de la cultura según los estudios culturales y su relación con la teoría y la práctica antropológica
+- Las características de la cultura según los estudios culturales y su relación con la teoría y la práctica antropológica
 
-* Cultura y su relación con la ideología
+- Cultura y su relación con la ideología
 
-* Multiculturalismo como respuesta de la antropología a los estudios culturales,
+- Multiculturalismo como respuesta de la antropología a los estudios culturales,
 
-* La cultura como identidad y diferencia en el multiculturalismo
+- La cultura como identidad y diferencia en el multiculturalismo
 
-* La tendencia a esencializar la cultura si se toma como identidad
+- La tendencia a esencializar la cultura si se toma como identidad
 
-* El multiculturalismo esencialista asume que en lugar de una cultura homogénea dominante hay múltiples culturas homogéneas yuxtapuestas, pero eso no elimina el problema de las homogeneización
+- El multiculturalismo esencialista asume que en lugar de una cultura homogénea dominante hay múltiples culturas homogéneas yuxtapuestas, pero eso no elimina el problema de las homogeneización
 
-* La visión multuculturalista se podría beneficiar del contextualismo, del constructivismo, de los debates a nivel epistemológico
+- La visión multuculturalista se podría beneficiar del contextualismo, del constructivismo, de los debates a nivel epistemológico
 
-* ¿Es el multiculturalismo esencialista un determinismo cultural?
+- ¿Es el multiculturalismo esencialista un determinismo cultural?
 
-* La identidad como construcción cultural
+- La identidad como construcción cultural
 
-* ¿podría existir un punto de partida común para comparar las diferencias culturales?
+- ¿podría existir un punto de partida común para comparar las diferencias culturales?

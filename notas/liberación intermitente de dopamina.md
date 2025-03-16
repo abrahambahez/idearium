@@ -1,0 +1,4 @@
+# liberación intermitente de dopamina
+La liberación intermitente de [[dopamina]] es un fenómeno por el cual una actividad puede liberar niveles variados de dopamina y por tanto, influir en la motivación y la frecuencia con la que realizamos dicha actividad. Nuestra experiencia de cada actividad también influye en las expectativas de recompensa que tenemos ([[error de predicción de recompensa de dopamina]]). Para @huberman2021, si no ponemos atención a estos patrones de intermitencia podemos engancharnos con actividades diseñadas para estimularlos, como los juegos de casino.
+
+Es posible gestionar los picos que se producen sobre el nivel base de la dopamina al realizar actividades o interactuar con sustancias que inducen esos picos. Uno de los objetivos de esta gestión es evitar una [[conducta adictiva]] alrededor de una actividad o sustancia, otro es ayudar en el [[disfrute del esfuerzo]].

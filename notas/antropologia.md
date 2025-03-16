@@ -1,3 +1,0 @@
-# antropología
-
-Nodo.

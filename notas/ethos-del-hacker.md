@@ -1,9 +1,0 @@
-# ethos del hacker
-
-De acuerdo con @reagle2019 [cap. Introducción] *[ethos](ethos.md) de hacker* es una aproximación individualista y racional de sistematizar y experimentar para producir un [hack](hack.md). Usualmente estos procesos de sistematización involucran procesos de ingeniería electrónica, pero también pueden hacerse sobre otros sistemas en sentido amplio (sociopolíticos, económicos), como los sistemas comerciales, de salud.
-
-Para el ethos del hacker, todo se concibe como un *sistema*. Esta percepción es un [estilo-cognitivo](estilo-cognitivo.md) *sistemático* (racional y analítico) que es, en cierto sentido, la cosmovisión por la que todos los *hackers* abogan.
-
-Aunque los casos que estudia Reagle son ciertamente, de un matiz hiper-individualista, el autor no consideró las muchas manifestaciones *colectivistas* de la cultura del hacker, que pueden verse en [*The Anthropology of Hackers*](https://www.theatlantic.com/technology/archive/2010/09/the-anthropology-of-hackers/63308/) [@coleman2010]; o que están plasmadas en [*A Hacker's Manifesto*](https://theanarchistlibrary.org/library/mckenzie-wark-a-hacker-s-manifesto) [@wark2013].
-
-Para @beltran2022 hay una influencia del *DIY* ([movimiento-maker](movimiento-maker.md)) en la cultura de la postguerra que produjo espacios *masculinizados* (como los sótanos donde hombres se aislaban de niños y mujeres para afirmar su *masculinidad técnica*, una expresión de [androcentrismo-tecnologico](androcentrismo-tecnologico.md)) que promoverían la imagen estereotípica del hombre blanco solitario con computadoras en su sótano. Para el autor la asociación  de una *genialidad* técnica refuerza una imagen de *hechicería* y elitismo a la práctica masculina del hacker.

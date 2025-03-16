@@ -1,8 +1,8 @@
 # An Ethnographic Inventory: Field Devices for Anthropological Inquiry (Tomás Sánchez Criado, Adolfo Estalella 2023)
-
 [zotero](zotero://select/items/@criado&estalella2023)
 
 ## Resumen
+
 
 ## Contexto
 
@@ -16,12 +16,14 @@ Es un libro de <!--Física, Psicología, Divulgación, Autoayuda, Manual técnic
 
 Estructura conceptual: <!--según el escaneo de páginas-->
 
-* Propone el concepto de [dispositivo-de-campo](dispositivo-de-campo.md)
+- Propone el concepto de [[dispositivo de campo]]
 
 Argumentos generales:<!--Según la lectura rápida-->
 
-* La etnografía es un proceso intrínsecamente creativo de investigación
+- La etnografía es un proceso intrínsecamente creativo de investigación
 
 <!--El libro me gustó / no me gustó porque-->
 
+
 ## Extractos
+

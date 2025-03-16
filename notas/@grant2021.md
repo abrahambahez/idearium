@@ -16,43 +16,43 @@ Es un libro de divulgación en psicología y psicología organizacional orientad
 
 El argumento va de lo particular a lo general. Comienza con las creencias individuales (abrir nuestra propia mente), pasa por lo interpersonal (animar a los demás a pensar de nuevo las cosas) y termina con consideraciones pedagógicas generales (comunidades de aprendices vitalicios) [26-27].
 
-La **reconsideración** es el concepto más importante del libro. Esta idea implica un primer conjunto de creencias, lo «considerado», que debería ser susceptible de reevaluación. El problema es que la reevaluación no suele suceder, por varias razones. Lo considerado puede formar parte de nuestra autoimagen, el sentido común, los hábitos, la intuición (falaz en muchos contextos, como expone [@kahneman2014](@kahneman2014.md)). La reconsideración, por tanto, implica otro conjunto de elementos cognitivos e identitarios que debe ponerse en juego y al que no estamos acostumbrados.
+La **reconsideración** es el concepto más importante del libro. Esta idea implica un primer conjunto de creencias, lo «considerado», que debería ser susceptible de reevaluación. El problema es que la reevaluación no suele suceder, por varias razones. Lo considerado puede formar parte de nuestra autoimagen, el sentido común, los hábitos, la intuición (falaz en muchos contextos, como expone [[@kahneman2014]]). La reconsideración, por tanto, implica otro conjunto de elementos cognitivos e identitarios que debe ponerse en juego y al que no estamos acostumbrados.
 
 El ciclo de la reconsideración [51] es:
 
-````mermaid
+```mermaid
 flowchart TD
     humildad-->duda-->curiosidad-->descubrimiento-->humildad
-````
+```
 
-El ciclo de la autosuficiencia es:
+El ciclo de la autosuficiencia es: 
 
-````mermaid
+```mermaid
 flowchart TD
 orgullo-->convicción-->sesgo-->validación-->orgullo
-````
+``` 
 
 ### Reconsideración individual
 
-Grant propone en cuatro prosopopeyas para explicar mentalidades que asumimos sobre nuestras creencias, cada una es una [posicion-interpretativa](posicion-interpretativa.md): el predicador trata de convencer con fe, el fiscal busca acusar con evidencia en contra, el político procura el favor de los demás, y científico debe evaluar creencias con evidencia empírica. La mentalidad de un científico es preferible; deberíamos poner nuestras creencias en un ciclo de teoría-hipótesis-prueba-conclusión, en muchos casos nos conviene buscar motivos para cambiar de opinión ([falsacion](falsacion.md)), ya que eso nos mantiene lejos de sesgos como la [falacia-de-la-primera-intuicion](falacia-de-la-primera-intuicion.md) o el [sesgo-de-confirmacion](sesgo-de-confirmacion.md).
+Grant propone en cuatro prosopopeyas para explicar mentalidades que asumimos sobre nuestras creencias, cada una es una [[posición interpretativa]]: el predicador trata de convencer con fe, el fiscal busca acusar con evidencia en contra, el político procura el favor de los demás, y científico debe evaluar creencias con evidencia empírica. La mentalidad de un científico es preferible; deberíamos poner nuestras creencias en un ciclo de teoría-hipótesis-prueba-conclusión, en muchos casos nos conviene buscar motivos para cambiar de opinión ([[falsación]]), ya que eso nos mantiene lejos de sesgos como la [[falacia de la primera intuición]] o el [[sesgo de confirmación]].
 
-Un problema para la reconsideración es la relación entre la confianza y el conocimiento real de las cosas ([efecto-Dunning-Kruger](efecto-Dunning-Kruger.md)). Por tanto, es importante observar el exceso de confianza, valorar la duda razonable y enmarcar las equivocaciones como parte del proceso de aprendizaje. Buscar discusiones constructivas y personas de quienes aprender y con quienes diferir intelectualmente ayuda a la formación de un [habito-de-la-reconsideracion](habito-de-la-reconsideracion.md).
+Un problema para la reconsideración es la relación entre la confianza y el conocimiento real de las cosas ([[efecto Dunning-Kruger]]). Por tanto, es importante observar el exceso de confianza, valorar la duda razonable y enmarcar las equivocaciones como parte del proceso de aprendizaje. Buscar discusiones constructivas y personas de quienes aprender y con quienes diferir intelectualmente ayuda a la formación de un [[hábito de la reconsideración]].
 
 ### Animar a los demás a reconsiderar
 
-Animar a los demás a reconsiderar puede lograrse a través de técnicas como la [escucha-persuasiva](escucha-persuasiva.md) y la [entrevista-motivacional](entrevista-motivacional.md) [209], cuestionando más el «cómo» que el «por qué» y tratando de entender cómo es que una persona llegó a formar sus creencias, para identificar el tipo de pruebas que la ayudarían a abrir su mente. [efecto-perspectiva](efecto-perspectiva.md)
+Animar a los demás a reconsiderar puede lograrse a través de técnicas como la [[escucha persuasiva]] y la [[entrevista motivacional]] [209], cuestionando más el «cómo» que el «por qué» y tratando de entender cómo es que una persona llegó a formar sus creencias, para identificar el tipo de pruebas que la ayudarían a abrir su mente. [[efecto perspectiva]]
 
-Grant recomienda una estrategia de [gestion-del-desacuerdo](gestion-del-desacuerdo.md) que consiste en verlo más como un baile que como una batalla. Los cuatro puntos clave son: buscar puntos en común; usar menos argumentos, pero más sólidos; reforzar la libertad de elección para evitar la sensación de que una opinión está siendo impuesta, y apelar a la meta-comunicación cuando la conversación esté yendo a lo personal.
+Grant recomienda una estrategia de [[gestión del desacuerdo]] que consiste en verlo más como un baile que como una batalla. Los cuatro puntos clave son: buscar puntos en común; usar menos argumentos, pero más sólidos; reforzar la libertad de elección para evitar la sensación de que una opinión está siendo impuesta, y apelar a la meta-comunicación cuando la conversación esté yendo a lo personal.
 
-### Comunidades de aprendizaje
+### Comunidades de aprendizaje 
 
-Las discusiones polémicas siempre implican temas complejos, pero el desacuerdo suele surgir del reduccionismo polarizador que los ubica en dos interpretaciones opuestas e irreconciliables. Esta polarización no es solo intelectual, sino también emocional; hay una correlación entre ambas cosas. Centrarse en los matices, la complejidad, las excepciones, las múltiples perspectivas, así como en buscar ampliar el rango emocional por el que pasamos en una discusión, son tácticas de [gestion-del-desacuerdo](gestion-del-desacuerdo.md).
+Las discusiones polémicas siempre implican temas complejos, pero el desacuerdo suele surgir del reduccionismo polarizador que los ubica en dos interpretaciones opuestas e irreconciliables. Esta polarización no es solo intelectual, sino también emocional; hay una correlación entre ambas cosas. Centrarse en los matices, la complejidad, las excepciones, las múltiples perspectivas, así como en buscar ampliar el rango emocional por el que pasamos en una discusión, son tácticas de [[gestión del desacuerdo]].
 
 Pensar como niño y enseñar a los niños a reconsiderar: buscar desmontar mitos frecuentemente, hacer múltiples borradores de una idea o imagen y pedir opiniones diversas. Evitar definir su identidad por creencias (no preguntar qué quieren ser de grandes), ya que esto promueve la fijación.
 
 Crear organizaciones para aprender implica abandonar la idea de «mejores prácticas», crear un ambiente de «seguridad» psicológica donde puedan cuestionarse las cosas con libertad, y también evaluar tanto los resultados como los procesos.
 
-Estar predispuestos a reconsiderar el futuro es parte del [habito-de-la-reconsideracion](habito-de-la-reconsideracion.md), ya que implica programar actividades reflexivas a lo largo del tiempo (revisar tu agenda, hacer un chequeo vital una vez al año) y abandonar la idea de planes a muy largo plazo como si los intereses y creencias fueran inmutables.
+Estar predispuestos a reconsiderar el futuro es parte del [[hábito de la reconsideración]], ya que implica programar actividades reflexivas a lo largo del tiempo (revisar tu agenda, hacer un chequeo vital una vez al año) y abandonar la idea de planes a muy largo plazo como si los intereses y creencias fueran inmutables.
 
 ## Discusión
 
@@ -60,5 +60,5 @@ El libro me gustó / no me gustó porque
 
 Nociones más profundas:
 
-* [epistemologia-del-desacuerdo](epistemologia-del-desacuerdo.md)
-* [filosofia-intercultural](filosofia-intercultural.md)
+- [[epistemología del desacuerdo]]
+- [[filosofía intercultural]]

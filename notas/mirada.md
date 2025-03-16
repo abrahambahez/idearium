@@ -1,6 +1,5 @@
 # mirada
-
-Puede considerarse un [principio-epistemologico](principio-epistemologico.md) centrado en el [constructivismo](constructivismo.md) del conocimiento sociocultural.
+Puede considerarse un [[principio epistemológico]] centrado en el [[constructivismo]] del conocimiento sociocultural.
 
 Toda mirada está teóricamente informada, pero no toda teoría es un marco teórico, a veces sólo son conceptos.
 

@@ -1,3 +1,2 @@
 # historia
-
 Nodo

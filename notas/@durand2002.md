@@ -1,10 +1,9 @@
 # La relación ambiente-cultura en antropología: Recuento y perspectivas
-
 Leticia Durand
 
 ## Notas
 
-Un artículo que profundiza teóricamente en la [interaccion-sociedad-ambiente](interaccion-sociedad-ambiente.md)
+Un artículo que profundiza teóricamente en la [[interacción sociedad-ambiente]]
 
 ¿Por qué damos por hecha la distinción entre el par ambiente-cultura?
 
@@ -50,16 +49,17 @@ Cada grupo humano entiende de una forma particular su relación con la naturalez
 
 ## Referencias
 
-* Posibilismo
+- Posibilismo
 
-* Kroeber, Alfred (1917) *The superorganic*
+- Kroeber, Alfred (1917) *The superorganic*
 
-* Ecología cultural
+- Ecología cultural
 
-* Stweard, Julian (1936). *The economic and social basis of primitive bands*
+- Stweard, Julian (1936). *The economic and social basis of primitive bands*
 
-* — — (1955). *The theory of culture change*
+- — — (1955). *The theory of culture change*
 
-* Etnoecología
+- Etnoecología
 
-* Toledo, Víctor Manuel y otros (1995). *La selva útil: etnobotánica cuantitativa de los grupos indígenas del trópico húmedo de México*
+- Toledo, Víctor Manuel y otros (1995). *La selva útil: etnobotánica cuantitativa de los grupos indígenas del trópico húmedo de México*
+

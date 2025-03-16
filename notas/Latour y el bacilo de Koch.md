@@ -1,0 +1,4 @@
+# Latour y el bacilo de Koch
+>La historia de las ciencias se enfrenta siempre con una dificultad insalvable en la que esta imagen nos permitirá penetrar. ¿Dónde estaban entonces los objetos que descubren los científicos "antes" de este descubrimiento? Si, por ejemplo, en Val de Grâce diagnosticaran que Ramsés II murió de tuberculosis, ¿cómo sería posible que hubiera muerto a causa de un bacilo descubierto por Robert Koch en 1882? ¿Cómo, mientras estaba vivo, hubiera podido beber cerveza fermentada con una levadura que Pasteur (gran adversario de Koch) puso en evidencia recién hacia mediados del siglo XIX? [@latour2010, 76]
+
+[[constructivismo de la identidad cultural]]

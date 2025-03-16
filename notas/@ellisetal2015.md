@@ -1,10 +1,10 @@
 # AUTOETNOGRAFÍA: UN PANORAMA
-
 Carolyn Ellis,Tony E Adams,Arthur P Bochner
+
 
 ## Anotaciones **(17/10/2022 13:27:15)**
 
-"La [autoetnografia](autoetnografia.md) es uno de los enfoques que reconoce y da lugar a la subjetividad, la emocionalidad y la influencia del investigador en su trabajo, en lugar de ocultar estas cuestiones o pretender que no existen." (Ellis et al., 2015, p. 252)
+"La [[autoetnografía]] es uno de los enfoques que reconoce y da lugar a la subjetividad, la emocionalidad y la influencia del investigador en su trabajo, en lugar de ocultar estas cuestiones o pretender que no existen." (Ellis et al., 2015, p. 252)
 
 "Una epifanía constituye un fenómeno íntimo que una persona puede considerar como una experiencia transformadora, en tanto que otra, tal vez no, y muestra las maneras en que podrían manejarse "situaciones intensas" y "efectos que perduran –recuerdos, imágenes, sentimientos– largo tiempo después que un evento crucial supuestamente ha concluido" (Bochner, 1984: 595)." (Ellis et al., 2015, p. 253)
 
@@ -50,4 +50,5 @@ Carolyn Ellis,Tony E Adams,Arthur P Bochner
 
 "En lugar de una preocupación por la exactitud, la meta es producir textos analíticos y accesibles que nos cambien a nosotros mismos y al mundo en que vivimos para mejor (Holman Jones, 2005: 764)" (Ellis et al., 2015, p. 264)
 
-\**
+**
+

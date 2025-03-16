@@ -4,9 +4,10 @@ David Graeber, David Wengrow 2021, [zotero](zotero://select/items/@graeber&wengr
 
 ## Resumen
 
+
 ## Notas
 
-[el-Estado-como-agente](el-Estado-como-agente.md) y la [imaginacion-politica](imaginacion-politica.md)
+[[el Estado como agente]] y la [[imaginación política]]
 
 Argumentos:
 

@@ -1,3 +1,0 @@
-# giro espacial
-
-Es una forma de pensar al [espacio](espacio.md) más allá de lo puramente geográfico, geométrico y en general abstracto. Ir más allá implica un [constructivismo](constructivismo.md) del concepto, pues deja de ser una *entidad independiente* de la relación dinámica entre agentes y entornos que lo producen, y se le suma la carga de elementos socioculturales, históricos y afectivos. Siguiendo a Massey, @sheller2017 [p. 2] afirma que el espacio «está siempre en construcción».

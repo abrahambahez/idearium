@@ -1,5 +1,4 @@
 # El territorio como recurso: Movilidad y apropiación del espacio en México y Centroamérica
-
 Odile Hoffmann,Carlos Efrén Agudelo Alvarado,Álavaro Caballeros,Abelardo Morales Gamboa,Patrice Melé,Abelardo Morales Gamboa,Delphine Prunier,Hélène Roux,María Teresa Rodríguez,Emilia Velázquez Hernandez
 
 ## Cap 2
@@ -10,7 +9,7 @@ el espacio no es mero soporte ni contexto, que sólo existe en tanto que concebi
 
 además de ser una producción y una construcción social, el espacio también es portador de sentido y, por lo tanto, productor de comportamientos o acciones
 
-Hipótesis que se probaron. La primera consiste en plantear que los contextos de [movilidad](movilidad.md) favorecen las “innovaciones territoriales”, aunque sea sólo para responder a la novedad objetiva de las situaciones con las que se encuentran las personas, las familias y los colectivos durante sus desplazamientos. La segunda hipótesis plantea que estas innovaciones territoriales son una vía privilegiada de expresión pública para los que no disponen de capital suficiente para hacerse oír a través de los medios políticos institucionalizados: los que no tienen acceso a un capital económico negociable; o los que no disponen de suficiente capital discursivo para garantizarles un mínimo de capacidad de negociación en las escenas públicas.
+Hipótesis que se probaron. La primera consiste en plantear que los contextos de [[movilidad]] favorecen las “innovaciones territoriales”, aunque sea sólo para responder a la novedad objetiva de las situaciones con las que se encuentran las personas, las familias y los colectivos durante sus desplazamientos. La segunda hipótesis plantea que estas innovaciones territoriales son una vía privilegiada de expresión pública para los que no disponen de capital suficiente para hacerse oír a través de los medios políticos institucionalizados: los que no tienen acceso a un capital económico negociable; o los que no disponen de suficiente capital discursivo para garantizarles un mínimo de capacidad de negociación en las escenas públicas.
 
 ### Tecnologías territoriales
 
@@ -20,9 +19,9 @@ Siguiendo a @hoffmann2020, después del famoso libro de Lacoste en 1976 ( « La 
 
 Desde la sociología política, se reconoce que el espacio es político en cuanto que es un “sistema de relaciones”. Significa, prácticamente, que la espacialización hace posible ciertas puestas en relación, algunas sí y otras no, algunas más que otras. párr. 7
 
-Las prácticas redibujan tanto los sujetos como los espacios. Ambos adquieren calidades distintas en función de su interrelación: los pobladores de tal o cual porción de espacio se transforman en « tributarios » o « ciudadanos » en cuanto ésta se vuelve jurisdicción (municipio, estado, nación). Al revés, una lucha política o económica entre facciones facilmente adquiere expresiones espaciales que pueden desembocar en nuevas divisiones territoriales, el caso más evidente sigue siendo el de las luchas anticoloniales y de la creación de territorios políticos independientes. A diferencia del espacio, que es un campo de disputa a la vez material e imaterial (político, cultural, etc.), como lo acabamos de precisar, ==el [territorio](territorio.md) es una porción delimitada de espacio, sujeta a un proceso de apropiación por sujetos sociales y actores políticos, sean individuos (territorio corporal, territorio familiar) o, lo más comunmente, colectivos: los territorios de un pueblo, una empresa, un grupo étnico, una nación.== párr. 9
+Las prácticas redibujan tanto los sujetos como los espacios. Ambos adquieren calidades distintas en función de su interrelación: los pobladores de tal o cual porción de espacio se transforman en « tributarios » o « ciudadanos » en cuanto ésta se vuelve jurisdicción (municipio, estado, nación). Al revés, una lucha política o económica entre facciones facilmente adquiere expresiones espaciales que pueden desembocar en nuevas divisiones territoriales, el caso más evidente sigue siendo el de las luchas anticoloniales y de la creación de territorios políticos independientes. A diferencia del espacio, que es un campo de disputa a la vez material e imaterial (político, cultural, etc.), como lo acabamos de precisar, ==el [[territorio]] es una porción delimitada de espacio, sujeta a un proceso de apropiación por sujetos sociales y actores políticos, sean individuos (territorio corporal, territorio familiar) o, lo más comunmente, colectivos: los territorios de un pueblo, una empresa, un grupo étnico, una nación.== párr. 9
 
-Históricamente, en la tradición política occidental, el modelo del estado-nación moderno westfaliano que se impone en el siglo XVII ha legitimado un orden territorial que se construyó sobre la adecuación entre espacio y población, territorio y [pueblo](pueblo.md), es decir una supuesta correspondencia entre una nación, un pueblo, un territorio nacional e, idealmente, una lengua común. Desde entonces, en este modelo occidental, gobernar consistió en gestionar estas dos entradas: el control del territorio (soberanía territorial, fronteras) y el control de la población (fiscalidad, registro civil). párr. 10
+Históricamente, en la tradición política occidental, el modelo del estado-nación moderno westfaliano que se impone en el siglo XVII ha legitimado un orden territorial que se construyó sobre la adecuación entre espacio y población, territorio y [[pueblo]], es decir una supuesta correspondencia entre una nación, un pueblo, un territorio nacional e, idealmente, una lengua común. Desde entonces, en este modelo occidental, gobernar consistió en gestionar estas dos entradas: el control del territorio (soberanía territorial, fronteras) y el control de la población (fiscalidad, registro civil). párr. 10
 
 Los contextos de movilidad son lugares de observación privilegiada de las interacciones entre espacio, población y el actuar político. La migración (comprendida en el sentido amplio de circulación y movilidades múltiples) significa ruptura en el espacio y también en el tiempo. párr 11
 
@@ -32,7 +31,7 @@ Para entender las transformaciones en y del espacio hay que observar las prácti
 
 Me refiero aquí a espacios tradicionalmente asociados a pueblos o comunidades pensadas como estables –las comunidades indígenas rurales- y que, en contextos de movilidad, se reconfiguran in situ, en los lugares de origen de los migrantes. Tomaré dos ejemplos, el del pueblo misak en Colombia y el del territorio comunal maya en Belice.
 
-La [vision-misak-de-la-expansion-del-espacio](vision-misak-de-la-expansion-del-espacio.md)
+La [[visión misak de la expansión del espacio]]
 
 ### \*Maya Homeland\* en el sur de Belice
 
@@ -48,7 +47,7 @@ otro ejemplo de expresión territorial de la resistencia en las movilizaciones s
 
 ### El caso de las configuraciones en diáspora
 
-Finalmente, un tercer caso de configuración territorial en movilidad, más conocido, es el de los espacios diaspóricos, en los que la movilidad va acompañada de un cambio radical de la [territorialidad](territorialidad.md), consecuencia de la pérdida traumática de la relación con el territorio de origen. Numerosos trabajos han subrayado la intensidad de los traumatismos de los exilios forzosos (Hovanessian, 2007 (2011); Chivallon, 2004). Otros autores destacan la manera en que, en contextos de globalización, la circulación acelerada de personas y sujetos lleva a la constitución de diásporas culturales y de nuevos “paisajes” (los scapes de Appadurai, 1996). párr.22
+Finalmente, un tercer caso de configuración territorial en movilidad, más conocido, es el de los espacios diaspóricos, en los que la movilidad va acompañada de un cambio radical de la [[territorialidad]], consecuencia de la pérdida traumática de la relación con el territorio de origen. Numerosos trabajos han subrayado la intensidad de los traumatismos de los exilios forzosos (Hovanessian, 2007 (2011); Chivallon, 2004). Otros autores destacan la manera en que, en contextos de globalización, la circulación acelerada de personas y sujetos lleva a la constitución de diásporas culturales y de nuevos “paisajes” (los scapes de Appadurai, 1996). párr.22
 
 el concepto de diáspora se ha extendido a los casos de migraciones masivas; califica fenómenos que afectan a numerosas regiones del mundo y reorganizan las territorialidades, tanto en las zonas de salida como en las de llegada, y sus interacciones. párr. 22
 
@@ -66,6 +65,7 @@ Históricamente, en los modelos occidentales, la frontera entre estados- nacione
 
 El espacio puede ser efectivamente un recurso accesible para los sin-voz, un medio de expresión para los que no tienen la práctica ni los medios de hacerse oír en las escenas públicas. párr.27
 
-Interesándose por la [arquitectura](arquitectura.md), A. Lévy también veía ahí un lenguaje, sosteniendo que esta propuesta implicaba dos postulados: “(I) el espacio no necesita hablarse para significar, sino que significa directamente; (ii) el espacio significa algo más que él mismo, algo más que su materialidad física” (Lévy, 2008). Si el espacio significa por sí mismo, sin necesidad de traducción, entonces es necesario atenderse a sus características propias, materiales (estructura, tamaño, composición, ubicación, etc.), para entender este significado. párr.28
+Interesándose por la [[arquitectura]], A. Lévy también veía ahí un lenguaje, sosteniendo que esta propuesta implicaba dos postulados: “(I) el espacio no necesita hablarse para significar, sino que significa directamente; (ii) el espacio significa algo más que él mismo, algo más que su materialidad física” (Lévy, 2008). Si el espacio significa por sí mismo, sin necesidad de traducción, entonces es necesario atenderse a sus características propias, materiales (estructura, tamaño, composición, ubicación, etc.), para entender este significado. párr.28
 
 Oclc: 1193020661
+

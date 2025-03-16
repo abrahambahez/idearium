@@ -1,5 +1,4 @@
 # Becoming Maya: Ethnicity and social inequality in Yucatán since 1500 (Wolfgang Gabbert 2004)
-
 [zotero](zotero://select/items/@gabbert2004)
 
 ## Notas
@@ -9,61 +8,56 @@ El libro tiene 3 partes, ordenadas como periodos históricos: conquista-colonia,
 Part I The Conquest of Yucatan and the Development of  Colonial Rule, 1500-1821: Tribute Economy and  Estate Stratification
 
 1. Conquest and Colonial Rule
-1. Demography and Social Structure
-1. Group Consciousness 26
+2. Demography and Social Structure
+3. Group Consciousness 26
 
 Part II from Independence to Revolution, 1821-1910:  The Caste War and the Development of a  Monocrop Economy
 
 4. Economic Development
-4. The Caste War
-4. Social Inequality and Social Categories
+5. The Caste War 
+6. Social Inequality and Social Categories
 
 Part III from the Mexican Revolution to the Present:  Revolution, Social Mobility, and Structural  Violence
 
 7. Economy and Politics since 1915
-7. Ethnic Discourses, 1915-40
-7. Education and Language Policies since the Revolution
-7. Social Categories an Status Symbols
-7. The Chenes Region
-7. Ethnicityand Social Inequality in Yucatan-a Summary
+8. Ethnic Discourses, 1915-40
+9. Education and Language Policies since the Revolution
+10. Social Categories an Status Symbols
+11. The Chenes Region
+12. Ethnicityand Social Inequality in Yucatan-a Summary
 
 ### Definición de etnicidad
 
-Definición de etnicidad (también se adscribe a la noción de [@barth1976](@barth1976.md)):
-
- >
- > As there is no common understanding of the usage of the term "ethnicity,"  a definition is necessary. Ethnicity is understood here as referring to a phenomenon of social differentiation in which actors use cultural or phenotypical markers or symbols to distinguish themselves from others. It is  a method of classifying people into categories that include individuals of  both sexes and all age groups, using (socially constructed) origin as its primary reference.4 These boundary processes can result in the development  of a system of ethnic categories (i.e., classificatory units) or ethnic communities (i.e., units of action). It is therefore of the utmost importance  that the social categories present in a specific society, the groups or organizations based on such categories, and the individuals using them in daily  interaction be kept separate analytically. It would be erroneous to conclude  from the existence of a category denoting a certain aggregate of individuals  that there is an automatic social cohesion, solidarity, and group consciousness within that population. Thus, the starting point for the analysis of  ethnicity should not be ethnic communities but individuals using ethnic categories in social interaction. [xii]
+Definición de etnicidad (también se adscribe a la noción de [[@barth1976]]):
+> As there is no common understanding of the usage of the term "ethnicity,"  a definition is necessary. Ethnicity is understood here as referring to a phenomenon of social differentiation in which actors use cultural or phenotypical markers or symbols to distinguish themselves from others. It is  a method of classifying people into categories that include individuals of  both sexes and all age groups, using (socially constructed) origin as its primary reference.4 These boundary processes can result in the development  of a system of ethnic categories (i.e., classificatory units) or ethnic communities (i.e., units of action). It is therefore of the utmost importance  that the social categories present in a specific society, the groups or organizations based on such categories, and the individuals using them in daily  interaction be kept separate analytically. It would be erroneous to conclude  from the existence of a category denoting a certain aggregate of individuals  that there is an automatic social cohesion, solidarity, and group consciousness within that population. Thus, the starting point for the analysis of  ethnicity should not be ethnic communities but individuals using ethnic categories in social interaction. [xii]
 
 Individualismo metodológico:
+> Thus, the starting point for the analysis of  ethnicity should not be ethnic communities but individuals using ethnic  categories in social interaction. [xii]
 
- >
- > Thus, the starting point for the analysis of  ethnicity should not be ethnic communities but individuals using ethnic  categories in social interaction. [xii]
-
-La [etnicidad](etnicidad.md) es un mecanismo de integración social necesario para integrar grupos más grandes que la *comunidad local*:
-
- >
- > Ethnic communities and nations are not, pace Thomas Hylland Eriksen, Richard Jenkins, and many others,9 ubiquitous forms of social organization but the result of a specific social distinction technique.lO Both  concepts refer to "imagined communities" (Benedict Anderson) that are  envisaged as limited and sovereign, and as "deep, horizontal comradeships."ll They are "imagined" communities because they are larger than  face-to-face groups and lack the respective means of enforcing compliance to social norms among their members. Only groups above the local  community level should be referred to as "ethnic" or "national," since  they have to integrate individuals who cannot be united through direct social, economic, or kin relationships. This requires special social integration  mechanisms, among them ethnicity and nationalism [xiii]
+La [[etnicidad]] es un mecanismo de integración social necesario para integrar grupos más grandes que la *comunidad local*:
+> Ethnic communities and nations are not, pace Thomas Hylland Eriksen, Richard Jenkins, and many others,9 ubiquitous forms of social organization but the result of a specific social distinction technique.lO Both  concepts refer to "imagined communities" (Benedict Anderson) that are  envisaged as limited and sovereign, and as "deep, horizontal comradeships."ll They are "imagined" communities because they are larger than  face-to-face groups and lack the respective means of enforcing compliance to social norms among their members. Only groups above the local  community level should be referred to as "ethnic" or "national," since  they have to integrate individuals who cannot be united through direct social, economic, or kin relationships. This requires special social integration  mechanisms, among them ethnicity and nationalism [xiii]
 
 La etnicidad es un aspecto de la desigualdad, especialmente en sociedades colonizadas [xiii], que establecen relaciones específicas de exclusión y discriminación. En relaciones inter e intraétnicas algunas personas pueden usar la etnicidad como un recurso para posicionarse.
 
 Etnicidad como orientada a la acción y al proceso [xvi].
 
 ### Argumentos
-
+ 
 Contrario a la noción de que en Yucatán hay indígenas mayas conviviendo la población descendiente de los conquistadores. Los hablantes del maya se niegan a usar el término como auto-identificatorio. Esta es una contradicción entre la autoidentificación y la identidad asignada [p. xi]
 
 Los campesinos no se ven a sí mismos como descendientes de los constructores de las ciudades antiguas (como Chichén Itzá) [p. xi, 161]. La cerámica encontrada al cavar para la construcción de casas es atribuida a los aluxes [161]
 
 Para el autor eso solo puede entenderse analizando la relación diacrónica entre etnicidad y desigualdad social. [p. xi]
 
-La población mayahablante de Yucatán nunca fue un grupo étnico consciente.
+La población mayahablante de Yucatán nunca fue un grupo étnico consciente. 
+
+
 
 ### Estructura política maya prehispánica
 
 El *ch'ibal* (afiliación patronímica):
 
- >
- > Matthew Restall suggests that a ch'ibal included all those  with the same patronym within a given community (kah). Beyond that,  a common interest and a common identity were perceived mostly at the  dynastic level. [6]
+>Matthew Restall suggests that a ch'ibal included all those  with the same patronym within a given community (kah). Beyond that,  a common interest and a common identity were perceived mostly at the  dynastic level. [6] 
 
 Los líderes de las élites *janach winik* también eran líderes locales (*batab*) de un pueblo (*kaj*). [6-7]
 
@@ -93,15 +87,12 @@ Los indígenas se volvieron salvajes en la guerra a los ojos de las élites. Pos
 
 El marcador más importante para identificar a los indígenas parece ser el apellido en la colonia, la independencia, la revolución y buena parte del sXX [78, 155]
 
-Concluye:
-
- >
- > It was only among the rebels in what is today  Quintana Roo that an ethnic consciousness developed, which, however, excluded Maya speakers from the rest of the peninsula. It was impossible  for the majority of this population to identify with the rebels, since they  constantly fought against them or were affected by their assaults on settlements in the territory controlled by the government [79].
+Concluye: 
+> It was only among the rebels in what is today  Quintana Roo that an ethnic consciousness developed, which, however, excluded Maya speakers from the rest of the peninsula. It was impossible  for the majority of this population to identify with the rebels, since they  constantly fought against them or were affected by their assaults on settlements in the territory controlled by the government [79].
 
 ### C12. Etnicidad y desigualdad social
 
- >
- > As I have shown in this book, the  notion of ethnic differentiation within the regional population cannot be  dismissed. The essence, however, does not lie in an adequate description  of social communities but is bound up with a central aspect of people's  worldview, that is, the hegemonic status system. As shown in chapter 10,  the social consciousness of the region's population distinguishes between  two ideal types, the Maya-speaking lower class and the Spanish-speaking  upper class [154]
+> As I have shown in this book, the  notion of ethnic differentiation within the regional population cannot be  dismissed. The essence, however, does not lie in an adequate description  of social communities but is bound up with a central aspect of people's  worldview, that is, the hegemonic status system. As shown in chapter 10,  the social consciousness of the region's population distinguishes between  two ideal types, the Maya-speaking lower class and the Spanish-speaking  upper class [154]
 
 Argumenta que el término de frontera étnica es menos útil en el caso de Yucatán que otros, como «diferenciación étnica», ya que la frontera como una línea está difuminada. En un pueblo como Hopelchén unos pueden ser considerados indígenas y otros ladinos, pero esos ladinos ser indígenas a los ojos de las capitales como Campeche o Mérida. [154]
 
@@ -111,13 +102,11 @@ Las élites usaron el matrimonio durante el siglo XX como un mecanismo para aseg
 
 Sobre las inclinaciones neoindigenistas de algunas personas educadas de origen indígena. Afirma la ironía de que sus reivindicaciones tienen un sesgo estereotipado y elitista de la cultura maya:
 
- >
- > The notion of belonging to a Maya  ethnic community is at its most advanced in this group, and a number of  people are working on the revival of the Maya language and its culture [...]
- >
- > Ironically, the affirmative views on Maya culture held by the ethnicized middle class mentioned above reproduce many of the general stereotypes of the national public. They, too, refer almost exclusively to the great  achievements of the ancient Maya civilization in astronomy, mathematics,  and architecture when accounting for the importance of" Maya culture." 20  To some extent this is an elitist discourse, since only traits restricted to the  upper class of the ancient indigenous society are meritioned as valuable  achievements of Maya civilization. Primarily retrogressive, it has little in  common with the present-day culture of Yucatan's Maya-speaking peasants and workers but unilaterally favors the preservation of what are supposed to be "the traditions." [159]
+>The notion of belonging to a Maya  ethnic community is at its most advanced in this group, and a number of  people are working on the revival of the Maya language and its culture [...]
+>
+>Ironically, the affirmative views on Maya culture held by the ethnicized middle class mentioned above reproduce many of the general stereotypes of the national public. They, too, refer almost exclusively to the great  achievements of the ancient Maya civilization in astronomy, mathematics,  and architecture when accounting for the importance of" Maya culture." 20  To some extent this is an elitist discourse, since only traits restricted to the  upper class of the ancient indigenous society are meritioned as valuable  achievements of Maya civilization. Primarily retrogressive, it has little in  common with the present-day culture of Yucatan's Maya-speaking peasants and workers but unilaterally favors the preservation of what are supposed to be "the traditions." [159]
 
- >
- > The backward-looking orientation of many of Yucatan's "Indianists" is  also evident in their language policy. They propagate the idea of Yucatec  Maya as a language purified from Spanish influence. The ordinary speech  of the lower-class Maya speakers is despised as polluted and degenerate,  and of inferior value because of its numerous lexical and grammatical elements derived from Spanish. Thus, "Indianists" themselves contribute  to preserving the low status of the Maya language.23 Lower-class Maya  speakers would be required to laboriously learn the "real," "true" Maya  created by intellectuals. Confronted with the rare opportunities on the  peninsula that link a knowledge of Maya with social advancement, it is no  wonder that most people prefer to acquire language skills in Spanish or  English.  [160]
+> The backward-looking orientation of many of Yucatan's "Indianists" is  also evident in their language policy. They propagate the idea of Yucatec  Maya as a language purified from Spanish influence. The ordinary speech  of the lower-class Maya speakers is despised as polluted and degenerate,  and of inferior value because of its numerous lexical and grammatical elements derived from Spanish. Thus, "Indianists" themselves contribute  to preserving the low status of the Maya language.23 Lower-class Maya  speakers would be required to laboriously learn the "real," "true" Maya  created by intellectuals. Confronted with the rare opportunities on the  peninsula that link a knowledge of Maya with social advancement, it is no  wonder that most people prefer to acquire language skills in Spanish or  English.  [160]
 
 La indigenización institucional y los recursos asociados a ella lleva a un uso instrumental de la identidad. [160]
 
@@ -125,5 +114,4 @@ El rol del EZLN y la reacción del gobierno para evitar levantamientos, que fue 
 
 Yucatec Mayan ethnicity today is still ethnic consciousness in the making [161]
 
- >
- > the evidence presented in this book has shown, an ethnic community encompassing all speakers of Yucatec Maya did not exist either  before or after the Conquest. In pre-Conquest and colonial times, cohesion within the indigenous population was based on locality, kinship, and  political clientelism and not on a cultural or genealogical link between the  Indian nobility and the commoners (chapter 3). With the gradual removal  of legal and administrative barriers between Indians and vecinos, a socially and culturally homogeneous lower class of Maya speakers with a <!--cambio página--> localized sense ofloyalty began to emerge in the course of the nineteenth  century in the north and west of the peninsula (chapter 6). Owing to decades of bloody confrontation, the descendants of the Caste War rebels  in what is today central Quintana Roo developed an ethnic consciousness  that excluded Maya speakers from the rest of the peninsula, who, for their  part, had little reason to identify themselves with the kruso'b (chapter 5).  However, the changes in Mexico's official ideology and its dissemination  in public schools, styling the Caste War as a precursor of agrarian reform  and a struggle for ethnic liberation, the new trend in international politics  favoring multiculturalism, and economic development, such as the tourist  megaproject Maya World (Mundo Maya), could contribute to overcoming  these cleavages in the future. [162]
+> the evidence presented in this book has shown, an ethnic community encompassing all speakers of Yucatec Maya did not exist either  before or after the Conquest. In pre-Conquest and colonial times, cohesion within the indigenous population was based on locality, kinship, and  political clientelism and not on a cultural or genealogical link between the  Indian nobility and the commoners (chapter 3). With the gradual removal  of legal and administrative barriers between Indians and vecinos, a socially and culturally homogeneous lower class of Maya speakers with a <!--cambio página--> localized sense ofloyalty began to emerge in the course of the nineteenth  century in the north and west of the peninsula (chapter 6). Owing to decades of bloody confrontation, the descendants of the Caste War rebels  in what is today central Quintana Roo developed an ethnic consciousness  that excluded Maya speakers from the rest of the peninsula, who, for their  part, had little reason to identify themselves with the kruso'b (chapter 5).  However, the changes in Mexico's official ideology and its dissemination  in public schools, styling the Caste War as a precursor of agrarian reform  and a struggle for ethnic liberation, the new trend in international politics  favoring multiculturalism, and economic development, such as the tourist  megaproject Maya World (Mundo Maya), could contribute to overcoming  these cleavages in the future. [162]

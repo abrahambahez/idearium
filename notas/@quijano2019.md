@@ -1,12 +1,11 @@
 # Colonialidad del poder, eurocentrismo y América Latina
-
 Anibal Quijano
 
 # Anotaciones **(25/9/2022 14:23:05)**
 
-\**
+**
 
-[decolonialidad](decolonialidad.md) "La globalización en curso es, en primer término, la culminación de un proceso que comenzó con la constitución de América y la del capitalismo colonial / moderno y eurocentrado como un nuevo patrón de poder mundial. Uno de los ejes fundamentales de ese patrón de poder es la clasificación social de la población mundial sobre la idea de raza, una construcción mental que expresa la experiencia básica de la dominación colonial y que desde entonces permea las dimensiones más importantes del poder mundial, incluyendo su racionalidad específica, el eurocentrismo. Dicho eje tiene, pues, origen y carácter colonial, pero ha probado ser más duradero y estable que el colonialismo en cuya matriz fue establecido." (Quijano, 2019, p. 260)
+[[decolonialidad]] "La globalización en curso es, en primer término, la culminación de un proceso que comenzó con la constitución de América y la del capitalismo colonial / moderno y eurocentrado como un nuevo patrón de poder mundial. Uno de los ejes fundamentales de ese patrón de poder es la clasificación social de la población mundial sobre la idea de raza, una construcción mental que expresa la experiencia básica de la dominación colonial y que desde entonces permea las dimensiones más importantes del poder mundial, incluyendo su racionalidad específica, el eurocentrismo. Dicho eje tiene, pues, origen y carácter colonial, pero ha probado ser más duradero y estable que el colonialismo en cuya matriz fue establecido." (Quijano, 2019, p. 260)
 
 "se establecieron como los dos ejes fundamentales del nuevo patrón de poder" (Quijano, 2019, p. 260) poder colonial
 
@@ -138,4 +137,5 @@ Anibal Quijano
 
 "En consecuencia, es tiempo de aprender a liberarnos del espejo eurocéntrico donde nuestra imagen es siempre, necesariamente, distorsionada. Es tiempo, en fin, de dejar de ser lo que no somos." (Quijano, 2019, p. 298)
 
-\**
+**
+

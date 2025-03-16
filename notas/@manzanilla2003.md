@@ -1,5 +1,4 @@
 # La interdisciplina en Arqueología
-
 Linda Manzanilla,Emily McClung,Luis Barba,Raúl Valadez
 
 Notas
@@ -10,7 +9,7 @@ La justificación científica de la arqueología (que se ha visto como una técn
 
 Este problema, se dice, puede ser mejor abordado desde la perspectiva interdisciplinaria, donde la experimentación puede potencializarse al multiplicar los tipos de análisis de los elementos descubiertos, desde ópticas susceptibles de confrontación y comparación.
 
-Uno de los principios que salen a la luz de casos como estos es el de **la emergencia de la [interdisciplina](interdisciplina.md) alrededor de un problema u objetivo común**, que debe ser suficientemente general para ser abordable desde múltiples perspectivas.
+Uno de los principios que salen a la luz de casos como estos es el de **la emergencia de la [[interdisciplina]] alrededor de un problema u objetivo común**, que debe ser suficientemente general para ser abordable desde múltiples perspectivas.
 
 Para esto un elemento clave es la gestión de la comunicación, hacia qué dirección fluye la información, cómo se posibilitarían las discusiones y cómo se sintetizarían los diferentes tipos de análisis para la integración de una propuesta final unificada.
 
@@ -21,3 +20,4 @@ Pero la dimensión científica no debe dejarse de lado, para integrar la informa
 Diversas prácticas surgen a su vez de las anteriores, llevando la colaboración a diferentes grados de innovación (como los «laboratorios móviles», p. 11, el desarrollo de técnicas de prospección, p. 12, el análisis arqueozoológico, pp. 12-13).
 
 Todo lo anterior tiene implicaciones en las decisiones que se toman para construir los currículos de los arqueólogos que egresarán en el futuro. Siempre existe una tensión entre la especialización (que profundiza y tecnifica, pero se sectoriza) y la visión de conjunto que implica una formación más integral en antropología.
+

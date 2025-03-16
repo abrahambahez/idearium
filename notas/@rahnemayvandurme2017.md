@@ -1,8 +1,7 @@
 # The organization of the future: Arriving now
-
 Ahmir Rahnema,Yves Van Durme
 
-[gestion-agil](gestion-agil.md) HIGH-PERFORMING organizations operate as empowered networks, coordinated through culture, information systems, and talent mobility. (cap. Introduction, parr. 1)
+[[gestión ágil]] HIGH-PERFORMING organizations operate as empowered networks, coordinated through culture, information systems, and talent mobility. (cap. Introduction, parr. 1)
 
 HIGH-PERFORMING organizations operate as empowered networks, coordinated through culture, information systems, and talent mobility. (cap. Introduction, parr. 1)
 
@@ -21,3 +20,4 @@ One promising technique is organizational network analysis (ONA), which uses spe
 In fact, one objective of an agile network is to use goal-setting to support success.
 
 In teams, accountability becomes more transparent. Individual and team goals and metrics should be shared for everyone to see. (sec. Building in accountability parr. 1-2)
+

@@ -28,24 +28,24 @@ Los apologetas de la felicidad sostienen que es un bien autoevidente e intrínse
 
 Del último capítulo destaco una serie de proposiciones encadenadas que los autores van esbozando hasta llegar a la conclusión errónea, pero lo hacen de formas sutiles y difíciles de ver. Consideremos la siguiente serie de afirmaciones
 
-* Ser feliz es ser mejor persona
-* Ser feliz es ser más productivo
-* Ser feliz es estar mejor adaptado al sistema
-* Ser feliz te lleva a ser más ganador en la vida
-* Ser feliz es tener la buena vida
-* Ser feliz es ser buena persona
-* Ser feliz es lo normal
-* Ser feliz es ser el objetivo de la vida
+- Ser feliz es ser mejor persona
+- Ser feliz es ser más productivo
+- Ser feliz es estar mejor adaptado al sistema
+- Ser feliz te lleva a ser más ganador en la vida
+- Ser feliz es tener la buena vida
+- Ser feliz es ser buena persona
+- Ser feliz es lo normal 
+- Ser feliz es ser el objetivo de la vida
 
 Por lo tanto, la positividad es inherentemente buena, universal y empíricamente medible, como afirman los autores: la felicidad hoy en día es una obsesión y un regalo envenenado. ¿Todavía no vez el peligro de esto? Considera las afirmaciones opuestas:
 
-* No ser feliz es ser peor persona
-* No ser feliz es ser improductivo
-* No ser feliz es estar inadaptado al sistema
-* No ser feliz te lleva a ser perdedor en la vida
-* No ser feliz es tener mala vida
-* No ser feliz es ser mala persona
-* No ser feliz es anormal
-* No ser feliz es negar el objetivo de la vida
+- No ser feliz es ser peor persona
+- No ser feliz es ser improductivo
+- No ser feliz es estar inadaptado al sistema
+- No ser feliz te lleva a ser perdedor en la vida
+- No ser feliz es tener mala vida
+- No ser feliz es ser mala persona
+- No ser feliz es anormal
+- No ser feliz es negar el objetivo de la vida
 
 Por tanto, no puedes no ser feliz.

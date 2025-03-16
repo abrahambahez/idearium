@@ -1,5 +1,4 @@
 # Grupos domésticos y espacios habitacionales en las Tierras Bajas mayas durante el periodo Clásico
-
 Lilia Fernández Souza
 
 ## Enfoque metodológico
@@ -54,7 +53,7 @@ Lilia Fernández Souza
 
 "De acuerdo con lo anterior, el habitus es semejante al ritual, pero de una manera más continua, resultando una ritualización de la conducta cotidiana del grupo doméstico (Blanton 1995114; Allison 1999:11; Donley-Reid 1990: 115). En esta misma tónica, Blanton (1995: 114; 1994:8-13) propone que la casa posee una comunicación canónica, que involucra la transmisión de mensajes invariables y duraderos a través de varios medios materiales, tales como la organización espacial simbólicamente estructurada, los adoratorios, y los espacios de uso específico para uno u otro género" ([Fernández Souza 2010:22](zotero://open-pdf/library/items/DUZ4K7XC?page=22))
 
-"En palabras de Allison (1999:11), "las actividades 'rutinarias' a menudo tienen sus propias cualidades simbólicas y las actividades rituales pueden, a su vez, ser parte de la [rutina-diaria](rutina-diaria.md). Ese simbolismo es inherente en el registro arqueológico de los grupos domésticos" ([Fernández Souza 2010:24](zotero://open-pdf/library/items/DUZ4K7XC?page=24))
+"En palabras de Allison (1999:11), "las actividades 'rutinarias' a menudo tienen sus propias cualidades simbólicas y las actividades rituales pueden, a su vez, ser parte de la [[rutina diaria]]. Ese simbolismo es inherente en el registro arqueológico de los grupos domésticos" ([Fernández Souza 2010:24](zotero://open-pdf/library/items/DUZ4K7XC?page=24))
 
 ## Privacidad
 
@@ -80,7 +79,7 @@ Lilia Fernández Souza
 
 "La arqueología doméstica ha incorporado un grupo de perspectivas usualmente llamadas "teoría de la práctica" (Robin 2003: 311) que incluyen la acción, así como otros temas de interés como la práctica, la experiencia y el performance, y que se enfocan en el hecho de que los humanos crean estructuras que, al mismo tiempo, enmarcan y limitan sus vidas." ([Fernández Souza 2010:35](zotero://open-pdf/library/items/DUZ4K7XC?page=35))
 
-"entran en juego las estructuras; [Giddens](Anthony-Giddens.md) (1967: 164) las concibe en función de su estructuración como una serie de prácticas reproducidas; según él, "indagar en la estructuración de las prácticas sociales es tratar de explicar cómo son constituidas las estructuras mediante la acción, y, de modo recíproco, cómo la acción es constituida estructuralmente"." ([Fernández Souza 2010:36](zotero://open-pdf/library/items/DUZ4K7XC?page=36))
+"entran en juego las estructuras; [[Anthony Giddens|Giddens]] (1967: 164) las concibe en función de su estructuración como una serie de prácticas reproducidas; según él, "indagar en la estructuración de las prácticas sociales es tratar de explicar cómo son constituidas las estructuras mediante la acción, y, de modo recíproco, cómo la acción es constituida estructuralmente"." ([Fernández Souza 2010:36](zotero://open-pdf/library/items/DUZ4K7XC?page=36))
 
 ## Aspectos materiales del grupo doméstico
 
@@ -104,11 +103,11 @@ Lilia Fernández Souza
 
 ## La arquitectura siempre es insuficiente para explicar lo sociocultural
 
-"Siguiendo a Rapoport (1990: 18), "las actividades no ocurren en la [arquitectura](arquitectura.md) sino en sistemas de asentamientos que incluyen áreas exteriores, comunidades y, más allá -el paisaje cultural completo"" ([Fernández Souza 2010:41](zotero://open-pdf/library/items/DUZ4K7XC?page=41))
+"Siguiendo a Rapoport (1990: 18), "las actividades no ocurren en la [[arquitectura]] sino en sistemas de asentamientos que incluyen áreas exteriores, comunidades y, más allá -el paisaje cultural completo"" ([Fernández Souza 2010:41](zotero://open-pdf/library/items/DUZ4K7XC?page=41))
 
 ## Los tres modelos de grupos domésticos
 
-cfr. [@hernandezalvarez2011](@hernandezalvarez2011.md)
+cfr. [[@hernandezalvarez2011]]
 
 "Santley y Hirth (1993: 6) anotan que el espacio ocupado por los grupos domésticos puede organizarse en tres tipos: solar, conjunto habitación11. habitacional y unidad de El solar (house lot), al que nos referiremos con más detalle líneas abajo, consiste en un núcleo de estructuras rodeado de espacios abiertos utilizados para distintas labores domésticas; los conjuntos habitacionales (house compounds) son descritos por Santley y Hirth (1993: 8) como: "más pequeños que los solares, pero mayores que las unidades de habitación. El núcleo de un" ([Fernández Souza 2010:41](zotero://open-pdf/library/items/DUZ4K7XC?page=41))
 
@@ -132,7 +131,7 @@ Los culturales son antropogénicos y los no culturales son ambientales.
 
 ## Tipología funcional en la arquitectura del área maya (periodo clásico)
 
-"Muñoz (2003: 93), fundamenta su estudio de tipología funcional de la [arquitectura](arquitectura.md) maya partiendo del concepto arquitectónico de "tipo" que él entiende como "la repetición de soluciones funcionales que consolidan una manera de resolver unas necesidades específicas"." ([Fernández Souza 2010:50](zotero://open-pdf/library/items/DUZ4K7XC?page=50))
+"Muñoz (2003: 93), fundamenta su estudio de tipología funcional de la [[arquitectura]] maya partiendo del concepto arquitectónico de "tipo" que él entiende como "la repetición de soluciones funcionales que consolidan una manera de resolver unas necesidades específicas"." ([Fernández Souza 2010:50](zotero://open-pdf/library/items/DUZ4K7XC?page=50))
 
 "podríamos decir que algunas características a registrar en la arquitectura doméstica serían: forma, tamaño, orientación, relación con espacios abiertos y techados, con otras estructuras y conjuntos, accesos, relación con rasgos tales como caminos, chultunes o altares, materiales de construcción, tecnología constructiva y cantidad de trabajo invertido." ([Fernández Souza 2010:51](zotero://open-pdf/library/items/DUZ4K7XC?page=51))
 
@@ -143,3 +142,4 @@ Los culturales son antropogénicos y los no culturales son ambientales.
 ## Patrones de desecho de los mayas prehispánicos
 
 "En el caso de los mayas prehispánicos, distintos patrones de desecho han sido documentados, e incluyen no sólo el barrido y el depósito de basura en los lados o la parte trasera de los grupos residenciales sino también lo que solía reciclarse y llevarse a otras estructuras" ([Fernández Souza 2010:47](zotero://open-pdf/library/items/DUZ4K7XC?page=47))
+

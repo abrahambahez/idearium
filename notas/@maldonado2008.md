@@ -1,13 +1,11 @@
 # La interdisciplinariedad, método holístico cognoscitivo
-
 Zenobio Saldivia Maldonado
 
 Notas
 
 Saldivia Maldonado destaca la idea de la cooperación entre especialistas de diversas disciplinas. Esta idea tiene su desarrollo en un muy sutilmente sugerido desarrollismo de las ciencias:
 
- > 
- > «este fenómeno contemporáneo de la ciencia que consiste en crecer en extensión y en profundidad, como señala Bunge en nuestra era, sugiere un desarrollo del conocimiento, con claros visos de interdisciplinariedad; esto porque los contenidos cognitivos de una disciplina, se "extienden" o se "introducen" -por así decirlo en otras ciencias de su mismo nivel» (p. 158-8)
+> «este fenómeno contemporáneo de la ciencia que consiste en crecer en extensión y en profundidad, como señala Bunge en nuestra era, sugiere un desarrollo del conocimiento, con claros visos de interdisciplinariedad; esto porque los contenidos cognitivos de una disciplina, se "extienden" o se "introducen" -por así decirlo en otras ciencias de su mismo nivel» (p. 158-8)
 
 Al introducir la idea de los «contenidos cognitivos de una disciplina» parte de un supuesto (tal vez bungiano) de objetividad pura de la ciencia.
 
@@ -19,8 +17,7 @@ La idea de la cooperación (y también la noción de «contenido cognitivo») vi
 
 ¿Cómo es posible esto? Con una vuelta a la *estructura*, esa entidad formal generalizadora:
 
- > 
- > «Para Piaget, la tarea interdisciplinaria por excelencia corresponde a la búsqueda de estructuras que se manifiestan en las distintas fases del desarrollo cognoscitivo; ya sea en el ámbito ontogénetico o en el campo de la filogénesis» (p. 158)
+> «Para Piaget, la tarea interdisciplinaria por excelencia corresponde a la búsqueda de estructuras que se manifiestan en las distintas fases del desarrollo cognoscitivo; ya sea en el ámbito ontogénetico o en el campo de la filogénesis» (p. 158)
 
 El ejemplo más destacado es el esfuerzo de 1955 para crear el «Centro Internacional de Epistemología Genética», y así convertirlo en una de las primeros ejemplos de institución interdisciplinaria.
 
@@ -30,8 +27,7 @@ La epistemología piagetiana se vuelve la búsqueda de una aproximación nueva q
 
 Sin embargo ofrece nuevas herramientas: un cuerpo teórico amplio (la epistemología genética) y una variante metodológica complementaria a los métodos en boga para el trabajo epistemológico (la cooperación interdisciplinaria). De modo que:
 
- > 
- > «La interdisciplinariedad descansa así, en una comprensión de la necesidad de superar las particulares visiones de mundo, de las que los representantes de las ciencias particulares coparticipan.» (p. 159)
+> «La interdisciplinariedad descansa así, en una comprensión de la necesidad de superar las particulares visiones de mundo, de las que los representantes de las ciencias particulares coparticipan.» (p. 159)
 
 Esta afirmación posiblemente tenga un sentido interesante y profundo para las ciencias naturales, cuyos diálogos interdisciplinarios realmente jamás se han roto, y no parece que para ellas la afirmación de que «prácticamente en todas las ciencias, se encuentran investigadores que aplican los conocimientos obtenidos en otras disciplinas, para desarrollar las propias» sea algo exclusivo de este nuevo paradigma.
 
@@ -45,11 +41,11 @@ El autor añade que una implicación necesaria de esta propuesta es «la búsque
 
 Una de las virtudes que el autor destaca de esta nueva visión es que:
 
- > 
- > «Al parecer los países del Hemisferio Norte, han privilegiado notoriamente la creación de Centros de Estudios Interdisciplinarios. Los resultados de esta nueva forma de trabajo científico, han aumentado aceleradamente el conocimiento y han contribuido a elevar el estándar y la calidad de vida de los habitantes de los países desarrollados.» (p. 160)
+> «Al parecer los países del Hemisferio Norte, han privilegiado notoriamente la creación de Centros de Estudios Interdisciplinarios. Los resultados de esta nueva forma de trabajo científico, han aumentado aceleradamente el conocimiento y han contribuido a elevar el estándar y la calidad de vida de los habitantes de los países desarrollados.» (p. 160)
 
 Y concluye afirmando que los equipos interdisciplinarios por tanto, contribuyen a la integración de investigadores de distintas disciplinas orientados hacia problemas en común, y en virtud de sus resultados que *incrementan notoriamente* el acerbo cognitivo en las distintas áreas del saber, constituyen una instancia de poder.
 
 ¿Por qué de poder? Porque un país, o una entidad académica o una empresa transnacional, al estar en posesión de los últimos conocimientos en un campo determinado, se transforma también en una instancia de dominación, de superioridad sobre otros países que no poseen ese conocimiento nuevo.
 
-Aunque por supuesto no sólo es necesario el conocimiento sino los medios de imposición, pero eso ya lo tenían en la lista esos países desde tiempos muy anteriores al «descubrimiento» de la [interdisciplina](interdisciplina.md).
+Aunque por supuesto no sólo es necesario el conocimiento sino los medios de imposición, pero eso ya lo tenían en la lista esos países desde tiempos muy anteriores al «descubrimiento» de la [[interdisciplina]].
+

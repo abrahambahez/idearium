@@ -1,6 +1,5 @@
 # literacidad
-
-La literacidad es un [constructo-teorico](constructo-teorico.md) que se refiere a la habilidad de *leer* textos escritos. Lo que implica esa habilidad y lo que se entiende por leer es lo que vuelve a este concepto complejo.
+La literacidad es un [[constructo teórico]] que se refiere a la habilidad de *leer* textos escritos. Lo que implica esa habilidad y lo que se entiende por leer es lo que vuelve a este concepto complejo.
 
 El proyecto de alfabetización «universal» que nació en occidente durante la ilustración [@capelmartinez1996] y se consolidó durante la revolución industrial en los SXIX y XX ha influido mundialmente en la visión de lo que significa leer (al menos en las sociedades cuyos sistemas escriturales son alfabéticos).
 

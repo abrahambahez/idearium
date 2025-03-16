@@ -1,0 +1,2 @@
+# código abierto
+El código abierto es un [[modo de producción]] de [[software]] descentralizado, público y colectivamente mantenido por voluntarios que realizan trabajos de programación, pruebas, reportes de bugs, gestión y comunicación de proyectos sin esperar necesariamente una retribución económica, sino que esperan recompensas relacionadas con el [[don en el código abierto]], que se traducen en reputación y reconocimiento.

@@ -1,12 +1,12 @@
 # La imposición de los puntos de vista durante la entrevista etnográfica
-
 Maria Isabel Jociles Rubio
 
 # Anotaciones **(26/10/2022 9:58:11)**
 
-\**
+**
 
-Es un texto sobre la imposición, y a su vez una [critica-a-la-etnografia](critica-a-la-etnografia.md), sobre el dictar la palabra. En cuatro modos que la autora expone:
+
+Es un texto sobre la imposición, y a su vez una [[crítica a la etnografía]], sobre el dictar la palabra. En cuatro modos que la autora expone:
 
 * Imposición de contenido (universo semántico de la conversación)
 * Imposición de la perspectiva desde la que se habla (locus de enunciación, primera o tercera persona, como entidad grupal o institucional)
@@ -27,4 +27,5 @@ Es un texto sobre la imposición, y a su vez una [critica-a-la-etnografia](criti
 
 "Es decir, que admitiendo que hay diferencias en “la cantidad y la índole de perspectivas adoptadas” por las distintas clases sociales, propone comprenderlas no como diferencias de capacidades, sino como diferencias en la familiaridad que esas clases tienen con las situaciones/terrenos en que se les plantea hablar (entrevista formal/conversación informal, narración/descripción, asunto del que se trata, etc). Yo añadiría que, en esas divergencias en las perspectivas adoptadas, intervienen igualmente otros factores, que establecen diversidad entre los miembros de una misma clase social." (Jociles Rubio, 2006, p. 18)
 
-\**
+**
+

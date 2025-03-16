@@ -1,8 +1,0 @@
-# doble conciencia
-
-Idea introducida por el filósofo afroamericano William Edward Burghardt Du Bois y ha sido discutida desde entonces. Aparece por primera vez en el capítulo uno de *The Souls of Black Folk* (1913):
-
- >
- > After the Egyptian and Indian, the Greek and Roman, the Teuton and Mongolian, the Negro is a sort of seventh son, born with a veil, and gifted with second-sight in this American world, – a world which yields him no true self-consciousness, but only lets him see himself through the revelation of the other world. It is a peculiar sensation, this double-consciousness, this sense of always looking at one’s self through the eyes of others, of measuring one’s soul by the tape of a world that looks on in amused contempt and pity. One ever feels his two-ness, – an American, a Negro; two souls, two thoughts, two unreconciled strivings; two warring ideals in one dark body, whose dogged strength alone keeps it from being torn asunder. (1997 [1903]: 38) [This passage henceforth referred to as the “Strivings” text.]
-
-Las discusiones posteriores [siguiendo a @pittman2016], incluyen también críticas desde la [decolonialidad](decolonialidad.md) y la posibilidad de una «doble conciencia blanca», que se presenta como [alienacion](alienacion.md).

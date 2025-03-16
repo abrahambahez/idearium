@@ -4,8 +4,9 @@ Aurelio Sánchez Sánchez Suárez, María Dolores Cervera Montejano, Jorge Victo
 
 ## Resumen
 
+
 ## Notas
 
-[pueblo-maya](pueblo-maya.md)
+[[pueblo maya]]
 
-[@sanchezsuarez2021](@sanchezsuarez2021.md)
+[[@sanchezsuarez2021]]

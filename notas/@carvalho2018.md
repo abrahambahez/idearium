@@ -1,10 +1,9 @@
-# Por una aproximación crítica al [apego-al-lugar](apego-al-lugar.md): una revisión en contextos de vulneración del derecho a una vivienda adecuada
-
+# Por una aproximación crítica al [[apego al lugar]]: una revisión en contextos de vulneración del derecho a una vivienda adecuada
 Laís Pinto de Carvalho,Marcela Cornejo
 
 # Anotaciones **(23/9/2022 22:03:38)**
 
-\**
+**
 
 "Situaciones como los conflictos armados, los desastres socionaturales, el cambio climático global, así como la ausencia de derechos formales de la vivienda y procesos de gentrificación aumentan las posibilidades de vulneración del derecho a la vivienda adecuada, provocando desplazamientos y desalojos forzados." (Carvalho y Cornejo, 2018, p. 2)
 
@@ -50,4 +49,5 @@ Laís Pinto de Carvalho,Marcela Cornejo
 
 "En esta revisión describimos cómo, desde los estudios culturales, críticos y feministas, el concepto de hogar es tensionado, ya no como un espacio de arraigo y bienestar, sino también como un lugar que es vivido diferenciadamente por mujeres y hombres, a partir de la reproducción de ideologías, estereotipos y violencias de género. Para las mujeres, el hogar involucra dimensiones del trabajo, la violencia, el aislamiento, la reclusión, la invasión de la privacidad y la vulnerabilidad (Ahrentzen, 1992; Blunt y Dowling, 2006; González, 2005; Moore, 2000)." (Carvalho y Cornejo, 2018, p. 27)
 
-\**
+**
+

@@ -1,6 +1,6 @@
 # Perder el paraíso: Globalización, espacio urbano y empresariado en Mérida
 
-[~neocolonialismo](~neocolonialismo.md)
+[[~neocolonialismo]]
 
 ## Región y globalización en Yucatán, de Luis Alfonso Ramírez Carrillo
 

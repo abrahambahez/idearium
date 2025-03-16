@@ -1,5 +1,4 @@
 # Las mujeres de humo: morir en Chenalhó, género, etnia y generación, factores constitutivos del riesgo durante la maternidad
-
 Graciela Freyermuth Enciso 2003, [zotero](zotero://select/items/@freyermuthenciso2003)
 
 %%Freyermuth G.2003 Morir en Chenalho'.pdf%%
@@ -7,7 +6,7 @@ La masacre de Acteal, Chenalhó, viene descrita en la introducción.
 
 La muerte de mujeres en edad reproductiva ocurre día con día, silenciosamente, de causas evitables.
 
-Hace entrevistas múltiples a personas alrededor de 10 mujeres que murieron entre 5 y X años antes de su realización.
+Hace entrevistas múltiples a personas alrededor de 10 mujeres que murieron entre 5 y X años antes de su realización. 
 
 Nacer en Chenalhó duplica las posibilidades de morir respecto a cualquier otra parte del país, y las triplica si eres mujer.
 

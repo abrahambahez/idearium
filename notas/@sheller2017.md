@@ -1,12 +1,12 @@
 # From spatial turn to mobilities turn
-
 Mimi Sheller
+
 
 # Anotaciones **(23/9/2022 20:57:53)**
 
-\**
+**
 
-"I seek to show how Urry's work advanced a sociology of space though his radical emphasis on mobile spatializations and relational space, which he first referred to as 'mobile sociology'" (Sheller, 2017, p. 2) [giro-espacial](giro-espacial.md)
+"I seek to show how Urry's work advanced a sociology of space though his radical emphasis on mobile spatializations and relational space, which he first referred to as 'mobile sociology'" (Sheller, 2017, p. 2) [[giro espacial]]
 
 "Urry further developed the concept of mobilities through multiple collaborations, including work on systems of automobility (see Featherstone et al., 2004; Sheller and Urry, 2000; Urry, 2004), aeromobilities (Cwerner et al., 2009; Urry et al., 2016), mobile lives and network capital (Elliott and Urry, 2010), and mobile methodologies (Büscher and Urry, 2009; Büscher et al., 2011), among others." (Sheller, 2017, p. 6)
 
@@ -44,4 +44,5 @@ Mimi Sheller
 
 "Mobility struggles and contested notions of mobility justice are key concerns for the spatialities of the future as we come up against the limits of planetary ecologies, and it is apparent that mobilities re-make scale itself." (Sheller, 2017, p. 11)
 
-\**
+**
+

@@ -1,68 +1,67 @@
 # etnicidad
+#esquema 
 
-#inbox
-
-La etnicidad es un [constructo-teorico](constructo-teorico.md) con el que se caracteriza la diversidad humana, enfatizando los aspectos filogenéticos, geográficos, lingüísticos y comunitarios de las poblaciones humanas.
+La etnicidad es un [[constructo teórico]] con el que se caracteriza la diversidad humana, enfatizando los aspectos filogenéticos, geográficos, lingüísticos y comunitarios de las poblaciones humanas.
 
 ¿Cómo podemos entender la etnicidad?
 
-* La etnicidad es un tipo de identidad
-  * Presupone una [conciencia-etnica](conciencia-etnica.md)
-  * Esa conciencia motiva la [autoadscripcion](autoadscripcion.md)
-  * No puede ser un epifenómeno, eso sería no [tomar-en-serio-a-los-otros](tomar-en-serio-a-los-otros.md)
-* La identidad étnica no es esencial o natural
-  * Pero tampoco es totalmente arbitraria
-* Las características que definen a la identidad étnica son sensibles a la escala [la-etnicidad-es-sensible-a-la-escala](la-etnicidad-es-sensible-a-la-escala.md)
-  * Varían en importancia-fuerza en función de la escala de evaluación
+- La etnicidad es un tipo de identidad
+    - Presupone una [[conciencia étnica]]
+    - Esa conciencia motiva la [[autoadscripción]]
+    - No puede ser un epifenómeno, eso sería no [[tomar en serio a los otros]]
+- La identidad étnica no es esencial o natural
+    - Pero tampoco es totalmente arbitraria
+- Las características que definen a la identidad étnica son sensibles a la escala [[la etnicidad es sensible a la escala]]
+    - Varían en importancia-fuerza en función de la escala de evaluación
 
 ¿Cómo se ha entendido?
 
-* [primordialismo](primordialismo.md)
-* [instrumentalismo](instrumentalismo.md)
-* [procesualismo](procesualismo.md)
+- [[primordialismo]]
+- [[instrumentalismo]] 
+- [[procesualismo]]
 
 ¿Qué implica la etnicidad?
 
-* [grupo-etnico](grupo-etnico.md)
-* [identidad-etnica](identidad-etnica.md)
-* [grupo-etnico-versus-identidad-etnica](grupo-etnico-versus-identidad-etnica.md)
-* [personhood](personhood.md)
+- [[grupo étnico]]
+- [[identidad étnica]]
+- [[grupo étnico versus identidad étnica]]
+- [[personhood]]
 
 ¿Cómo se construye lo étnico?
 
-* [autoadscripcion-etnica](autoadscripcion-etnica.md)
-* [narrativas-de-descendencia-comun](narrativas-de-descendencia-comun.md)
-* Propongo que en ciertos casos, otro criterio clave es la [etnicidad-como-proyecto](etnicidad-como-proyecto.md)
-* [etnicismo](etnicismo.md)
-* [indianidad](indianidad.md)
-* [etnofilia](etnofilia.md)
-* [etnogenesis](etnogenesis.md)
-* [etnoempresa](etnoempresa.md) y [etnofuturos](etnofuturos.md)
-* [maximalismo-etnico](maximalismo-etnico.md)
-* [conciencia-etnica](conciencia-etnica.md) y [sensibilidad-etnica](sensibilidad-etnica.md)
-* el problema del grupismo [@brubaker2002](@brubaker2002.md)
-* [interseccionalidad-y-etnicidad](interseccionalidad-y-etnicidad.md)
+- [[autoadscripción étnica]]
+- [[narrativas de descendencia común]]
+- Propongo que en ciertos casos, otro criterio clave es la [[etnicidad como proyecto]]
+- [[etnicismo]]
+- [[indianidad]]
+- [[etnofilia]]
+- [[etnogénesis]]
+- [[etnoempresa]] y [[etnofuturos]]
+- [[maximalismo étnico]]
+- [[conciencia étnica]] y [[sensibilidad étnica]]
+- el problema del grupismo [[@brubaker2002]]
+- [[interseccionalidad y etnicidad]]
 
 Otras características relevantes
 
-* [etnicidad-como-sistema-clasificatorio](etnicidad-como-sistema-clasificatorio.md)
-* [la-etnicidad-es-sensible-a-la-escala](la-etnicidad-es-sensible-a-la-escala.md)
-* [etnicidad-como-sistema-autodefinido](etnicidad-como-sistema-autodefinido.md)
-* Etnicidad como [situacion-identitaria](situacion-identitaria.md) / [etnicidad-situacional](etnicidad-situacional.md)
-* [interseccionalidad-y-etnicidad](interseccionalidad-y-etnicidad.md)
+- [[etnicidad como sistema clasificatorio]]
+- [[la etnicidad es sensible a la escala]]
+- [[etnicidad como sistema autodefinido]]
+- Etnicidad como [[situación identitaria]] / [[etnicidad situacional]]
+- [[interseccionalidad y etnicidad]]
 
 Referencias primarias
 
-* [@barth1976](@barth1976.md)
-* [@jones2002](@jones2002.md)
-* Geertz *Conocimiento local*, cap. Desde el punto de vista del nativo
-* [@restrepo2004a](@restrepo2004a.md)
-* [@bartolome1997](@bartolome1997.md)
-* Cardoso de Oliveira (1976). Identidad, etnia y estructura social (y su relación con [@bonfilbatalla1977](@bonfilbatalla1977.md) y [@bonfilbatalla1988](@bonfilbatalla1988.md))
-* [antropologia-mexicana](antropologia-mexicana.md)
+- [[@barth1976]]
+- [[@jones2002]]
+- Geertz *Conocimiento local*, cap. Desde el punto de vista del nativo 
+- [[@restrepo2004a]]
+- [[@bartolome1997]]
+- Cardoso de Oliveira (1976). Identidad, etnia y estructura social (y su relación con [[@bonfilbatalla1977]] y [[@bonfilbatalla1988]])
+- [[antropología mexicana]]
 
 Referencias secundarias
 
-* [teorias-de-la-identidad-etnica-en-@poolcab2014](teorias-de-la-identidad-etnica-en-@poolcab2014.md)
-* [no-confundir-identidad-cultural-con-identidad-politica](no-confundir-identidad-cultural-con-identidad-politica.md)
-* *críticas-a-la-autoadscripción-y-las-narrativas-de-descendencia-común*
+- [[teorías de la identidad étnica en @poolcab2014]]
+- [[no confundir identidad cultural con identidad política]]
+- [[críticas a la autoadscripción y las narrativas de descendencia común]]

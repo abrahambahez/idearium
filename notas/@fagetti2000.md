@@ -1,5 +1,4 @@
 # Mujeres abandonadas: Desafíos y vivencias
-
 Antonella Fagetti 2000, [zotero](zotero://select/items/@fagetti2000)
 
 %% Fagetti Antonela 2000. Mujeres abandonadas.pdf %%
@@ -8,7 +7,7 @@ En el contexto de la migración a los Ángeles desde San Miguel Acuexcomac, dond
 
 Las mejoras del pueblo, alimentadas por remesas, crean desigualdades en las cuotas exigidas entre quienes pueden pagar porque reciben dólares y quienes no. Las mujeres que se quedan se reacomodan, cambian y transforman las relaciones familiares; incluyendo la participación en tareas típicamente adjudicadas a los hombres.
 
-Transformaciones en el matrimonio, los maridos reducen su función a ser «proveedores de dólares». En San Miguel la noción original del matrimonio es un acuerdo de ayuda mutua, con una faceta económica y otra afectivo-sexual [124], que está cambiando con la migración. El esfuerzo compartido motivado por el lado emocional, afectivo y sexual. Los hombres que dejan de apoyar, se silencian y abandonan a las mujeres, ellas quedan con un exceso de carga y un estado de vulnerabilidad (ver [mandato-de-la-feminidad-como-autosacrificio-afectivo](mandato-de-la-feminidad-como-autosacrificio-afectivo.md)).
+Transformaciones en el matrimonio, los maridos reducen su función a ser «proveedores de dólares». En San Miguel la noción original del matrimonio es un acuerdo de ayuda mutua, con una faceta económica y otra afectivo-sexual [124], que está cambiando con la migración. El esfuerzo compartido motivado por el lado emocional, afectivo y sexual. Los hombres que dejan de apoyar, se silencian y abandonan a las mujeres, ellas quedan con un exceso de carga y un estado de vulnerabilidad (ver [[mandato de la feminidad como autosacrificio afectivo]]).
 
 Ir al norte es para los hombres una prueba de «hombría», que se demuestra siendo capaz de ganar dinero y mandarlo. Prueba que no todos cumplen, ya que presupone ganar suficiente para vivir allá y mandar.
 

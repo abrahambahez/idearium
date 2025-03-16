@@ -1,6 +1,6 @@
 # Ecologías: Antropología, cultura y entorno
-
 Kay Milton
+
 
 ## El viejo determinismo medioambiental
 
@@ -38,7 +38,7 @@ Algunas respuestas a esto son: la inutilidad de declarar imposible la generaliza
 
 ### El relativismo cultural y la aplicación del conocimiento
 
-Milton argumenta que la aplicación real del conocimiento antropológico depende de que el *relativismo cultural a ultranza* sea suspendido en la práctica. En el debate por los problemas ambientales contemporáneos, afirma, es más beneficioso aceptar la versión científica sobre, por ejemplo, el calentamiento global, y construir propuestas desde la antropología para cambiar [practicas-culturales](practicas-culturales.md) que se opongan a las sugeridas para disminuir su impacto global.
+Milton argumenta que la aplicación real del conocimiento antropológico depende de que el *relativismo cultural a ultranza* sea suspendido en la práctica. En el debate por los problemas ambientales contemporáneos, afirma, es más beneficioso aceptar la versión científica sobre, por ejemplo, el calentamiento global, y construir propuestas desde la antropología para cambiar [[prácticas culturales]] que se opongan a las sugeridas para disminuir su impacto global.
 
 ### El debate entre naturaleza y cultura
 
@@ -48,7 +48,7 @@ Milton critica que esos análisis dependen de la aproximación analítica del an
 
 ### La base de la comprensión del entorno
 
-Para Milton, los modos de comprender el entorno parten de dos cateogorías: quienes ven a los mundos humanos y no humanos como un continuo y aquellos que los seccionan. Enfatiza el acuerdo general de que las personas entienden su entorno según la forma en que lo usan, como el caso de Dwyer, donde la distinción podría ser el uso intensivo (que es familiar pero crea espacios *desconocidos*) o extensivo (que crea familiaridad general). Otra clave pueden ser los modos de interactuar con plantas (los tubérculos promueven actitudes menos intensivas que las semillas) y los animales no humanos (cazadores y pastores verían a animales no humanos como sujetos o como objetos, respectivamente). Esta dinámica puede generar múltiples visiones del entorno que se diversifican en sociedades grandes o más diversificadas. También implican una visión más bien [dialectica](dialectica.md), no determinista.
+Para Milton, los modos de comprender el entorno parten de dos cateogorías: quienes ven a los mundos humanos y no humanos como un continuo y aquellos que los seccionan. Enfatiza el acuerdo general de que las personas entienden su entorno según la forma en que lo usan, como el caso de Dwyer, donde la distinción podría ser el uso intensivo (que es familiar pero crea espacios *desconocidos*) o extensivo (que crea familiaridad general). Otra clave pueden ser los modos de interactuar con plantas (los tubérculos promueven actitudes menos intensivas que las semillas) y los animales no humanos (cazadores y pastores verían a animales no humanos como sujetos o como objetos, respectivamente). Esta dinámica puede generar múltiples visiones del entorno que se diversifican en sociedades grandes o más diversificadas. También implican una visión más bien [[dialéctica]], no determinista.
 
 ## La antropología y el discurso ambiental
 
@@ -66,6 +66,7 @@ La ciencia moderna, con su énfasis del distanciamiento del observador se opone 
 
 Milton concluye dos cosas:
 
-* La antropología ecológica ha perdido su identidad, porque se ha disuelto dentro del discurso antropológico general e ir superando varias de las categorías que le daban el énfasis que pretendía
+- La antropología ecológica ha perdido su identidad, porque se ha disuelto dentro del discurso antropológico general e ir superando varias de las categorías que le daban el énfasis que pretendía
 
-* Para la antropología no hay *una* sino muchas ecologías humanas y cada una sigue siendo un factor práctico de interactuar en el mundo, expresado en términos culturales. La diversidad cultural afecta esos modos de interacción con el entorno y crea una doble prioridad ética: la conservación de la diversidad cultural y aún más importnate, la conservación de la biodiversidad, ya que en ésta última está contenida la primera.
+- Para la antropología no hay *una* sino muchas ecologías humanas y cada una sigue siendo un factor práctico de interactuar en el mundo, expresado en términos culturales. La diversidad cultural afecta esos modos de interacción con el entorno y crea una doble prioridad ética: la conservación de la diversidad cultural y aún más importnate, la conservación de la biodiversidad, ya que en ésta última está contenida la primera.
+

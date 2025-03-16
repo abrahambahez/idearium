@@ -1,12 +1,11 @@
-# La [casa-maya](casa-maya.md) contemporánea: Usos, costumbres y configuración espacial
-
+# La [[casa maya]] contemporánea: Usos, costumbres y configuración espacial
 Aurelio Sánchez Suárez
 
 ## Resumen
 
 La vivienda rural en México es una parte esencial de la riqueza con la que cuenta nuestra cultura, ya que es el espejo en el cual se reflejan las actividades tradicionales que cotidianamente realizan sus habitantes, así como la necesidad de un refugio y la convivencia con su medio ambiente. Hace además patente una actividad constructiva heredada de tiempos muy remotos.
 
-[pueblo-maya](pueblo-maya.md) La conceptualización de la vivienda rural maya requiere de una visión que abarque no sólo lo formal (morfológico), sino que realice un análisis antropológico del uso de los espacios, incluyendo las cualidades bióticas que permiten la integración de la vivienda rural con su medio natural. Asimismo, el estudio morfológico no debe quedarse en el análisis de la estructura habitacional, si no ir más allá, abordando su relación con el solar y su hábitat, que mantienen estrecha relación con las actividades agrícolas y de convivencia comunitaria.
+[[pueblo maya]] La conceptualización de la vivienda rural maya requiere de una visión que abarque no sólo lo formal (morfológico), sino que realice un análisis antropológico del uso de los espacios, incluyendo las cualidades bióticas que permiten la integración de la vivienda rural con su medio natural. Asimismo, el estudio morfológico no debe quedarse en el análisis de la estructura habitacional, si no ir más allá, abordando su relación con el solar y su hábitat, que mantienen estrecha relación con las actividades agrícolas y de convivencia comunitaria.
 
 Los usos y costumbres desarrollados en el entorno de la vivienda vernácula están íntimamente ligados a la configuración espacial de la casa y el solar, por lo que el estudio de la vivienda maya contemporánea debe ser analizado desde ambas perspectivas si se desean entender los procesos de cambio que se están generando.
 
@@ -30,9 +29,9 @@ En México, la arquitectura tradicional es claro ejemplo de la sabiduría constr
 
 Si bien la cultura maya ha dejado como testimonio de su desarrollo arquitectónico las diversas edificaciones monumentales localizadas en los centros cívicos y religiosos de sus ciudades, éstas son sólo una parte de sus manifestaciones. si consideramos que el mayor número de los habitantes de la región vivía en los alrededores de estas grandes urbes en construcciones elaboradas con materiales perecederos, así como en conjuntos habitacionales de mampostería con cubiertas de palma, se comprende por qué estas obras no perduraran igual que los grandes edificios.
 
-A la llegada de los españoles a la península de Yucatán, la grandeza de esas ciudades había quedado oculta bajo la vegetación de la selva; la mayoría de las poblaciones mayas en el siglo XVI, se distribuía en toda la península en 16 pequeñas entidades,[2](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas) llamadas en maya *kúuchkabal* y mencionadas como provincias por los europeos.
+A la llegada de los españoles a la península de Yucatán, la grandeza de esas ciudades había quedado oculta bajo la vegetación de la selva; la mayoría de las poblaciones mayas en el siglo XVI, se distribuía en toda la península en 16 pequeñas entidades,[2](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas) llamadas en maya _kúuchkabal_ y mencionadas como provincias por los europeos.
 
-Fue en estas pequeñas provincias en donde la arquitectura habitacional de los mayas conservó su técnica y forma. Las poblaciones que las conformaban se convirtieron posteriormente en poblados, que conservaron esta tradición constructiva, en donde hoy en día se puede apreciar la trascendencia de la vivienda maya, en la [arquitectura-vernacula](arquitectura-vernacula.md)[3](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas) de la región.
+Fue en estas pequeñas provincias en donde la arquitectura habitacional de los mayas conservó su técnica y forma. Las poblaciones que las conformaban se convirtieron posteriormente en poblados, que conservaron esta tradición constructiva, en donde hoy en día se puede apreciar la trascendencia de la vivienda maya, en la [[arquitectura vernácula]][3](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas) de la región.
 
 Las investigaciones al respecto no han sido tan especializadas como las dedicadas a la arquitectura monumental de los mayas en la época prehispánica, debido en parte a la concepción de patrimonio cultural que se tenía antes del último tercio del siglo xx, la cual tendía a subrayar el carácter nacional de algún tipo de legado o cuando se hablaba de una identidad común a todos los mexicanos; a nuestro parecer, es un hecho que estos conceptos carecían de tal dimensión y no incluían a todos los sectores, etnias y estratos, como tampoco se comprendían sus particulares expresiones culturales, como apunta Florescano (1997:18).
 
@@ -64,38 +63,35 @@ Los cuatro horcones principales que soportarán la estructura de la cubierta deb
 
 Existe una gran variedad de árboles resistentes en la selva de la región,[8](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas) susceptibles de emplearse para cada elemento constructivo. Se recomienda su corte cinco días antes o después de la luna llena, ya que de lo contrario la madera se apolillará muy pronto y no servirá. En caso de que no se corte en el tiempo señalado, se recomienda hacerlo en temporada de lluvias. Las dimensiones deben ser cuidadosamente seleccionadas para garantizar la estabilidad de la construcción de los muros y la cubierta, buscando se mantengan rígidas ante la compresión o la flexión.
 
-Una vez cortado el huano y transportado al sitio de construcción, debe clasificarse según su longitud para ser colocado en hiladas. Los de menor tamaño se colocan primero. El zacate para el caballete debe ser cortado a una longitud aproximada de 15 a 20 cm. Los bejucos que se utilizan para el amarre de la madera se recolectan en el monte, donde llegan a alcanzar una longitud de hasta 30 m. Pueden ser recolectados en el momento previo a la construcción o varios meses antes, y guardarse sin que sufran deterioro alguno. Las piedras a utilizar en los basamentos así como la tierra *(sascab* para la mampostería y pisos y *kancab* para los muros) también deben estar a la mano.
+Una vez cortado el huano y transportado al sitio de construcción, debe clasificarse según su longitud para ser colocado en hiladas. Los de menor tamaño se colocan primero. El zacate para el caballete debe ser cortado a una longitud aproximada de 15 a 20 cm. Los bejucos que se utilizan para el amarre de la madera se recolectan en el monte, donde llegan a alcanzar una longitud de hasta 30 m. Pueden ser recolectados en el momento previo a la construcción o varios meses antes, y guardarse sin que sufran deterioro alguno. Las piedras a utilizar en los basamentos así como la tierra _(sascab_ para la mampostería y pisos y _kancab_ para los muros) también deben estar a la mano.
 
 Con el material disponible, la construcción requerirá aproximadamente dos días, con la participación de cinco personas. Para el proceso constructivo de una vivienda:[9](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas)
 
- >
- > Se traza el cuadro de 16 metros cuadrados, cuatro por cuatro [que conforman los *noh-hocom,* horcones principales], entonces de cuatro por cuatro lo que a dar el *balo,* le mides a la mitad del *balo* y le pones dos metros. De esos dos metros, le giras para que llegue al otro para sacar el *moy*, el *moy* es los dos redondos, la curvatura [son las ábsides de la vivienda orientadas hacia el sur y el norte cuando es posible]. Deben ser cuatro *noh-ocom* y pueden ser cuatro o cinco *ocom-moy,* lo que lleve [para sostener el ábside de la cubierta]. Puede ser que en esta curvatura, en medio haya uno, dos más a los lados; entonces llevaría cinco por lado... Y además tampoco va a agarrar el *ocom,* porque va a tener al lado del *ocom,* a la altura del *pach-nah* que también va a llevar, a lo mejor, dos más hasta llegar donde va a estar la puerta *[holnah]* de cada lado, puede ser nueve en total [para la mitad de la vivienda, duplicándose con la otra mitad para hacer un total de 18 *ocom-moy* que estructuran el muro y sostienen las ábsides].
+> Se traza el cuadro de 16 metros cuadrados, cuatro por cuatro \[que conforman los _noh-hocom,_ horcones principales\], entonces de cuatro por cuatro lo que a dar el _balo,_ le mides a la mitad del _balo_ y le pones dos metros. De esos dos metros, le giras para que llegue al otro para sacar el _moy_, el _moy_ es los dos redondos, la curvatura \[son las ábsides de la vivienda orientadas hacia el sur y el norte cuando es posible\]. Deben ser cuatro _noh-ocom_ y pueden ser cuatro o cinco _ocom-moy,_ lo que lleve \[para sostener el ábside de la cubierta\]. Puede ser que en esta curvatura, en medio haya uno, dos más a los lados; entonces llevaría cinco por lado... Y además tampoco va a agarrar el _ocom,_ porque va a tener al lado del _ocom,_ a la altura del _pach-nah_ que también va a llevar, a lo mejor, dos más hasta llegar donde va a estar la puerta _\[holnah\]_ de cada lado, puede ser nueve en total \[para la mitad de la vivienda, duplicándose con la otra mitad para hacer un total de 18 _ocom-moy_ que estructuran el muro y sostienen las ábsides\].
 
-Después de colocados los *ocom-moy* se construye el *holmuch',* formado por varios rollos delgados y flexibles, que posteriormente se amarran, en grupos de tres o cuatro, por los extremos. Se agregarán los rollos que sean necesarios para cubrir la longitud requerida para cubrir el perímetro del ábside trazado. se saca punta a los rollos que queden en los extremos para poder incrustarlos en la unión entre el *ocom,* el *balo* y el *pach-nah;* sosteniéndose en las horquetas de los *ocom-moy* y amarrándose a estas (Véanse [figura 1](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3fi1) y [foto 1](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f1)).
+Después de colocados los _ocom-moy_ se construye el _holmuch',_ formado por varios rollos delgados y flexibles, que posteriormente se amarran, en grupos de tres o cuatro, por los extremos. Se agregarán los rollos que sean necesarios para cubrir la longitud requerida para cubrir el perímetro del ábside trazado. se saca punta a los rollos que queden en los extremos para poder incrustarlos en la unión entre el _ocom,_ el _balo_ y el _pach-nah;_ sosteniéndose en las horquetas de los _ocom-moy_ y amarrándose a estas (Véanse [figura 1](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3fi1) y [foto 1](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f1)).
 
 ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3fi1.jpg)
 
 ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3f1.jpg)
 
- >
- > El *ocom* sólo va a servir para sostener el techo, no la pared. Después cuando ya está fijado, ya está sembrado el *ocom,* entonces se procede a medir la tijera *[toxche]* y abajo se amarra la tijera, en medio del *balo* se pone una madera provisional para amarrar, hay quienes primero hacen la "A" que es la tijera, bien medido lo amarran. una vez fijado las dos tijeras, la madera que está entre *ocom* y *ocom* [el_pach-nah\_ se] fija para que no se mueva y entonces ya se le pone el *holnah-che'* [en el amarre que se llama ec] y después del *holnah-che'* se le fijan las otras dos tijeras laterales, puede ser por dentro, va desde el extremo del *ocom* hasta el \_holnah-che'\_diagonalmente, ya no puede ir de aquí pa'cá... ya casi se armó la estructura. Después de eso se arma el segundo el *bel-ch'o',* y se hace el *copmoy* [el ábside intermedio de la cubierta] un poquito desnivelado, sobresale un poquito para que cuando le ponga el *huincli-che',* cuando se amarre al de abajo se forza y se amarra y hace una curvatura hacia afuera. Después que se pone el *huincli-che',* se pone el *ka'aac,* brazo de tortuga, una horqueta que va del *pach-nah* al *belcho'* para que no se fuerce cuando se suba a componer (Véase [foto 2](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f2)).
+> El _ocom_ sólo va a servir para sostener el techo, no la pared. Después cuando ya está fijado, ya está sembrado el _ocom,_ entonces se procede a medir la tijera _\[toxche\]_ y abajo se amarra la tijera, en medio del _balo_ se pone una madera provisional para amarrar, hay quienes primero hacen la "A" que es la tijera, bien medido lo amarran. una vez fijado las dos tijeras, la madera que está entre _ocom_ y _ocom_ \[el_pach-nah_ se\] fija para que no se mueva y entonces ya se le pone el _holnah-che'_ \[en el amarre que se llama ec\] y después del _holnah-che'_ se le fijan las otras dos tijeras laterales, puede ser por dentro, va desde el extremo del _ocom_ hasta el _holnah-che'_diagonalmente, ya no puede ir de aquí pa'cá... ya casi se armó la estructura. Después de eso se arma el segundo el _bel-ch'o',_ y se hace el _copmoy_ \[el ábside intermedio de la cubierta\] un poquito desnivelado, sobresale un poquito para que cuando le ponga el _huincli-che',_ cuando se amarre al de abajo se forza y se amarra y hace una curvatura hacia afuera. Después que se pone el _huincli-che',_ se pone el _ka'aac,_ brazo de tortuga, una horqueta que va del _pach-nah_ al _belcho'_ para que no se fuerce cuando se suba a componer (Véase [foto 2](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f2)).
 
- >
+>
 
- >
- > [Posteriormente se colocan los hiil que estarán a la distancia de los huanos y se amarran con los *huincli-che'*] para poner el huano [la distancia] puede ser 20 o 30 centímetros, si quieres que *engruese [sic]* tu techo se pone a 20 centímetros y aguanta muchos años; para 30 años debe de ser que le hagan la primera composición, porque no lo vas a cambiar todo, nada más donde comience a podrirse [sic] (Véase [figura 1](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3fi1)).
+> \[Posteriormente se colocan los hiil que estarán a la distancia de los huanos y se amarran con los _huincli-che'_\] para poner el huano \[la distancia\] puede ser 20 o 30 centímetros, si quieres que _engruese \[sic\]_ tu techo se pone a 20 centímetros y aguanta muchos años; para 30 años debe de ser que le hagan la primera composición, porque no lo vas a cambiar todo, nada más donde comience a podrirse \[sic\] (Véase [figura 1](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3fi1)).
 
 ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3f2.jpg)
 
-La colocación del huano se realiza separando las hojas de la guía central, la cual va por debajo de la cubierta, anclada en el *hiil,* quedando las hojas por el exterior; se acomodarán de abajo a arriba, buscando traslapar las palmas. En la parte superior de la cubierta se coloca el *pac-hool* (caballete), que asegura los huanos que se entrelazan de lado a lado y se refuerza colocando el *chac-zuuc,* en la acción denominada *ziic-zuuc;* de esta manera se refuerza el área que es la más susceptible de verse dañada por las lluvias. La cubierta debe tener *chi nah,* alero que protege a los muros de tierra de las lluvias ([foto 3](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f3)): "antes del *colox-che'* se pone una fila de piedras, el *tzoltún,* es enfilar piedras, entonces ya sobre eso se le pone el *colox-che'".*
+La colocación del huano se realiza separando las hojas de la guía central, la cual va por debajo de la cubierta, anclada en el _hiil,_ quedando las hojas por el exterior; se acomodarán de abajo a arriba, buscando traslapar las palmas. En la parte superior de la cubierta se coloca el _pac-hool_ (caballete), que asegura los huanos que se entrelazan de lado a lado y se refuerza colocando el _chac-zuuc,_ en la acción denominada _ziic-zuuc;_ de esta manera se refuerza el área que es la más susceptible de verse dañada por las lluvias. La cubierta debe tener _chi nah,_ alero que protege a los muros de tierra de las lluvias ([foto 3](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f3)): "antes del _colox-che'_ se pone una fila de piedras, el _tzoltún,_ es enfilar piedras, entonces ya sobre eso se le pone el _colox-che'"._
 
 ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3f3.jpg)
 
-Los sillares que conforman las caras del pretil son en su mayoría obtenidos de las estructuras prehispánicas que abundan en la región y en los mismos solares del poblado. Éstos protegerán a los muros de la humedad. En la mayoría de las viviendas el *tzoltún* se eleva en la zona de los accesos formando pilones que los enmarcan; puede presentarse en el acceso principal o en los dos accesos de la vivienda, abarcando el largo del *pach-nah;* a los lados del acceso comúnmente son empotrados hamaqueros de madera. Al *colox-che'* se le da rigidez con los *hala'-che'*, que son tres travesaños horizontales apoyados de *ocom-moy* a *ocom-moy.* Asimismo, debe haber una pequeña separación entre cada uno que permita que el *pak-kancab* atraviese y envuelva los *colox-che'*, con un mejor amarre que impida que se caiga con el tiempo.
+Los sillares que conforman las caras del pretil son en su mayoría obtenidos de las estructuras prehispánicas que abundan en la región y en los mismos solares del poblado. Éstos protegerán a los muros de la humedad. En la mayoría de las viviendas el _tzoltún_ se eleva en la zona de los accesos formando pilones que los enmarcan; puede presentarse en el acceso principal o en los dos accesos de la vivienda, abarcando el largo del _pach-nah;_ a los lados del acceso comúnmente son empotrados hamaqueros de madera. Al _colox-che'_ se le da rigidez con los _hala'-che'_, que son tres travesaños horizontales apoyados de _ocom-moy_ a _ocom-moy._ Asimismo, debe haber una pequeña separación entre cada uno que permita que el _pak-kancab_ atraviese y envuelva los _colox-che'_, con un mejor amarre que impida que se caiga con el tiempo.
 
-El *pak-kancab* se elabora con la tierra roja llamada *kancab* y el zacate verde *ac* o el rojo *chac-zuuc,* que son los más recomendados. El embarro se realiza mezclando con agua la tierra y el zacate hasta lograr una consistencia moldeable, ni dura ni aguada. se coloca sobre el *colox-che'* desde el interior y luego por el exterior, moldeándolo con las manos. Poco antes de que el *pak-kancab* o *pak-lum* se seque, se aplica una lechada de cal para mayor protección ante el deterioro producido por la lluvia y viento, y para que al penetrar en el muro de tierra impida la proliferación de la fauna nociva.
+El _pak-kancab_ se elabora con la tierra roja llamada _kancab_ y el zacate verde _ac_ o el rojo _chac-zuuc,_ que son los más recomendados. El embarro se realiza mezclando con agua la tierra y el zacate hasta lograr una consistencia moldeable, ni dura ni aguada. se coloca sobre el _colox-che'_ desde el interior y luego por el exterior, moldeándolo con las manos. Poco antes de que el _pak-kancab_ o _pak-lum_ se seque, se aplica una lechada de cal para mayor protección ante el deterioro producido por la lluvia y viento, y para que al penetrar en el muro de tierra impida la proliferación de la fauna nociva.
 
-Por último, ya terminada la vivienda, si está alineada a la calle, el *cot* (albarrada) realiza un quiebre formando un derrame hacia el acceso de la vivienda; lo cual crea un espacio vestibular que se pavimenta con sillares de cantería, ocasionando un desnivel en la parte del acceso de la vivienda. Dichos sillares son similares a los usados en el recubrimiento de los muros de las estructuras prehispánicas características del estilo *puuc.* De hecho se obtienen al igual que los del *tzoltún,* de los *cuyos* (estructuras prehispánicas).
+Por último, ya terminada la vivienda, si está alineada a la calle, el _cot_ (albarrada) realiza un quiebre formando un derrame hacia el acceso de la vivienda; lo cual crea un espacio vestibular que se pavimenta con sillares de cantería, ocasionando un desnivel en la parte del acceso de la vivienda. Dichos sillares son similares a los usados en el recubrimiento de los muros de las estructuras prehispánicas características del estilo _puuc._ De hecho se obtienen al igual que los del _tzoltún,_ de los _cuyos_ (estructuras prehispánicas).
 
 **Materiales, elementos estructurales y acciones constructivas**[10](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas)
 
@@ -103,158 +99,127 @@ Cada uno de los materiales, elementos o técnicas constructivas involucradas en 
 
 **Materiales de construcción.** Incluimos aquí aquellos materiales que no ejercen una función estructural dentro de la vivienda, pero que se utilizan para los recubrimientos y acabados. Los que se usan para proporcionar rigidez a la estructura se mencionarán en el siguiente apartado.
 
- >
- > 1. ***Xaan*** (1), ***xan:*** huano, especie de palma; sus hojas se usan para cubrir las casas de paja (3).
+> 1. **_Xaan_** (1), **_xan:_** huano, especie de palma; sus hojas se usan para cubrir las casas de paja (3).
 
- >
+>
 
- >
- > 2. ***Zuuc:*** zacate, yerba o heno (1, 2, 3).
+> 2. **_Zuuc:_** zacate, yerba o heno (1, 2, 3).
 
- >
+>
 
- >
- > 3. ***Ac:*** zacate verde (1).
+> 3. **_Ac:_** zacate verde (1).
 
- >
+>
 
- >
- > 4. ***Chac-zuuc:*** rojo zacate (1, 2).
+> 4. **_Chac-zuuc:_** rojo zacate (1, 2).
 
- >
+>
 
- >
- > 5. ***Luum:*** barro que se utiliza en los edificios (2, 3).
+> 5. **_Luum:_** barro que se utiliza en los edificios (2, 3).
 
- >
+>
 
- >
- > 6. ***Cab:*** tierra, mundo viviente (3).
+> 6. **_Cab:_** tierra, mundo viviente (3).
 
- >
+>
 
- >
- > 7. ***Kancab:*** tierra roja (2, 3).
+> 7. **_Kancab:_** tierra roja (2, 3).
 
- >
+>
 
- >
- > 8. ***Zah cab:*** tierra blanca que mezclan con cal. Tierra blanca con que se fabrica; cueva de donde se saca tierra (3). Se conoce comúnmente como *sascab.*
+> 8. **_Zah cab:_** tierra blanca que mezclan con cal. Tierra blanca con que se fabrica; cueva de donde se saca tierra (3). Se conoce comúnmente como _sascab._
 
 **Elementos estructurales.** Materiales que tienen la función de estabilizar la vivienda.
 
- >
- > 1. ***Noh-ocom*** (1). *Noh:* cosa grande y *ocom:* horcón de madera (1, 2), "horcón grande o principal". son los cuatro horcones principales que sostendrán la estructura de la cubierta. Serán los de mayor diámetro (17 cm aprox.) y de tres m de largo, aproximadamente, incluyendo la parte que se clava en el suelo. En las horquetas descansarán los *balo.*
+> 1. **_Noh-ocom_** (1). _Noh:_ cosa grande y _ocom:_ horcón de madera (1, 2), "horcón grande o principal". son los cuatro horcones principales que sostendrán la estructura de la cubierta. Serán los de mayor diámetro (17 cm aprox.) y de tres m de largo, aproximadamente, incluyendo la parte que se clava en el suelo. En las horquetas descansarán los _balo._
 
- >
+>
 
- >
- > 2. ***Balo*** (1) o ***balol*** (2). Nombre dado a los dos travesaños principales apoyados en los *noh-ocom* y que sostendrán al *pach-nah* y a los *toxche'.* Van a lo ancho de la vivienda con una distancia de 4.20 a 4.50 m, dejando la saliente para apoyo de los *pach-nah.* Su diámetro es menor que el de los *noh-ocom* (11 cm aprox.).
+> 2. **_Balo_** (1) o **_balol_** (2). Nombre dado a los dos travesaños principales apoyados en los _noh-ocom_ y que sostendrán al _pach-nah_ y a los _toxche'._ Van a lo ancho de la vivienda con una distancia de 4.20 a 4.50 m, dejando la saliente para apoyo de los _pach-nah._ Su diámetro es menor que el de los _noh-ocom_ (11 cm aprox.).
 
- >
+>
 
- >
- > 3. ***Pach-nah*** (1). *Pach:* las espaldas o el envés de cualquier cosa y *nah* o *na:* casa (1, 2, 3), "espalda de la casa", son dos travesaños que se apoyan en la parte saliente de los *balo,* en parte la trasera (de ahí su nombre) y en el frente; delimita el cuadro principal de la vivienda y la altura de los muros, los cuales se amarran al mismo. Su diámetro es menor que el de los *balo* (nueve cm aprox.).
+> 3. **_Pach-nah_** (1). _Pach:_ las espaldas o el envés de cualquier cosa y _nah_ o _na:_ casa (1, 2, 3), "espalda de la casa", son dos travesaños que se apoyan en la parte saliente de los _balo,_ en parte la trasera (de ahí su nombre) y en el frente; delimita el cuadro principal de la vivienda y la altura de los muros, los cuales se amarran al mismo. Su diámetro es menor que el de los _balo_ (nueve cm aprox.).
 
- >
+>
 
- >
- > 4. ***Toxche', Tiseras*** (1) o ***Tox-chee*** (2). *Tox:* que aguanta y *che'* o *chee:* madera (1, 2),[11](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas) *che:* árbol (3), estructura que torna rígida la cubierta. Son dos maderos largos que forman la tijera que determina la altura y la inclinación de la cubierta. En los extremos inferiores tienen horquetas que se empotran sobre los *balo* y en los extremos superiores se amarran formando el *ec* (1).[12](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas) Los extremos sobresalen para formar el *pac-hool* o caballete que sostendrá el *holnah-che'.*
+> 4. **_Toxche', Tiseras_** (1) o **_Tox-chee_** (2). _Tox:_ que aguanta y _che'_ o _chee:_ madera (1, 2),[11](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas) _che:_ árbol (3), estructura que torna rígida la cubierta. Son dos maderos largos que forman la tijera que determina la altura y la inclinación de la cubierta. En los extremos inferiores tienen horquetas que se empotran sobre los _balo_ y en los extremos superiores se amarran formando el _ec_ (1).[12](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas) Los extremos sobresalen para formar el _pac-hool_ o caballete que sostendrá el _holnah-che'._
 
- >
+>
 
- >
- > 5. ***Holnah-che'*** (1). *Hool:* cabeza (1, 2, 3), *nah* o *na:* casa (1, 2) y che' o *chee:* madera (1, 2), *che:* árbol (3), como su nombre indica, es la viga superior de la casa, ubicada en la cubierta, apoyada en las tijeras y que a su vez sostiene al *pac-hool.* Es ligero y de longitud similar al largo de la casa, entre ocho y nueve metros. Por estar en la parte superior es la que sufre mayor degradación a causa de la humedad.
+> 5. **_Holnah-che'_** (1). _Hool:_ cabeza (1, 2, 3), _nah_ o _na:_ casa (1, 2) y che' o _chee:_ madera (1, 2), _che:_ árbol (3), como su nombre indica, es la viga superior de la casa, ubicada en la cubierta, apoyada en las tijeras y que a su vez sostiene al _pac-hool._ Es ligero y de longitud similar al largo de la casa, entre ocho y nueve metros. Por estar en la parte superior es la que sufre mayor degradación a causa de la humedad.
 
- >
+>
 
- >
- > 6. ***Ka'aac*** (1). *Kab:* brazo (1, 2, 3) y *aac:* puerco jabalí, *ac:* tortuga, galápago, hicotea (1, 2), *aac-il:* jabalí, tortuga (3), "brazo de jabalí o tortuga" debido a su longitud, menor a la de los travesaños longitudinales. Son travesaños secundarios que ayudan estructuralmente a las tijeras y que sirven de apoyo para el *belcho'* y el *copmoy.* Están colocados sobre la parte media, entre el *holna-che'* y el *pach-nah.* Su longitud es de dos m, aproximadamente, con un diámetro de 5.5 cm.
+> 6. **_Ka'aac_** (1). _Kab:_ brazo (1, 2, 3) y _aac:_ puerco jabalí, _ac:_ tortuga, galápago, hicotea (1, 2), _aac-il:_ jabalí, tortuga (3), "brazo de jabalí o tortuga" debido a su longitud, menor a la de los travesaños longitudinales. Son travesaños secundarios que ayudan estructuralmente a las tijeras y que sirven de apoyo para el _belcho'_ y el _copmoy._ Están colocados sobre la parte media, entre el _holna-che'_ y el _pach-nah._ Su longitud es de dos m, aproximadamente, con un diámetro de 5.5 cm.
 
- >
+>
 
- >
- > 7. ***Belcho'***(1) o ***bech oo*** (2). *Beel:* camino y *choo:* ratón en general (1,2), *ch'oo:* ratón en general (3), "camino del ratón". Debe su nombre a su ubicación dentro de la estructura de la cubierta, ya que por esta madera caminan los ratones a lo largo de la vivienda. Es el travesaño horizontal en la parte media de la tijera, sostenido por los *ka 'aac,* ayuda junto con el *holnah-che'* a dar rigidez a la estructura. Sus dimensiones son similares al *holnah-che'.* Con este mismo nombre se denomina a los maderos que hacen la función de contraventos; colocados diagonalmente y en sentidos opuestos de cada lado amarran las tijeras con los *pach-nah.*
+> 7. **_Belcho'_**(1) o **_bech oo_** (2). _Beel:_ camino y _choo:_ ratón en general (1,2), _ch'oo:_ ratón en general (3), "camino del ratón". Debe su nombre a su ubicación dentro de la estructura de la cubierta, ya que por esta madera caminan los ratones a lo largo de la vivienda. Es el travesaño horizontal en la parte media de la tijera, sostenido por los _ka 'aac,_ ayuda junto con el _holnah-che'_ a dar rigidez a la estructura. Sus dimensiones son similares al _holnah-che'._ Con este mismo nombre se denomina a los maderos que hacen la función de contraventos; colocados diagonalmente y en sentidos opuestos de cada lado amarran las tijeras con los _pach-nah._
 
- >
+>
 
- >
- > 8. ***Huincli-che'*** (1). *Uinclil:* figura, cuerpo, humanidad (3) y *che'* o *chee* (1, 2): madera, *che:* árbol (3), lo interpretan los constructores como "cuerpo de madera", y son los travesaños verticales que conforman el cuerpo de la cubierta. Se amarran en la parte superior, media e inferior del *holnah-che', belcho'* y *pach-nah* respectivamente. En la parte del ábside se flexionan hacia el exterior a la altura del *copmoy* y se amarran en la parte inferior del *holmuch'.* Tienen una longitud de 4.50 m, para formar, abajo, el *chi'nah* —alero—, y muestran una separación de 50 cm.
+> 8. **_Huincli-che'_** (1). _Uinclil:_ figura, cuerpo, humanidad (3) y _che'_ o _chee_ (1, 2): madera, _che:_ árbol (3), lo interpretan los constructores como "cuerpo de madera", y son los travesaños verticales que conforman el cuerpo de la cubierta. Se amarran en la parte superior, media e inferior del _holnah-che', belcho'_ y _pach-nah_ respectivamente. En la parte del ábside se flexionan hacia el exterior a la altura del _copmoy_ y se amarran en la parte inferior del _holmuch'._ Tienen una longitud de 4.50 m, para formar, abajo, el _chi'nah_ —alero—, y muestran una separación de 50 cm.
 
- >
+>
 
- >
- > 9. ***Hiil*** (1) o ***hil*** (2). Nombre dado a varas delgadas de aproximadamente 7 m de largo. Se colocan horizontalmente sobre los *huincli-che',* amarrados a éstos con bejuco. Se colocan a una distancia de 45 cm, insertando en ellos el huano.
+> 9. **_Hiil_** (1) o **_hil_** (2). Nombre dado a varas delgadas de aproximadamente 7 m de largo. Se colocan horizontalmente sobre los _huincli-che',_ amarrados a éstos con bejuco. Se colocan a una distancia de 45 cm, insertando en ellos el huano.
 
- >
+>
 
- >
- > 10. ***Anicab*** (1) o **ak,** o ***kum ak*** (3). *Ak:* bejuco, *kum ak:* suave bejuco, bejucos largos y recios con que atan las casas (3). Nombre dado al bejuco que se utiliza para los amarres de la estructura. Llega a medir hasta 30 m de largo y puede conservarse por muchos años una vez recolectado. Para su uso en la construcción de viviendas debe hervirse en agua a fin de flexibilizarlo; al secarse se contrae y ejerce mayor presión al amarre. En los amarres no se deben hacer nudos sino cursar las puntas de manera que queden sesgadas.
+> 10. **_Anicab_** (1) o **ak,** o **_kum ak_** (3). _Ak:_ bejuco, _kum ak:_ suave bejuco, bejucos largos y recios con que atan las casas (3). Nombre dado al bejuco que se utiliza para los amarres de la estructura. Llega a medir hasta 30 m de largo y puede conservarse por muchos años una vez recolectado. Para su uso en la construcción de viviendas debe hervirse en agua a fin de flexibilizarlo; al secarse se contrae y ejerce mayor presión al amarre. En los amarres no se deben hacer nudos sino cursar las puntas de manera que queden sesgadas.
 
- >
+>
 
- >
- > 11. ***Ocom-moy*** (1). *Ocom:* horcón de madera y *moy:* culata de la casa (1, 2). Son horcones de menor diámetro que los *noh-ocom;* delimitan los accesos, sostienen los muros y la cubierta en la parte absidal. En los ábsides se cuentan de cuatro a cinco horcones, en los muros que contienen los accesos hay cuatro. El muro se construye junto a los *noh-ocom* sin que éste intervenga en la estructura, quedando dentro de la vivienda. Al no tener esfuerzos mayores en la estructura, su cimentación es menor —50 cm— al igual que su longitud, la cual es de 2.30 m, su diámetro es de 9.5 cm.
+> 11. **_Ocom-moy_** (1). _Ocom:_ horcón de madera y _moy:_ culata de la casa (1, 2). Son horcones de menor diámetro que los _noh-ocom;_ delimitan los accesos, sostienen los muros y la cubierta en la parte absidal. En los ábsides se cuentan de cuatro a cinco horcones, en los muros que contienen los accesos hay cuatro. El muro se construye junto a los _noh-ocom_ sin que éste intervenga en la estructura, quedando dentro de la vivienda. Al no tener esfuerzos mayores en la estructura, su cimentación es menor —50 cm— al igual que su longitud, la cual es de 2.30 m, su diámetro es de 9.5 cm.
 
- >
+>
 
- >
- > 12. ***Chi'-nah.*** Es la parte voladiza de la cubierta que protegerá el muro de bajareque de las inclemencias del clima. A la palabra *pacab* se le atribuye también el significado de solera (2). Muy probablemente se componga de la palabra *ch'ich':* pájaro, ave (3) y *nah* o *na:* casa (1, 2), pues esta parte de la casa queda "volando".
+> 12. **_Chi'-nah._** Es la parte voladiza de la cubierta que protegerá el muro de bajareque de las inclemencias del clima. A la palabra _pacab_ se le atribuye también el significado de solera (2). Muy probablemente se componga de la palabra _ch'ich':_ pájaro, ave (3) y _nah_ o _na:_ casa (1, 2), pues esta parte de la casa queda "volando".
 
- >
+>
 
- >
- > 13. ***Hala'-che'.*** *Halal:* cañas delgadas y *che* o *chee:* madera (1, 2). Son tres travesaños horizontales y delgados, colocados por el exterior amarrados a los *ocom-moy.* Sostendrán al *colox-che';* se interrumpen en el *holnah.*
+> 13. **_Hala'-che'._** _Halal:_ cañas delgadas y _che_ o _chee:_ madera (1, 2). Son tres travesaños horizontales y delgados, colocados por el exterior amarrados a los _ocom-moy._ Sostendrán al _colox-che';_ se interrumpen en el _holnah._
 
- >
+>
 
- >
- > 14. ***Holnah*** (1). *Hol:* hueco, agujero y *nah* o *na:* casa (1, 2). Es el nombre dado al espacio de los accesos, enmarcado por dos *ocom-moy* donde se apoyan las puertas, en la parte superior por el *pach-nah* y en la inferior por pequeños sillares de cantería que forman la escalera de acceso a la vivienda. En las bodegas y cocinas normalmente llevan un solo acceso. Su dimensión es de 1 por 1.7 m, y las puertas dobles se abaten hacia adentro con postigos en cada una; la madera utilizada mayormente es la del ciricote.
+> 14. **_Holnah_** (1). _Hol:_ hueco, agujero y _nah_ o _na:_ casa (1, 2). Es el nombre dado al espacio de los accesos, enmarcado por dos _ocom-moy_ donde se apoyan las puertas, en la parte superior por el _pach-nah_ y en la inferior por pequeños sillares de cantería que forman la escalera de acceso a la vivienda. En las bodegas y cocinas normalmente llevan un solo acceso. Su dimensión es de 1 por 1.7 m, y las puertas dobles se abaten hacia adentro con postigos en cada una; la madera utilizada mayormente es la del ciricote.
 
- >
+>
 
- >
- > 15. ***Cot*** (1). *Cot, ticin cot:* pared o cerca de piedras seca, sin barro (1, 2). Conocido comúnmente como albarrada, es el muro de mampostería colocada sin mortero; se construye al final para delimitar el terreno y crear el acceso con derrames hacia la vivienda. Al igual que los muros, se encalan.
+> 15. **_Cot_** (1). _Cot, ticin cot:_ pared o cerca de piedras seca, sin barro (1, 2). Conocido comúnmente como albarrada, es el muro de mampostería colocada sin mortero; se construye al final para delimitar el terreno y crear el acceso con derrames hacia la vivienda. Al igual que los muros, se encalan.
 
 **Acciones constructivas.** Mencionamos finalmente las técnicas o acciones constructivas sin separarlas de los elementos constructivos, debido a que funcionan como tales, no obstante que su estructura lingüística refiere a una acción.
 
- >
- > 1. ***Colox-che'*** (1) o ***cololche*** (2). *Cololche:* seto o palizada o cerca hecha de palos (2). Son las maderas verticales que darán cuerpo al muro de bajareque, deben tener una separación de dos a tres cm aproximadamente para dejar pasar el embarro. En la región de estudio se amarran al *hala che* , mientras que en la zona de Los Chenes, se entrelazan en los tres *hala '-che',* quedando unas puntas por dentro y otras por fuera de la vivienda.
+> 1. **_Colox-che'_** (1) o **_cololche_** (2). _Cololche:_ seto o palizada o cerca hecha de palos (2). Son las maderas verticales que darán cuerpo al muro de bajareque, deben tener una separación de dos a tres cm aproximadamente para dejar pasar el embarro. En la región de estudio se amarran al _hala che_ , mientras que en la zona de Los Chenes, se entrelazan en los tres _hala '-che',_ quedando unas puntas por dentro y otras por fuera de la vivienda.
 
- >
+>
 
- >
- > 2. ***Cop-moy*** (1). *Cop:* coger bejucos y enroscarlos, encorvar o doblegar y *moy:* culata de la casa (1, 2). Es similar al *holmuch',* pero más pequeño. Se localiza en la cubierta absidal a la altura del *belcho'* sobresaliendo ligeramente de la diagonal que forma la pendiente de la cubierta y obliga al *huincli-che* a doblarse hacia afuera como se mencionó anteriormente.
+> 2. **_Cop-moy_** (1). _Cop:_ coger bejucos y enroscarlos, encorvar o doblegar y _moy:_ culata de la casa (1, 2). Es similar al _holmuch',_ pero más pequeño. Se localiza en la cubierta absidal a la altura del _belcho'_ sobresaliendo ligeramente de la diagonal que forma la pendiente de la cubierta y obliga al _huincli-che_ a doblarse hacia afuera como se mencionó anteriormente.
 
- >
+>
 
- >
- > 3. ***Holmuch'*** (1). Lo interpretan los constructores como "vuelta", ya que da la forma absidal a la cubierta. Está conformado por varias maderas delgadas y flexibles que se enrollan en un conjunto de cinco o seis maderas y que se van traslapando cada vez que una se termine, se amarran en los traslapes y se le cortan puntas en los extremos para poder incrustarlas en la unión del *balo* con el *pach-nah;* van sujetos a las horquetas de los *ocom-moy* y amarrados a las mismas. Los *huincli-che'* deben sobresalir del *holmuch,* al igual que del *pach-nah,* para formar el *chi'nah* (alero).
+> 3. **_Holmuch'_** (1). Lo interpretan los constructores como "vuelta", ya que da la forma absidal a la cubierta. Está conformado por varias maderas delgadas y flexibles que se enrollan en un conjunto de cinco o seis maderas y que se van traslapando cada vez que una se termine, se amarran en los traslapes y se le cortan puntas en los extremos para poder incrustarlas en la unión del _balo_ con el _pach-nah;_ van sujetos a las horquetas de los _ocom-moy_ y amarrados a las mismas. Los _huincli-che'_ deben sobresalir del _holmuch,_ al igual que del _pach-nah,_ para formar el _chi'nah_ (alero).
 
- >
+>
 
- >
- > 4. ***Pac-hool*** (1). *Pac:* doblar (3) y *hool:* cabeza (1, 2, 3). Nombre dado al caballete en la parte superior de la cubierta, formado por los *huincli-che* que se interceptan en el *holnah-che'.* sobre esta intersección se pone una vara delgada llamada "zopilote", encima de la cual se colocarán tiras de zacate curvando sus extremos hacia las pendientes de la cubierta para evitar que el agua se filtre, ya que ésta parte es la más vulnerable al deterioro por el agua. Para afianzar las extremidades del zacate en sos extremos se colocan dos maderas similares al "zopilote" y se amarran con bejuco al *holnah-che'. Hol* significa también cabo o fin (2) que, en el caso de la cubierta, es la parte con la que se termina la construcción.
+> 4. **_Pac-hool_** (1). _Pac:_ doblar (3) y _hool:_ cabeza (1, 2, 3). Nombre dado al caballete en la parte superior de la cubierta, formado por los _huincli-che_ que se interceptan en el _holnah-che'._ sobre esta intersección se pone una vara delgada llamada "zopilote", encima de la cual se colocarán tiras de zacate curvando sus extremos hacia las pendientes de la cubierta para evitar que el agua se filtre, ya que ésta parte es la más vulnerable al deterioro por el agua. Para afianzar las extremidades del zacate en sos extremos se colocan dos maderas similares al "zopilote" y se amarran con bejuco al _holnah-che'. Hol_ significa también cabo o fin (2) que, en el caso de la cubierta, es la parte con la que se termina la construcción.
 
- >
+>
 
- >
- > 5. ***Pak-kancab o Pak-luum*** (1). *Pak:* pared que uno ha hecho o hace (2); *kan-cab:* tierra roja, *luum:* barro que se utiliza en los edificios (2, 3). También *paca, -ab:* hacer pared, labrar y hacer otro edificio; pegar, engrudar o soldar pegando (2). Acción de aplicar el embarro al muro con la mezcla compuesta de *kancab,* zacate y agua. La cantidad de agua se calcula con el manejo de la mezcla, a fin de hacerla moldeable. se aplica de adentro hacia fuera de la vivienda y se moldea a mano.
+> 5. **_Pak-kancab o Pak-luum_** (1). _Pak:_ pared que uno ha hecho o hace (2); _kan-cab:_ tierra roja, _luum:_ barro que se utiliza en los edificios (2, 3). También _paca, -ab:_ hacer pared, labrar y hacer otro edificio; pegar, engrudar o soldar pegando (2). Acción de aplicar el embarro al muro con la mezcla compuesta de _kancab,_ zacate y agua. La cantidad de agua se calcula con el manejo de la mezcla, a fin de hacerla moldeable. se aplica de adentro hacia fuera de la vivienda y se moldea a mano.
 
- >
+>
 
- >
- > 6. ***Tzoltun*** (1). *Tzol:* en composición por orden u ordenadamente y *tunich:* piedra en general (1, 2). se interpreta como "enfilar las piedras" que conformarán el pretil de la vivienda. Es el pequeño muro de mampostería que se construye entre los *ocom-moy* en todo el perímetro de la casa, dejando los espacios para los accesos de la misma; sobre éste se colocará el *colox-che* . Los sillares de mampostería son unidos con mortero de cal y *sascab* y labrados en la parte exterior, en forma similar a las construcciones prehispánicas. En la mayoría de los casos dichos sillares son extraídos de las estructuras precolombinas que abundan en toda la Península.
+> 6. **_Tzoltun_** (1). _Tzol:_ en composición por orden u ordenadamente y _tunich:_ piedra en general (1, 2). se interpreta como "enfilar las piedras" que conformarán el pretil de la vivienda. Es el pequeño muro de mampostería que se construye entre los _ocom-moy_ en todo el perímetro de la casa, dejando los espacios para los accesos de la misma; sobre éste se colocará el _colox-che_ . Los sillares de mampostería son unidos con mortero de cal y _sascab_ y labrados en la parte exterior, en forma similar a las construcciones prehispánicas. En la mayoría de los casos dichos sillares son extraídos de las estructuras precolombinas que abundan en toda la Península.
 
- >
+>
 
- >
- > 7. ***Ziic-xaan*** (1), ***Zictah, -te*** (2). Es la acción de colocar el huano en la estructura de la cubierta, comenzando de la parte inferior, traslapando el huano conforme se va colocando, hasta llegar al *pac-hool* (caballete).
+> 7. **_Ziic-xaan_** (1), **_Zictah, -te_** (2). Es la acción de colocar el huano en la estructura de la cubierta, comenzando de la parte inferior, traslapando el huano conforme se va colocando, hasta llegar al _pac-hool_ (caballete).
 
- >
+>
 
- >
- > 8. ***Ziic-zuuc*** (1). Es la acción de cubrir el techo con el zacate. Al igual que el huano, el zacate se coloca de abajo hacia arriba, amarrando pequeñas porciones con bejuco a los *hiil.* En las cubiertas de huano el zacate se utiliza en la parte superior del *pac-hool* (caballete) ([figuras 1](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3fi1) y [2](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3fi2)).
+> 8. **_Ziic-zuuc_** (1). Es la acción de cubrir el techo con el zacate. Al igual que el huano, el zacate se coloca de abajo hacia arriba, amarrando pequeñas porciones con bejuco a los _hiil._ En las cubiertas de huano el zacate se utiliza en la parte superior del _pac-hool_ (caballete) ([figuras 1](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3fi1) y [2](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3fi2)).
 
 ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3fi2.jpg)
 
@@ -280,56 +245,47 @@ La variación de la cubierta se presenta en la forma de sus extremos, ya sea abs
 
 La tipología de la casa maya actual es una clara expresión en las diferentes funciones que puede tener una misma estructura. Más adelante retomaremos con mayor amplitud este tema, fundamental para entender los tipos de vivienda.
 
-Si la planta es tipo ***absidal,*** con dos ábsides, puede mostrar muros de mampostería o de bajareque. Las estructuras de mampostería presentan siempre dos accesos alineados al centro de la vivienda, a diferencia de las construcciones de bajareque que pueden presentarse con dos o con un acceso.
+Si la planta es tipo **_absidal,_** con dos ábsides, puede mostrar muros de mampostería o de bajareque. Las estructuras de mampostería presentan siempre dos accesos alineados al centro de la vivienda, a diferencia de las construcciones de bajareque que pueden presentarse con dos o con un acceso.
 
-La planta con un solo ábside se observa en el caso de que su uso sea de cocina, con muros de *colox-che'[14](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas)* sin embarro y de baja altura. Cuando su uso es habitacional, los muros son de bajareque y la altura es similar a las otras estructuras habitacionales.[15](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas)
+La planta con un solo ábside se observa en el caso de que su uso sea de cocina, con muros de _colox-che'[14](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas)_ sin embarro y de baja altura. Cuando su uso es habitacional, los muros son de bajareque y la altura es similar a las otras estructuras habitacionales.[15](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas)
 
-En el caso de que la planta sea de tipo ***rectangular,*** la construcción de los muros puede presentar tres técnicas: de mampostería, de bajareque y de *colox-che'* sin embarro. Como en el tipo anterior, las dos primeras tecnologías son características de la función de estancia y la tercera de cocina. Cuando los muros son de bajareque y de tipo rectangular, en la aplicación del embarro se redondean las esquinas. En el caso de muros de mampostería, se presenta una variante de adaptación de las viviendas con techos de tejas que se emplearon durante la época de las haciendas, incluso en algunas casas de peones. Ante el deterioro de las tejas, éstas se sustituyen por el huano.[16](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas)
+En el caso de que la planta sea de tipo **_rectangular,_** la construcción de los muros puede presentar tres técnicas: de mampostería, de bajareque y de _colox-che'_ sin embarro. Como en el tipo anterior, las dos primeras tecnologías son características de la función de estancia y la tercera de cocina. Cuando los muros son de bajareque y de tipo rectangular, en la aplicación del embarro se redondean las esquinas. En el caso de muros de mampostería, se presenta una variante de adaptación de las viviendas con techos de tejas que se emplearon durante la época de las haciendas, incluso en algunas casas de peones. Ante el deterioro de las tejas, éstas se sustituyen por el huano.[16](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas)
 
 De lo anterior se desprende que los tipos se pueden definir con base en la forma y el material. Si a ello sumamos el uso, obtenemos la tipología siguiente:
 
- >
- > 1. ***Planta absidal con muros de bajareque.*** Puede tener las funciones de estancia o de bodega ([foto6](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f6)).
+> 1. **_Planta absidal con muros de bajareque._** Puede tener las funciones de estancia o de bodega ([foto6](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f6)).
 
- >
+>
 
- >
- > 2. ***Planta absidal con muros de mampostería.*** Se presenta siempre como estancia ([foto 3)](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f3).
+> 2. **_Planta absidal con muros de mampostería._** Se presenta siempre como estancia ([foto 3)](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f3).
 
- >
+>
 
- >
- > 3. ***Planta absidal con muros de* colox-che' *sin embarro.*** Sólo tiene la función de cocina y en algunos casos como protección para los animales ([foto 4](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f4)).
+> 3. **_Planta absidal con muros de_ colox-che' _sin embarro._** Sólo tiene la función de cocina y en algunos casos como protección para los animales ([foto 4](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f4)).
 
- >
+>
 
- >
- > 4. ***Planta rectangular con muros de bajareque.*** Este tipo de estructura puede usarse como estancia o bodega. En algunos casos se empleó como estancia y pasó a ser bodega al deshabitarse ([foto 4](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f4)).
+> 4. **_Planta rectangular con muros de bajareque._** Este tipo de estructura puede usarse como estancia o bodega. En algunos casos se empleó como estancia y pasó a ser bodega al deshabitarse ([foto 4](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f4)).
 
- >
+>
 
- >
- > 5. ***Planta rectangular con muros de mampostería.*** Funge como estancia ([foto 5](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f5)).
+> 5. **_Planta rectangular con muros de mampostería._** Funge como estancia ([foto 5](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f5)).
 
- >
+>
 
- >
- > 6. ***Planta rectangular con muros de* colox-che' *sin embarro.*** En este caso mayormente cumple funciones de cocina y, en menor porcentaje, de bodega ([foto 6](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f6)).
+> 6. **_Planta rectangular con muros de_ colox-che' _sin embarro._** En este caso mayormente cumple funciones de cocina y, en menor porcentaje, de bodega ([foto 6](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f6)).
 
- >
+>
 
- >
- > ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3f4.jpg)
+> ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3f4.jpg)
 
- >
+>
 
- >
- > ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3f5.jpg)
+> ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3f5.jpg)
 
- >
+>
 
- >
- > ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3f6.jpg)
+> ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3f6.jpg)
 
 Los anteriores tipos se deducen de su tecnología, su forma y su función. La interrelación de estos tres enfoques se muestra en el diagrama.
 
@@ -349,23 +305,19 @@ Con menor frecuencia, es posible apreciar solares que presentan varias estructur
 
 Del análisis anterior obtenemos cuatro tipos principales:
 
- >
- > 1. Estructuras separadas distribuidas al centro del solar.
+> 1. Estructuras separadas distribuidas al centro del solar.
 
- >
+>
 
- >
- > 2. Estructuras adjuntas distribuidas al centro del solar.
+> 2. Estructuras adjuntas distribuidas al centro del solar.
 
- >
+>
 
- >
- > 3. Estructuras separadas distribuidas al frente del solar ([foto 7](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f7)).
+> 3. Estructuras separadas distribuidas al frente del solar ([foto 7](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f7)).
 
- >
+>
 
- >
- > 4. Estructuras adjuntas distribuidas al frente del solar.
+> 4. Estructuras adjuntas distribuidas al frente del solar.
 
 ![](http://www.scielo.org.mx/img/revistas/peni/v1n2/a3f7.jpg)
 
@@ -373,13 +325,13 @@ Del análisis anterior obtenemos cuatro tipos principales:
 
 La distribución arquitectónica de la vivienda maya ha sufrido pequeñas variaciones con respecto a las viviendas del periodo prehispánico; dichas variaciones se deben en parte al nuevo mobiliario que los habitantes han adquirido a través del tiempo, conforme se han presentado en su medio.
 
-El funcionamiento se da en tres espacios principales, *la estancia, la cocina y la bodega,* a los que se les puede anexar otros conforme crece la familia. Dichos espacios se distribuyen en edificaciones independientes o en algunos casos adjuntas, dependiendo de sus funciones.
+El funcionamiento se da en tres espacios principales, _la estancia, la cocina y la bodega,_ a los que se les puede anexar otros conforme crece la familia. Dichos espacios se distribuyen en edificaciones independientes o en algunos casos adjuntas, dependiendo de sus funciones.
 
 El solar donde se establece dicha distribución es el elemento principal en el desarrollo de las comunidades de la región y el territorio en donde se manifiesta la arquitectura vernácula. Delimitado por las "albarradas", alberga todo un complejo arquitectónico y social, en donde se desarrollan las actividades cotidianas de sus habitantes. No sólo contiene la vivienda, sino que es también espacio para los cultivos de autoconsumo; flexible en su morfología, permite el crecimiento de las viviendas para albergar las nuevas familias que se forman.
 
-**Estancia.** Es el primer espacio y el principal, edificado al frente del predio. Es un área multifuncional a pesar de lo reducido de su extensión; en ella se desarrollan la mayoría de las actividades sociales y de descanso de la familia; funge a manera de *dormitorio, sala de estar, aseo personal, adoratorio, comedor, trabajo artesanal,* todo con sus respectivos mobiliarios y horarios de funcionamiento, que se desarrollan en un espacio libre que, cuando se requiera, puede compartimentarse.[19](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas)
+**Estancia.** Es el primer espacio y el principal, edificado al frente del predio. Es un área multifuncional a pesar de lo reducido de su extensión; en ella se desarrollan la mayoría de las actividades sociales y de descanso de la familia; funge a manera de _dormitorio, sala de estar, aseo personal, adoratorio, comedor, trabajo artesanal,_ todo con sus respectivos mobiliarios y horarios de funcionamiento, que se desarrollan en un espacio libre que, cuando se requiera, puede compartimentarse.[19](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas)
 
-Durante la noche todo el mobiliario se recorre a los muros de la vivienda para dar cabida a las hamacas, que van colgadas de *balo* a *balo* con dirección hacia los ábsides, o de los hamaqueros de madera empotrados en los pilones de mampostería que enmarcan los accesos; optimizando el espacio también se utiliza el *pach-nah,* ubicado en la parte superior del muro recto, en donde invariablemente se cuelgan hamacas por debajo del *balo,* envolviéndolo durante el día, sin desatar los extremos de la hamaca.
+Durante la noche todo el mobiliario se recorre a los muros de la vivienda para dar cabida a las hamacas, que van colgadas de _balo_ a _balo_ con dirección hacia los ábsides, o de los hamaqueros de madera empotrados en los pilones de mampostería que enmarcan los accesos; optimizando el espacio también se utiliza el _pach-nah,_ ubicado en la parte superior del muro recto, en donde invariablemente se cuelgan hamacas por debajo del _balo,_ envolviéndolo durante el día, sin desatar los extremos de la hamaca.
 
 Para deshabilitar el uso de dormitorio, se descuelga uno de los extremos de la hamaca y se pliegan de manera que con el extremo libre se hace un nudo a la hamaca y se sostiene junto al otro extremo que no fue desatado, o en algunos casos se anudan las hamacas por su parte media sin descolgarse, quedando en posición horizontal a la altura de sus apoyos[20](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#notas) ([foto 8](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-57662006000200003#a3f8)).
 
@@ -387,7 +339,7 @@ Para deshabilitar el uso de dormitorio, se descuelga uno de los extremos de la h
 
 Cada mañana se realizan actividades en los espacios abiertos y la cocina para la preparación de los alimentos. Llegada la hora de la comida la familia se reúne en la cocina, que funciona también como comedor; en caso de que la cocina sea muy pequeña, se utiliza una pequeña mesa, sillas y taburetes o banquillos dentro de la estancia para la función de consumo de alimentos.
 
-Durante la tarde en las horas de sol más intenso, no hay mejor lugar para descansar que la vivienda maya; estos momentos son privilegiados para la convivencia familiar y las visitas, para lo cual se desenredan las hamacas que envuelven el *balo* y se hace uso de taburetes. Estos momentos también son aprovechados para el trabajo artesanal que en la mayoría de los casos es el urdido de las hamacas y el tejido de sombreros, cestos y petates, que sirven como tapetes o simplemente para recostarse.
+Durante la tarde en las horas de sol más intenso, no hay mejor lugar para descansar que la vivienda maya; estos momentos son privilegiados para la convivencia familiar y las visitas, para lo cual se desenredan las hamacas que envuelven el _balo_ y se hace uso de taburetes. Estos momentos también son aprovechados para el trabajo artesanal que en la mayoría de los casos es el urdido de las hamacas y el tejido de sombreros, cestos y petates, que sirven como tapetes o simplemente para recostarse.
 
 Al caer la tarde, el adoratorio entra en función (práctica ya muy poco común). En una mesa situada en uno de los ábsides de la vivienda o en uno de sus extremos en caso de que la vivienda sea de planta cuadrada, se colocan las imágenes de santos y retratos de los difuntos de la familia, a los que las ancianas rezan el rosario. Lo habitual en las tardes es sentarse frente al televisor, que ha suplantado al altar, y abstraerse en las telenovelas y programas de entretenimiento.
 
@@ -419,10 +371,11 @@ La arquitectura vernácula es compañera de la historia del pueblo que la posee,
 
 La arquitectura vernácula de la península de Yucatán en México, generada por la cultura maya, ha subsistido por más de 3 000 años y, ante todo, ha logrado adaptarse a cada etapa, como una de las principales opciones de vivienda para las familias de bajos recursos, integrando el conocimiento del entorno y sus recursos, para mantenerse como una de las mejores opciones de arquitectura climática en este tipo de regiones.
 
-Es de vital importancia el estudio científico de la morfología de la vivienda rural, de sus características de diseño formal y biótico en la integración de una espacialidad que proporciona "el *confort* térmico que generan estas estructuras —y que— se deriva de la adecuada combinación entre el retardo de los cambios de temperatura interior y exterior que resulta de la inercia térmica del bajareque y la aplicación de la ventilación cruzada derivada de la colocación de sus puertas, de pequeños huecos en los muros y de la permeabilidad eólica de las cubiertas de palma" (Sánchez 2001:168), así como el buen desempeño de las actividades cotidianas.
+Es de vital importancia el estudio científico de la morfología de la vivienda rural, de sus características de diseño formal y biótico en la integración de una espacialidad que proporciona "el _confort_ térmico que generan estas estructuras —y que— se deriva de la adecuada combinación entre el retardo de los cambios de temperatura interior y exterior que resulta de la inercia térmica del bajareque y la aplicación de la ventilación cruzada derivada de la colocación de sus puertas, de pequeños huecos en los muros y de la permeabilidad eólica de las cubiertas de palma" (Sánchez 2001:168), así como el buen desempeño de las actividades cotidianas.
 
 Asimismo, se debe considerar la dualidad de este patrimonio mirando más allá de su parte tangible auquellos aspectos que sustentan la existencia de la vivienda rural, y de este modo rescatar la sabiduría que se ha mantenido de generación en generación, conformando verdaderas bibliotecas de conocimientos técnicos, bióticos y étnicos que corren peligro de perderse en las recientes generaciones, extinguiéndose así parte de nuestra historia y patrimonio cultural.
 
-"Pensemos detenidamente y propongamos con ciencia y con conciencia desarrollos urbanos —y habitacionales— equilibrados, que protejan y realcen nuestro patrimonio etnológico, en el que se encuentra la arquitectura vernácula que aún permanece esperando ser valorada en su riqueza artística, ecológica y funcional" *(ibidem,* 177).
+"Pensemos detenidamente y propongamos con ciencia y con conciencia desarrollos urbanos —y habitacionales— equilibrados, que protejan y realcen nuestro patrimonio etnológico, en el que se encuentra la arquitectura vernácula que aún permanece esperando ser valorada en su riqueza artística, ecológica y funcional" _(ibidem,_ 177).
 
 Nuestro acervo cultural es amplio y aún queda mucho por conocer. En este artículo se concentra sólo una pequeña parte del trabajo de investigación realizado, que busca aportar algo más al conocimiento de nuestra cultura. La integración de propuestas de investigación con visión interdisciplinaria en este ámbito, conducirá a productos más elaborados que sean sustento para propuestas reales de protección y generación de conocimiento.
+

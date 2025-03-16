@@ -1,3 +1,0 @@
-# escala de Likert
-
-Una escala de Likert es una herramienta utilizada en investigaciones y encuestas para medir actitudes y opiniones de manera cuantitativa. Consiste en una serie de afirmaciones o enunciados a los que los participantes deben responder indicando su grado de acuerdo o desacuerdo, generalmente utilizando una escala de cinco puntos que va desde "totalmente en desacuerdo" hasta "totalmente de acuerdo". Este tipo de escala permite obtener datos numéricos que pueden ser analizados estadísticamente. (openAI)

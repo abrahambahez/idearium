@@ -1,0 +1,4 @@
+# transfiguración étnica
+La transfiguración étnica es un [[constructo teórico]] propuesto por @bartolome2008  [p. 103] que *denota* procesos de cambio a los que algunas culturas recurren, pero no para desaparecer, sino para poder seguir siendo ellas mismas; se trata de *estrategias adaptativas que las sociedades subordinadas generan para sobrevivir y que van desdibujando su propio perfil cultural: para poder seguir siendo hay que dejar de ser lo que se era*.
+
+<!-- Esto puede dar pie a una escala de tipos de interacción asimétrica entre culturas: que podría ir, tentativamente, del etnocidio a la transfiguración, y de ahí a la "retroaculturación" (el proceso por el que la cultura subordinada influye estructuralmente en la dominante), piensa en la *mayización* de los españoles en Yucatán durante la conquista -->

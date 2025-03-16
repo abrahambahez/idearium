@@ -1,7 +1,5 @@
 # La sociedad desescolarizada (Iván Illich 2006)
-
 [zotero](zotero://select/items/@illich2006a)
-
 ## Lectura inspeccional
 
 <!--Basado en: el título, prefacio, contraportada, epígrafe, solapa-->
@@ -18,36 +16,34 @@
 
 **Conceptos principales:**
 
-* Desescolarización
-  * Escolaridad
-  * Escuela
-* Falsos servicios de utilidad pública
-* Tramas del aprendizaje [p. 257]
-  * Nuevas instituciones educativas formales
-* Hombre epimeteico
-* Programa oculto: relacionado con la mercantilización (la escuela como «mercancía», p. 301)
-  * Adquirir competencias que la sociedad reconoce como útiles
-  * Sucesión a determinadas edades de cursos graduados (310)
-  * Prejuicio y discriminación en unos, ensalzamiento en otros ([sistemas-de-distribucion-de-opresion-y-privilegios](sistemas-de-distribucion-de-opresion-y-privilegios.md))
-  * «la idea de que el juicio de una persona debiera determinar  qué y cuándo debe aprender otra persona» [p. 229]
-* Capitalistas del conocimiento
-* Mito del consumo sin fin [cap. 3]
+- Desescolarización
+    - Escolaridad
+    - Escuela
+- Falsos servicios de utilidad pública
+- Tramas del aprendizaje [p. 257]
+    - Nuevas instituciones educativas formales
+- Hombre epimeteico
+- Programa oculto: relacionado con la mercantilización (la escuela como «mercancía», p. 301)
+    - Adquirir competencias que la sociedad reconoce como útiles
+    - Sucesión a determinadas edades de cursos graduados (310)
+    - Prejuicio y discriminación en unos, ensalzamiento en otros ([[sistemas de distribución de opresión y privilegios]])
+    - «la idea de que el juicio de una persona debiera determinar  qué y cuándo debe aprender otra persona» [p. 229]
+- Capitalistas del conocimiento
+- Mito del consumo sin fin [cap. 3]
 
 **Relaciones entre conceptos:**
 
-* Educación versus escolaridad
-  * Escuela activa
-* La desescolarización es una revolución
-  * Las personas recuperan la autonomía y la responsabilidad de aprender e instruirse a sí mismas
+- Educación versus escolaridad
+    - Escuela activa
+- La desescolarización es una revolución
+    - Las personas recuperan la autonomía y la responsabilidad de aprender e instruirse a sí mismas
 
 <!--Basado en: escaneo de páginas, lectura inicial de capítulos-->
 
 <!--El libro me gustó / no me gustó porque-->
-
 Sí, porque tiene una crítica original y una propuesta interesante; ambas cosas todavía vigentes para el siglo XXI
 
 <!--Resumen de capítulos lectura superficial-->
-
 ## I ¿Por qué debemos privar de apoyo oficial a la escuela?
 
 La escolarización, con su currículum oculto ha traído más problemas que soluciones. Sobre todo, es uno de los principales modos de reproducción de la desigualdad de clases. La universalidad de la eduación por medio de la escuela obligatoria es económicamente inviable [p. 198].
@@ -74,9 +70,8 @@ El curriculum es el envase de la escuela [p. 228]. El mito del consumo sin fin e
 
 La alienación consiste en la separación de las personas de su orgánica capacidad de aprender e instruir poniéndola en manos de la escuela y su programa:
 
- >
- > La escuela prepara para la alienante institucionali-  zación de la vida al enseñar la necesidad de ser enseñado.[p. 234]
-
+> La escuela prepara para la alienante institucionali-  zación de la vida al enseñar la necesidad de ser enseñado.[p. 234]
+ 
 ### IV. Espectro institucional
 
 Hay una institución manipulativa (contraproductiva, crea una necesidad artificial, una adicción o dependiencia, mediante la manipulación) y hay una institución «convivencial» (existe para usarse más quie para producir algo). El espectro de estas instituciones va de derecha a izquierda, respectivamente. [240].
@@ -90,21 +85,20 @@ Las escuelas convierten la inclinación a desarrollarse y aprender en *demanda* 
 Como en el ejemplo de Borges [p. 253]. Cuando una lógica burocrática se impone, las personas que la encarnan tienden a reproducirla, hacer que se cumpla y que se vea como natural. Se asume que las escuelas son necesarias, incluso «naturales» por la compatibilidades irracionales.
 
 La salida está en estructuras que permitan a cada quien autodefinirse aprendiendo y contribuir al aprendizaje de los demás [p. 256].
-
-### VI. Tramas del aprendizaje
+### VI. Tramas del aprendizaje 
 
 Un buen sistema educativo proporciona [p. 260]
 
 1. Acceso permanente y vitalicio a los recursos para aprender o enseñar
-1. Capacidad de compartir lo que sé con quienes quieran aprenderlo
-1. Cualquiera pueda dar a conocer su argumento si quiere debatir un tema
+2. Capacidad de compartir lo que sé con quienes quieran aprenderlo
+3. Cualquiera pueda dar a conocer su argumento si quiere debatir un tema
 
 La tecnología debería orientarse a permitir esto. Las redes propuestas por Illich pretenden resolver la facilitación de esas reglas mediante los servicios que propone [pp. 262-264]
 
-* Redes de acceso libre a cosas
-* Centros y «bancos» de habilidades (contra la falsa escasez de habilidades) con créditos ganados a partir de compartir ([economia-del-don](economia-del-don.md))
-* Grupos de iguales en el aprendizaje y
-* La relación personal o más directa entre discípulo y maestro
+- Redes de acceso libre a cosas
+- Centros y «bancos» de habilidades (contra la falsa escasez de habilidades) con créditos ganados a partir de compartir ([[economía del don]])
+- Grupos de iguales en el aprendizaje y 
+- La relación personal o más directa entre discípulo y maestro
 
 ### VII. Renacimiento del hombre epimeteico
 

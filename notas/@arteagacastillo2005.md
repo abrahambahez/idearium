@@ -1,8 +1,7 @@
 # La escuela racionalista de Yucatán: una experiencia mexicana de educación anarquista, 1915-1923
-
 Belinda Arteaga Castillo (2005)
 
-[organizacion-anarquista](organizacion-anarquista.md) de la educación
+[[organización anarquista]] de la educación
 
 La ruptura de Carranza con Alvarado provocó su salida de Yucatán y su posterior muerte en batalla; también supuso una ruptura con el Partido Socialista del Sureste [165]
 

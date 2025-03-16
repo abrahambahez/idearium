@@ -1,0 +1,2 @@
+# acumulación salvaje
+Un [[constructo teórico]] propuesto por @tsing2015 para describir la capacidad del capitalismo para convertir a su propia lógica monetaria elementos que tienen su origen en otros modos de producción típicamente no considerados *capitalistas*, como la recolección manual de hongos que terminan formando parte de cadenas de mercancías mediadas por empresas e introducidas en el mercado capitalista.

@@ -1,16 +1,13 @@
 # Desestabilizando la raza
-
 Kathryn Burns (2008)
 
 ## Resumen
-
-los argumentos y temas principales, de este capítulo: (1) que las políticas, categorías y prácticas del [racismo](racismo.md) son de una gran especificidad histórica, moldeadas por luchas sumamente locales, así como por rivalidades imperiales y por políticas de construcción del Estado; y (2) que vale la pena hacer más sensible nuestro trabajo, no sólo a estas complejas historias, sino a las maneras en las que se relacionan con nuestro presente.6 Los académicos empleamos con mucha frecuencia el término “raza” entre comillas. Este es una forma de desestabilizar la raza —de indicar que las categorías que reconocemos como “raciales” no son estables o panhistóricas—, pero es sólo el inicio de un proyecto que podemos llevar más lejos. (abstract)
+los argumentos y temas principales, de este capítulo: (1) que las políticas, categorías y prácticas del [[racismo]] son de una gran especificidad histórica, moldeadas por luchas sumamente locales, así como por rivalidades imperiales y por políticas de construcción del Estado; y (2) que vale la pena hacer más sensible nuestro trabajo, no sólo a estas complejas historias, sino a las maneras en las que se relacionan con nuestro presente.6 Los académicos empleamos con mucha frecuencia el término “raza” entre comillas. Este es una forma de desestabilizar la raza —de indicar que las categorías que reconocemos como “raciales” no son estables o panhistóricas—, pero es sólo el inicio de un proyecto que podemos llevar más lejos. (abstract)
 
 ## Notas
-
 <!--Resumen GPT--> 
-
 Kathryn Burns sostiene que el concepto de "raza" es inestable debido a factores históricos y sociales. El racismo y las categorías raciales son específicos de determinados momentos históricos y contextos locales, lo que significa que no son estables ni universales, sino que cambian a lo largo del tiempo. El uso de comillas alrededor del término "raza" indica que las categorías raciales reconocidas no son estables o panhistóricas, desestabilizando así el concepto. La historia de la colonización española en América Latina muestra cómo las categorías raciales se establecieron y cambiaron a lo largo del tiempo, demostrando que las personas no se adhieren a las categorías asignadas por la Corona. Las etiquetas raciales también estaban relacionadas con la "impureza de sangre" y la reciente conversión al cristianismo, pero nunca funcionaron como pretendían las autoridades españolas y estaban motivadas por consideraciones raciales castellanas del momento. En resumen, el concepto de "raza" es fluido y sujeto a cambios debido a su especificidad histórica y dependencia de contextos locales.
+
 
 El concepto de "raza" es inestable debido a varios factores históricos y sociales. En primer lugar, el racismo y las categorías raciales son específicos de determinados momentos históricos y contextos locales. Las políticas, categorías y prácticas del racismo están moldeadas por luchas locales, rivalidades imperiales y políticas estatales de construcción. Esto significa que las categorías raciales no son estables ni universales, sino que cambian a lo largo del tiempo.
 
@@ -18,14 +15,13 @@ Además, el uso de comillas alrededor del término "raza" es una forma de desest
 
 Un ejemplo concreto es el insulto racial hacia los judíos en Lima en el siglo XVII. En ese momento, ser llamado "judío" era considerado uno de los insultos raciales más fuertes. Esto demuestra cómo la definición de lo racial puede cambiar según el contexto histórico y cultural específico.
 
-Además, la historia de la colonización española en América Latina muestra cómo las categorías raciales se establecieron y cambiaron a lo largo del tiempo. A medida que se construían pueblos, ciudades y virreinatos, los inmigrantes ibéricos traían consigo esclavos africanos y peninsulares africanos. La violencia de la conquista también llevó a la apropiación de [mujeres-indigenas](mujeres-indigenas.md) como esclavas o esposas por parte de los invasores europeos. Estas circunstancias demuestran cómo las categorías raciales no se mantienen fijas y cómo las personas no se adhieren a las categorías que la Corona les asigna.
+Además, la historia de la colonización española en América Latina muestra cómo las categorías raciales se establecieron y cambiaron a lo largo del tiempo. A medida que se construían pueblos, ciudades y virreinatos, los inmigrantes ibéricos traían consigo esclavos africanos y peninsulares africanos. La violencia de la conquista también llevó a la apropiación de [[mujeres indígenas]] como esclavas o esposas por parte de los invasores europeos. Estas circunstancias demuestran cómo las categorías raciales no se mantienen fijas y cómo las personas no se adhieren a las categorías que la Corona les asigna.
 
 Además, las etiquetas raciales en ese momento estaban relacionadas con la "impureza de sangre" y la reciente conversión al cristianismo. Estas categorías eran utilizadas para definir el lugar de los nuevos cristianos en una sociedad supuestamente cristiana. Sin embargo, estas categorías nunca funcionaron como pretendían las autoridades españolas y estaban motivadas por consideraciones raciales castellanas del momento.
 
 En resumen, el concepto de "raza" es inestable debido a su especificidad histórica y su dependencia de contextos locales. Además, las categorías raciales cambian a lo largo del tiempo y están sujetas a interpretaciones diversas según quién las utilice y en qué contexto. Esto demuestra que el concepto de raza es fluido y puede ser desestabilizado.
 
-## Anotaciones
-
+## Anotaciones  
 (26/9/2023 19:34:54)
 
 "Mis préstamos epigráficos de diccionarios antiguos tienen la intención de conducirnos al tema de esta inestabilidad y al racismo persistente que se vale de categorías incluso conforme éstas cambian" (Burns, 2008, p. 35)
@@ -34,7 +30,7 @@ En resumen, el concepto de "raza" es inestable debido a su especificidad histór
 
 "Por ejemplo: uno de los insultos “raciales” más fuertes que uno podría haber lanzado en Lima a principios del siglo XVII era decirle a alguien “judío”. Los judíos eran estigmatizados como “la casta blanca mala” (cf. Gose 2002; Silverblatt 2000).8 Se trata de un marco de referencia históricamente específico que Albert Sicroff denomina “racismo religioso” (Sicroff 2000)." (Burns, 2008, p. 37)
 
-"el modelo de las “dos repúblicas” fracasó desde su inicio en lo que se refiere a la separación entre españoles e indígenas. Conforme se fueron estableciendo y construyendo pueblos, ciudades y virreinatos, los inmigrantes ibéricos —abrumadoramente varones— trajeron consigo numerosos esclavos africanos y esclavos peninsulares de ascendencia africana.16 Y como parte de la violencia de la conquista y la ocupación, los invasores europeos y sus aliados tomaron a las [mujeres-indigenas](mujeres-indigenas.md) como botín de guerra, como esclavas, sirvientas y, en ciertos casos, como esposas, apropiándose para sí del acceso a los cuerpos de las mujeres nativas y esclavizadas. Con todo esto ocurriendo, era obvio que nadie se mantenía en el lugar que la Corona le asignaba." (Burns, 2008, p. 40)
+"el modelo de las “dos repúblicas” fracasó desde su inicio en lo que se refiere a la separación entre españoles e indígenas. Conforme se fueron estableciendo y construyendo pueblos, ciudades y virreinatos, los inmigrantes ibéricos —abrumadoramente varones— trajeron consigo numerosos esclavos africanos y esclavos peninsulares de ascendencia africana.16 Y como parte de la violencia de la conquista y la ocupación, los invasores europeos y sus aliados tomaron a las [[mujeres indígenas]] como botín de guerra, como esclavas, sirvientas y, en ciertos casos, como esposas, apropiándose para sí del acceso a los cuerpos de las mujeres nativas y esclavizadas. Con todo esto ocurriendo, era obvio que nadie se mantenía en el lugar que la Corona le asignaba." (Burns, 2008, p. 40)
 
 "¿Eran “raciales” estas nuevas categorías? Aunque no implicaban claras líneas de color,17 tenían que ver con la “raza” en los términos castellanos de la época, puesto que hacían referencia a asuntos de (im)pureza de sangre y conversión reciente al cristianismo. Las etiquetas nuevas—y también “indio”—se usaban para señalar a aquellos que, como los conversos y moriscos de España, eran nuevos cristianos (o sus descendientes), para definir lugares para ellos en una sociedad en la que la cristianización estaba supuestamente asegurada por amos, sacerdotes y encomenderos cristianos. Si bien estos planes nunca funcionaron como las autoridades españolas querían, estaban motivados por las consideraciones “raciales” castellanas del momento: la misión de imponer el cristianismo y extirpar religiones consideradas falsas y heréticas." (Burns, 2008, p. 41)
 

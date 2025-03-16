@@ -15,7 +15,7 @@ language = "es"
 #default-title = "Untitled"
 
 # Template used to generate a note's filename, without extension.
-filename = "{{slug title}}"
+filename = "{{title}}"
 
 # The file extension used for the notes.
 #extension = "md"
@@ -85,13 +85,13 @@ template = "daily.md"
 
 # Format used to generate links between notes.
 # Either "wiki", "markdown" or a custom template. Default is "markdown".
-link-format = "markdown"
+link-format = "wiki"
 # Indicates whether a link's path will be percent-encoded.
 # Defaults to true for "markdown" format and false for "wiki" format.
 # link-encode-path = false
 # Indicates whether a link's path file extension will be removed.
 # Defaults to true.
-link-drop-extension = false
+link-drop-extension = true
 
 # Enable support for #hashtags.
 hashtags = true

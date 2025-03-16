@@ -1,6 +1,0 @@
-# relación entre las cosas y el conocimiento
-
-En el contexto de la [vida-social-de-las-cosas](vida-social-de-las-cosas.md):
-
- >
- > Las mercancías representan formas sociales y distribuciones de conocimiento muy complejas. En primer lugar,y en términos generales, tal conocimiento puede ser de dos tipos: el conocimiento (técnico, social,estético y demás) que acompaña a la producción de la mercancía, y el conocimiento que acompaña al consumo apropiado de la mercancía. El conocimiento productivo que se atribuye a una mercancía es muy distinto del conocimiento de consumo que se confiere a la mercancía. Por supuesto, ambas atribuciones divergirán proporcionalmente,en cuanto aumente la distancia social, espacial y temporal entre los productores y los consumidores. Como veremos, no es correcto considerar el conocimiento en el plano de la producción de la mercancía como exclusivamente técnico y empírico,y el conocimiento en el plano del consumo como exclusivamente valorativo o ideológico. En ambos polos,el conocimiento tiene componentes técnicos, mitológicos y valorativos, y son susceptibles de interacción mutua y [dialectica](dialectica.md) [@appadurai1991, 60]

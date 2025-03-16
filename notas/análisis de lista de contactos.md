@@ -1,0 +1,6 @@
+# análisis de lista de contactos
+[[análisis de datos]]
+
+El análisis de lista de contactos es una [[técnica de investigación]] o [[estrategia metodológica]] usada en el contexto de la [[etnografía digital]] para entender relaciones sociales mediadas digitalmente, de acuerdo con @pinketal2016 [p. 118]
+
+>One of the key techniques used in the latter study was an analysis of individuals’ contact lists through a discussion of all the names and numbers saved in their phone (Horst and Miller, 2005). Participants documented each contact’s name and relationship to them, the last time they spoke with that person, what they talked about and how frequently they sent or received calls and messages from them. This contact list study also involved going through the entire phone, such as looking through pictures saved, screen savers, music, ringtones and other forms of customisation. Combined with the broader ethnographic research that Horst carried out between 1999 and 2002 and again in 2004, 2007 and 2009, the contact list study enabled Horst to understand the structure of relationships and networks activated through mobile phones. It also generated insights into some of the broader social implications of these structures, particularly gender relations in families, for understanding the meaning of the mobile phone in people’s everyday lives (Figure 5.3).

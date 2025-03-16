@@ -1,0 +1,4 @@
+# ética del abrazo
+>De acuerdo con la perspectiva relacional de la interculturalidad se trataría de pasar de medidas de sostenimiento a la práctica de una ética, esto es, de un modo de habitar la tierra y de vivir la vida, que llamaremos, a falta de un término mejor, la “ética del abrazo”. Entendemos esta ética como la práctica de aquellas costumbres por las que manifestamos precisamente que nos acostumbramos a vivir la vida desde la celebración de esa proximidad a la naturaleza y a nuestros semejantes que se nos da gratuitamente por el tejido de relaciones en el que cada uno de nosotros está ya desde su nacimiento [@fornet-betancourt2009, p. 93]
+
+Occidente ha creído que la respuesta a la finitud es la de la *apropiación* de la realidad. La ética del abrazo como [[diálogo intercultural]] es una terapia que exige eliminar al sujeto empresario que ve en el exterior su propiedad.

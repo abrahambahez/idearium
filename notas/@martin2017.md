@@ -1,10 +1,9 @@
 # La dimensión acústica de la protesta social: apuntes desde una etnografía sonora
-
 José Luis Martin,Santiago Fernández Trejo
 
 # Anotaciones **(28/9/2022 11:16:16)**
 
-\**
+**
 
 "prácticas sonoras" (Martin y Trejo, 2017, p. 2)
 
@@ -20,7 +19,7 @@ José Luis Martin,Santiago Fernández Trejo
 
 "un estudio de los paisajes sonoros humanos que tome distancia de los enfoques tradicionales de la ecología acústica y aportando la definición de comunidad acústica como una forma de paisaje sonoro en el que la información acústica juegue un rol determinante en las vidas de los miembros de la comunidad, o en otras palabras, se trata de cualquier sistema en el que se intercambie información acústica." (Martin y Trejo, 2017, p. 7)
 
-"[escucha-analitica](escucha-analitica.md)" (Martin y Trejo, 2017, p. 7) [acustemologia](acustemologia.md)
+"[[escucha analítica]]" (Martin y Trejo, 2017, p. 7) [[acustemología]]
 
 "Raymond Murray Schafer (1977) desde The Tuning of the World" (Martin y Trejo, 2017, p. 9)
 
@@ -52,4 +51,5 @@ José Luis Martin,Santiago Fernández Trejo
 
 "se escucha miedo" (Martin y Trejo, 2017, p. 15)
 
-\**
+**
+

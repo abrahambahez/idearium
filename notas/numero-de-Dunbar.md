@@ -1,3 +1,0 @@
-# número de Dunbar
-
-Según el antropólogo Robin Dunbar es el número máximo de personas que pueden relacionarse «plenamente» en un sistema determinado, alrededor de 150 personas. Esta definición se basa en una correlación hipotética entre las relaciones sociales y el volumen del neocorteza cerebral derivada de estudios en primates no humanos, conocida como la hipótesis del cerebro social [@dunbar1998].

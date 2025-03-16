@@ -1,5 +1,4 @@
 # How to take smart notes: One simple technique to boost writing, learning and thinking: For students, academics and nonfiction book writers
-
 Sönke Ahrens 2017, [kindle](https://leer.amazon.com.mx/?asin=B06WVYW33Y)
 
 ## Resumen
@@ -18,8 +17,9 @@ Cap. 5 - Writing Is the Only Thing That Matters
 
 Cap. 6 - Simplicity Is Paramount.
 
-Cap. 7 - Nobody Ever Starts From Scratch: plantea la idea del [proceso-iterativo](proceso-iterativo.md) versus la lógica de la "hoja en blanco"
+Cap. 7 - Nobody Ever Starts From Scratch: plantea la idea del [[proceso iterativo]] versus la lógica de la "hoja en blanco"
 
 Es erróneo *decidir sobre qué vas a escribir antes de escribir cualquier cosa*, porque el conocimiento es un proceso dialógico de expresión-interpretación tanto colectiva / intersubjetiva como en relación con el entorno.
 
-Cap. 8 - Let the Work Carry You Forward: Si el trabajo es gratificante, la motivación permite que el proceso sea auto-sostenible. El [proceso-iterativo](proceso-iterativo.md) vuelve la calidad de la escritura cada vez mejor.
+Cap. 8 - Let the Work Carry You Forward: Si el trabajo es gratificante, la motivación permite que el proceso sea auto-sostenible. El [[proceso iterativo]] vuelve la calidad de la escritura cada vez mejor.
+

@@ -1,17 +1,16 @@
 # En defensa de la etnografía. El papel contemporáneo de la investigación intercultural
-
 Miguel Alberto Bartolomé (2003)
 
 ## Resumen esquemático
 
-En este texto, se discute el papel que juega la [etnografia](etnografia.md) en dos dinámicas importantes actualmente:
+En este texto, se discute el papel que juega la [[etnografía]] en dos dinámicas importantes actualmente:
 
 1. La compresnión de culturas alternas a la propia
-1. Como herramienta de diálogo intercultural en el mundo contemporáneo
+2. Como herramienta de diálogo intercultural en el mundo contemporáneo
 
 Se parte del inmenso trabajo dedicado por algunos investigadores al conocimiento de las culturas indígenas de América Latina. También los cambios históricos han afectado directamente sus dinámicas culturales y con ello las han integrado de una manera peculiar al tiempo histórico occidental. En el ámbito del espacio ha sido algo parecido, pues no debería pasarse por alto que latinamérica es un espacio compartido en el que estos mundos culturales coexisten.
 
-Los cambios históricos post industriales reflejan una visión modelada del mundo al que pretenden aspirar y se expresan mediante fenómenos ideológicos. Esta relación *[dialectica](dialectica.md)* entre ideología y estructura (términos que sugieren un sentido de inspiración marxista), se ve *directamente impactada* por el trabajo de investigación *no utilitaria, instrumental* o *guiado por objetivos de corto plazo*.
+Los cambios históricos post industriales reflejan una visión modelada del mundo al que pretenden aspirar y se expresan mediante fenómenos ideológicos. Esta relación *[[dialéctica]]* entre ideología y estructura (términos que sugieren un sentido de inspiración marxista), se ve *directamente impactada* por el trabajo de investigación *no utilitaria, instrumental* o *guiado por objetivos de corto plazo*. 
 
 Aquí es donde se encuentran tanto las comunidades indígenas en su papel de sujetos políticos, como la investigación antropológica con los cambios ya mencionados. Cada uno posee lógicas internas que pueden ser contradictorias entre sí, y que impiden el diálog. Una de ellas, la académica, se reconoce por ciertas prácticas de gremialización disciplinaria y hermetismo léxico. Este motivo dificulta la potencial utilización real del conocimiento producido en la antropología, aunque no esté siempre en la mente del sujeto que investiga. Pero eso no implica que no exista. Bartolomé cita el caso de Do Kamo, obra de Maurice Leenhardt, utilizado por organizaciones etnopolíticas nativas como argumento anticolonial.
 

@@ -1,5 +1,0 @@
-# valores estéticos visibles en acciones cotidianas
-
-Para @saito2021 [§ 4], en la [estetica-de-lo-cotidiano](estetica-de-lo-cotidiano.md), las cualidades estéticas negativas nos llevan a tomar acción inmediata y directa (a diferencia del enfoque de una estética centrada en el arte, que podría motivarnos a unirnos o contribuir con  organizaciones que producen cambios de forma indirecta).
-
-Estas acciones inmediatas, como pintar las paredes, lavar ropa manchada, ordenar un espacio, reflejan directamente el valor negativo atribuido a la cualidad estética que las motiva: un *cuarto sucio*, una *mesa desordenada*, un *mal olor*, etcétera. Por tanto, estas acciones son indicadores de los significados que *ordenan el mundo alrededor* de los habitantes, que a su vez permiten explicar disgustos o tomas de acción en contextos más amplios.

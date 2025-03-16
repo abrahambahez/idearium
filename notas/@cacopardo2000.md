@@ -1,5 +1,4 @@
 # Entre Babel y la búsqueda de una nueva síntesis: interdisciplina y enunciación crítica de problemas
-
 Fernando Cacopardo 2000
 
 En este artículo, Cacopardo plantea la problemática que representa la postura posmoderna al provocar una fragmentación fuerte de visiones, posturas y nuevas disciplinas, tras un periodo de crítica útil. Puesto que las categorías que fueron objeto de discusión por parte de los posmodernos «aún hoy se siguen disolviendo» (p. 46), así es como llega al planteamiento central.
@@ -10,23 +9,22 @@ Para el autor, la fragmentación ha tenido su lado positivo en cuanto que la esp
 
 Desde Lucien Febvre se puede rastrear una lucha contra la segmentación (que él llamaba «la plaga de la especialización»), seguida débilmente por algunos miembros posteriores de la escuela.
 
-Conceptos inicialmente problematizados como el de «[cultura](cultura.md)» se proponen como vueltas para una integración dialógica entre las ciencias sociales.
+Conceptos inicialmente problematizados como el de «[[cultura]]» se proponen como vueltas para una integración dialógica entre las ciencias sociales.
 
- > 
- > «Esto puede observarse, por ejemplo, a partir de las revisiones y ampliaciones conceptuales de la noción de cultura (muy entramada con la sociología, la antropología, la literatura y la cultura material), en ella se puede observar una clave de síntesis transversal a distintas disciplinas y que apunta a disolver y resolver las dualidades y segmentaciones mencionadas precedentemente» (p. 48)
+>«Esto puede observarse, por ejemplo, a partir de las revisiones y ampliaciones conceptuales de la noción de cultura (muy entramada con la sociología, la antropología, la literatura y la cultura material), en ella se puede observar una clave de síntesis transversal a distintas disciplinas y que apunta a disolver y resolver las dualidades y segmentaciones mencionadas precedentemente» (p. 48)
 
 La respuesta es para el autor la búsqueda de una síntesis. Esta búsqueda se expresa a través de dos grupos:
 
-1. El primero hace énfasis en los individuos, sus prácticas e interacciones, indagando a partir de sus líneas de acción, elección y decisión los aspectos constitutivos de sus sujetos y sus específicos campos de representaciones (Bourdieu - sociólogo, Levi, Revel - historiadores). El objetivo está en la superación de las dicotomías: individual/ colectivo, objetivo/subjetivo, micro/macro, actores/estructuras, prácticas/" (p. 48) representaciones, social/cultural y texto/contexto.
-1. El segundo grupo enfatiza los objetos (artefactos culturales, materiales o textuales), y así comienza a estudiar la movilidad, las distintas formas de traducción, recepción y apropiación de los objetos culturales por parte de individuos y grupos sociales. El objetivo está en esta interacción, y no en las tradicionales identificaciones apriori entre artefactos culturales y grupos sociales, avanzan hacia la construcción de representaciones que puedan dar cuenta de la constitución de los grupos sociales (Ginzburg, Chartier - historiadores, Bourdieu - sociólogo, Jauss, Iser - letras) (p. 49)
+1. El primero hace énfasis en los individuos, sus prácticas e interacciones, indagando a partir de sus líneas de acción, elección y decisión los aspectos constitutivos de sus sujetos y sus específicos campos de representaciones (Bourdieu - sociólogo, Levi, Revel - historiadores). El objetivo está en la superación de las dicotomías: individual/ colectivo, objetivo/subjetivo, micro/macro, actores/estructuras, prácticas/" (p. 48) representaciones, social/cultural y texto/contexto. 
+2. El segundo grupo enfatiza los objetos (artefactos culturales, materiales o textuales), y así comienza a estudiar la movilidad, las distintas formas de traducción, recepción y apropiación de los objetos culturales por parte de individuos y grupos sociales. El objetivo está en esta interacción, y no en las tradicionales identificaciones apriori entre artefactos culturales y grupos sociales, avanzan hacia la construcción de representaciones que puedan dar cuenta de la constitución de los grupos sociales (Ginzburg, Chartier - historiadores, Bourdieu - sociólogo, Jauss, Iser - letras) (p. 49)
 
 ## Resistir a Babel desde los márgenes
 
-Luego de reconocer estos dos enfoques, pasa a la cuestión de la [interdisciplina](interdisciplina.md) y la enunciación crítica de problemas. Para ello amplía el panorama para destacar ciertas posiciones que anticipan la búsqueda de síntesis:
+Luego de reconocer estos dos enfoques, pasa a la cuestión de la [[interdisciplina]] y la enunciación crítica de problemas. Para ello amplía el panorama para destacar ciertas posiciones que anticipan la búsqueda de síntesis:
 
-* La transtextualidad (todas las alusiones al cine y la literatura)
-* El trabajo dirigido a trascender dicotomías
-* La pluralidad de miradas y la exaltación de la diferencia (por ejemplo en los problemas de género).
+- La transtextualidad (todas las alusiones al cine y la literatura)
+- El trabajo dirigido a trascender dicotomías
+- La pluralidad de miradas y la exaltación de la diferencia (por ejemplo en los problemas de género). 
 
 También destaca la incorporación de la variable espacial frente a la hegemonía de lo temporal en la historia tradicional (por ejemplo el capítulo sobre la Historia de Ultramar).
 
@@ -44,4 +42,5 @@ Finalemnte se pregunta ¿Puede la investigación mantener una distancia crítica
 
 ## Referencias
 
-Cacopardo, F. (2000). Entre Babel y la búsqueda de una nueva síntesis: Interdisciplina y enunciación crítica de problemas. *Dispositio/n: American journal of cultural histories and theories*, *51*, 45-56.
+
+Cacopardo, F. (2000). Entre Babel y la búsqueda de una nueva síntesis: Interdisciplina y enunciación crítica de problemas. _Dispositio/n: American journal of cultural histories and theories_, _51_, 45-56.

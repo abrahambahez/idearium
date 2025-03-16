@@ -1,12 +1,11 @@
 # Aesthetics of the Everyday
-
 Yuriko Saito
 
 ### § 1. Introducción
 
 En occidente (especialmente en al mundo angloparlante) la estética ha sido relegada al arte, es arte-céntrica; la estética de lo cotidiano cuestiona esta actitud.
 
-La estética de lo cotidiano abre caminos de investigación donde no los ha habido antes, en el día a día. Abarca temas como el gusto, lo doméstico, el cuerpo, la belleza funcional, el diseño, el olfato, así como del concepto de [artificacion](artificacion.md). (Pos 73)
+La estética de lo cotidiano abre caminos de investigación donde no los ha habido antes, en el día a día. Abarca temas como el gusto, lo doméstico, el cuerpo, la belleza funcional, el diseño, el olfato, así como del concepto de [[artificación]]. (Pos 73)
 
 ### § 2. Lo cotidiano y lo estético en la estética de lo cotidiano
 
@@ -14,11 +13,11 @@ Lo cotidiano es muy problemático de definir, dada la inmensa variedad de modos 
 
 Lo estético, en la estética de lo cotidiano, parte de al menos dos puntos de interés. El primero es el estatus de las sensaciones corporales, que pueden provenir de percepciones del entorno o de actividades corporales (sea que se centren en el propio cuerpo o en el uso de herramientas). El segundo se refiere a la distinción entre su uso *honorífico* y su uso *clasificatorio*. El sentido *honorífico* es el más común tanto del discurso intelectual como el popular; y se trata de atribuirle una propiedad estética a aquello que produce una experiencia positivamente significativa y satisfactoria. En el segundo sentido se entiende a lo estético como una percepción producida por sensaciones e imaginación, independientemente del efecto específico que tenga (que puede ser de algo disgustante, monstruoso) y sin tener que entenderlo como *objeto artístico*.
 
-[experiencia-estetica-de-lo-cotidiano](experiencia-estetica-de-lo-cotidiano.md)
+[[experiencia estética de lo cotidiano]]
 
 ### § 3. «Desfamiliarización» de lo familiar
 
-Dado que lo cotidiano es lo familiar, la apreciación estética de lo cotidiano requiere la *desfamiliarización*, o [extrañamiento](extra%C3%B1amiento.md). De este modo, la percepción mecánica (*anestésica* de acuerdo con *Dewey*) adquiere el valor estético. De este modo, en teoría cualquier cosa puede ser objeto de una experiencia estética.
+Dado que lo cotidiano es lo familiar, la apreciación estética de lo cotidiano requiere la *desfamiliarización*, o [[extrañamiento]]. De este modo, la percepción mecánica (*anestésica* de acuerdo con *Dewey*) adquiere el valor estético. De este modo, en teoría cualquier cosa puede ser objeto de una experiencia estética.
 
 Es posible encontrar una rica dimensión estética en lo que de otro modo se caracterizaría como mundano, no-memorable en nuestro día a día.
 
@@ -40,7 +39,7 @@ Ante esto hay dos respuestas:
 
 1. La diferencia entre ambos grupos de cualidades es de grado y no de clase. El grado de sensibilidad o sofisticación requerido para apreciar valores del arte no excluye necesariamente las otras cualidades del discurso estético (dado que *lo desordenado* o *lo lindo* también implica cierto contexto cultural)
 
-1. Es posible distinguir cierta «escala» de habilidades para entender la apreciación de esos valores, cuyos polos son, en un extremo, las *ligas mayores* que requieren cierta educación, y las *ligas menores*, que requieren un grado menor de educación, sin embargo, estas cualidades *menores* juegan un rol importante en nuestras decisiones y acciones (como lo muestran prácticas como la propaganda y la publicidad)
+2. Es posible distinguir cierta «escala» de habilidades para entender la apreciación de esos valores, cuyos polos son, en un extremo, las *ligas mayores* que requieren cierta educación, y las *ligas menores*, que requieren un grado menor de educación, sin embargo, estas cualidades *menores* juegan un rol importante en nuestras decisiones y acciones (como lo muestran prácticas como la propaganda y la publicidad)
 
 Hay una crítica a ciertas cualidades menores relacionadas con respuestas corporales directas, como recibir un masaje, el olor del pescado, beber té, cuya caracterización puede interpretarse como *demasiado privada* y por tanto, compromete la posibilidad de establecer una diálogo intersubjetivo. En respuesta a esto, se ha argumentado que es un error separar las sensaciones corporales como experiencias singulares aisladas. Estas experiencias no pueden separarse de su ambiente (el sabor del café se percibe distinto si uno lo toma en un vaso de plástico de paso en la calle o en un contexto donde la bebida cobra protagonismo) ni de las cualidades que las acompañan, en muchos casos, de manera sinestésica, pues son multisensoriales. El sabor de un café
 
@@ -60,7 +59,7 @@ El arte del siglo XX introdujo diversas manifestaciones de apropiación de la vi
 
 ### § 8. Difuminando la línea entre el arte y la vida
 
-[estetica-organizacional](estetica-organizacional.md)
+[[estética organizacional]]
 
 Los críticos de la estética de lo cotidiano requieren que el marco vaya más allá de la enumeración de las dimensiones estéticas de la vida cotidiana y que se produzca un marco conceptual general, ya que sin él, este enfoque podría *degenerar* en un caso de subjetivismo que vuelva trivial al proyecto. Esto es así porque debe sin un *sensus communis*, es decir, una comunicabilidad (no necesariamente comunidad) que haga posible compartir y entender la experiencia de otros, sólo queda un silo solipsista.
 
@@ -68,7 +67,7 @@ Por otra parte, la estética de lo cotidiano no puede simplemente asumirse como 
 
 ### § 9. Significado de la estética de lo cotidiano
 
-Los valores estéticos que le atribuimos a objetos y sujetos contribuyen al modo en que los usamos, desechamos, cuidamos o ignoramos en el caso de aquéllos, o en que nos relacionamos, interactuamos y juzgamos en el caso de éstos. La [obsolescencia-percibida](obsolescencia-percibida.md) o el blanqueamiento químico de los cuerpos son casos de esto. La estética negativa, que opera produciendo paisajes, ambientes, ánimos o configuraciones sensoriales, da forma a las prácticas de desecho, contaminación, separación de cosas consideradas *merma*.
+Los valores estéticos que le atribuimos a objetos y sujetos contribuyen al modo en que los usamos, desechamos, cuidamos o ignoramos en el caso de aquéllos, o en que nos relacionamos, interactuamos y juzgamos en el caso de éstos. La [[obsolescencia percibida]] o el blanqueamiento químico de los cuerpos son casos de esto. La estética negativa, que opera produciendo paisajes, ambientes, ánimos o configuraciones sensoriales, da forma a las prácticas de desecho, contaminación, separación de cosas consideradas *merma*.
 
 Cuando algo nos atrae estéticamente, tendemos a protegerlo, comprarlo, o tratar de mantener su valor estético; y cuando no lo vemos así, tendemos a ser indiferentes, descartarlo o hacerlo más atractivo, como sucede con la estética negativa de un producto desechado, que termina en tiraderos o en el océano. Estos sentidos morales, sociales y políticos relacionados con la estética de lo cotidiano son más agudos en la estética del cuerpo.
 
@@ -80,4 +79,5 @@ La aceptación de la estética de lo cotidiano tiene que ver con el hecho de que
 
 El reto está en indagar si existe una noción general unificadora de experiencia estética y práctica estética a lo largo del conjunto heterogéneo de prácticas y disciplinas relacionadas.
 
-En tradiciones culturales que no poseen un concepto equivalente al de «arte» en occidente, se cuenta con un legado de intereses y preocupaciones estéticas diversas que impactan la cotidianeidad, las relaciones sociales, la espiritualidad, la creación de objetos, entre otros. \<!– see Higgins 1996 and Higgins, et al. 2017 for a collection of essays representing diverse non-Western aesthetic traditions –>
+En tradiciones culturales que no poseen un concepto equivalente al de «arte» en occidente, se cuenta con un legado de intereses y preocupaciones estéticas diversas que impactan la cotidianeidad, las relaciones sociales, la espiritualidad, la creación de objetos, entre otros. <!– see Higgins 1996 and Higgins, et al. 2017 for a collection of essays representing diverse non-Western aesthetic traditions –>
+

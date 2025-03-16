@@ -1,18 +1,17 @@
 # violencia
-
 Definiciones
 
-* [violencia-directa](violencia-directa.md)
-* [violencia-simbolica](violencia-simbolica.md)
-  * [violencia-epistemica](violencia-epistemica.md)
-* [violencia-estructural](violencia-estructural.md)
-* [violencia-generalizada](violencia-generalizada.md)
-* [violencia-revolucionaria](violencia-revolucionaria.md)
+- [[violencia directa]]
+- [[violencia simbólica]]
+    - [[violencia epistémica]]
+- [[violencia estructural]]
+- [[violencia generalizada]]
+- [[violencia revolucionaria]]
+
 
 Relaciones
-
-* [miedo-y-violencia](miedo-y-violencia.md)
+- [[miedo y violencia]]
 
 Teorías:
 
-* [estructuras-elementales-de-la-violencia](estructuras-elementales-de-la-violencia.md)
+- [[estructuras elementales de la violencia]]

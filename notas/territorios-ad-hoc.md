@@ -1,6 +1,0 @@
-# territorios ad hoc
-
-Los territorios *ad hoc* son configuraciones de [territorializacion-movil](territorializacion-movil.md) descritos por @hoffmann2020 donde el territorio es producido por una circunstancia específica. En este caso, los campesinos desplazados en Colombia se organizaron para volver a sus tierras a pesar del acoso de actores externos. Hoffmann lo describe así:
-
- >
- > Concretamente, en el departamento del Chocó, en la parte noroccidental del país, los desplazados lucharon para regresar a su espacio de origen, reinstalarse y crear las condiciones materiales y políticas de su protección. Para ello, una vez reinstalados en casas provisionales, empezaron a reorganizar la vida social colectiva y la protección de los habitantes. Cercaron las áreas de residencia y de trabajo, controlaron entradas y salidas, registraron usuarios con derechos, etc. Con el apoyo de las ONG, exigirieron que el gobierno los recibiera para negociar garantías y políticas de acompañamiento en sus nuevas instalaciones. Así es como nacieron algunas áreas llamadas zonas humanitarias (ZH) y zonas de biodiversidad (ZB), que son espacios concretos, delimitados, cuyo acceso se controla y se reserva estrictamente a los desplazados y sus “acompañantes”, o sea las ONGs humanitarias. [@hoffmann2020, cap. 2, párr. 19]

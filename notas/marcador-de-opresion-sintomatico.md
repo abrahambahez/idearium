@@ -1,3 +1,0 @@
-# marcador de opresión sintomático
-
-Algunos [marcadores-de-opresion](marcadores-de-opresion.md) funcionan más como síntomas que como causas (en una [analogia](analogia.md) con la semiología médica), es el caso de todo lo que se repite a través de un [estereotipo](estereotipo.md), [prejuicio](prejuicio.md) o [estigma](estigma.md). Esto implica que, combatir estos marcadores tiende a funcionar como un analgésico en el mejor de los casos (cuando no un paliativo). Sólo elimina los síntomas pero no la enfermedad. Esto es así porque ese tipo de marcadores *emergen* de la estructura, tienen su raíz en ella, y por tanto eliminarlos sólo hará que desaparezcan brevemente para volver a brotar.

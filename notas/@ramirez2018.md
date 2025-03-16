@@ -1,6 +1,6 @@
-# La espacialidad urbana en la construcción socio espacial de los lugares: una mirada desde el [giro-espacial](giro-espacial.md)
-
+# La espacialidad urbana en la construcción socio espacial de los lugares: una mirada desde el [[giro espacial]]
 Iliana Araya Ramírez
+
 
 # Anotaciones (23/9/2022 21:36:23)
 

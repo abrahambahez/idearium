@@ -1,5 +1,0 @@
-# pueblo-paciente y pueblo-agente
-
-La noción de [pueblo](pueblo.md) en relación con la [agencia](agencia.md) puede entenderse en términos de una oposición: hay un pueblo-paciente identificado con alguna forma de *[estatalidad](estatalidad.md)* (nacional, regional, [comunidad-imaginada](comunidad-imaginada.md), [confusion-entre-Estado-y-pueblo](confusion-entre-Estado-y-pueblo.md)) cuya legitimidad está subsumida a la abstracción institucional del *poder constitutivo*, la indirección de la *delegación de poder* y hay un *pueblo-agente* cuya legitimidad radica en la [democracia-directa](democracia-directa.md), ejercicio de poder, pero cuyo fundamento tiene que rehacerse continuamente porque es una democracia dinámica, no fija, como en las leyes. Es inestable, necesita de la fe tanto como de la teoría y la práctica políticas [@dussel2012, 175]
-
-La *ciudadanización* es el proceso que convierte al *pueblo-agente* en pueblo-paciente, es decir, en simpatizante del orden Estatal y sus principios normativos e ideológicos. Esto implica anulación de la autonomía relativa de las personas para decidir directamente sobre sus intereses colectivos.

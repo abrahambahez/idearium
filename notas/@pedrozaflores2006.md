@@ -1,12 +1,11 @@
 # La interdisciplinariedad en la universidad
-
 René Pedroza Flores
 
 Notas
 
 La artificialidad de la disciplina es doble: **cognitiva** e **institucional** (p. 82); creo que cabe pensar en que no hay un marco epistemológico sin una praxis cognitiva que lo acompañe.
 
-El enciclopedismo del que se habla en la (p. 83) puede ser una muestra también de los esquemas organizadores (taxonómicos y ontológicos) que forman los modelos de representación de la realidad: una organización *totalizante*, unas organizaciones parciales; cada cual más o menos interrelacionada, con más o menos tipos de relaciones (cualitativas, cuantitativas), ¿cómo llamamos a esta idea? ¿tal vez *«modelos de organización social del conocimiento»*? Sirve para los [esbozos-de-una-teoria-del-trabajo-cognitivo](esbozos-de-una-teoria-del-trabajo-cognitivo.md)
+El enciclopedismo del que se habla en la (p. 83) puede ser una muestra también de los esquemas organizadores (taxonómicos y ontológicos) que forman los modelos de representación de la realidad: una organización *totalizante*, unas organizaciones parciales; cada cual más o menos interrelacionada, con más o menos tipos de relaciones (cualitativas, cuantitativas), ¿cómo llamamos a esta idea? ¿tal vez *«modelos de organización social del conocimiento»*? Sirve para los [[esbozos de una teoría del trabajo cognitivo]]
 
 Problemas vitales que creo encontrar en Pedroza:
 
@@ -17,9 +16,9 @@ Problemas vitales que creo encontrar en Pedroza:
 
 Pedroza Flores expone tres aspectos básicos de la discusión sobre la interdisciplinariedad:
 
-1. La noción de disciplina vista por varios autores
-1. La agrupación disciplinaria a través del currículum universitario
-1. El significado de la interdisciplinariedad en la Universidad
+1.  La noción de disciplina vista por varios autores
+2.  La agrupación disciplinaria a través del currículum universitario
+3.  El significado de la interdisciplinariedad en la Universidad
 
 ### disciplina y estructura académica de la universidad
 
@@ -27,21 +26,20 @@ p. 71
 
 La universidad se organiza en planes de estudio; representaciones de la reproducción del conocimiento. En su origen designaba acualquier organización de carácter corporativo (p. 72).
 
- >
- > *«El poder de la corporación universitaria se basa en tres privilegios esenciales: la autonomía jurisdiccional –dentro del marco de la Iglesia con ciertas restricciones locales y la facultad de apelar al papa–, el derecho de huelga y de secesión y el monopolio de la colación de los grados universitarios»* (Le Goff, 1986: 77-79; citado en p. 71).
+> *«El poder de la corporación universitaria se basa en tres privilegios esenciales: la autonomía jurisdiccional –dentro del marco de la Iglesia con ciertas restricciones locales y la facultad de apelar al papa–, el derecho de huelga y de secesión y el monopolio de la colación de los grados universitarios»* (Le Goff, 1986: 77-79; citado en p. 71).
 
 La organización de académica de la Universidad descansa en la especialización; la disciplina es considerada como una categoría organizadora del conocimiento científico y de la estructura académica de la universidad (p. 73).
 
 Tipologías de la disciplina (pp. 74-75):
 
-1. **Espacio intelectual.** Epistemología que construye intelectualmente una visión de la realidad (división geográfica del conocimiento)
-1. **Territorio académico.** Cultura como representación del saber a través de la tradición (división geográfica de las comunidades)
-1. **Campo de enseñanza.** División curricular en planes de estudio y carreras formativas
-1. **Agrupamiento corporativo.** Divisón arquitectónica de colectivos organizacionalmente distinguible que hace una [[gestión del conocimiento]] conforme a espacios físicos compartidos por individuos que mantienen intereses similares o en común
+1.  **Espacio intelectual.** Epistemología que construye intelectualmente una visión de la realidad (división geográfica del conocimiento)
+2.  **Territorio académico.** Cultura como representación del saber a través de la tradición (división geográfica de las comunidades)
+3.  **Campo de enseñanza.** División curricular en planes de estudio y carreras formativas
+4.  **Agrupamiento corporativo.** Divisón arquitectónica de colectivos organizacionalmente distinguible que hace una \[\[gestión del conocimiento\]\] conforme a espacios físicos compartidos por individuos que mantienen intereses similares o en común
 
 Estas categorías definen el *problema del modelo de estructura académica de la universidad*. (p. 75)
 
-¿Qué quiere decir Pedroza Flores cuando usa la imagen del espacio y del [territorio](territorio.md) (que implican divisiones *geográficas*)? ¿En qué sentido se construye este ícono? ¿Por qué el agrupamiento corporativo no hace mención de dinámicas de poder hegemonía-subalternización?
+¿Qué quiere decir Pedroza Flores cuando usa la imagen del espacio y del [[territorio]] (que implican divisiones *geográficas*)? ¿En qué sentido se construye este ícono? ¿Por qué el agrupamiento corporativo no hace mención de dinámicas de poder hegemonía-subalternización?
 
 La solución más común al problema de la hiperespecialización o aislamiento disciplinario es una reforma de la Universidad que transforme el modelo de organización de escuelas y facultades. (p. 76) 7̂6
 
@@ -77,7 +75,7 @@ Respecto a los planes de estudio, hay varios modelos donde se proponen planes (p
 
 * **de distribución.** estimular la participación en tros departamentos (créditos optativos)
 * **de educación general** Visión y formación de conjunto, social, cultural y científico
-* **de exploración global.** Cursos exploratorios articulados en una problemática (este podría ser un método de [elaboracion-escrita](elaboracion-escrita.md), junto al próximo de síntesis)
+* **de exploración global.** Cursos exploratorios articulados en una problemática (este podría ser un método de [[elaboración escrita]], junto al próximo de síntesis)
 * **por problemas capitales.** Estudiar las corrientes históricas y plantear problemas más relevantes en la historia humana
 * **desarrollo longitudinal de hábitos intelectuales.** dominar asignaturas desde los peldaños inferiores hasta los de suma dificultad
 * **por estudio de caso.** Ofrecer toda la información necesaria sobre un tema o un individuo
@@ -89,3 +87,4 @@ Estas propuestas pueden analizarse según ciertos aspectos organizacionales (p. 
 * Integración cultural y cognitiva
 
 Hay que dedicar tiempo al estudio del conocimiento, dice Morin citado por Pedroza (p. 94)
+

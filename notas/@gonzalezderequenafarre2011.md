@@ -3,17 +3,15 @@
 Juan Antonio González de Requena Farré (2011), [zotero](zotero://select/items/@gonzalezderequenafarre2011), [archivo](file:///home/sabhz/archivo/librero/gonzalezderequenafarre2011.pdf)
 
 ## Resumen
-
 El concepto de “pueblo” ha llegado a ser central en nuestro vocabulario político y para nuestro sentido de agencia colectiva; de hecho, “pueblo” es una palabra clave para concebir la constitución de los sujetos políticos modernos. Este artículo explora los medios de inscripción del significante “pueblo” a través del sistema hegeliano, e intenta articular esas formas de diferenciación y totalización que exponen la ambigüedad de este concepto en la concepción hegeliana: se refiere a formas de vida ética, pero también a la comunidad política; se relaciona con la soberanía autorizada del Estado, pero también con la muchedumbre igualitaria. Para mostrar el sentido del “pueblo” en el pensamiento político hegeliano, este artículo interpreta los roles narrativos del significante, a través de la tragicomedia hegeliana que relata la alienación y reapropiación del Espíritu. (abstract)
 
 ## Notas
 
-Para Hegel, el «[pueblo](pueblo.md)» es un significante vacío que opone a la vez una «unidad política» a una especie de «dispersión de individuos», en tanto que en términos de poder, opone una «realización colectiva» del espíritu como una «subordinación» a la soberanía del príncipe.
+Para Hegel, el «[[pueblo]]» es un significante vacío que opone a la vez una «unidad política» a una especie de «dispersión de individuos», en tanto que en términos de poder, opone una «realización colectiva» del espíritu como una «subordinación» a la soberanía del príncipe.
 
 La forma en que se organiza narrativamente esta tensión es en un «drama» que va de lo trágico (la tensión entre la comunidad y el deseo individual) a lo cómico (la soberanía estatal sólo se realiza a través del monarca, que subordina a la colectividad ) y se resuelve en el idealismo que lo sintetiza (en este caso en la unidad del Estado como síntesis «espiritual» de lo colectivo, el gobierno y el individuo).
 
-## Anotaciones
-
+## Anotaciones  
 (22/10/2023 11:13:21)
 
 "1. La inscripción del significante “pueblo”" (González de Requena Farré, 2011, p. 2)
@@ -50,4 +48,4 @@ La forma en que se organiza narrativamente esta tensión es en un «drama» que 
 
 "4. Una conclusión inconclusa: la apertura de la agencia histórico-política" (González de Requena Farré, 2011, p. 24)
 
-"De hecho, en la filosofía hegeliana, la identidad colectiva del pueblo no consiste en una naturaleza inmediatamente dada; constituye un proceso y un quehacer, a través de los cuales cierta comunidad histórico-espiritual ha de llegar a ser sí misma, devenir sujeto, y lograr un ámbito propio en que realizar efectivamente su libertad. Así, pues, la constitución de la agencia colectiva del pueblo resulta concebida como una experiencia [dialectica](dialectica.md) de mediación de la inmediatez de las condiciones naturalmente dadas; se trata de un proceso a través del cual el nosotros histórico-espiritual del pueblo actúa en tanto que sujeto y objeto, como constructor de su destino y destinatario de su obra." (González de Requena Farré, 2011, p. 24)
+"De hecho, en la filosofía hegeliana, la identidad colectiva del pueblo no consiste en una naturaleza inmediatamente dada; constituye un proceso y un quehacer, a través de los cuales cierta comunidad histórico-espiritual ha de llegar a ser sí misma, devenir sujeto, y lograr un ámbito propio en que realizar efectivamente su libertad. Así, pues, la constitución de la agencia colectiva del pueblo resulta concebida como una experiencia [[dialéctica]] de mediación de la inmediatez de las condiciones naturalmente dadas; se trata de un proceso a través del cual el nosotros histórico-espiritual del pueblo actúa en tanto que sujeto y objeto, como constructor de su destino y destinatario de su obra." (González de Requena Farré, 2011, p. 24)

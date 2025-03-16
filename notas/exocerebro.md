@@ -1,10 +1,8 @@
 ---
 sources: https://www.revistadelauniversidad.mx/articles/36954e7d-2ecc-42a8-8239-13c27d846437/la-conciencia-y-el-exocerebro-una-hipotesis-sobre-los-sistemas-simbolicos-de-sustitucion
 ---
-
 # exocerebro
-
-La [hipotesis](hipotesis.md) del *exocerebro* fue desarrollada por @bartra2007 para explicar la relación evolutiva entre el desarrollo del cerebro humano y el pensamiento simbólico.
+La [[hipótesis]] del *exocerebro* fue desarrollada por @bartra2007 para explicar la relación evolutiva entre el desarrollo del cerebro humano y el pensamiento simbólico. 
 
 Cuando el cerebro humano llegó a su forma moderna evolutivamente hablando, también redujo drásticamente las capacidades sensoriales de los *homo sapiens* de modo que eran insuficientes, por sí mismas, de responder adecuadamente a un medio *hostil*, lo cual le causó *un sufrimiento* especial a varios de los grupos que habían adquirido estas nuevas cualidades.
 

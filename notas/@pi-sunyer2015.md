@@ -1,8 +1,7 @@
 # Tourism and the Transformation of Daily Life Along the Riviera Maya of Quintana Roo, Mexico'
-
 Markus Pi-Sunyer (2015)
 
-[pueblo-maya](pueblo-maya.md) y [modo-de-vida](modo-de-vida.md) "En el espacio de menos de dos décadas, los habitantes de Quintana Roo han tenido que enfrentar cambios radicales ocasionados por el turismo de masas. El turismo se ha convertido en la industria dominante y esto ha puesto en marcha un ciclo de desarrollo tur ́stico y de migraci ́o n masiva de otras partes de M ́e xico y del exterior. Una regi ́o n que no hace mucho tiempo se consideraba el territorio m ́a s marginal de la naci ́o n, hoy atrae millones de turistas de todo el mundo, la mayor ́a de los Estados Unidos y Europa. En un contexto de cambio acelerado y control empresarial, la vida de muchas personas, incluso la poblaci ́o n maya, es altamente imprevisible y estresante. La expansi ́o n del turismo se ha desplazado recientemente a Tulum, una ciudad que est ́a emergiendo como una localidad de peque ̃n os, pero bien c ́o modos, hoteles." (Pi-Sunyer :1)
+[[pueblo maya]] y [[modo de vida]] "En el espacio de menos de dos décadas, los habitantes de Quintana Roo han tenido que enfrentar cambios radicales ocasionados por el turismo de masas. El turismo se ha convertido en la industria dominante y esto ha puesto en marcha un ciclo de desarrollo tur ́stico y de migraci ́o n masiva de otras partes de M ́e xico y del exterior. Una regi ́o n que no hace mucho tiempo se consideraba el territorio m ́a s marginal de la naci ́o n, hoy atrae millones de turistas de todo el mundo, la mayor ́a de los Estados Unidos y Europa. En un contexto de cambio acelerado y control empresarial, la vida de muchas personas, incluso la poblaci ́o n maya, es altamente imprevisible y estresante. La expansi ́o n del turismo se ha desplazado recientemente a Tulum, una ciudad que est ́a emergiendo como una localidad de peque ̃n os, pero bien c ́o modos, hoteles." (Pi-Sunyer :1)
 
 "is both a longitudinal study, summarizing findings over almost two decades of investigation, and a discussion of how changing circumstances influenced our research agenda." (Pi-Sunyer :2)
 
@@ -19,7 +18,6 @@ Markus Pi-Sunyer (2015)
 "over fifteen years ago many young Maya couples considered two children to be the ideal family, and would encourage their daughters to finish school before they even thought of getting married." (Pi-Sunyer :3)
 
 ### Tourism and its Repercussions (note on p.3)
-
 "The tourism phenomenon was altering the lives of Maya agriculturalists in a variety of ways." (Pi-Sunyer :3)
 
 "Maya villagers were rapidly moving into a cash economy, partly due to a succession of storms and bad harvests, but also because of lifestyle changes and the attraction of consumer" (Pi-Sunyer :3)
@@ -66,6 +64,9 @@ Pérdida de recursos madereros para los campesinos mayas y sobre todo pérdida d
 
 El destacado anterior vale mucho la pena como ejemplo de interpretación identitaria del antropólogo. Discusión crítica (note on p.6)
 
+
+
+
 "In our case, the primary commodity is the physical space and its uses. With some exceptions, the human flow comes from two directions: relatively well-to-do members of what is termed the "developed world," and management and labor catering to the tourist trade." (Pi-Sunyer :7)
 
 "Beaches and forests, particularly the former, are the bread and butter of tropical coastal tourism. Quintana Roo also offers numerous ancient Maya locations, one of them the Tulum archaeological site minutes away from Tulum pueblo. This rather modest site has become one of the most visited prehispanic locations in the Mexican Republic" (Pi-Sunyer :7)
@@ -107,7 +108,6 @@ El destacado anterior vale mucho la pena como ejemplo de interpretación identit
 "This "remembering" is also related to the mid-19th century "Talking Cross" Maya uprising that began in central Quintana Roo and came close to defeating the Mexican army. Talking Crosses proliferated, and the archaeologist Michael Coe saw one inside the Tulum archaeological site (then a local shrine) as recently as 1948 (Coe 2011:258). Mexican control was not established until 1901, but this faded during the subsequent decades. Today Maya religious practices have come under pressure from another direction: foreign missionaries, mostly American and evangelical. In some instances, this has caused serious community divisions" (Pi-Sunyer :11)
 
 ### Friction in Tulum (note on p.11)
-
 "Anna Tsing's Friction. Friction, she writes, aids us in understanding the unexpected and apparently contradictory: "how emergent cultural forms - including forest destruction and environmental advocacy - are persistent but unpredictable effects of global encounters across difference" (Tsing 2005:3)" (Pi-Sunyer :11)
 
 "In and around Tulum, a clear indication of friction is how the privatization and commoditization of land, and the transformation of communal land into private property, has led to the massive sale of former rural leaseholds." (Pi-Sunyer :11)
@@ -117,7 +117,6 @@ El destacado anterior vale mucho la pena como ejemplo de interpretación identit
 "Countless times Maya friends have explained to us that Tulum is a Maya settlement, a distinct place with a distinct history. But regardless of the fact that it holds special meanings, and even sacred qualities (it shelters one of the five Maya churches in Quintana Roo), deep human feelings are at times confronted by social and demographic realities." (Pi-Sunyer :12)
 
 ### Maya Imagination and Reality (note on p.12)
-
 "the way that "Maya" is generally conceptualized has little to do with the past, and much more with the present" (Pi-Sunyer :13)
 
 "More broadly, the majority of the people we talked to, including resident foreigners, viewed the Maya presence favorably." (Pi-Sunyer :13)
@@ -143,7 +142,6 @@ El destacado anterior vale mucho la pena como ejemplo de interpretación identit
 "The efforts of the environmental movement in Quintana Roo, and the success it has achieved in protecting threatened locations take us back, if indirectly, to the matter of inseguridad. Fear is often a component as in inseguridad ciudadana, the lack of safety in public spaces. However, there is also inseguridad of other forms such as economic anxiety (jobs, income, etc.), and the growing frequency of catastrophic storms, particularly in rural communities lacking storm shelters." (Pi-Sunyer :17)
 
 ### Present—Future (note on p.18)
-
 "While a range of tourist venues and attractions is a welcomed shift in that it offers greater choice to visitors and the opportunity to participate in the tourist trade for the owners of relatively small businesses, it does not significantly change the dominance of the development industry over matters of environmental and social justice" (Pi-Sunyer :19)
 
 "We pondered these inequalities with reference to different components of the population, specifically relatively recent Maya migrants from Chiapas, hotel workers, and the established Maya, both in the countryside and in Tulum. As for the Maya, the issues are not only economic, but also cultural and political." (Pi-Sunyer :19)

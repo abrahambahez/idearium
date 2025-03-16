@@ -1,13 +1,15 @@
 # From notes to narrative : Writing ethnographies that everyone can read (Kristen Ghodsee 2016)
-
 [zotero](zotero://select/items/@ghodsee2016)
 
 ## Resumen
 
-Trata sobre el proceso de [escribir-una-etnografia](escribir-una-etnografia.md), usando varios ejemplos, formas y estrategias. No es un manual
+Trata sobre el proceso de [[escribir una etnografía]], usando varios ejemplos, formas y estrategias. No es un manual
 
 ## Contexto
 
 ## Notas
 
+
+
 ## Extractos
+

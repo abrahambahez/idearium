@@ -1,5 +1,4 @@
 # El fondo de la forma: La campaña presidencial del PRI en México en 1988
-
 Larissa Adler Lomnitz, Claudio Lomnitz, Ilya Adler 1990, [zotero](zotero://select/items/@lomnitz&al1990)
 
 %%Lomnitz 1990. El fonde de la forma.pdf%%
@@ -16,13 +15,13 @@ El cambio de presidente es un periodo peligroso para el sistema, donde el poder 
 La campaña se divide en varios momentos:
 
 1. Selección del aspirante (en realidad, candidato) del PRI, donde todo se lee en términos de posibles candidatos, alrededor del «diagnóstico»
-1. Selección del precandidato, momento de mayor drama donde se eliminan los competidores para dar paso a uno
-1. Precampaña, momento de construcción del equipo de colaboradores
-1. Campaña, momento de comunicación y negociación entre actores, ejecutados a través de giras estatales (local) y discusiones de los grandes problemas nacionales (general)
+2. Selección del precandidato, momento de mayor drama donde se eliminan los competidores para dar paso a uno
+3. Precampaña, momento de construcción del equipo de colaboradores
+4. Campaña, momento de comunicación y negociación entre actores, ejecutados a través de giras estatales (local) y discusiones de los grandes problemas nacionales (general)
 
 ### 3. Hechos e interpretaciones
 
-Adler Lomnitz propone que la oposición entre democracia y corporativismo puede entenderse como oposición entre «individualismo», basado en la [soberania](soberania.md) del individuo, y jerarquía u holismo (negociación entre segmentos o personas diversas) [58]. Las negociaciones y los procesos que llevan a ganar posiciones electorales se tratan más como interpretaciones que como hechos [63]
+Adler Lomnitz propone que la oposición entre democracia y corporativismo puede entenderse como oposición entre «individualismo», basado en la [[soberanía]] del individuo, y jerarquía u holismo (negociación entre segmentos o personas diversas) [58]. Las negociaciones y los procesos que llevan a ganar posiciones electorales se tratan más como interpretaciones que como hechos [63]
 
 ### 4. Socialización del candidato
 
@@ -39,3 +38,5 @@ El nacionalismo se fortalece con las muestras de fuerza del PRI. Los rituales de
 ### 7. El papel de la prensa
 
 La prensa es un espacio en disputa por la presentación de las interpretaciones y participa del poder. Funciona como un foro donde la campaña se lee diferente a como es vivida por los participantes de las giras. También es un foro de negociación entre grupos.
+
+

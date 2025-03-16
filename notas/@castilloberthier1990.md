@@ -1,8 +1,7 @@
 # La sociedad de la basura
-
 Héctor Castillo Berthier
 
-[estructura-economica-de-la-basura-en-la-Ciudad-de-Mexico](estructura-economica-de-la-basura-en-la-Ciudad-de-Mexico.md)
+[[estructura económica de la basura en la Ciudad de México]]
 
 Castillo pinta un paisaje inicial intenso de los basureros a cielo abierto para introducir a los sujetos de su estudio- las personas que viven de la basura.
 
@@ -19,3 +18,4 @@ Muchos recolectores, barrenderos en el DF, reciben gratificaciones por recibir l
 Las «fincas» y el acto de *«finquear»* consiste en recorrer negocios y comercios que hay en la ruta para recoger la basura a cambio de una cuota preestablecida.
 
 Al final del día se recibe dinero de los barrenderos, de las «fincas», que se vendieron los materiales previamente separados y que se repartieron las ganancias, el camión se dirige una de las diez *estaciones de transferencia*, donde los choferes de camión pagan una cuota a los choferes del trailer de transferencia (más grande) para poder descargar. En la estación la basura vuelve a separarse a cargo de los empleados de la misma. Finalmente, el trailer lleno tirará la basura restante en el tiradero a cielo abierto asignado.
+

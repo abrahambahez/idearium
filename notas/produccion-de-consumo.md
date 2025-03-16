@@ -1,3 +1,0 @@
-# producción de consumo
-
-Para @featherstone2000 [pp. 39-41], la producción del consumo se atribuye a *algunos neomarxistas del siglo XX* quienes, a diferencia de la economía clásica, afirman la superación de esa visión donde el fin de la producción es el consumo entendido como constante, o conjunto de necesidades a satisfacer. El consumo se puede controlar y moldear, y se hace sobre todo a través de mecanismos análogos a los de la producción: la [razon-instrumental](razon-instrumental.md) y la lógica mercantil y el predominio del valor de cambio, que abre la puerta al espacio de negociación de símbolos que regulan las valoraciones de lo bienes. Nace el *signo-mercancía*.

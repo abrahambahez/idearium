@@ -1,0 +1,2 @@
+# la desigualdad entra a la vivienda a través del espacio
+Quien decide cómo se vive lo hace también ejerciendo control sobre el espacio sociopolítico a través de estrategias de distribución que producen y reproducen [[desigualdad estructural]]. El control del [[espacio]] implica controlar también las áreas de asentamiento, los criterios de [[zonificación]] y en general cualquier proceso de distribución. Odile @hoffmann2021 identifica tres [[procesos de distribución del espacio]] a nivel estructural.
