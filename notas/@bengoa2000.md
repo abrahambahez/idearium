@@ -11,7 +11,7 @@ penLitNote
 ## Notas
 
 <!--Según la tabla de contenido, índices, apéndices-->
-El libro se estructura en tres partes, más la introducción [11] y la recapitulación final [319]. La primera parte explica las ideas de la cuestión indígena y la demanda indígena tiene los siguientes capítulos:
+El libro se estructura en tres partes, más la introducción [11] y la recapitulación final [319]. La primera parte explica las ideas de la [[cuestión indígena]] y la demanda indígena tiene los siguientes capítulos:
 
 
 1. Diversos procesos explicativos de la emergencia indígena de los años noventa en América Latina [29]

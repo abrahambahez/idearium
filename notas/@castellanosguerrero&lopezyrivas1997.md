@@ -1,8 +1,6 @@
 # Autonomías y movimiento indígena en México: debates y desafíos
 Alicia Castellanos Guerrero, Gilberto López y Rivas 1997, [zotero](zotero://select/items/@castellanosguerrerolopezyrivas1997)
 
-%% Castellanos y Rivas 1997. Autonomias y movimiento indígena en México.pdf %%
-
 ## Notas esquemáticas
 
 ### Etnia y estado nacional
@@ -11,7 +9,7 @@ En el contexto de las controversias sobre la pluralidad étnica en muchos Estado
 
 ### Diálgo en San Andrés Larráinzar
 
-Los [[acuerdos de San Andrés]] emarcaron una buena parte del debate sobre la autonomía, que podía entenderse de muchas formas, como experiencia histórica o como proyecto político [[~futuro en la identidad étnica]]
+Los [[acuerdos de San Andrés]] emarcaron una buena parte del debate sobre la autonomía, que podía entenderse de muchas formas, como experiencia histórica o como proyecto político [[futuro en la identidad étnica]]
 
 ### Iniciativa de ley sobre derechos indígenas de la COCOPA
 
@@ -25,6 +23,6 @@ El ciclo de lucha no se cumplió. La autonomía se vio como amenza a la unidad d
 
 ### Desafíos del movimiento indígena
 
-Hubo siempre rebeldía y lucha. En la actualidad los desafíos continuan: resistir los mecanismos de control del poder hegemónico, la organización para cambiar el etnocentrismo y racismo de las relaciones indio-mestizo [[~problema del mestizo en México]].
+Hubo siempre rebeldía y lucha. En la actualidad los desafíos continuan: resistir los mecanismos de control del poder hegemónico, la organización para cambiar el etnocentrismo y racismo de las relaciones indio-mestizo [[problema del mestizo en México]].
 
 Las autonomías como parte de la transición democrática.

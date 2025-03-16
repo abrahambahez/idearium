@@ -10,7 +10,7 @@ This is an Open Educational Resource for the teaching of an Ethnography class. I
 
 ### Análisis
 
-El análisis es iterativo-inductivo y empieza con la codificación. El análisis temático va refinando las categorías codificadas en *temas clave* (frases más largas que pretenden expresar el sginificado manifiesto y latente de los datos). El desarrollo temático puede llevar a la conceptualización, que abstrae los temas y los ordena en una estructura teórica. La estructura teórica puede ser unb árbol de sentido, o una «jerarquía de significado» [cap. «Analysis», § «How we identify themes»].
+El análisis es iterativo-inductivo y empieza con la [[codificación temática]]. El análisis temático va refinando las categorías codificadas en *temas clave* (frases más largas que pretenden expresar el sginificado manifiesto y latente de los datos). El desarrollo temático puede llevar a la conceptualización, que abstrae los temas y los ordena en una estructura teórica. La estructura teórica puede ser unb árbol de sentido, o una «jerarquía de significado» [cap. «Analysis», § «How we identify themes»].
 
 La pregunta de investigación que lleva 
 

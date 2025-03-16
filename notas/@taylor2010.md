@@ -11,14 +11,14 @@ Un número de corrientes en la política contemporánea giran en torno a la nece
 ## Contexto
 
 ## Notas
-Taylor analiza el significado y la importancia del reconocimiento en la política moderna. El autor argumenta que el reconocimiento es fundamental para la formación de la identidad individual y colectiva.
+Taylor analiza el significado y la importancia del reconocimiento en la política moderna. El autor argumenta que el reconocimiento es fundamental para la formación de la identidad individual y colectiva. Esto es relevante para la [[etnopolítica]]
 
 Taylor explora dos cambios significativos que han impulsado la necesidad del reconocimiento.
 
 1. El declive de las jerarquías sociales tradicionales y la aparición del concepto universal de la dignidad humana, que exige un trato igualitario. 
 2. El surgimiento del ideal de la **autenticidad**, donde cada persona busca descubrir y vivir de acuerdo con su identidad única, lo que demanda reconocimiento por parte de los demás.
 
-Taylor destaca la naturaleza dialógica del proceso de formación de la identidad, donde las interacciones con «otros significativos» juegan un papel crucial. El reconocimiento, por lo tanto, no es solo una cortesía, sino una necesidad vital para la construcción de un sentido de sí mismo.
+Taylor destaca la naturaleza dialógica del proceso de formación de la [[identidad]], donde las interacciones con «otros significativos» juegan un papel crucial. El reconocimiento, por lo tanto, no es solo una cortesía, sino una necesidad vital para la construcción de un sentido de sí mismo.
 
 El autor explora dos formas principales de la política del reconocimiento: la política del universalismo y la política de la diferencia. La primera, inspirada en Rousseau y Kant, defiende la igualdad de derechos y la dignidad universal, mientras que la segunda, que surge del ideal de la autenticidad, busca el reconocimiento de las identidades únicas y particulares.
 

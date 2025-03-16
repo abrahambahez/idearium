@@ -22,7 +22,7 @@ Siete capítulos, una introducción breve y un apéndice extenso que profundiza 
 
 Conceptos principales son:
 
-- Desescolarización
+- Desescolarización: la escuela genera [[contraproductividad]]
 - Las ideas de embudos educacionales *versus* tramas educacionales.
 - Escuela activa [apéndice], como opuesta a la pasividad o «imposición» de los programas. Sería la capacidad de que los estudiantes decidan qué quieren que se les enseñe y de qué manera.
 - **Capitalistas del saber** (consumen educación como servicio a través de la escuela)

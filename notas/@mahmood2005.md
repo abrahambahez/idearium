@@ -3,7 +3,7 @@
 
 ## Resumen
 
-Una etnografía sobre mujeres, prácticas religiosas y su relación con la política islámica en Egipto. Contribuye al cuestionamiento sobre la visión liberal de la agencia desde las teorías feministas occidentales, que tienen un modelo, el liberal, de entender la justicia social, y según el cual elementos como la intromisión de la religión en los asuntos políticos es una amenaza de las libertades [xxiii], 
+Una [[etnografía]] sobre mujeres, prácticas religiosas y su relación con la política islámica en Egipto. Contribuye al cuestionamiento sobre la visión liberal de la agencia desde las teorías feministas occidentales, que tienen un modelo, el liberal, de entender la justicia social, y según el cual elementos como la intromisión de la religión en los asuntos políticos es una amenaza de las libertades [xxiii].
 
 ## Contexto
 
@@ -11,13 +11,13 @@ Una etnografía sobre mujeres, prácticas religiosas y su relación con la polí
 <!--El libro se estructura en-->
 
 <!--Estructura conceptual:-->
- Separa la noción analítica de agencia de los proyectos políticos, prescriptivistas del feminismo y el liberalismo occidentales.
+ Separa la noción analítica de [[agencia]] de los proyectos políticos, prescriptivistas del feminismo y el liberalismo occidentales.
  
 <!--Argumentos generales:-->
 
 ### Crítica de Mahmood a la noción occidental de agencia
 
-Saba Mahmood critica la noción occidental de agencia por ser demasiado estrecha y enfocada en la resistencia a las normas hegemónicas. Argumenta que esta perspectiva ignora otras formas de agencia que no se ajustan a esta narrativa, particularmente en contextos no occidentales. Mahmood sostiene que esta noción de agencia se basa en una concepción humanista del sujeto como un agente autónomo y autodeterminado que busca liberarse de las restricciones sociales. Este enfoque, según Mahmood, no puede comprender las prácticas de las mujeres del movimiento de piedad en Egipto, ya que sus acciones no están motivadas por un deseo de resistencia o subversión.
+Saba Mahmood critica la noción occidental de [[agencia]] por ser demasiado estrecha y enfocada en la resistencia a las normas hegemónicas. Argumenta que esta perspectiva ignora otras formas de agencia que no se ajustan a esta narrativa, particularmente en contextos no occidentales. Mahmood sostiene que esta noción de agencia se basa en una concepción humanista del sujeto como un agente autónomo y autodeterminado que busca liberarse de las restricciones sociales. Este enfoque, según Mahmood, no puede comprender las prácticas de las mujeres del movimiento de piedad en Egipto, ya que sus acciones no están motivadas por un deseo de resistencia o subversión.
 
 #### Modalidades de agencia no occidentales
 

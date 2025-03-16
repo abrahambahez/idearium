@@ -82,7 +82,7 @@ En la introducción, @lempert2016 [3] afirma que la escala no es algo dado en el
 
 ¿Cómo se describe en la introducción la forma en que la escala se concibe en la antropología? ¿Qué autores y obras trabajan con la escala? ¿Qué problemas abordan estos autores?
 
-Se argumenta que la antropología, desde sus inicios, se ha preocupado por cuestiones de escala, buscando conectar eventos específicos con la [larga-duracion](larga-duracion.md) (*longue durée*), interacciones efímeras con instituciones sociales duraderas, y la influencia global con la recepción local.
+Se argumenta que la antropología, desde sus inicios, se ha preocupado por cuestiones de escala, buscando conectar eventos específicos con la [[larga duración]] (*longue durée*), interacciones efímeras con instituciones sociales duraderas, y la influencia global con la recepción local.
 
 **Autores y obras que trabajan con la escala en la antropología:**
 

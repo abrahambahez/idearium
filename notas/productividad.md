@@ -1,4 +1,6 @@
 # productividad
+En un sentido neutral, implica la capacidad de un sistema o persona de *producir* eficientemente algo, por lo general relacionado con trabajo.
+
 De acuerdo con @reagle2019 [[gestión]]
 
 - Ecosistemas del hacking

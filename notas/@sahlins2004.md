@@ -6,9 +6,7 @@
 
 ## Contexto
 ## Notas
-<!--El libro se estructura en-->
-
-<!--Estructura conceptual:-->
+Relacionado con: [[efecto test en la enseñanza de historia]] y con [[agencia y estructura]]
  
 <!--Argumentos generales:-->
 (Basado en un resumen IA de una reseña del libro)

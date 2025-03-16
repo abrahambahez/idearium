@@ -5,9 +5,10 @@
 
 
 ## Contexto
-Este libro es una recopilación de artículos escritos por distintos autores, principalmente académicos alemanes y franceses, quienes participaron en un simposio en 1995 sobre la problemática indígena en América Latina. El objetivo del libro es presentar una perspectiva crítica sobre la relación entre los pueblos indígenas y las sociedades nacionales, explorando la evolución de la política indigenista desde la época colonial hasta la década de 1990.
+Este libro es una recopilación de artículos escritos por distintos autores, principalmente académicos alemanes y franceses, quienes participaron en un simposio en 1995 sobre la problemática indígena  (ver [[problema del indio]]) en América Latina. El objetivo del libro es presentar una perspectiva crítica sobre la relación entre los pueblos indígenas y las sociedades nacionales, explorando la evolución de la política indigenista desde la época colonial hasta la década de 1990.
 
 El objetivo general es analizar críticamente las políticas y prácticas que han marginalizado y excluido a los pueblos indígenas, reconociendo su lucha por la justicia social y la construcción de un futuro más equitativo y sostenible.
+
 ## Notas
 <!--El libro se estructura en-->
 

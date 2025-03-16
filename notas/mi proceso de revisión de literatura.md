@@ -1,4 +1,6 @@
 # mi proceso de revisión de literatura
+Ver [[nota permanente]]
+
 ```mermaid
 graph TD
     A(Pregunta de investigación) --> B[Sitios de búsqueda]

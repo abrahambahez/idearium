@@ -1,4 +1,6 @@
 # estrategias de investigación militante
+Relacionado con la [[antropología y anarquismo]]
+
 Desde @scheper-hughes1995 sobre la antropología descalza. La escritura antropológica como un sitio de resistencia.   
 
 >We can write books that go against the grain by avoiding impenetrable prose (whether postmodemist or Lacanian) so as to be accessible to the people we say we represent. We can disrupt expected academic roles and statuses in the spirit of the Brazilian/carnavalesque" We can make ourselves available not just as friends or as "patrons" in the old colonialist sense but as comrades (with all the demands and responsibilities that this word implies) to the people who are the subjects of our writings, whose lives and miseries provide us with a livelihood. We can-as Michel De Certeau (1984) suggests-exchange gifts based on our labors, use book royalties to support radical actions, and seek to avoid the deadening tread mill of academic achievement and in this way subvert the process that puts our work at the service of the scientific, academic factory.

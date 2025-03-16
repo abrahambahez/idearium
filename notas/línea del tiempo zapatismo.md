@@ -1,4 +1,6 @@
 # línea del tiempo zapatismo
+[[zapatismo]]
+
 ## Antecedentes
 
 ## Levantamiento

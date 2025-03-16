@@ -1,5 +1,7 @@
 # práctica deliberada en la lectura
 
+Investigaciones sobre [[práctica deliberada]] y lectura
+
 fisher y Frey 2020: Make Deliberate Practice Part of Your Classroom Routine (ver fisher2020.pdf en Descargas)
 
 https://discovery.ucl.ac.uk/id/eprint/10194905/

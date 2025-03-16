@@ -1,4 +1,5 @@
-
+# Trece latas de atún
+Amandititia 2015
 
 ## Contexto
 
@@ -15,10 +16,6 @@ La primera parte parece un diario, algunos títulos son frases que refieren al c
 
 La segunda parte se relaciona con Justin y parece narrar una historia más amplia que termina en el año nuevo de 2015; tiene, por momentos, un estilo de intercambio de cartas o diario (porque algunos títulos son fechas).
 
-<!--según el escaneo de páginas-->
-Estructura temática: 
-
-<!--Según la lectura rápida-->
-Ideas y opiniones:
+[[cómo escribir sobre la literatura que leo]]
 
 <!--El libro me gustó / no me gustó porque-->
