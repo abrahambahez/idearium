@@ -8,7 +8,7 @@ Se considera un [[proceso iterativo]] que debería hacerse de la forma más ráp
 Este proceso debe mitigar:
 
 - Riesgo de valor: ¿los clientes pagarían por esto o quieren usarlo?
-- Riesgo de [[usabilidad]]: ¿lo usuario pueden usarlo?
+- Riesgo de [[usabilidad]]: ¿puede ser usado?
 - Riesgo de viabilidad técnica: ¿podemos desarrollarlo?
 - Riesgo de viabilidad de negocio: ¿la solución funciona para el negocio?
 - Riesgos de otras constricciones eticas, legales, culturales, etcétera.

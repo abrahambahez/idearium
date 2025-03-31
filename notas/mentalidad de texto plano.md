@@ -7,4 +7,4 @@ Pensemos en el primer principio de la [[filosofía UNIX]], «escribe programas q
 
 Pero ¿Qué significa «hacer bien una cosa»? Las apps de tareas deberían ayudar a gestionar el trabajo, pero cada una tiene *su modo* de capturar, listar, filtrar, ordenar; cada una da preferencia a los aspectos que *cree* que son más importantes en una tarea: el tiempo (fecha límite, duración, calendarización), el lugar (para la casa, el trabajo, la escuela, el gimnasio); algunas *creen* que no deberían tener una opinión rígida, y hacen sus apps llenas de configuraciones complejas. Algunas sólo funcionan en determinados [sistemas operativos o prefieren pulir la interacción gráfica al máximo](https://culturedcode.com/things/), mientras que otras están listas para [ser controladas por el teclado](https://todoist.com/es/help/articles/keyboard-shortcuts).
 
-%% App hopping %%
+Ver también: [[File over app]]

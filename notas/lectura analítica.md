@@ -5,7 +5,7 @@ Para @adler2014, se trata de la lectura para la comprensión; es la mejor lectur
 - Escribe de qué trata el libro con la máxima brevedad (*Unity and it’s parts*)
 - Enumera sus partes en orden y relación, y haz un esquema de las partes ya que tienes el esquema del todo (*Unity and it’s parts*)
     - Radiografiar el libro
-- Entiende los términos del autor, sólo si autor y escritor comparten la misma interpretación de términos clave habrá entendimiento
+- Entiende los términos del autor, sólo si autor y escritor comparten la misma interpretación de términos clave habrá entendimiento [[coincidir en términos discursivos]]
 - Define el problema o los problemas que el autor trata de resolver
 - Critica el libro , suspensión del juicio, no contención
     - Aprender a reconocer si el autor está desinformado, malinformado, es ilógico/inconsistente o le falta algo en su argumentación 

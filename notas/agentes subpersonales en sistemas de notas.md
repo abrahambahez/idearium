@@ -1,5 +1,5 @@
 # agentes subpersonales en sistemas de notas
-La idea de que en un [[sistema de notas interconectadas]] es posible ser asistido 
+La idea de que en un [[sistema de notas interconectadas]] es posible ser asistido.
 
 Algunas intuiciones:
 

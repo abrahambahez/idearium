@@ -2,13 +2,13 @@
 Según @vonrandow2018
 
 La violencia revolucionaria es fundamentalmente una **acción política** (no moral ni legal).
-    
+
 Es un término complejo que incluye no sólo la **violencia física** directa, sino la **psicológica** y la «**estructural**» (condiciones de vivienda, trabajo, [[discriminación]] y vida indignas en general).
-    
+
 La izquierda radical justifica la «**violencia contra los objetos**» en lugar de la «violencia contra las personas» pero esa frontera es difícil de manejar: a las cosas las protegen personas, las cosas pertenecen a las personas (el autor sugiere que esto sería como ejercer una [[violencia estructural]] pero eso no queda claro).
-    
+
 La violencia es **ejercida** o **amenazada**: ambas fundamentan tanto relaciones internacionales entre estados como relaciones entre individuos y grupos sociales.
-    
+
 A veces la violencia se ejerce en pequeña escala para **justificar una amenaza potencial más grande**, como en los ataques terroristas y la guerra de guerrillas.
 
 Una violencia (él la llama «terror») de ambas partes produce una **escalada** y el **sadismo** humano se potencia.

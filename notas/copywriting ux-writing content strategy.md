@@ -1,5 +1,7 @@
 # copywriting ux-writing content strategy
-#index 
+#index
+
+## Copywriting: escribir para comunicar el valor de un producto
 
 - [[decir más con menos]]
 
@@ -10,10 +12,10 @@
 ## Referencias
 
 - [Nielsen UX Writing Guide](https://www.nngroup.com/articles/ux-writing-study-guide/)
-- https://youtu.be/TUMjnmfsPeM?si=vX2PRVcEfVVMBZiE
+- [[@perell2024-07]]
 - [[@teixeira2018]]
 - [[@halvorson&rach2012]]
-- [[kissane2011.pdf]]
+- [[@kissane2011]]
 - [[@baker2018]]
 - Joanna Wiebe
     - **(2022) Buttons & Click-Boosting Calls to Action**

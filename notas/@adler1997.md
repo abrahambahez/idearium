@@ -28,6 +28,6 @@ Del video:
 - No seas demasiado educado como para dejar cosas importantes ocultas o sin entender
 - Usar la mente: como un participante activo tu trabajo es enfocarte en la pregunta que se está considerando. Si el tema es complejo tendrá que irse analizado
 - Controlar tus emociones: identificar cuando hay una emoción como el enojo
-    - Tono de voz, sarcasmo, *ad hominem*, lenguaje corporal
+    - Tono de voz, sarcasmo, *ad hominem*, [[lenguaje corporal]]
     - La conversación no es una agresión
 

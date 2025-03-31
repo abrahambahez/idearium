@@ -7,7 +7,6 @@ Una corriente de la [[post-izquierda]] que ubica su crítica desde el [[anarquis
 - La [[identidad]] como proceso de [[clasificación social]]. Ve también el [[problema de las identidades colectivas]]
 - La crítica al [[trabajo]] como algo valioso
 
-
 Ver:
 
 https://theanarchistlibrary.org/library/evan-jack-a-farewell-to-post-left-anarchy

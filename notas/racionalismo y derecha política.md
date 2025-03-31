@@ -14,6 +14,9 @@
 - [[supremacía blanca en EEUU]]
 - [An Establishment Conservative's Guide To The Alt-Right](https://www.breitbart.com/tech/2016/03/29/an-establishment-conservatives-guide-to-the-alt-right/)
 
+## Racionalismo altruista
+
+- [[altruismo efectivo]] 
 
 ## Textos ejemplares
 

@@ -56,5 +56,5 @@ Estructura conceptual:
 <!--Según la lectura rápida-->
 Argumentos generales:
 
-- El indígena es el espejo del criollo (cfr. [[~problema del mestizo en México]]), «asistimos a una suerte de conquista al revés» [11], los indígenas van conquistando sus derechos. Reinventan el discurso sobre lo que son y cómo se relaciona con su historia y la historia mundial [11-12]
+- El indígena es el espejo del criollo (cfr. [[problema del mestizo en México]]), «asistimos a una suerte de conquista al revés» [11], los indígenas van conquistando sus derechos. Reinventan el discurso sobre lo que son y cómo se relaciona con su historia y la historia mundial [11-12]
 

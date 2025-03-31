@@ -1,5 +1,5 @@
 # inbox de lectura
-Un [[ideas/inbox]] para revisar los artículos, libros y referencias digitales y analógicas que  deberían estar en una sola carpeta `inbox-lectura`. Esa carpeta debería procesarse como parte de este flujo: 
+Un [[inbox]] para revisar los artículos, libros y referencias digitales y analógicas que  deberían estar en una sola carpeta `inbox-lectura`. Esa carpeta debería procesarse como parte de este flujo: 
 
 ```mermaid
 graph TD

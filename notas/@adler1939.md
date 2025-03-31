@@ -13,7 +13,7 @@ Let us suppose that you are reading a good book, and hence a relatively intellig
 
 Hence it is clear that we have additional steps to consider only in the case of disagreement or suspended judgment.
 
-The meaning of agreement and disagreement deserves a moment's further consideration. The reader who comes to terms with an author, and grasps his propositions and arguments, is *en rapport* with the author's mind. In fact, the whole process of interpretation is directed toward a meeting of minds through the medium of language. Understanding a book can be described as a kind of agreement between writer and reader. They agree about the use of language to express ideas. Because of that agreement, the reader is able to see through the author's language to the ideas he is trying to express.
+The meaning of agreement and disagreement deserves a moment's further consideration. The reader who comes to terms with an author, and grasps his propositions and arguments, is *en [[rapport]]* with the author's mind. In fact, the whole process of interpretation is directed toward a meeting of minds through the medium of language. Understanding a book can be described as a kind of agreement between writer and reader. They agree about the use of language to express ideas. Because of that agreement, the reader is able to see through the author's language to the ideas he is trying to express.
 
 If the reader understands a book, then how can he disagree with it? Critical reading demands that he make up his own mind. But his mind and the author's have become as one through his success in understanding the book. What mind has he left to make up independently?
 

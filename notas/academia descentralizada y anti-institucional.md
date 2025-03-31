@@ -1,4 +1,4 @@
-# Crear una academia descentralizada y anti-institucional
+# academia descentralizada y anti-institucional
 #index #idea
 
 Un GitHub para el conocimiento científico.
@@ -19,6 +19,7 @@ Un GitHub para el conocimiento científico.
 ### Mantener las «cosas buenas» del sistema actual
 
 - «Revistas» o iniciativas colectivas especializadas en un tema, con miembros estables o comités
+- Revisión por pares
 
 ### Optimizar, mejorar o reformar
 

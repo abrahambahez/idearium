@@ -5,3 +5,9 @@ Los sistemas de distribución de opresión y privilegios son configuraciones de 
 2. La [[opresión]] (relación de subordinación de unos a otros que adopta diferentes formas históricas)
 
 Estos criterios los convierten en sistemas inherentemente jerárquicos.
+
+Ver también:
+
+- [[qué forma tienen los sistemas de distribución de 
+- [[injusticia social y opresión]]
+- [[cómo hacer la revolución]]

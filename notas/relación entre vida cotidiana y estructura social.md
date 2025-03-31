@@ -1,5 +1,5 @@
 # relación entre vida cotidiana y estructura social
-Para Calles Restrepo, los procesos de cambio, especialmente los procesos revolucionarios, sólo se reflejan efectivamente en la vida cotidiana, cualquier cambio que no cambie la vida cotidiana no representa un cambio estructural. El objetivo de muchas iniciativas reformistas no es cambiar, sino mantener: *Es necesario que algo cambie, para que todo siga igual*. Esta idea queda condensada en su afirmación de que:
+Para Calles Restrepo, los procesos de cambio, especialmente los [[procesos revolucionarios]], sólo se reflejan efectivamente en la vida cotidiana, cualquier cambio que no cambie la vida cotidiana no representa un cambio estructural ([[escalar la revolución]]). El objetivo de muchas iniciativas reformistas no es cambiar, sino mantener: *Es necesario que algo cambie, para que todo siga igual*. Esta idea queda condensada en su afirmación de que:
 
 >No se puede juzgar a lo macro-social por lo que dice de sí mismo, mucho menos si se llama revolucionario. Solamente la vida cotidiana puede serlo. [@callerestrepo1985, p. 53]
 

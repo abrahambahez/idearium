@@ -11,6 +11,6 @@ En un [artículo de su blog](https://www.calnewport.com/blog/2017/03/30/the-obvi
 
 Posteriormente publicó *«A world without email»* como propuesta ante este problema.
 
-Ver [[~trabajo abierto]], [[ensayo sobre escritura colaborativa en obsidian]], y [[gestión ágil]] en relación con la comunicación necesaria. También puede verse como uno de los [[limitantes que mejoran la calidad del trabajo de gestión]].
+Ver [[trabajo abierto]], [[ensayo sobre escritura colaborativa en obsidian]], y [[gestión ágil]] en relación con la comunicación necesaria. También puede verse como uno de los [[limitantes que mejoran la calidad del trabajo de gestión]].
 
 Confrontar con la idea de que [[la retroalimentación constante es un factor de éxito en un proyecto]]

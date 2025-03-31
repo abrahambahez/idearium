@@ -17,4 +17,4 @@ El proyecto eugenésico centroamericano favoreció la racialización profunda de
 
 Libros citados relevantes:
 
-- Francis Galton, *Herencia y Eugenesia* [[~racionalismo y derecha política]]
+- Francis Galton, *Herencia y Eugenesia* [[racionalismo y derecha política]]

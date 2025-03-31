@@ -1,4 +1,4 @@
-# Trabajo abierto
+# trabajo abierto
 #index 
 
 Giro cualitativo

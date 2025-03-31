@@ -35,6 +35,5 @@ Produce sobre todo texto y código, que debe reflejarse en conocimiento/producto
 ### Preguntas
 
 - [[escalar cooperación humana con tecnología web]]
-- Capitalismo horizontal y cooperativismo: los *comunistas liberales* [@zizek2006] extienden el [[realismo capitalista]] hasta la «horizontalidad», ¿es posible un cooperativismo no opresivo?
 - Tecnología y horizontalidad, del [[anarco-primitivismo]] al [[tecno-anarquismo]]
 - problematizando el [[trabajo]] y el régimen del salario

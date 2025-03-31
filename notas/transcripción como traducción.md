@@ -5,7 +5,7 @@ En ese sentido, es un modo de traducción que, en lugar de negociar el sentido d
 
 - En el uso de la puntuación con fines de expresividad
 - En la fidelidad con que la oralidad puede ser reproducida, con muletillas, errores sintácticos, emocionalidad tonal
-- En la recuperación de elementos extra-lingüísticos como lenguaje corporal, proxémica
+- En la recuperación de elementos extra-lingüísticos como [[lenguaje corporal]], proxémica
 
 @laramezaetal2010 [p. 84] sugiere un proceso de transcripción:
 

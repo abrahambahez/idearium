@@ -13,7 +13,7 @@ En la primera parte, llamada «civilización negada» habla de mesoamérica como
 
 «Identidades prohibidas», «lenguas proscritas», consecuencias de la situación colonial ([[proceso dominical]]) [46]
 
-El mestizaje es [[etnocidio]] [[~problema del mestizo en México]]
+El mestizaje es [[etnocidio]] [[problema del mestizo en México]]
 
 Para muchos pueblos, la naturaleza es vista como un elemento de integración para la realización humana
 

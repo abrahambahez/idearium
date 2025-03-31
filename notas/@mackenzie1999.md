@@ -28,13 +28,9 @@ Se dice que la ciencia da forma a la tecnología. Pero hay varias cosas incorrec
 
 Otra interpretación es que *la tecnología da forma a la tecnología*. Esta noción desafía el mito del inventor que en un destello de inspiración logra la innovación; en contra de esta noción está la de que *las invenciones son inevitables* dados ciertos marcos técnicos y culturales previos (el hecho de que un mismo invento surja en varios puntos simultáneos es una prueba, p.10), sin embargo, la tecnología preexistente no es la única condición para esto.
 
-El [[paradigma tecnológico]] es una extensión analógica de la idea kuhniana de paradigma científico, que se entiende como  forma aceptada particular de entender problemas - soluciones y como constelación de creencias, valores, técnicas compartidas por comunidades científicas (recuerda que hay más de una forma de diseñar soluciones a problemas).
-
->Dado que el conocimiento tecnológico no puede reducirse a un conjunto de reglas verbales, la presencia de un ejemplo concreto es un recurso de pensamiento vital [@mackenzie1999, 11]
-
 La idea de trayectoria tecnológica es el camino que un artefacto tecnológico va siguiendo en diferentes etapas de construcción y con diferentes estados finales potenciales, actores relevantes y propuestas que determinan su forma final. Ejemplos de los estudios de Hughes están en la p. 12.
 
-El [[sistema sociotécnico|sistema tecnológico]] es más comúnmente usadon que el de paradigma tecnológico; para definirlos, Mackenzie sigue a [[@thomas2008]]. La diferencia es que el sistema tiene diversos componentes requeridos que no son no necesariemente parte de un mismo artefacto: *«Una lavadora autmática, por ejemplo, depende de su integración a los sistemas de electricidad, agua y drenaje»* (p. 12), y por tanto pueden tener cada uno su propia [[trayectoria tecnológica]] independiente.
+El [[sistema sociotécnico|sistema tecnológico]] es más comúnmente usadon que el de [[paradigma tecnológico]]; para definirlos, Mackenzie sigue a [[@thomas2008]]. La diferencia es que el sistema tiene diversos componentes requeridos que no son no necesariemente parte de un mismo artefacto: *«Una lavadora autmática, por ejemplo, depende de su integración a los sistemas de electricidad, agua y drenaje»* (p. 12), y por tanto pueden tener cada uno su propia [[trayectoria tecnológica]] independiente.
 
 Según Mackenzie, para Hughes un [[saliente inverso]] es producto de un desarrollo desigual, un área donde el crecimiento tecnológico se alenta, un conjunto de *problemas críticos* que corregirían las brechas necesarias para que el [[sistema sociotécnico|sistema tecnológico]] funcione (pp. 12-13)
 
