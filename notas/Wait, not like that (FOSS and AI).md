@@ -6,7 +6,7 @@ published: 2025-03-14
 created: 2025-03-16
 description: "The real threat isn’t AI using open knowledge — it’s AI companies killing the projects that make knowledge free"
 ---
-# “Wait, not like that”: Free and open access in the age of generative AI
+# Wait, not like that (FOSS and AI)
 #clip
 
 The visions of the open access movement have inspired countless people to contribute their work to the commons: a world where “every single human being can freely share in the sum of all knowledge” (Wikimedia), and where “education, culture, and science are equitably shared as a means to benefit humanity” (Creative Commons<sup id="footnote-anchor-1" class="footnote-anchor"><a href="https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/#footnote-1">a</a></sup>).

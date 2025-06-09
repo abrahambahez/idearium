@@ -3,7 +3,7 @@
 
 - Primero, debes tener algo en qué escribir en todo momento, ya sea una libreta o una aplicación móvil
 - Cada que una idea venga a tu mente, captúrala (p. 23 · Posición 496). Estas notas son más recordatorios de ideas potenciales que ideas en sí mismas
-- Estas notas deben agruparse en un sólo lugar, que suele llamarse *[[ideas/inbox]]* (p. 24 · Posición 513), la recomendación es que sea un *inbox central* de modo que sea sencillo ubicarlas para trabajarlas después (p. 29 · Posición 634)
+- Estas notas deben agruparse en un sólo lugar, que suele llamarse *[[inbox]]* (p. 24 · Posición 513), la recomendación es que sea un *inbox central* de modo que sea sencillo ubicarlas para trabajarlas después (p. 29 · Posición 634)
 - De preferencia deben procesarse el mismo día que fueron escritas; no deben pasar más de un par de días porque pierden valor (al perder contexto) con el tiempo. Eventualmente olvidarás qué querías decir con ellas
 - Cuando las revises decide si se convertirán en notas permanentes, serán desechadas, o esperarán un poco más. 
 - No las dejes demasiado tiempo, **deben moverse para mantener vacía la bandeja** ([[inbox cero]]), o se borran o se convierten en permanentes

@@ -8,7 +8,6 @@ Cagan recomienda alinear estos items como una serie de [[product-market fit]], p
 - Como una región geográfica
 - Como una serie lógica (un sistema de *rating* para ecommerce, luego una base de datos de sentimiento de consumidor, recomendaciones avanzadas de producto)
 
-
 Recomendaciones:
 
 - Enfocarse en un mercado-persona a la vez

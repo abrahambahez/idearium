@@ -1,5 +1,5 @@
 # Sobre las mujeres que gritan
-#idea/blog 
+#blog 
 
 ```txt
 ¿por qué grita esa mujer?  

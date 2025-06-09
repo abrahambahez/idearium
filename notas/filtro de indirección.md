@@ -1,5 +1,5 @@
 # filtro de indirección
-Basado en la lógica de los [[capa de abstracción|niveles de indirección]], quienes conocen el término suelen detectar sus patrones en diversos procesos o comportamientos sociales.
+Basado en la lógica de los [[capas de abstracción|niveles de indirección]], quienes conocen el término suelen detectar sus patrones en diversos procesos o comportamientos sociales.
 
 Ejemplos:
 

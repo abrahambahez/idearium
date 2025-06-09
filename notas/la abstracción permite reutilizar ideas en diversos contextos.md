@@ -7,6 +7,6 @@ La abstracción también es clave para analizar y comparar conceptos, hacer anal
 
 La abstracción no sólo se refiere a cuestiones *típicamente* racionales como las matemáticas o la lógica, la [[analogía]] así como conceptos derivados de experiencias subjetivas (*cualias* o cualisignos), también son abstracciones.
 
-El concepto de [[capa de abstracción]] en informática puede ser de utilidad para pensar implementaciones no técnicas, sino cognitivas, de la abstracción.
+El concepto de [[capas de abstracción]] en informática puede ser de utilidad para pensar implementaciones no técnicas, sino cognitivas, de la abstracción.
 
 La abstracción da pie al [[problema de la clasificación]].

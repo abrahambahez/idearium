@@ -8,6 +8,6 @@ Estos criterios los convierten en sistemas inherentemente jerárquicos.
 
 Ver también:
 
-- [[qué forma tienen los sistemas de distribución de 
+- [[qué forma tienen los sistemas de distribución de opresión y privilegios]]
 - [[injusticia social y opresión]]
 - [[cómo hacer la revolución]]

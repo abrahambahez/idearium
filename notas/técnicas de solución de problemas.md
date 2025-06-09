@@ -4,7 +4,7 @@
 - [[patrón de divergencia - convergencia]]
 - [[patrón de retroalimentación corta-larga]]
 - [[patrón de diseño]]
-- [[capa de abstracción]]
+- [[capas de abstracción]]
 - [[modelo prioridad-proyecto-contexto]]
 - [[modelo captura-proceso-ejecución-retroalimentación]]
 - [[estrategias de gestión ágil]]

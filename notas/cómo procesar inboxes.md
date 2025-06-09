@@ -1,5 +1,5 @@
 # cómo procesar inboxes
-El éxito de un [[ideas/inbox]] depende de que haya una práctica específica de procesamiento que clarifique y organice los ítems.
+El éxito de un [[inbox]] depende de que haya una práctica específica de procesamiento que clarifique y organice los ítems.
 
 ![GTD with David Allen: Clarify & Organize Made Easy](https://youtu.be/YrqFiHWGcvU) 
 

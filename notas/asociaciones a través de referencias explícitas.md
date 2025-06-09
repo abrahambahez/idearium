@@ -1,6 +1,6 @@
 # asociaciones a través de referencias explícitas
 
-En un [[sistema de notas interconectadas]], las referencias explícitas funcionan añadiendo un vínculo (*link*) dentro del texto de la idea de modo que sea congruente con el argumento de la idea elaborada en la nota, usando el título de la nota referenciada como una [[capa de abstracción]] de su contenido.
+En un [[sistema de notas interconectadas]], las referencias explícitas funcionan añadiendo un vínculo (*link*) dentro del texto de la idea de modo que sea congruente con el argumento de la idea elaborada en la nota, usando el título de la nota referenciada como una [[capas de abstracción]] de su contenido.
 
 De este modo, cuando el texto es leído, destacan los vínculos dentro del contenido, sugiriendo los diferentes niveles de profundidad, los diferentes caminos a los que puede llevar la nota, y también el contexto en el cual esos vínculos están siendo usados como parte de la argumentación.
 

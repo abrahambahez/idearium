@@ -3,7 +3,7 @@ Elaborada por Piotr Wozniak, la define como una [[técnica de aprendizaje]] para
 
 Si abstraemos los pasos que propone @wozniak2013 [§ 'Five basic skills of incremental reading'], tendríamos el siguiente proceso (una variante del [[modelo captura-proceso-ejecución-retroalimentación]]):
 
-- Tener un [[ideas/inbox]] de textos
+- Tener un [[inbox]] de textos
 - Leer el texto y obtener fragmentos
 - Convertir los fragmentos (ahora son ítems de repaso) en material de [[repetición espaciada]]
     - Terminar el texto lo saca de la bandeja de entrada, pero no a los fragmentos
