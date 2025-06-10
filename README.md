@@ -29,7 +29,7 @@ Luego, estas son algunas de las reglas que puede tener:
 
 ## Puntos de partida
 
-Me interesa pensar en los problemas derivados de [sistemas sociales de opresión y desigualdad](202506051804.md).
+Me interesa pensar en los problemas derivados de [sistemas sociales de opresión y desigualdad](ztk/202506051804.md).
 
-Me interesa pensar en soluciones a esos problemas en términos de [prototipar utopías](202506042027.md).
+Me interesa pensar en soluciones a esos problemas en términos de [prototipar utopías](ztk/202506042027.md).
 
