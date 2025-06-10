@@ -1,2 +1,0 @@
-# modelo captura-proceso-ejecución-retroalimentación
-Esta es la forma que, posiblemente, representa mejor las diversas metodologías de [[gestión de tareas]] que se han propuesto, como [[GTD]], [[gestión ágil]]

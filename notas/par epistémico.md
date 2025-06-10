@@ -1,2 +1,0 @@
-# par epistémico
-En el contexto de la [[epistemología del desacuerdo]], un [[par epistémico]] es cualquier persona considerada tan inteligente, bien informada y libre de sesgos como uno mismo. Cuando surgen dos posturas contradictorias entre dos personas consideradas pares epistémicos en esa materia, hay dos posibles actitudes ante el desacuerdo: la conciliación, o suspender el juicio; y la firmeza, o mantener las creencias ante el desacuerdo.

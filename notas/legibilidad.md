@@ -1,2 +1,0 @@
-# legibilidad
-@scott1999

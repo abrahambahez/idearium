@@ -1,2 +1,0 @@
-# matemáticas
-Nodo.

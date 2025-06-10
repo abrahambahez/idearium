@@ -1,8 +1,0 @@
-# problemas para una teoría de la práctica
-Una [[teoría de la práctica]] se enfrenta a varios problemas @ortner1993 [pp. 46-59, aprox.]
-
-1. El análisis grupal cae en conflicto con el individual. Cuando queremos analizar la acción grupal caemos en el riesgo de la micrometodología, pero enfocarse en el grupo va en detrimiento (¿dialéctico?) del individuo.
-2. La temporalidad de la acción inmediata versus la acción como reflejo de un programa más grande en el tiempo. Cuando analizamos la [[agencia]] solemos ubicarla en una temporalidad inmediata, tan fugaz incluso como la noción de [[acción serial]] ¡aunque estas se usan para teorizar sobre [[arqueología]]! ¿qué más largo plazo podemos nombrar? \[cfr. @johannesen2004; @joyceylopiparo2005\]. Pero el comportamiento también está *motivado* por *proyectos* o *programas* a más largos plazos, ¿cómo conciliar esto?
-3. La creación del sujeto de la acción. ¿Quién es el sujeto de la [[agencia]]? Muchas teorías (incluyendo las económicas y las psicológicas-cognitivas) lo modelan con atributos como racional, individualista, agresivo, o los opuestos. Estos modelos son necesarios para teorizar sobre los problemas anteriores, pero son incapaces de abarcar todo el espectro, complejo, de la acción humana en el tiempo, el espacio y el contexto.
-4. ¿Cómo la práctica (reproduce / transforma) al sistema? \[@ortner1993, p. 54\] y también el problema de la temporalidad de esa dinámica. Son transformaciones lentas, generacionales.
-5. Cómo analizar los patrones de solidaridad, cooperación y [[reciprocidad]] versus los de dominación, [[desigualdad]] y asimetría

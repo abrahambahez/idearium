@@ -1,2 +1,0 @@
-# historia
-Nodo

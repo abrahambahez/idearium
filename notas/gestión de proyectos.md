@@ -1,2 +1,0 @@
-# gestión de proyectos
-[[gestión]] 

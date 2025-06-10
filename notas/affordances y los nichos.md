@@ -1,2 +1,0 @@
-# affordances y los nichos
-Para @chemero2018 [p. 191] un nicho para Gibson es el conjunto de *[[disponibilidad (affordance)]]* para un animal particular. Diferentes animales con diferentes habilidades pueden estar en el mismo lugar pero no compartir ni superponer sus nichos, como sucedería un un humano y una bacteria dentro de él. Chemero define los nichos como el conjunto de situaciones en las que una o más de las habilidades de un animal pueden ser realizadas.

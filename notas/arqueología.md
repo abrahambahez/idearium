@@ -1,2 +1,0 @@
-# arqueología
-Nodo.

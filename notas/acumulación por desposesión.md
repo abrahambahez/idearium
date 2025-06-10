@@ -1,4 +1,0 @@
-# acumulación por desposesión
-La acumulación por desposesión es un [[constructo teórico]] introducido por David @harvey2004 para explicar la continuidad de los métodos descritos por Marx sobre la acumulación originaria [@marx2017, cap. 24] pero en un contexto donde esa acumulación *ya no es originaria*, es decir, ya no sirve para producir el capitalismo como fenómeno histórico, sino para reproducirlo o expandirlo a lugares donde tiene un nulo o débil impacto.
-
-Recupera de @lefebvre1991 la idea de *producción del espacio* y reconoce elaboraciones previas (independientes) de esta idea en Lenin y Rosa Luxemburgo, pues el imperialismo es una forma determinada de producción del espacio [@harvey2004, 99]. Para Harvey, el uso de acumulación por desposesión aumenta mientras disminuye la capacidad de reproducción ampliada sobre una base sustentable. Este comportamiento sería un «nuevo imperialismo».

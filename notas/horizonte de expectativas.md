@@ -1,3 +1,0 @@
-# horizonte de expectativas
- [[testificación]]
- 

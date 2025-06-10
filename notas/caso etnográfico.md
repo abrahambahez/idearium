@@ -1,1 +1,0 @@
-# caso etnográfico

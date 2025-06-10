@@ -1,2 +1,0 @@
-# toma de decisiones
-Nodo.

@@ -1,2 +1,0 @@
-# representatividad cualitativa
-A diferencia de la estadística, la representatividad cualitativa es un criterio basado en la *importancia* o el *interés* de los sujetos en el tema, a quienes puede atribuírseles [[privilegio epistémico]] o algún otro factor que los destaque. 

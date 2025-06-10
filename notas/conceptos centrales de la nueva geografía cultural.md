@@ -1,2 +1,0 @@
-# conceptos centrales de la nueva geografía cultural
-De acuerdo con @gimenez2007 los conceptos centrales de la nueva geografía cultural son [[territorio]], [[geosímbolo]], [[paisaje]], [[ecología cultural]], [[cultura]]
