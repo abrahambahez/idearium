@@ -1,5 +1,4 @@
-# Real title
-Author, year
+# {{extra.reference}}
 
 ## Resumen
 
