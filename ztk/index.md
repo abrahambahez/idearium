@@ -4,6 +4,7 @@
 - [sistemas sociales de opresión y desigualdad](202506051804.md)
     - [sistemas socioecológicos](202506101227.md)
     - [prototipar utopías](202506042027.md)
+- [organizaciones ágiles no-jerárquicas](202506171310.md)
 
 ## Metas a 2025
 
