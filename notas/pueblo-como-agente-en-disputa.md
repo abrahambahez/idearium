@@ -1,3 +1,5 @@
+# Pueblo como agente en disputa
+
 - El término pueblo
     - El término «[[pueblo]]» es polisémico e históricamente variable, en términos generales se le considera equivalente o estrechamente relacionado con las identidades nacionales, aunque esa misma identificación ha producido una lectura que también lo entiende como lo «antinacional», como lo que distingue al grupo de los «excluidos» del estado (migrantes, minorías). Su capacidad de adoptar casi cualquier significado ha abierto la posibilidad de considerarlo un «significante vacío».
 - El pueblo-Estado y su crisis

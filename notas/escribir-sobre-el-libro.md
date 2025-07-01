@@ -23,3 +23,4 @@ Consejos para escribir sobre la estructura
 - Índice personal en las guardas traseras
 - Síntesis o sinopsis de la unidad del libro en las guardas delanteras
 - Si es necesario, usar hojas sueltas que sean más pequeñas que las medidas del libro e insertarlas en él
+
