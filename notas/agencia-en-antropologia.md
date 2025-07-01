@@ -1,0 +1,10 @@
+# agencia en antropología
+En [[antropologia]] la [[agencia]] se entiende  generalmente en relación con la noción de *estructura* [@keane2003], sobre todo a partir de la influyente teoría de la estructuración de @giddens1984; o bien, del análisis *foucaultiano* del *poder* [@foucault2004], la subjetividad [@ortner2006], la [[resistencia]] y la *intención* en un entramado que [[@ortner2016]] [cap. 6] llamó *juegos serios*. Para [[@ortner2016]] [156] *«la intencionalidad como concepto comprende todas las formas en que la acción está dirigida, cognitiva y emocionalmente, hacia un propósito»* y advierte que *«prestar demasiada atención a las intenciones explícitas eclipsa el hecho de que la mayoría de los resultados sociales son, en realidad, consecuencias no intencionadas de la acción»* [[@ortner2016]] [157]. Ella comparte una concepción *fuerte* respecto al papel de la intencionalidad en la agencia, donde la intención *activa*, aunque no necesariamente consciente, es lo que distingue a la agencia de la *rutina*.
+
+También ha considerado procesos de atribución de *personidad*, o *[[personhood]]* en agentes no-humanos [@teubner2006], lo que incluye tanto a seres orgánicos como a lo que en la visión occidental es la dicotomía entre sujetos y objetos [@henare&al2007], o bien, una dimensión semiótica, lingüística y cognitiva del concepto [@kockelman2007].
+
+<!-- https://journals.openedition.org/ateliers/8516 -->
+- Desde los 70 está relacionada con la teoría de la práctica, el trabajo de [[@ortner2016]] es fundamental. Escribió sobre ese recorrido en [[@ortner1993]]
+- El [[giro-ontologico]] propuso replantear la relación agencia-estructura hacia un modo más ecológico
+- La idea de [[correspondencia]] en Ingold
+- En 1998, Alfred Gell publica *Art and Agency*, la edición en español es 

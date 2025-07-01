@@ -1,0 +1,2 @@
+# kanban
+Kanban es un método de [[gestion-de-proyectos]] basado en la [[gestion-agil]]. Consiste en un tablero con columnas que representan un flujo de trabajo y con ítems que van pasando por cada fase del tablero.

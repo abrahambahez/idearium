@@ -1,0 +1,2 @@
+# affordances y el entorno
+Una *[[disponibilidad-affordance]]* implica *relaciones* porque no dependen del entorno ni del animal aisladamente, sino que pertenece a sistemas animal-entorno. Esta noción seria consecuente con el empirismo radical que Gibson hereda de William James. Sólo cuando el animal está relacionado con alguna característica del entorno es posible un *affordance* [@chemero2018, p. 186].

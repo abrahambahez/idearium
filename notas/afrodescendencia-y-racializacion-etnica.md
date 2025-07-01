@@ -1,0 +1,2 @@
+# afrodescendencia y racialización étnica
+La categoría de lo etno-racial fue impulsada en la primera década del siglo XXI por algunos trabajos de orientación cuantitativa [@telles&al2020; @solis&al2019], donde se describe la [[racializacion-etnica]] como el proceso donde ciertos rasgos físicos y culturales se asignan a la pertenencia a una raza-etnia (donde ambos conceptos están muy mezclados para estar separados, según sus autores). Por otra parte, <!-- profundizar -->la categoría de afrodescendencia *emerge*.

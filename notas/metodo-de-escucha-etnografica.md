@@ -1,0 +1,2 @@
+# método de escucha etnográfica
+La escucha etnográfica es una [[estrategia-metodologica]] desarrollada por la antropóloga Rita Segato en el contexto de su **antropología por demanda**, de acuerdo con @segato2015 [p. 70], esta estrategia *produce conocimiento y reflexión como respuesta a las preguntas que le son colocadas por quienes de otra forma serían sus *objetos* de observación. Otra forma de entenderla es que el contenido de la investigación deriva de exigencias que son demandadas y que la antropóloga va respondiendo*.

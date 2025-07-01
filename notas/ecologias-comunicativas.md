@@ -1,0 +1,2 @@
+# ecologías comunicativas
+Las [ecologías comunicativas](https://palabraclave.unisabana.edu.co/index.php/palabraclave/article/view/5774/html) estudian del entorno como posibilitador de comunicación entre diversos tipos de sujetos. El mapeo de estos entornos es usado como una [[estrategia-metodologica]] en varios casos citados por @pinketal2016 dentro del contexto de la [[etnografia-digital]].

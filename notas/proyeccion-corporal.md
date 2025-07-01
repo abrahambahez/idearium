@@ -1,0 +1,13 @@
+# proyección corporal
+Una teoría de [[Paul-Connerton]] sobre cómo el cuerpo se proyecta en el espacio externo, en el hábitat o el entorno ecológico para dotarlo de sentido. Según él, existen tres modalidades:
+
+1. Empática. Los espectadores se identifican con partes de un espacio al proyectar en ellas una experiencia de sus propios estados corporales. El espacio refleja el cuerpo.
+2. Mimética. El espacio (edificio, entorno) proyecta explícitamente atributos corporales, en lugar de estados. El cuerpo humano es tomado como referencia general. El espacio imita al cuerpo.
+3. Cósmica. La proyección cósmica opera como un esquema de memoria al tomar elementos naturales como guía para decodificar la experiencia de un lugar, creando un mapa cognitivo (ver [[cosmograma]]). El agua como elemento de regeneración y fertilidad, el aire como figura de libertad y trascendencia [165-168],
+    1. Esta modalidad pasa «del funcionamiento implícito de la memoria *habitual* del cuerpo y el funcionamiento explícito del de la memoria mimética del cuerpo a la organización explícita de la memoria cognitiva» [162]
+
+El modo empático está en el polo opuesto del modo cósmico, en un contínuum de proyecciones. En el primero se trata de una amplificación de la experiencia corporal, mientras que en el segundo se trata de un sistema explícito de cognición mnemónica basado en en distinciones categóricas entre elementos [169].
+
+> Al hablar de proyección corporal, me refiero al hecho de que los edificios que nos rodean y otras características de nuestro hábitat no son considerados como algo completamente externo y totalmente separado de nosotros, sino que el cuerpo-sujeto ‘lee’ características del cuerpo humano en el hábitat que nos rodea y dentro del cual desarrollamos nuestras vidas. Esta lectura, o proyección, puede realizarse de varias maneras diferentes. Podría hacerse proyectando aspectos de los estados corporales humanos sobre las características del hábitat. Podría hacerse proyectando atributos corporales particulares sobre características del hábitat. O podría hacerse proyectando características corporales en forma de mapeo cognitivo sobre elementos de la naturaleza.
+> 
+> Me referiré a estos tres tipos de proyección como empática, mimética y cósmica, respectivamente. Todos estos diferentes tipos de lectura o proyección implican diferentes modos de memoria emocional o afectiva aplicados al hábitat. [@connerton2011, 147]

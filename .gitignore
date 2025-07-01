@@ -6,6 +6,7 @@
 .obsidian*
 **/.zk/notebook.db
 .pandoc
-notas*
+ztk*
+#notas*
 diario*
 *.bib

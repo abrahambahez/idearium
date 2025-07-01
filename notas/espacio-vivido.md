@@ -1,0 +1,3 @@
+# espacio vivido
+<!-- limitar a la teoría de lefevre-->
+El espacio vivido es parte de la [[triada-espacial-de-@lefebvre1991]]. Se le asocia con los *espacios representacionales*, porque es vivido no en un sentido *neutral* u objetivo, sino culturalmente. El espacio percibido es un momento de la producción del espacio donde sus componentes materiales son interpretados culturalmente, simbólicamente, con códigos específicos. Es vivido en tanto puede ser entendido y expresado. Socialmente es vivido *como un usuario, como un habitante, como ocupante*. 

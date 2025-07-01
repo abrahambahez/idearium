@@ -1,0 +1,2 @@
+# espacio y experiencia
+La relación entre [[espacio]] y experiencia [@pinketal2016]  puede relacionar teóricamente el espacio virtual con el espacio geográfico. El espacio vivido [o espacio representacional según @lefebvre1991] y percibido (como las prácticas espaciales según el mismo autor) está estrechamente relacionado con la experiencia, el espacio representado puede serlo tanto geográfica (topológicamente) como virtualmente (topográficamente).

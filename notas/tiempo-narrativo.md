@@ -1,0 +1,2 @@
+# tiempo narrativo
+El tiempo narrativo es un concepto antropomórfico del tiempo que estructura un relato bajo un orden sucesivo de eventos para hacerlo inteligible [cfr. @balbi2004], relacionado fundamentalmente con la [[epistemologia-narrativa]].

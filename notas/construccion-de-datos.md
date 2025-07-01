@@ -1,0 +1,2 @@
+# construcción de datos
+Proceso desde [[constructivismo]] que define el resultado de la creación de un dato no como objetivo sino como dependiente de un marco de referencia, como [[marco-epistemologico]], [[marco-teorico]], influenciado por [[ideologia]]

@@ -1,0 +1,4 @@
+# amateurismo
+Según [Wikipedia](https://es.wikipedia.org/wiki/Amateur):
+
+>El término no guarda relación con el nivel de [capacitación](https://es.wikipedia.org/wiki/Capacitaci%C3%B3n "Capacitación") o idoneidad en la actividad, sino con la motivación por la cual se realiza. Mientras que la actividad profesional normalmente requiere un nivel mínimo de preparación, conocimiento o entrenamiento para poder practicarse socialmente, la _amateur_ en general no. Sin embargo ambas tienen en común que el nivel máximo alcanzable en estos sentidos está limitado por la voluntad y dedicación que cada uno decide darle.

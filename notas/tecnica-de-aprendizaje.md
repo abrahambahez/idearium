@@ -1,0 +1,2 @@
+# técnica de aprendizaje
+Nodo.

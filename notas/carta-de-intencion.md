@@ -1,0 +1,2 @@
+# carta de intención
+Un [[tecnica-de-descubrimiento-de-producto]] donde se le da a firmar una carta al prospecto o participante de una validación de producto. La carta implica una promesa de compra futura o el compromiso de una recomendación del producto explícita. Se usa para confirmar si el valor expresado por el prospecto es consistente con una intención real. La promesa puede considerarse una especie de *compra simbólica*; en lugar de dinero, se pone la palabra.

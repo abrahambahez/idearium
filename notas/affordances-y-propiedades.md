@@ -1,0 +1,6 @@
+# affordances y propiedades
+@chemero2018 afirma que las *affordances* no son propiedades del entrono porque no son propiedades (al menos no siempre) y porque no están en el entorno.
+
+Para @chemero2018, las *[[disponibilidad-affordance]]* son características (*features*) más que propiedades (*properties*), ya que las propiedades implicarían *percibir algo sobre uno mismo, no algo sobre el entorno* (p. 185). En cambio, las características obedecerían a una forma más *primitiva* de percibir, que Strawson llama *feature placing*. 
+
+>Compare, for example, realizing that your car is dented with realizing that it is raining. In the former case, the perception of a property of the car, you must (a) perceive a particular entity; (b) know its identity, that it is your car; (c) know what it is to be dented; and (d) perceive that this particular entity (your car) has this particular property (being dented). In the last case, the placing of a feature, there is no need to know anything about any particular entity. All that is necessary is the ability to recognize a feature of situations (raininess) [@chemero2018, p. 185]
