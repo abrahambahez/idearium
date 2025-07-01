@@ -1,5 +1,4 @@
 # product.me
-#ensayo  
 
 ¿Es posible productizar una carrera? En una estructura de mercantilización del trabajo y un contexto de [[capitalismo-cognitivo]], podría ser una mejor estrategia para profesiones tecnológicas. Al menos en relación con la forma usual de [[autoexplotacion]] y [[cultura-del-ajetreo]] que caracteriza cómo las personas desarrollan sus carreras profesionales.
 

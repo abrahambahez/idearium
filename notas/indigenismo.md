@@ -7,11 +7,8 @@ Para [[@nolascoarmas1970]], el indigenismo ha sido la actitud política e intele
 
 Para @villoro2018 el indigenismo posee una dimensión ideológica que, a través del lenguaje de cada momento, revela una situación social de las relaciones entre indígenas y no indígenas. Es necesario «traducir» enunciados ideológicos a enunciados descriptivos para develar esta distancia [@villoro2018, prólogo a la 2 ed.]
 
-
 ---
 Borradores:
-
-
 
 
 En 200X Fox cambia a Comisión Nacional Para el Desarrollo de los Pueblos Indígenas

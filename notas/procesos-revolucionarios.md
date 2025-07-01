@@ -7,3 +7,4 @@ Se puede entender como concepto o como un conjunto de procesos históricos de lo
 - [[violencia-revolucionaria]]: ver @vonrandow2018
 - [[movimientos-armados]]
 - [[antropologia-y-guerrilla]]
+- [[anarquismo]]

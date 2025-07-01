@@ -1,5 +1,5 @@
 # proyecto Limina
-#esquema #p1 
+#esquema
 
 Este es un proyecto personal que agrupa varios intereses y acciones.
 
@@ -27,3 +27,4 @@ Me gustaría enfocar esos principios en tres problemas:
 - Una infraestructura y un sistema de donación directa:
     - Una versión de [*Giving What We Can*](https://en.wikipedia.org/wiki/Giving_What_We_Can) pero centrada en la financiación directa exclusiva de proyectos autogestivos, *no caridad*.
 - Gestión ágil del cuidado doméstico
+

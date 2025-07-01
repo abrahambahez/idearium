@@ -1,7 +1,5 @@
 # Adiestramiento de personal
-Alfonso Villa-Rojas 1964, [zotero](zotero://select/items/@villa-rojas1964)
-
-%% Villa R. en Comas J. 1976 Antrop.soc.aplic..pdf %%
+Alfonso Villa-Rojas 1964
 
 Describe programas de acción del Instituto Nacional Indigenista cuya visión era la de usar la [[antropologia]] aplicada para «entender las culturas nativas e impulsarlas hacia un más alto plano de vida» [@villa-rojas1964, 212-213].
 

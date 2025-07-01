@@ -19,7 +19,7 @@ Generalizar en tiempo pasado y conceptualizar en plural son buenas prácticas qu
 
 Hay que elegir con cuidado la metodología a utilizarse, entender la relevancia de los datos en el contexto de un problema de investigación y del grado de avance de la investigación para ese problema. Lo mismo hay que hacer con la teoría (cfr. con el discurso de la p. 157)
 
-Lo nomotético y lo idiográfico #&p3  
+Lo nomotético y lo idiográfico  
 
 ## Referencias
 

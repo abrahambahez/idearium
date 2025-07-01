@@ -1,5 +1,4 @@
 # Sobre las mujeres que gritan
-#blog 
 
 ```txt
 ¿por qué grita esa mujer?  
@@ -51,3 +50,4 @@ Ya no grita
 Inspirado por un poema de Susana Thénon, me gustaría reflexionar sobre por qué las mujeres que gritan transgreden límites sociales ¿Qué límites son esos?
 
 La primera respuesta es la estructura patriarcal, y su relación con la historia cultural del [[grito]].
+

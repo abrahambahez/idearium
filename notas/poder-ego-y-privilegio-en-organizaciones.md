@@ -1,5 +1,5 @@
 # poder ego y privilegio en organizaciones
-#ensayo
+#idea
 
 Poder, ego y privilegio son las tres dimensiones que observo en organizaciones donde las cosas no funcionan o se atascan. Las llamaré por ahora *factores que ensucian el trabajo*.
 
