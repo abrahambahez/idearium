@@ -7,4 +7,4 @@ Por ejemplo, en su tesis, Martha Martín Yáñez (*Del cerdo a la Carne* 2019, U
 
 Un ejemplo más conocido es la crítica de Marx sobre el [[individualismo-como-robinsonada]], 
 
-La primera consecuencia de ignorar socialmente los procesos que sostienen los niveles de indirección es el aumento en el espectro de tolerancia moral de muchas prácticas sociales de explotación ligadas a ellos. Por tanto este sesgo reproduce los [[sistemas-de-distribucion-de-opresion-y-privilegios]].
+La primera consecuencia de ignorar socialmente los procesos que sostienen los niveles de indirección es el aumento en el espectro de tolerancia moral de muchas prácticas sociales de explotación ligadas a ellos. Por tanto este sesgo reproduce los [[sistemas-sociales-de-opresion-y-desigualdad]].

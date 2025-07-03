@@ -41,7 +41,7 @@ Pra desarrollar una crítica más profunda los autores parten de dos ideas inici
 
 Siguiendo a Foucault (1973, citado en la p. 119), la episteme moderna (una configuración de conocimiento consolidada a finales del sXVIII) ya incluye a la antropología que devendrá hegemónica, y que funciona como *contra-ciencia* (le recuerda a occidente sus límites, junto con el psicoanálisis y su concpeto de *inconsciente*), pero al estar fundada en la misma epistemología racionalista es incapaz de sobrepasarla.
 
-Desde su nacimiento al interior de la división moderna de la labor intelectual, «le fue asignado el *'lugar del salvaje'*» (p. 120) como problema epistémico-político y ahsta hoy no ha podido trascender esa asignación. Además ese nacimiento fue «falo(logo)-euro-centrista» (p. 120, cfr. [[sistemas-de-distribucion-de-opresion-y-privilegios]]).
+Desde su nacimiento al interior de la división moderna de la labor intelectual, «le fue asignado el *'lugar del salvaje'*» (p. 120) como problema epistémico-político y ahsta hoy no ha podido trascender esa asignación. Además ese nacimiento fue «falo(logo)-euro-centrista» (p. 120, cfr. [[sistemas-sociales-de-opresion-y-desigualdad]]).
 
 Algunas preguntas que rescato de los puntos analíticos de las pp. 121-123:
 

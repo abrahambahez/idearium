@@ -26,7 +26,7 @@
 - Programa oculto: relacionado con la mercantilización (la escuela como «mercancía», p. 301)
     - Adquirir competencias que la sociedad reconoce como útiles
     - Sucesión a determinadas edades de cursos graduados (310)
-    - Prejuicio y discriminación en unos, ensalzamiento en otros ([[sistemas-de-distribucion-de-opresion-y-privilegios]])
+    - Prejuicio y discriminación en unos, ensalzamiento en otros ([[sistemas-sociales-de-opresion-y-desigualdad]])
     - «la idea de que el juicio de una persona debiera determinar  qué y cuándo debe aprender otra persona» [p. 229]
 - Capitalistas del conocimiento
 - Mito del consumo sin fin [cap. 3]

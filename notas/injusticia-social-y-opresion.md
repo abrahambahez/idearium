@@ -3,7 +3,7 @@
 
 ## ¿Cómo entender la injusticia y la opresión?
 
-Entiendo los problemas de la injusticia social a partir del concepto de [[sistemas-de-distribucion-de-opresion-y-privilegios]] y algunas elaboraciones derivadas
+Entiendo los problemas de la injusticia social a partir del concepto de [[sistemas-sociales-de-opresion-y-desigualdad]] y algunas elaboraciones derivadas
 
 - [[que-forma-tienen-los-sistemas-de-distribucion-de-opresion-y-privilegios]]
 - Qué es la [[desigualdad]]

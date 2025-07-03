@@ -1,4 +1,4 @@
-Se refiere a los contenidos cómicos que tienen como centro a personas que padecen los [[sistemas-de-distribucion-de-opresion-y-privilegios]].
+Se refiere a los contenidos cómicos que tienen como centro a personas que padecen los [[sistemas-sociales-de-opresion-y-desigualdad]].
 
 Utilizan y reproducen como núcleo de su chiste un [[estereotipo]], [[prejuicio]] o [[estigma]] contra esas personas.
 

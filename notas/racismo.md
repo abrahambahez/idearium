@@ -25,7 +25,7 @@ El racismo es, para @camposgarcia2012 [pp. 8-9], el elemento jerarquizador del c
 3. Hay un nivel donde las expresiones de racismo son diversas, pero hay otro nivel, más formal, en el que comparten las mismas lógicas: es el nivel de la **clasificación**.
     1. Procesos de identificación
     2. Gestión del patrimonio: Discursos de continuidad histórica
-4. Esas mismas lógicas son compartidas con otras formas de discriminación que producen [[sistemas-de-distribucion-de-opresion-y-privilegios]]
+4. Esas mismas lógicas son compartidas con otras formas de discriminación que producen [[sistemas-sociales-de-opresion-y-desigualdad]]
 5. ¿Qué [[configuracion-social]] se beneficia de la reproducción de estos sistemas?
     1. La organización de los estados nacionales
     2. Los grupos que controlan los medios de producción
@@ -52,7 +52,7 @@ Dos lecturas sobre la determinación: una determinista rígida (destino) y otra 
 ### ¿Cuándo comienza el racismo?
 
 - Criterio nominal: cuando se nombra
-- Criterio sociohistórico: cuando se instituye como [[sistemas-de-distribucion-de-opresion-y-privilegios]]
+- Criterio sociohistórico: cuando se instituye como [[sistemas-sociales-de-opresion-y-desigualdad]]
 
 ## Notas históricas
 

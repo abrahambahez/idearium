@@ -5,7 +5,7 @@
 
 ## Antecedentes
 
-- Las ideas de Galileo, Newton y Darwin han sido (mal) usadas para justificar [[sistemas-de-distribucion-de-opresion-y-privilegios]].
+- Las ideas de Galileo, Newton y Darwin han sido (mal) usadas para justificar [[sistemas-sociales-de-opresion-y-desigualdad]].
 - [[racismo-científico]]
 - [[racismo-cotidiano]]
 

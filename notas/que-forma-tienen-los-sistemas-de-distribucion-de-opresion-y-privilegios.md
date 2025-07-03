@@ -1,5 +1,5 @@
 # qué forma tienen los sistemas de distribución de opresión y privilegios
-Las formas que pueden tener los [[sistemas-de-distribucion-de-opresion-y-privilegios]] son:
+Las formas que pueden tener los [[sistemas-sociales-de-opresion-y-desigualdad]] son:
 
 1. Tienen como centro un **constructo identitario** (¿sólo identitario?) basado en una diferencia *actual*, *positiva* y *fáctica*, que puede ser:
 	- *Biológica o material*: sexual, hereditaria (fenotípica como la pigmentación de la piel), o social, como la familia proletaria o los sistemas de castas

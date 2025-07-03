@@ -5,4 +5,4 @@ La actividad más frecuente de intercambio es la publicación y recepción de te
 
 Aquellas ideas que son aceptadas como verdaderas en los grupos sociales son incorporadas en procesos de estructuración: [[el-conocimiento-se-incorpora-en-pautas-conductuales-operacionales-o-expresivas]].
 
-El *habitus bourdiano* y su *doxa* dentro de diferentes espacios de negociación de capital cultural / cognitivo, así como la teoría de la formación discursiva (cfr. por ejemplo [[@restrepo2004]]) y las *epistemes* foucaultianas explican las dinámicas de su distribución desigual (en tanto social, no escapa a los [[sistemas-de-distribucion-de-opresion-y-privilegios]]).
+El *habitus bourdiano* y su *doxa* dentro de diferentes espacios de negociación de capital cultural / cognitivo, así como la teoría de la formación discursiva (cfr. por ejemplo [[@restrepo2004]]) y las *epistemes* foucaultianas explican las dinámicas de su distribución desigual (en tanto social, no escapa a los [[sistemas-sociales-de-opresion-y-desigualdad]]).

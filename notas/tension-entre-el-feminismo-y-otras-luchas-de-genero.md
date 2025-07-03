@@ -3,7 +3,7 @@ El problema de la tensión entre algunas luchas como el [[feminismo]] y el movim
 
 Este es el esbozo del argumento:
 
-- El objetivo del feminismo es eliminar al patriarcado (uno de los más antiguos y extendidos [[sistemas-de-distribucion-de-opresion-y-privilegios]] basado en la diferencia sexual socialmente construida, o género)
+- El objetivo del feminismo es eliminar al patriarcado (uno de los más antiguos y extendidos [[sistemas-sociales-de-opresion-y-desigualdad]] basado en la diferencia sexual socialmente construida, o género)
 - El objetivo de al menos una vertiente del feminismo es eliminar al patriarcado a través de la desestimación del género
 - El objetivo de al menos una vertiente del movimiento LGBT+ es lograr el reconocimiento de múltiples identidades derivadas de las diferencias sexuales socialmente construidas (géneros) en varios niveles
 - Los objetivos de al menos una vertiente del feminismo y de al menos una vertiente del movimiento LGBT+ son directamente opuestos: el triunfo de una de estas corrientes implica la derrota del otro.
