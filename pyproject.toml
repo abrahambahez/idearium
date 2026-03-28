@@ -4,7 +4,9 @@ version = "0.1.0"
 description = "Static microblog builder"
 requires-python = ">=3.13"
 dependencies = [
+    "es-core-news-sm",
     "mistune>=3.2.0",
+    "spacy>=3.8.13",
 ]
 
 [dependency-groups]
@@ -12,3 +14,6 @@ dev = [
     "pagefind>=1.4.0",
     "pagefind-bin>=1.4.0",
 ]
+
+[tool.uv.sources]
+es-core-news-sm = { url = "https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.8.0/es_core_news_sm-3.8.0-py3-none-any.whl" }

@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 import json
-import os
 import shutil
+import subprocess
+from collections import Counter, defaultdict
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import quote
 
 import mistune
+import spacy
 
 # --- Config -------------------------------------------------------------------
 
@@ -16,12 +19,23 @@ SITE_TITLE = "notas"
 
 # --- Helpers ------------------------------------------------------------------
 
-md = mistune.create_markdown(plugins=["strikethrough", "url"])
+md = mistune.create_markdown(plugins=["strikethrough", "url"], escape=False)
+nlp = spacy.load("es_core_news_sm")
+
+MEANINGFUL_POS_PAIRS = {
+    ("NOUN", "NOUN"),
+    ("NOUN", "ADJ"),
+    ("ADJ", "NOUN"),
+    ("PROPN", "NOUN"),
+    ("PROPN", "PROPN"),
+    ("NOUN", "PROPN"),
+}
+HEATMAP_MIN_ENTRIES = 2
 
 
 def entry_id(entry: dict) -> str:
-    """Normalize jrnl datetime to e.g. 20260327T143000."""
-    dt = datetime.fromisoformat(entry["date"])
+    """Normalize jrnl date+time to e.g. 20260327T143000."""
+    dt = datetime.fromisoformat(f"{entry['date']}T{entry.get('time', '00:00')}")
     return dt.strftime("%Y%m%dT%H%M%S")
 
 
@@ -34,9 +48,83 @@ def entry_title(entry: dict) -> str:
     return entry.get("title", "").strip()
 
 
-def entry_body_html(entry: dict) -> str:
+def compute_bigram_scores(entries: list[dict]) -> dict[str, float]:
+    """Pass 1: score lemma bigrams by fraction of entries that contain them."""
+    total = len(entries)
+    # count how many entries contain each lemma bigram
+    entry_counts: Counter = Counter()
+    for entry in entries:
+        body = entry.get("body", "").strip()
+        if not body:
+            continue
+        doc = nlp(body)
+        seen = set()
+        tokens = [t for t in doc if not t.is_space]
+        for a, b in zip(tokens, tokens[1:]):
+            if (a.pos_, b.pos_) not in MEANINGFUL_POS_PAIRS:
+                continue
+            if len(a.lemma_) < 2 or len(b.lemma_) < 2:
+                continue
+            key = f"{a.lemma_.lower()} {b.lemma_.lower()}"
+            if key not in seen:
+                seen.add(key)
+                entry_counts[key] += 1
+
+    return {
+        key: count / total
+        for key, count in entry_counts.items()
+        if count >= HEATMAP_MIN_ENTRIES
+    }
+
+
+def annotate_body(body: str, bigram_scores: dict[str, float]) -> str:
+    """Pass 2: inject <a class="hm"> spans for scored bigrams, then render markdown."""
+    if not body or not bigram_scores:
+        return md(body) if body else ""
+
+    doc = nlp(body)
+    tokens = [t for t in doc if not t.is_space]
+
+    # collect non-overlapping spans to annotate (char start, char end, bigram key)
+    spans: list[tuple[int, int, str]] = []
+    last_end = -1
+    for a, b in zip(tokens, tokens[1:]):
+        if (a.pos_, b.pos_) not in MEANINGFUL_POS_PAIRS:
+            continue
+        key = f"{a.lemma_.lower()} {b.lemma_.lower()}"
+        if key not in bigram_scores:
+            continue
+        start, end = a.idx, b.idx + len(b.text)
+        if start < last_end:
+            continue  # skip overlapping
+        spans.append((start, end, key))
+        last_end = end
+
+    if not spans:
+        return md(body)
+
+    # reconstruct body with injected <a> tags
+    parts: list[str] = []
+    cursor = 0
+    for start, end, key in spans:
+        parts.append(body[cursor:start])
+        score = round(bigram_scores[key], 3)
+        href = f"/search/?q={quote(key)}"
+        original = body[start:end]
+        parts.append(f'<a class="hm" style="--s:{score}" href="{href}">{original}</a>')
+        cursor = end
+    parts.append(body[cursor:])
+
+    return md("".join(parts))
+
+
+def entry_body_html(entry: dict, bigram_scores: dict[str, float] | None = None) -> str:
     body = entry.get("body", "").strip()
-    return md(body) if body else ""
+    if not body:
+        return ""
+    if bigram_scores:
+        return annotate_body(body, bigram_scores)
+    return md(body)
 
 
 def entry_tags(entry: dict) -> list[str]:
@@ -133,6 +221,16 @@ header nav a { margin-left: 1.25rem; font-size: 0.9rem; text-decoration: none; }
 #search-results .result-title { font-weight: bold; }
 #search-results .result-date { font-size: 0.82rem; color: #888; margin-bottom: 0.25rem; }
 #search-results mark { background: #fff3a0; padding: 0 2px; }
+
+/* Heatmap */
+a.hm {
+  background: rgba(234, 179, 8, var(--s));
+  border-radius: 2px;
+  padding: 0 1px;
+  text-decoration: none;
+  color: inherit;
+}
+a.hm:hover { text-decoration: underline; }
 """
 
 # --- Base template ------------------------------------------------------------
@@ -166,11 +264,17 @@ def base(title: str, body: str, *, active: str = "") -> str:
 # --- Entry fragment -----------------------------------------------------------
 
 
-def render_entry_fragment(entry: dict, *, link_title: bool = True) -> str:
+def render_entry_fragment(
+    entry: dict,
+    *,
+    link_title: bool = True,
+    bigram_scores: dict[str, float] | None = None,
+    indexable: bool = False,
+) -> str:
     eid = entry_id(entry)
     date = entry_date_display(entry)
     title = entry_title(entry)
-    body_html = entry_body_html(entry)
+    body_html = entry_body_html(entry, bigram_scores)
     tags = entry_tags(entry)
 
     title_html = (
@@ -183,7 +287,7 @@ def render_entry_fragment(entry: dict, *, link_title: bool = True) -> str:
     )
 
     return f"""\
-<article class="entry" data-pagefind-body>
+<article class="entry"{' data-pagefind-body' if indexable else ''}>
   <div class="entry-meta">
     <a href="/entry/{eid}/">{date}</a>
   </div>
@@ -202,13 +306,15 @@ def write(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
-def build_feed(entries: list[dict]) -> None:
+def build_feed(entries: list[dict], bigram_scores: dict[str, float]) -> None:
     total = len(entries)
     total_pages = max(1, (total + PER_PAGE - 1) // PER_PAGE)
 
     for page_num in range(1, total_pages + 1):
         chunk = entries[(page_num - 1) * PER_PAGE : page_num * PER_PAGE]
-        fragments = "\n".join(render_entry_fragment(e) for e in chunk)
+        fragments = "\n".join(
+            render_entry_fragment(e, bigram_scores=bigram_scores) for e in chunk
+        )
 
         prev_link = (
             f'<a href="{"/page/" + str(page_num - 1) + "/" if page_num > 2 else "/"}">← newer</a>'
@@ -232,10 +338,10 @@ def build_feed(entries: list[dict]) -> None:
         write(out, base(SITE_TITLE, body, active="feed"))
 
 
-def build_entries(entries: list[dict]) -> None:
+def build_entries(entries: list[dict], bigram_scores: dict[str, float]) -> None:
     for entry in entries:
         eid = entry_id(entry)
-        fragment = render_entry_fragment(entry, link_title=False)
+        fragment = render_entry_fragment(entry, link_title=False, bigram_scores=bigram_scores, indexable=True)
         back = '<p style="font-size:0.85rem"><a href="/">← feed</a></p>'
         write(
             slug_path(eid) / "index.html",
@@ -296,19 +402,28 @@ def main() -> None:
     with open(ENTRIES_FILE, encoding="utf-8") as f:
         data = json.load(f)
 
-    entries = sorted(data["entries"], key=lambda e: e["date"], reverse=True)
+    entries = sorted(
+        data["entries"],
+        key=lambda e: f"{e['date']}T{e.get('time', '00:00')}",
+        reverse=True,
+    )
+
+    print("Scoring bigrams…", flush=True)
+    bigram_scores = compute_bigram_scores(entries)
+    print(f"  {len(bigram_scores)} bigrams scored", flush=True)
 
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir()
 
     build_assets()
-    build_feed(entries)
-    build_entries(entries)
+    build_feed(entries, bigram_scores)
+    build_entries(entries, bigram_scores)
     build_search()
 
-    print(f"Built {len(entries)} entries → {DIST}/")
-    print("Run: pagefind --site dist/")
+    print(f"Built {len(entries)} entries → {DIST}/", flush=True)
+    print("Indexing…", flush=True)
+    subprocess.run(["uv", "run", "python", "-m", "pagefind", "--site", str(DIST)], check=True)
 
 
 if __name__ == "__main__":
