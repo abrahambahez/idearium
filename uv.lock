@@ -1,0 +1,55 @@
+version = 1
+revision = 2
+requires-python = ">=3.13"
+
+[[package]]
+name = "mistune"
+version = "3.2.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/9d/55/d01f0c4b45ade6536c51170b9043db8b2ec6ddf4a35c7ea3f5f559ac935b/mistune-3.2.0.tar.gz", hash = "sha256:708487c8a8cdd99c9d90eb3ed4c3ed961246ff78ac82f03418f5183ab70e398a", size = 95467, upload-time = "2025-12-23T11:36:34.994Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/9b/f7/4a5e785ec9fbd65146a27b6b70b6cdc161a66f2024e4b04ac06a67f5578b/mistune-3.2.0-py3-none-any.whl", hash = "sha256:febdc629a3c78616b94393c6580551e0e34cc289987ec6c35ed3f4be42d0eee1", size = 53598, upload-time = "2025-12-23T11:36:33.211Z" },
+]
+
+[[package]]
+name = "notas"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "mistune" },
+]
+
+[package.dev-dependencies]
+dev = [
+    { name = "pagefind" },
+    { name = "pagefind-bin" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "mistune", specifier = ">=3.2.0" }]
+
+[package.metadata.requires-dev]
+dev = [
+    { name = "pagefind", specifier = ">=1.4.0" },
+    { name = "pagefind-bin", specifier = ">=1.4.0" },
+]
+
+[[package]]
+name = "pagefind"
+version = "1.4.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/2e/74/74ecc15aaeff30859c3e1164d6db796988602115d25a01a68851392ecfc6/pagefind-1.4.0.tar.gz", hash = "sha256:881dea03b367e0d80084e2eba0979b25981ab7400f094a8cdddc5381928d8438", size = 9454, upload-time = "2025-09-01T05:46:56.841Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/83/2c/474584536b91e3195ae11249c9384f09444770902db1186646234631bfba/pagefind-1.4.0-py3-none-any.whl", hash = "sha256:7256d40eee4fe3e9bef553a2e1d00c546975bdacc64c510f6ddda874b47da01d", size = 10074, upload-time = "2025-09-01T05:46:32.287Z" },
+]
+
+[[package]]
+name = "pagefind-bin"
+version = "1.4.0"
+source = { registry = "https://pypi.org/simple" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d8/4b/35be11516c0437e54921f8585b616a21dda199ac1a09e89c39b4b947e4df/pagefind_bin-1.4.0-py3-none-macosx_12_0_arm64.whl", hash = "sha256:bcedb09def06f4ccd94b5c58faa5616f63906f3601e32e39fc78d6aa3d6c4443", size = 9168713, upload-time = "2025-09-01T05:46:33.736Z" },
+    { url = "https://files.pythonhosted.org/packages/d2/db/ca1829761a6b972ca7a96ec0a8bcb002fd6b0ef661ab7f295a82c0119e9f/pagefind_bin-1.4.0-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl", hash = "sha256:98317b909ca82cdd126972994a1d2315c1ccc55d1c9d036f8786db6ec7340253", size = 9630745, upload-time = "2025-09-01T05:46:36.053Z" },
+    { url = "https://files.pythonhosted.org/packages/7c/8e/22b96b8962f9b329db0449c0cb2c52dcf2a225c524344973882c6e791b5e/pagefind_bin-1.4.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl", hash = "sha256:c128a05dce35a48dbb06799ecdae751c0bc46e37f0157ed042a2a25569940681", size = 9387495, upload-time = "2025-09-01T05:46:38.332Z" },
+    { url = "https://files.pythonhosted.org/packages/03/6d/e3f8f96ff92935604520ac22537cba05ff03bcf6300da0d66d54c8f7e2c0/pagefind_bin-1.4.0-py3-none-win_amd64.whl", hash = "sha256:35de119004bbd1084c75a54043eb7d4808cd240727764733a1af980681db3f95", size = 8862840, upload-time = "2025-09-01T05:46:40.536Z" },
+]
