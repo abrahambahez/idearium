@@ -40,7 +40,7 @@ def entry_id(entry: dict) -> str:
 
 
 def entry_date_display(entry: dict) -> str:
-    dt = datetime.fromisoformat(entry["date"])
+    dt = datetime.fromisoformat(f"{entry['date']}T{entry.get('time', '00:00')}")
     return dt.strftime("%Y-%m-%d %H:%M")
 
 
@@ -421,14 +421,28 @@ def render_entry_fragment(
         else ""
     )
 
+    pf_body = ' data-pagefind-body' if indexable else ''
+    pf_ignore = ' data-pagefind-ignore' if indexable else ''
+    pf_meta_date = ' data-pagefind-meta="date"' if indexable else ''
+    pf_meta_title = ' data-pagefind-meta="title"' if indexable else ''
+
+    title_html_block = (
+        f'<p class="entry-title"{pf_ignore}><span{pf_meta_title}>{title_html}</span></p>'
+        if title else ""
+    )
+    tags_html_block = (
+        f'<div class="tags"{pf_ignore}>{tags_html}</div>'
+        if tags_html else ""
+    )
+
     return f"""\
-<article class="entry"{' data-pagefind-body' if indexable else ''}>
-  <div class="entry-meta">
-    <a href="/entry/{eid}/">{date}</a>
+<article class="entry"{pf_body}>
+  <div class="entry-meta"{pf_ignore}>
+    <a href="/entry/{eid}/"{pf_meta_date}>{date}</a>
   </div>
-  {"<p class=\"entry-title\">" + title_html + "</p>" if title else ""}
+  {title_html_block}
   <div class="entry-body">{body_html}</div>
-  {"<div class=\"tags\">" + tags_html + "</div>" if tags_html else ""}
+  {tags_html_block}
 </article>
 """
 
