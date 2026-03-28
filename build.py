@@ -231,6 +231,58 @@ a.hm {
   color: inherit;
 }
 a.hm:hover { text-decoration: underline; }
+
+/* Command palette */
+#cmd-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.35);
+  z-index: 200;
+}
+#cmd-backdrop.open { display: block; }
+
+#cmd-palette {
+  position: fixed;
+  top: 20vh;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(560px, 90vw);
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+  z-index: 201;
+  overflow: hidden;
+}
+
+#cmd-input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  font-family: inherit;
+  border: none;
+  border-bottom: 1px solid #eee;
+  outline: none;
+  background: #fff;
+}
+
+#cmd-results { max-height: 55vh; overflow-y: auto; }
+
+#cmd-results a {
+  display: block;
+  padding: 0.6rem 1rem;
+  text-decoration: none;
+  color: #1a1a1a;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 0.9rem;
+}
+#cmd-results a:last-child { border-bottom: none; }
+#cmd-results a.active,
+#cmd-results a:hover { background: #f5f5f0; }
+#cmd-results .cmd-date { font-size: 0.78rem; color: #aaa; margin-bottom: 0.1rem; }
+#cmd-results mark { background: #fff3a0; padding: 0 2px; }
+#cmd-empty { padding: 0.75rem 1rem; color: #aaa; font-size: 0.9rem; }
 """
 
 # --- Base template ------------------------------------------------------------
@@ -256,6 +308,89 @@ def base(title: str, body: str, *, active: str = "") -> str:
   </nav>
 </header>
 {body}
+
+<div id="cmd-backdrop">
+  <div id="cmd-palette">
+    <input id="cmd-input" type="search" placeholder="Buscar…" autocomplete="off">
+    <div id="cmd-results"></div>
+  </div>
+</div>
+
+<script>
+(function() {{
+  let pf = null;
+  async function getPagefind() {{
+    if (!pf) {{ pf = await import("/pagefind/pagefind.js"); await pf.init(); }}
+    return pf;
+  }}
+
+  const backdrop = document.getElementById("cmd-backdrop");
+  const input = document.getElementById("cmd-input");
+  const results = document.getElementById("cmd-results");
+  let activeIdx = -1;
+
+  function open() {{
+    backdrop.classList.add("open");
+    input.value = "";
+    results.innerHTML = "";
+    activeIdx = -1;
+    input.focus();
+    getPagefind();
+  }}
+
+  function close() {{
+    backdrop.classList.remove("open");
+    activeIdx = -1;
+  }}
+
+  function setActive(idx) {{
+    const links = results.querySelectorAll("a");
+    links.forEach(l => l.classList.remove("active"));
+    activeIdx = Math.max(0, Math.min(idx, links.length - 1));
+    if (links[activeIdx]) links[activeIdx].classList.add("active");
+  }}
+
+  async function search() {{
+    const q = input.value.trim();
+    results.innerHTML = "";
+    activeIdx = -1;
+    if (!q) return;
+    const engine = await getPagefind();
+    const r = await engine.search(q);
+    if (!r.results.length) {{
+      results.innerHTML = '<div id="cmd-empty">Sin resultados</div>';
+      return;
+    }}
+    for (const hit of r.results.slice(0, 8)) {{
+      const data = await hit.data();
+      const a = document.createElement("a");
+      a.href = data.url;
+      a.innerHTML = `<div class="cmd-date">${{data.meta?.date ?? ""}}</div><div>${{data.meta?.title ?? data.url}}</div>`;
+      a.addEventListener("click", close);
+      results.appendChild(a);
+    }}
+  }}
+
+  input.addEventListener("input", search);
+
+  input.addEventListener("keydown", e => {{
+    const links = results.querySelectorAll("a");
+    if (e.key === "ArrowDown") {{ e.preventDefault(); setActive(activeIdx + 1); }}
+    else if (e.key === "ArrowUp") {{ e.preventDefault(); setActive(activeIdx - 1); }}
+    else if (e.key === "Enter" && links[activeIdx]) {{ links[activeIdx].click(); }}
+    else if (e.key === "Escape") {{ close(); }}
+  }});
+
+  backdrop.addEventListener("mousedown", e => {{
+    if (e.target === backdrop) close();
+  }});
+
+  document.addEventListener("keydown", e => {{
+    if ((e.metaKey || e.ctrlKey) && e.key === "k") {{ e.preventDefault(); open(); }}
+    else if (e.key === "/" && document.activeElement.tagName !== "INPUT") {{ e.preventDefault(); open(); }}
+  }});
+}})();
+</script>
 </body>
 </html>
 """
