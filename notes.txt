@@ -9,3 +9,9 @@ Qué bella es la vida.
 
 [2026-03-27 06:42:20 PM] La buena vida
 Desde la vida bella hacia la buena vida
+
+[2026-03-29 03:32:22 PM] Prueba de citas enriquecidas.
+> For me, the highlight was a visit to Narbo Via. This is a museum on the edge of town, sited rather incongruously beside a conference centre and a giant Carrefour supermarket
+> -- [Narbo Martius: a Shady Charac­ters field trip](https://shadycharacters.co.uk/2023/07/narbo-martius-field-trip/)
+
+Con un comentario sobre la buena vida.

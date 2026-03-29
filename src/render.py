@@ -4,6 +4,7 @@ from urllib.parse import quote
 import mistune
 
 from src.nlp import MEANINGFUL_POS_PAIRS, nlp
+from src.quoteback import preprocess_quotebacks
 
 md = mistune.create_markdown(plugins=["strikethrough", "url"], escape=False)
 
@@ -66,10 +67,16 @@ def annotate_body(body: str, bigram_scores: dict[str, float]) -> str:
     return md("".join(parts))
 
 
-def entry_body_html(entry: dict, bigram_scores: dict[str, float] | None = None) -> str:
+def entry_body_html(
+    entry: dict,
+    bigram_scores: dict[str, float] | None = None,
+    quoteback_cache: dict | None = None,
+) -> str:
     body = entry.get("body", "").strip()
     if not body:
         return ""
+    if quoteback_cache is not None:
+        body = preprocess_quotebacks(body, quoteback_cache)
     if bigram_scores:
         return annotate_body(body, bigram_scores)
     return md(body)
@@ -80,12 +87,13 @@ def render_entry_fragment(
     *,
     link_title: bool = True,
     bigram_scores: dict[str, float] | None = None,
+    quoteback_cache: dict | None = None,
     indexable: bool = False,
 ) -> str:
     eid = entry_id(entry)
     date = entry_date_display(entry)
     title = entry_title(entry)
-    body_html = entry_body_html(entry, bigram_scores)
+    body_html = entry_body_html(entry, bigram_scores, quoteback_cache)
     tags = entry_tags(entry)
 
     title_html = f'<a href="/entry/{eid}/">{title}</a>' if link_title else title
@@ -125,6 +133,7 @@ def base(title: str, body: str, *, site_title: str, active: str = "") -> str:
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{title} — {site_title}</title>
   <link rel="stylesheet" href="/assets/style.css">
+  <script src="/assets/quoteback.js"></script>
 </head>
 <body>
 <header>

@@ -14,6 +14,7 @@ def build_feed(
     dist: Path,
     per_page: int,
     site_title: str,
+    quoteback_cache: dict | None = None,
 ) -> None:
     total = len(entries)
     total_pages = max(1, (total + per_page - 1) // per_page)
@@ -21,7 +22,8 @@ def build_feed(
     for page_num in range(1, total_pages + 1):
         chunk = entries[(page_num - 1) * per_page : page_num * per_page]
         fragments = "\n".join(
-            render_entry_fragment(e, bigram_scores=bigram_scores) for e in chunk
+            render_entry_fragment(e, bigram_scores=bigram_scores, quoteback_cache=quoteback_cache)
+            for e in chunk
         )
 
         prev_link = (
@@ -45,11 +47,13 @@ def build_entries(
     bigram_scores: dict[str, float],
     dist: Path,
     site_title: str,
+    quoteback_cache: dict | None = None,
 ) -> None:
     for entry in entries:
         eid = entry_id(entry)
         fragment = render_entry_fragment(
-            entry, link_title=False, bigram_scores=bigram_scores, indexable=True
+            entry, link_title=False, bigram_scores=bigram_scores,
+            quoteback_cache=quoteback_cache, indexable=True
         )
         back = '<p style="font-size:0.85rem"><a href="/">← feed</a></p>'
         write(
@@ -99,7 +103,11 @@ def build_search(dist: Path, site_title: str) -> None:
 
 
 def build_assets(dist: Path) -> None:
-    css_src = Path(__file__).parent.parent / "assets" / "style.css"
+    src_assets = Path(__file__).parent.parent / "assets"
     assets_dir = dist / "assets"
     assets_dir.mkdir(parents=True, exist_ok=True)
-    (assets_dir / "style.css").write_text(css_src.read_text(encoding="utf-8"), encoding="utf-8")
+    (assets_dir / "style.css").write_text(
+        (src_assets / "style.css").read_text(encoding="utf-8"), encoding="utf-8"
+    )
+    import shutil
+    shutil.copy(src_assets / "quoteback.js", assets_dir / "quoteback.js")
