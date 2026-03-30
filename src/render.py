@@ -140,7 +140,10 @@ def render_entry_fragment(
     tags = entry_tags(entry)
 
     title_html = f'<a href="/entry/{eid}/">{title}</a>' if link_title else title
-    tags_html = "".join(f'<span class="tag">#{t}</span> ' for t in tags) if tags else ""
+    tags_html = "".join(
+        f'<a class="tag" href="/search/?q={quote("#" + t)}" data-pagefind-filter="tag:{t}">#{t}</a> '
+        for t in tags
+    ) if tags else ""
 
     pf_body = ' data-pagefind-body' if indexable else ''
     pf_ignore = ' data-pagefind-ignore' if indexable else ''
@@ -151,7 +154,7 @@ def render_entry_fragment(
         f'<p class="entry-title"><span{pf_meta_title}>{title_html}</span></p>'
         if title else ""
     )
-    tags_html_block = f'<div class="tags"{pf_ignore}>{tags_html}</div>' if tags_html else ""
+    tags_html_block = f'<div class="tags">{tags_html}</div>' if tags_html else ""
     footer_html = render_entry_footer(eid, title)
 
     return f"""\

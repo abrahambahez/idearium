@@ -17,7 +17,7 @@ from src.quoteback import load_cache, save_cache
 ENTRIES_FILE = "entries.json"
 DIST = Path("dist")
 PER_PAGE = 20
-SITE_TITLE = "notas"
+SITE_TITLE = "idearium."
 SITE_URL = os.environ.get("SITE_URL", "").rstrip("/")
 
 

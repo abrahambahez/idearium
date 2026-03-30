@@ -91,7 +91,9 @@ def build_search(dist: Path, site_title: str) -> None:
       const q = input.value.trim();
       results.innerHTML = "";
       if (!q) return;
-      const r = await pf.search(q);
+      const r = q.startsWith("#")
+        ? await pf.search(null, { filters: { tag: q.slice(1) } })
+        : await pf.search(q);
       for (const result of r.results) {
         const data = await result.data();
         const div = document.createElement("div");
@@ -99,7 +101,7 @@ def build_search(dist: Path, site_title: str) -> None:
         div.innerHTML = `
           <div class="result-date">${data.meta?.date ?? ""}</div>
           <div class="result-title"><a href="${data.url}">${data.meta?.title ?? data.url}</a></div>
-          <div>${data.excerpt}</div>
+          <div>…${data.excerpt}…</div>
         `;
         results.appendChild(div);
       }
