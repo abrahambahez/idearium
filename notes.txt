@@ -1,0 +1,25 @@
+[2025-01-09 07:28:59 PM] Prototipar utopías.
+Podemos usar las metodologías de [pensamiento de diseño](https://es.wikipedia.org/wiki/Pensamiento_de_diseño) (creación) y [desarrollo ágil](https://es.wikipedia.org/wiki/Manifiesto_ágil) (gestión) para el diseño, implementación y escalamiento responsable de tecnologías convivenciales. Otra forma, más simple, de verlo, es pensando la relación entre prototipos y utopías como la relación entre medios (la filosofía de prototipar) y fines (un estado ideal de lo social).
+
+Las tecnologías convivienciales prefiguran un mundo que ha superado sus problemas críticos. La noción de convivencialidad proviene de Iván Illich:
+
+> Una sociedad convivencial es la que ofrece al hombre la posibilidad de ejercer la acción más autónoma y más creativa, con ayuda de las herramientas menos controlables por los otros. La productividad se conjuga en términos de tener, la convivencialidad en términos de ser. En tanto que el incremento de la instrumentación, pasados los umbrales críticos, produce siempre más uniformación reglamentada, mayor dependencia, explotación e impotencia, el respeto a los límites garantizará un libre florecimiento de la autonomía y de la creatividad humanas. Claramente, yo empleo el término herramienta en el sentido más amplio posible, como instrumento o como medio, independientemente de ser producto de la actividad fabricadora, organizadora o racionalizante del hombre o, como es el caso del sílex prehistórico, simplemente apropiado por la mano del hombre para realizar una tarea específica, es decir, para ser puesto al servicio de una intencionalidad [@illich2006b, 395].
+
+Esa descripción se refiere al contexto donde la conviviencialidad se desarrolla, pero, en cuando a la idea de «herramienta convivencial», Illich escribe:
+
+> La herramienta es convivencial en la medida en que cada uno puede utilizarla sin dificultad, tan frecuentemente como él lo desee y para los fines que él mismo determine. El uso que cada quien haga de ella no invade la  libertad del otro para hacer lo mismo. Nadie necesita de un diploma para tener el derecho de usarla a voluntad; se la puede tomar o no. Entre el hombre y el mundo ella es una conductora de sentido, una traductora de intencionalidad [@illich2006b, 397].
+
+[2025-03-11 04:42:41 PM] La subsistencia sin dinero es menos opresiva.
+Durante mi trabajo de campo aprendí algo que me cambió la cosmovisión:
+
+En una sociedad donde la subsistencia depende totalmente del dinero (porque **todo** está disponible únicamente a través del mercado), las personas que más lo tienen pueden fácilmente convertir su riqueza en poder sobre los demás. En un poder permanente.
+
+Por lo tanto, de entre los muchos problemas que hay respecto a poner todo en un mercado, uno de los más críticos es que, en las sociedades ampliamente mercantilizadas, la desigualdad es necesariamente más opresiva.
+
+Los abolicionistas del trabajo como Bob Black [@black1991] argumentan que el trabajo asalariado es la principal fuente de sufrimiento humano; algo que también sería apoyado, al menos parcialmente, por los estudios de psicopatología del trabajo [@dejours2015, parte 1]; también desde la filosofía continental [@han2022]. Es muy posible que un porcentaje significativo de los trabajos asalariados sean, de hecho, completamente innecesarios [@graeber2020].
+
+En las sociedades donde las personas no mueren de hambre o se quedan sin techo al no tener trabajo, uno tiene más capacidad de ejercer su autonomía, de resistir la arbitrariedad de los más ricos.
+
+Esta es mi pregunta: ¿cómo aumentamos la #autonomía de las personas por la vía de su subsistencia? La pregunta implica a su vez la de ¿cómo disminuimos nuestra dependencia del salario para la subsistencia?
+
+[2026-03-29 08:52:47 PM] La IA no carece de capacidad técnica formal, carece de gusto.

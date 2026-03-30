@@ -1,43 +1,31 @@
 {
-  "tags": {},
+  "tags": {
+    "#autonom\u00eda": 1
+  },
   "entries": [
     {
-      "title": "Nota de prueba",
-      "body": "con un [enlace](https://notation.app/n/njQKjJgoVPovJgwb) al demo de *The Sephist*.",
-      "date": "2026-03-27",
-      "time": "17:50",
+      "title": "Prototipar utop\u00edas.",
+      "body": "Podemos usar las metodolog\u00edas de [pensamiento de dise\u00f1o](https://es.wikipedia.org/wiki/Pensamiento_de_dise\u00f1o) (creaci\u00f3n) y [desarrollo \u00e1gil](https://es.wikipedia.org/wiki/Manifiesto_\u00e1gil) (gesti\u00f3n) para el dise\u00f1o, implementaci\u00f3n y escalamiento responsable de tecnolog\u00edas convivenciales. Otra forma, m\u00e1s simple, de verlo, es pensando la relaci\u00f3n entre prototipos y utop\u00edas como la relaci\u00f3n entre medios (la filosof\u00eda de prototipar) y fines (un estado ideal de lo social).\n\nLas tecnolog\u00edas convivienciales prefiguran un mundo que ha superado sus problemas cr\u00edticos. La noci\u00f3n de convivencialidad proviene de Iv\u00e1n Illich:\n\n> Una sociedad convivencial es la que ofrece al hombre la posibilidad de ejercer la acci\u00f3n m\u00e1s aut\u00f3noma y m\u00e1s creativa, con ayuda de las herramientas menos controlables por los otros. La productividad se conjuga en t\u00e9rminos de tener, la convivencialidad en t\u00e9rminos de ser. En tanto que el incremento de la instrumentaci\u00f3n, pasados los umbrales cr\u00edticos, produce siempre m\u00e1s uniformaci\u00f3n reglamentada, mayor dependencia, explotaci\u00f3n e impotencia, el respeto a los l\u00edmites garantizar\u00e1 un libre florecimiento de la autonom\u00eda y de la creatividad humanas. Claramente, yo empleo el t\u00e9rmino herramienta en el sentido m\u00e1s amplio posible, como instrumento o como medio, independientemente de ser producto de la actividad fabricadora, organizadora o racionalizante del hombre o, como es el caso del s\u00edlex prehist\u00f3rico, simplemente apropiado por la mano del hombre para realizar una tarea espec\u00edfica, es decir, para ser puesto al servicio de una intencionalidad [@illich2006b, 395].\n\nEsa descripci\u00f3n se refiere al contexto donde la conviviencialidad se desarrolla, pero, en cuando a la idea de \u00abherramienta convivencial\u00bb, Illich escribe:\n\n> La herramienta es convivencial en la medida en que cada uno puede utilizarla sin dificultad, tan frecuentemente como \u00e9l lo desee y para los fines que \u00e9l mismo determine. El uso que cada quien haga de ella no invade la  libertad del otro para hacer lo mismo. Nadie necesita de un diploma para tener el derecho de usarla a voluntad; se la puede tomar o no. Entre el hombre y el mundo ella es una conductora de sentido, una traductora de intencionalidad [@illich2006b, 397].",
+      "date": "2025-01-09",
+      "time": "19:28",
       "tags": [],
       "starred": false
     },
     {
-      "title": "Segunda nota",
-      "body": "As\u00ed es la vida, puedes buscar The Sephist.",
-      "date": "2026-03-27",
-      "time": "17:52",
-      "tags": [],
+      "title": "La subsistencia sin dinero es menos opresiva.",
+      "body": "Durante mi trabajo de campo aprend\u00ed algo que me cambi\u00f3 la cosmovisi\u00f3n:\n\nEn una sociedad donde la subsistencia depende totalmente del dinero (porque **todo** est\u00e1 disponible \u00fanicamente a trav\u00e9s del mercado), las personas que m\u00e1s lo tienen pueden f\u00e1cilmente convertir su riqueza en poder sobre los dem\u00e1s. En un poder permanente.\n\nPor lo tanto, de entre los muchos problemas que hay respecto a poner todo en un mercado, uno de los m\u00e1s cr\u00edticos es que, en las sociedades ampliamente mercantilizadas, la desigualdad es necesariamente m\u00e1s opresiva.\n\nLos abolicionistas del trabajo como Bob Black [@black1991] argumentan que el trabajo asalariado es la principal fuente de sufrimiento humano; algo que tambi\u00e9n ser\u00eda apoyado, al menos parcialmente, por los estudios de psicopatolog\u00eda del trabajo [@dejours2015, parte 1]; tambi\u00e9n desde la filosof\u00eda continental [@han2022]. Es muy posible que un porcentaje significativo de los trabajos asalariados sean, de hecho, completamente innecesarios [@graeber2020].\n\nEn las sociedades donde las personas no mueren de hambre o se quedan sin techo al no tener trabajo, uno tiene m\u00e1s capacidad de ejercer su autonom\u00eda, de resistir la arbitrariedad de los m\u00e1s ricos.\n\nEsta es mi pregunta: \u00bfc\u00f3mo aumentamos la #autonom\u00eda de las personas por la v\u00eda de su subsistencia? La pregunta implica a su vez la de \u00bfc\u00f3mo disminuimos nuestra dependencia del salario para la subsistencia?",
+      "date": "2025-03-11",
+      "time": "16:42",
+      "tags": [
+        "#autonom\u00eda"
+      ],
       "starred": false
     },
     {
-      "title": "La vida es bella",
-      "body": "Qu\u00e9 bella es la vida.",
-      "date": "2026-03-27",
-      "time": "18:32",
-      "tags": [],
-      "starred": false
-    },
-    {
-      "title": "La buena vida",
-      "body": "Desde la vida bella hacia la buena vida",
-      "date": "2026-03-27",
-      "time": "18:42",
-      "tags": [],
-      "starred": false
-    },
-    {
-      "title": "Prueba de citas enriquecidas.",
-      "body": "> For me, the highlight was a visit to Narbo Via. This is a museum on the edge of town, sited rather incongruously beside a conference centre and a giant Carrefour supermarket\n> -- [Narbo Martius: a Shady Charac\u00adters field trip](https://shadycharacters.co.uk/2023/07/narbo-martius-field-trip/)\n\nCon un comentario sobre la buena vida.",
+      "title": "La IA no carece de capacidad t\u00e9cnica formal, carece de gusto.",
+      "body": "",
       "date": "2026-03-29",
-      "time": "15:32",
+      "time": "20:52",
       "tags": [],
       "starred": false
     }
