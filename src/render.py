@@ -148,6 +148,15 @@ def base(title: str, body: str, *, site_title: str, active: str = "") -> str:
 </header>
 {body}
 
+<footer>
+  <p>Impreso en el vacío digital.<br>Escrito por un humano ✌🏽</p>
+  <p><a href="https://creativecommons.org/licenses/by-sa/4.0/">🄯 CC BY-SA 4.0</a></p>
+  <div class="footer-links">
+    <a href="https://sergio-barrera.com">Creado por Sergio Barrera</a>
+    <a href="mailto:hi@sergio-barrera.com">hi@sergio-barrera.com</a>
+  </div>
+</footer>
+
 <script>
 document.addEventListener("keydown", e => {{
   if ((e.metaKey || e.ctrlKey) && e.key === "k") {{ e.preventDefault(); window.location.href = "/search/"; }}

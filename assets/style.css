@@ -201,6 +201,42 @@ header nav a.active { color: var(--primary); }
 
 #search-results mark { background: rgba(234,179,8,0.3); padding: 0 2px; }
 
+/* ── Footer ──────────────────────────────────────── */
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 5rem;
+  margin-left: -2rem;
+  margin-right: -2rem;
+  padding: 1.5rem 2rem;
+  background: var(--surface-low);
+  font-family: 'Newsreader', Georgia, serif;
+  font-variant-caps: all-small-caps;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  color: var(--outline);
+}
+
+footer p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+footer .footer-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.25rem;
+}
+
+footer a {
+  color: var(--outline);
+  text-decoration: none;
+}
+
+footer a:hover { color: var(--primary); }
+
 /* ── Heatmap ─────────────────────────────────────── */
 a.hm {
   background: rgba(234, 179, 8, var(--s));
