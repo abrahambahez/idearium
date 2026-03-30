@@ -27,6 +27,25 @@ The palette is strictly grayscale, relying on tonal shifts to define hierarchy.
 | `--on-surface` | `#1a1a1a` | Body text |
 | `--outline` | `#777777` | Metadata, labels, strokes |
 
+### Dark Mode
+Activated via `prefers-color-scheme: dark`. Token overrides on `:root` — no extra markup or JS needed. Custom properties cascade into Shadow DOM automatically, so the quoteback card adapts for free.
+
+| Token | Light | Dark |
+|---|---|---|
+| `--surface` | `#f9f9f7` | `#111110` |
+| `--surface-dim` | `#dadad8` | `#2a2a28` |
+| `--surface-low` | `#f4f4f2` | `#1a1a18` |
+| `--surface-highest` | `#e2e3e1` | `#333331` |
+| `--surface-lowest` | `#ffffff` | `#0d0d0c` |
+| `--primary` | `#000000` | `#f0ede8` |
+| `--primary-container` | `#3c3b3b` | `#c8c5c0` |
+| `--primary-fixed` | `#5f5e5e` | `#a8a5a0` |
+| `--on-primary` | `#e5e2e1` | `#111110` |
+| `--on-surface` | `#1a1a1a` | `#e8e5e0` |
+| `--outline` | `#777777` | `#888885` |
+
+The dark palette is a warm near-black inversion — "light ink on dark paper" — preserving the editorial character of the light theme.
+
 ### The "No-Line" Rule
 Traditional 1px borders are strictly prohibited for sectioning. We define boundaries through **Tonal Carving**.
 - Use a transition from `--surface` to `--surface-low` to denote a change in content context (e.g. pagination block, quoteback metadata footer).

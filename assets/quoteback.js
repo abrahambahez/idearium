@@ -3,19 +3,10 @@ var quoteStyle = `
   @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&family=Space+Grotesk:wght@700&display=swap');
 
   .quoteback-container {
-    --surface:         #f9f9f7;
-    --surface-dim:     #dadad8;
-    --surface-low:     #f4f4f2;
-    --surface-lowest:  #ffffff;
-    --primary:         #000000;
-    --primary-fixed:   #5f5e5e;
-    --outline:         #777777;
-    --on-surface:      #1a1a1a;
-
     text-rendering: optimizeLegibility;
     background: var(--surface-lowest);
-    /* Ghost Border fallback — contrast ratio fails against surface background */
-    border: 1px solid #c6c6c6;
+    /* Ghost Border — tokens inherited from :root, adapts to dark mode automatically */
+    border: 1px solid var(--surface-dim);
     border-radius: 0;
     margin-bottom: 2rem;
     max-width: 800px;
@@ -28,7 +19,7 @@ var quoteStyle = `
   .quoteback-container:hover {
     transform: none;
     box-shadow: 0 2px 32px rgba(26,26,26,0.07);
-    border: 1px solid #c6c6c6;
+    border: 1px solid var(--surface-dim);
   }
 
   .quoteback-parent {

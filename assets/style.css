@@ -12,6 +12,22 @@
   --outline:          #777777;
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --surface:          #111110;
+    --surface-dim:      #2a2a28;
+    --surface-low:      #1a1a18;
+    --surface-highest:  #333331;
+    --surface-lowest:   #0d0d0c;
+    --primary:          #f0ede8;
+    --primary-container:#c8c5c0;
+    --primary-fixed:    #a8a5a0;
+    --on-primary:       #111110;
+    --on-surface:       #e8e5e0;
+    --outline:          #888885;
+  }
+}
+
 *, *::before, *::after { box-sizing: border-box; }
 
 html { font-size: 112.5%; } /* 18px base — scales all rem values including Shadow DOM */
