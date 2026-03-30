@@ -15,6 +15,7 @@ def build_feed(
     per_page: int,
     site_title: str,
     quoteback_cache: dict | None = None,
+    citation_refs: dict | None = None,
 ) -> None:
     total = len(entries)
     total_pages = max(1, (total + per_page - 1) // per_page)
@@ -22,7 +23,7 @@ def build_feed(
     for page_num in range(1, total_pages + 1):
         chunk = entries[(page_num - 1) * per_page : page_num * per_page]
         fragments = "\n".join(
-            render_entry_fragment(e, bigram_scores=bigram_scores, quoteback_cache=quoteback_cache)
+            render_entry_fragment(e, bigram_scores=bigram_scores, quoteback_cache=quoteback_cache, citation_refs=citation_refs)
             for e in chunk
         )
 
@@ -48,12 +49,13 @@ def build_entries(
     dist: Path,
     site_title: str,
     quoteback_cache: dict | None = None,
+    citation_refs: dict | None = None,
 ) -> None:
     for entry in entries:
         eid = entry_id(entry)
         fragment = render_entry_fragment(
             entry, link_title=False, bigram_scores=bigram_scores,
-            quoteback_cache=quoteback_cache, indexable=True
+            quoteback_cache=quoteback_cache, citation_refs=citation_refs, indexable=True
         )
         back = '<p style="font-size:0.85rem"><a href="/">← feed</a></p>'
         write(

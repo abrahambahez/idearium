@@ -237,6 +237,52 @@ footer a {
 
 footer a:hover { color: var(--primary); }
 
+/* ── Citations ───────────────────────────────────── */
+.cite {
+  cursor: pointer;
+  border-bottom: 1px dotted var(--outline);
+}
+
+#cite-dialog {
+  max-width: 36rem;
+  width: calc(100% - 2rem);
+  padding: 1.25rem 1.5rem;
+  background: var(--surface-lowest);
+  color: var(--on-surface);
+  border: 1px solid var(--surface-highest);
+  border-radius: 4px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+#cite-dialog::backdrop {
+  background: rgba(0,0,0,0.25);
+}
+
+#cite-ref p {
+  margin: 0;
+  line-height: 1.6;
+  font-size: 0.9rem;
+}
+
+#cite-ref p + p {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--surface-highest);
+}
+
+.cite-close {
+  float: right;
+  background: none;
+  border: none;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+  color: var(--outline);
+}
+
+.cite-close:hover { color: var(--primary); }
+
 /* ── Heatmap ─────────────────────────────────────── */
 a.hm {
   background: rgba(234, 179, 8, var(--s));

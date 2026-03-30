@@ -3,6 +3,7 @@ from urllib.parse import quote
 
 import mistune
 
+from src.citations import preprocess_citations
 from src.nlp import MEANINGFUL_POS_PAIRS, nlp
 from src.quoteback import preprocess_quotebacks
 
@@ -71,10 +72,13 @@ def entry_body_html(
     entry: dict,
     bigram_scores: dict[str, float] | None = None,
     quoteback_cache: dict | None = None,
+    citation_refs: dict[str, str] | None = None,
 ) -> str:
     body = entry.get("body", "").strip()
     if not body:
         return ""
+    if citation_refs is not None:
+        body = preprocess_citations(body, citation_refs)
     if quoteback_cache is not None:
         body = preprocess_quotebacks(body, quoteback_cache)
     if bigram_scores:
@@ -88,12 +92,13 @@ def render_entry_fragment(
     link_title: bool = True,
     bigram_scores: dict[str, float] | None = None,
     quoteback_cache: dict | None = None,
+    citation_refs: dict[str, str] | None = None,
     indexable: bool = False,
 ) -> str:
     eid = entry_id(entry)
     date = entry_date_display(entry)
     title = entry_title(entry)
-    body_html = entry_body_html(entry, bigram_scores, quoteback_cache)
+    body_html = entry_body_html(entry, bigram_scores, quoteback_cache, citation_refs)
     tags = entry_tags(entry)
 
     title_html = f'<a href="/entry/{eid}/">{title}</a>' if link_title else title
@@ -161,6 +166,28 @@ def base(title: str, body: str, *, site_title: str, active: str = "") -> str:
 document.addEventListener("keydown", e => {{
   if ((e.metaKey || e.ctrlKey) && e.key === "k") {{ e.preventDefault(); window.location.href = "/search/"; }}
   else if (e.key === "/" && document.activeElement.tagName !== "INPUT") {{ e.preventDefault(); window.location.href = "/search/"; }}
+}});
+document.addEventListener("click", e => {{
+  const cite = e.target.closest(".cite");
+  if (!cite) return;
+  e.preventDefault();
+  let dlg = document.getElementById("cite-dialog");
+  if (!dlg) {{
+    dlg = document.createElement("dialog");
+    dlg.id = "cite-dialog";
+    dlg.innerHTML = '<button class="cite-close" aria-label="Close">\u00d7</button><div id="cite-ref"></div>';
+    dlg.querySelector(".cite-close").addEventListener("click", () => dlg.close());
+    dlg.addEventListener("click", e => {{ if (e.target === dlg) dlg.close(); }});
+    document.body.appendChild(dlg);
+  }}
+  const container = document.getElementById("cite-ref");
+  container.innerHTML = "";
+  JSON.parse(cite.dataset.refs).forEach(r => {{
+    const p = document.createElement("p");
+    p.textContent = r;
+    container.appendChild(p);
+  }});
+  dlg.showModal();
 }});
 </script>
 </body>

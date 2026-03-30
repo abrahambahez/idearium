@@ -4,6 +4,7 @@ import shutil
 import subprocess
 from pathlib import Path
 
+from src.citations import load_refs
 from src.nlp import compute_bigram_scores
 from src.pages import build_assets, build_entries, build_feed, build_search
 from src.quoteback import load_cache, save_cache
@@ -29,14 +30,15 @@ def main() -> None:
     print(f"  {len(bigram_scores)} bigrams scored", flush=True)
 
     quoteback_cache = load_cache()
+    citation_refs = load_refs()
 
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir()
 
     build_assets(DIST)
-    build_feed(entries, bigram_scores, DIST, PER_PAGE, SITE_TITLE, quoteback_cache)
-    build_entries(entries, bigram_scores, DIST, SITE_TITLE, quoteback_cache)
+    build_feed(entries, bigram_scores, DIST, PER_PAGE, SITE_TITLE, quoteback_cache, citation_refs)
+    build_entries(entries, bigram_scores, DIST, SITE_TITLE, quoteback_cache, citation_refs)
     build_search(DIST, SITE_TITLE)
 
     save_cache(quoteback_cache)
