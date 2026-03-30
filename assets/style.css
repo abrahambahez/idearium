@@ -232,7 +232,7 @@ footer .footer-links {
 
 footer a {
   color: var(--outline);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 footer a:hover { color: var(--primary); }
