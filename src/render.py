@@ -1,3 +1,4 @@
+import html as _html
 from datetime import datetime
 from urllib.parse import quote
 
@@ -8,6 +9,9 @@ from src.nlp import MEANINGFUL_POS_PAIRS, nlp
 from src.quoteback import preprocess_quotebacks
 
 md = mistune.create_markdown(plugins=["strikethrough", "url"], escape=False)
+
+ICON_SHARE = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>'
+ICON_MAIL  = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>'
 
 
 def entry_id(entry: dict) -> str:
@@ -86,6 +90,40 @@ def entry_body_html(
     return md(body)
 
 
+def render_entry_footer(eid: str, title: str) -> str:
+    subject = f"Comentario a {title} ({eid})" if title else f"Comentario ({eid})"
+    return (
+        f'<div class="entry-footer">'
+        f'<button class="entry-action" data-action="share"'
+        f' data-url="/entry/{eid}/"'
+        f' data-title="{_html.escape(title or eid)}">'
+        f'{ICON_SHARE} Compartir</button>'
+        f'<button class="entry-action" data-action="reply"'
+        f' data-subject="{_html.escape(subject)}">'
+        f'{ICON_MAIL} Responder</button>'
+        f'</div>'
+    )
+
+
+def _render_og_tags(meta: dict) -> str:
+    lines = [
+        f'<meta property="og:type" content="article">',
+        f'<meta property="og:title" content="{_html.escape(meta["og_title"])}">',
+        f'<meta property="og:url" content="{_html.escape(meta["url"])}">',
+        f'<meta property="og:image" content="{_html.escape(meta["image"])}">',
+        f'<meta name="twitter:card" content="summary_large_image">',
+        f'<meta name="twitter:title" content="{_html.escape(meta["og_title"])}">',
+        f'<meta name="twitter:image" content="{_html.escape(meta["image"])}">',
+    ]
+    if meta.get("description"):
+        desc = _html.escape(meta["description"])
+        lines += [
+            f'<meta property="og:description" content="{desc}">',
+            f'<meta name="twitter:description" content="{desc}">',
+        ]
+    return "\n  ".join(lines)
+
+
 def render_entry_fragment(
     entry: dict,
     *,
@@ -114,22 +152,25 @@ def render_entry_fragment(
         if title else ""
     )
     tags_html_block = f'<div class="tags"{pf_ignore}>{tags_html}</div>' if tags_html else ""
+    footer_html = render_entry_footer(eid, title)
 
     return f"""\
-<article class="entry"{pf_body}>
+<article class="entry feed-entry"{pf_body}>
   <div class="entry-meta"{pf_ignore}>
     <a href="/entry/{eid}/"{pf_meta_date}>{date}</a>
   </div>
   {title_html_block}
   <div class="entry-body">{body_html}</div>
   {tags_html_block}
+  {footer_html}
 </article>
 """
 
 
-def base(title: str, body: str, *, site_title: str, active: str = "") -> str:
+def base(title: str, body: str, *, site_title: str, active: str = "", meta: dict | None = None) -> str:
     feed_active = 'class="active"' if active == "feed" else ""
     search_active = 'class="active"' if active == "search" else ""
+    og_tags = "\n  " + _render_og_tags(meta) if meta else ""
     return f"""\
 <!DOCTYPE html>
 <html lang="en">
@@ -141,7 +182,7 @@ def base(title: str, body: str, *, site_title: str, active: str = "") -> str:
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,700;1,6..72,400&family=Space+Grotesk:wght@400;700&display=swap" as="style">
   <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,700;1,6..72,400&family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="stylesheet" href="/assets/style.css">{og_tags}
   <script src="/assets/quoteback.js"></script>
 </head>
 <body>
@@ -193,6 +234,52 @@ document.addEventListener("click", e => {{
     container.appendChild(p);
   }});
   dlg.showModal();
+}});
+document.addEventListener("click", e => {{
+  const btn = e.target.closest(".entry-action");
+  if (!btn) return;
+  if (btn.dataset.action === "share") {{
+    const url = new URL(btn.dataset.url, location.origin).href;
+    if (navigator.share) {{ navigator.share({{ title: btn.dataset.title, url }}); return; }}
+    let dlg = document.getElementById("share-dialog");
+    if (!dlg) {{
+      dlg = document.createElement("dialog");
+      dlg.id = "share-dialog";
+      dlg.innerHTML = '<button class="dialog-close" aria-label="Cerrar">\u00d7</button><span class="dialog-label">Enlace</span><input id="share-url-input" class="dialog-input" type="text" readonly><button id="share-copy-btn" class="dialog-action">Copiar</button>';
+      dlg.querySelector(".dialog-close").addEventListener("click", () => dlg.close());
+      dlg.addEventListener("click", e => {{ if (e.target === dlg) dlg.close(); }});
+      dlg.querySelector("#share-copy-btn").addEventListener("click", () => {{
+        navigator.clipboard.writeText(document.getElementById("share-url-input").value);
+        const b = document.getElementById("share-copy-btn");
+        b.textContent = "Copiado \u2713";
+        setTimeout(() => b.textContent = "Copiar", 2000);
+      }});
+      document.body.appendChild(dlg);
+    }}
+    document.getElementById("share-url-input").value = url;
+    dlg.showModal();
+  }}
+  if (btn.dataset.action === "reply") {{
+    let dlg = document.getElementById("reply-dialog");
+    if (!dlg) {{
+      dlg = document.createElement("dialog");
+      dlg.id = "reply-dialog";
+      dlg.innerHTML = '<button class="dialog-close" aria-label="Cerrar">\u00d7</button><span class="dialog-label" id="reply-subject-display"></span><textarea id="reply-body" class="dialog-textarea" rows="6" placeholder="Tu mensaje\u2026"></textarea><button id="reply-submit" class="dialog-action">Abrir correo \u2192</button>';
+      dlg.querySelector(".dialog-close").addEventListener("click", () => dlg.close());
+      dlg.addEventListener("click", e => {{ if (e.target === dlg) dlg.close(); }});
+      dlg.querySelector("#reply-submit").addEventListener("click", () => {{
+        const s = encodeURIComponent(document.getElementById("reply-subject-display").dataset.subject);
+        const b = encodeURIComponent(document.getElementById("reply-body").value);
+        window.location.href = "mailto:hi@sergio-barrera.com?subject=" + s + "&body=" + b;
+        dlg.close();
+      }});
+      document.body.appendChild(dlg);
+    }}
+    document.getElementById("reply-subject-display").dataset.subject = btn.dataset.subject;
+    document.getElementById("reply-subject-display").textContent = btn.dataset.subject;
+    document.getElementById("reply-body").value = "";
+    dlg.showModal();
+  }}
 }});
 </script>
 </body>

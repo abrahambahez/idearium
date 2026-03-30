@@ -1,6 +1,7 @@
 {
   "tags": {
-    "#autonom\u00eda": 1
+    "#autonom\u00eda": 1,
+    "#scholartools": 1
   },
   "entries": [
     {
@@ -27,6 +28,16 @@
       "date": "2026-03-29",
       "time": "20:52",
       "tags": [],
+      "starred": false
+    },
+    {
+      "title": "\u00bfQu\u00e9 es una referencia?",
+      "body": "Reci\u00e9n publiqu\u00e9 [*scholartools*](), una librer\u00eda de python + CLI para que un agente IA gestione referencias en un archivo CSL-JSON.\n\nPero #scholartools puede convertirse en un artefacto de cuestionamiento sobre qu\u00e9 cuenta como una referencia v\u00e1lida, y qui\u00e9n tiene autoridad para admitirla.",
+      "date": "2026-03-30",
+      "time": "13:04",
+      "tags": [
+        "#scholartools"
+      ],
       "starred": false
     }
   ]

@@ -257,9 +257,9 @@ footer a:hover { color: var(--primary); }
   padding: 1.25rem 1.5rem;
   background: var(--surface-lowest);
   color: var(--on-surface);
-  border: 1px solid var(--surface-highest);
-  border-radius: 4px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+  border: 1px solid #c6c6c6;
+  border-radius: 0;
+  box-shadow: 0 2px 32px rgba(26,26,26,0.07);
 }
 
 #cite-dialog::backdrop {
@@ -290,6 +290,144 @@ footer a:hover { color: var(--primary); }
 }
 
 .cite-close:hover { color: var(--primary); }
+
+/* ── Entry footer & feed separator ──────────────── */
+.feed-entry { margin-bottom: 0; }
+.feed-entry:last-of-type { margin-bottom: 2rem; }
+
+.entry-footer {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1rem 0 2.5rem;
+}
+
+article:only-of-type .entry-footer {
+  border-bottom: 1px solid var(--outline);
+}
+
+.feed-entry + .feed-entry {
+  border-top: 1px solid var(--outline);
+  padding-top: 2.5rem;
+}
+
+.entry-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: none;
+  border: none;
+  padding: 0;
+  font-family: 'Newsreader', Georgia, serif;
+  font-variant-caps: all-small-caps;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  color: var(--outline);
+  cursor: pointer;
+}
+
+.entry-action:hover { color: var(--primary); }
+
+.entry-action svg {
+  width: 0.8rem;
+  height: 0.8rem;
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  flex-shrink: 0;
+}
+
+/* ── Shared dialog chrome ────────────────────────── */
+dialog {
+  border-radius: 0;
+  border: 1px solid #c6c6c6;
+  box-shadow: 0 2px 32px rgba(26,26,26,0.07);
+  background: var(--surface-lowest);
+  color: var(--on-surface);
+  width: calc(100% - 2rem);
+  padding: 1.5rem;
+}
+
+dialog::backdrop { background: rgba(26,26,26,0.35); }
+
+.dialog-close {
+  float: right;
+  background: none;
+  border: none;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+  color: var(--outline);
+}
+.dialog-close:hover { color: var(--primary); }
+
+.dialog-label {
+  font-family: 'Newsreader', Georgia, serif;
+  font-variant-caps: all-small-caps;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  color: var(--outline);
+  margin: 0 0 1rem;
+  display: block;
+}
+
+.dialog-input {
+  display: block;
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--outline);
+  border-radius: 0;
+  outline: none;
+  padding: 0.4rem 0;
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 1rem;
+  color: var(--on-surface);
+  margin-bottom: 1.5rem;
+}
+.dialog-input:focus { border-bottom: 2px solid var(--primary); }
+
+.dialog-textarea {
+  display: block;
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--outline);
+  border-radius: 0;
+  outline: none;
+  padding: 0.4rem 0;
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--on-surface);
+  resize: vertical;
+  margin-bottom: 1.5rem;
+}
+.dialog-textarea:focus { border-bottom: 2px solid var(--primary); }
+.dialog-textarea::placeholder { color: var(--outline); }
+
+.dialog-action {
+  background: linear-gradient(var(--primary), var(--primary-container));
+  border: none;
+  border-radius: 0;
+  box-shadow: 0px 2px 0px rgba(0,0,0,0.1);
+  padding: 0.5rem 1rem;
+  font-family: 'Newsreader', Georgia, serif;
+  font-variant-caps: all-small-caps;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  color: var(--on-primary);
+  cursor: pointer;
+}
+.dialog-action:hover { background: var(--primary-fixed); }
+
+/* ── Share dialog ────────────────────────────────── */
+#share-dialog { max-width: 32rem; }
+
+/* ── Reply dialog ────────────────────────────────── */
+#reply-dialog { max-width: 36rem; }
 
 /* ── Heatmap ─────────────────────────────────────── */
 a.hm {

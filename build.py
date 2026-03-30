@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 import json
+import os
 import shutil
 import subprocess
 from pathlib import Path
+
+from dotenv import load_dotenv
+
+load_dotenv()
 
 from src.citations import load_refs
 from src.nlp import compute_bigram_scores
@@ -13,6 +18,7 @@ ENTRIES_FILE = "entries.json"
 DIST = Path("dist")
 PER_PAGE = 20
 SITE_TITLE = "notas"
+SITE_URL = os.environ.get("SITE_URL", "").rstrip("/")
 
 
 def main() -> None:
@@ -38,7 +44,7 @@ def main() -> None:
 
     build_assets(DIST)
     build_feed(entries, bigram_scores, DIST, PER_PAGE, SITE_TITLE, quoteback_cache, citation_refs)
-    build_entries(entries, bigram_scores, DIST, SITE_TITLE, quoteback_cache, citation_refs)
+    build_entries(entries, bigram_scores, DIST, SITE_TITLE, quoteback_cache, citation_refs, site_url=SITE_URL)
     build_search(DIST, SITE_TITLE)
 
     save_cache(quoteback_cache)

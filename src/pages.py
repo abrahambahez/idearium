@@ -1,5 +1,6 @@
 from pathlib import Path
 
+from src.og import extract_og_description
 from src.render import base, entry_id, entry_title, render_entry_fragment
 
 
@@ -50,9 +51,19 @@ def build_entries(
     site_title: str,
     quoteback_cache: dict | None = None,
     citation_refs: dict | None = None,
+    site_url: str = "",
 ) -> None:
     for entry in entries:
         eid = entry_id(entry)
+        title = entry_title(entry)
+        meta = None
+        if site_url:
+            meta = {
+                "og_title": f"Idearium — {title}" if title else "Idearium",
+                "description": extract_og_description(entry.get("body", "")),
+                "url": f"{site_url}/entry/{eid}/",
+                "image": f"{site_url}/assets/og-default.jpg",
+            }
         fragment = render_entry_fragment(
             entry, link_title=False, bigram_scores=bigram_scores,
             quoteback_cache=quoteback_cache, citation_refs=citation_refs, indexable=True
@@ -60,7 +71,7 @@ def build_entries(
         back = '<p style="font-size:0.85rem"><a href="/">← Inicio</a></p>'
         write(
             dist / "entry" / eid / "index.html",
-            base(entry_title(entry) or eid, back + fragment, site_title=site_title),
+            base(title or eid, back + fragment, site_title=site_title, meta=meta),
         )
 
 
@@ -113,3 +124,6 @@ def build_assets(dist: Path) -> None:
     )
     import shutil
     shutil.copy(src_assets / "quoteback.js", assets_dir / "quoteback.js")
+    og_img = src_assets / "og-default.jpg"
+    if og_img.exists():
+        shutil.copy(og_img, assets_dir / "og-default.jpg")
