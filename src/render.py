@@ -105,7 +105,7 @@ def render_entry_fragment(
     pf_meta_title = ' data-pagefind-meta="title"' if indexable else ''
 
     title_html_block = (
-        f'<p class="entry-title"{pf_ignore}><span{pf_meta_title}>{title_html}</span></p>'
+        f'<p class="entry-title"><span{pf_meta_title}>{title_html}</span></p>'
         if title else ""
     )
     tags_html_block = f'<div class="tags"{pf_ignore}>{tags_html}</div>' if tags_html else ""
