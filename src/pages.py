@@ -64,7 +64,7 @@ def build_entries(
 
 def build_search(dist: Path, site_title: str) -> None:
     body = """\
-<h2 style="font-size:1rem;font-weight:normal;margin-bottom:1rem">Search</h2>
+<h2 class="search-page-title">Search</h2>
 <input id="search-input" type="search" placeholder="Search entries…" autofocus>
 <div id="search-results"></div>
 <script>
