@@ -26,7 +26,7 @@ def entry_title(entry: dict) -> str:
 
 
 def entry_tags(entry: dict) -> list[str]:
-    return [t.lstrip("@") for t in entry.get("tags", [])]
+    return [t.lstrip("#@") for t in entry.get("tags", [])]
 
 
 def annotate_body(body: str, bigram_scores: dict[str, float]) -> str:
@@ -139,6 +139,7 @@ def base(title: str, body: str, *, site_title: str, active: str = "") -> str:
   <title>{title} — {site_title}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,700;1,6..72,400&family=Space+Grotesk:wght@400;700&display=swap" as="style">
   <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,700;1,6..72,400&family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/style.css">
   <script src="/assets/quoteback.js"></script>
@@ -147,8 +148,8 @@ def base(title: str, body: str, *, site_title: str, active: str = "") -> str:
 <header>
   <h1><a href="/">{site_title}</a></h1>
   <nav>
-    <a href="/" {feed_active}>feed</a>
-    <a href="/search/" {search_active}>search</a>
+    <a href="/" {feed_active}>Inicio</a>
+    <a href="/search/" {search_active}>Buscar</a>
   </nav>
 </header>
 {body}
@@ -163,6 +164,10 @@ def base(title: str, body: str, *, site_title: str, active: str = "") -> str:
 </footer>
 
 <script>
+document.querySelectorAll('.entry-body a[href^="http"]').forEach(a => {{
+  a.target = "_blank";
+  a.rel = "noopener noreferrer";
+}});
 document.addEventListener("keydown", e => {{
   if ((e.metaKey || e.ctrlKey) && e.key === "k") {{ e.preventDefault(); window.location.href = "/search/"; }}
   else if (e.key === "/" && document.activeElement.tagName !== "INPUT") {{ e.preventDefault(); window.location.href = "/search/"; }}

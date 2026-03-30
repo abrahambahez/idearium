@@ -57,7 +57,7 @@ def build_entries(
             entry, link_title=False, bigram_scores=bigram_scores,
             quoteback_cache=quoteback_cache, citation_refs=citation_refs, indexable=True
         )
-        back = '<p style="font-size:0.85rem"><a href="/">← feed</a></p>'
+        back = '<p style="font-size:0.85rem"><a href="/">← Inicio</a></p>'
         write(
             dist / "entry" / eid / "index.html",
             base(entry_title(entry) or eid, back + fragment, site_title=site_title),
@@ -66,8 +66,8 @@ def build_entries(
 
 def build_search(dist: Path, site_title: str) -> None:
     body = """\
-<h2 class="search-page-title">Search</h2>
-<input id="search-input" type="search" placeholder="Search entries…" autofocus>
+<h2 class="search-page-title">Buscar</h2>
+<input id="search-input" type="search" placeholder="Buscar entradas…" autofocus>
 <div id="search-results"></div>
 <script>
   async function loadPagefind() {
@@ -101,7 +101,7 @@ def build_search(dist: Path, site_title: str) -> None:
   loadPagefind();
 </script>
 """
-    write(dist / "search" / "index.html", base("Search", body, site_title=site_title, active="search"))
+    write(dist / "search" / "index.html", base("Buscar", body, site_title=site_title, active="search"))
 
 
 def build_assets(dist: Path) -> None:
