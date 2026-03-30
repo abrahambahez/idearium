@@ -148,87 +148,11 @@ def base(title: str, body: str, *, site_title: str, active: str = "") -> str:
 </header>
 {body}
 
-<div id="cmd-backdrop">
-  <div id="cmd-palette">
-    <input id="cmd-input" type="search" placeholder="Buscar…" autocomplete="off">
-    <div id="cmd-results"></div>
-  </div>
-</div>
-
 <script>
-(function() {{
-  let pf = null;
-  async function getPagefind() {{
-    if (!pf) {{ pf = await import("/pagefind/pagefind.js"); await pf.init(); }}
-    return pf;
-  }}
-
-  const backdrop = document.getElementById("cmd-backdrop");
-  const input = document.getElementById("cmd-input");
-  const results = document.getElementById("cmd-results");
-  let activeIdx = -1;
-
-  function open() {{
-    backdrop.classList.add("open");
-    input.value = "";
-    results.innerHTML = "";
-    activeIdx = -1;
-    input.focus();
-    getPagefind();
-  }}
-
-  function close() {{
-    backdrop.classList.remove("open");
-    activeIdx = -1;
-  }}
-
-  function setActive(idx) {{
-    const links = results.querySelectorAll("a");
-    links.forEach(l => l.classList.remove("active"));
-    activeIdx = Math.max(0, Math.min(idx, links.length - 1));
-    if (links[activeIdx]) links[activeIdx].classList.add("active");
-  }}
-
-  async function search() {{
-    const q = input.value.trim();
-    results.innerHTML = "";
-    activeIdx = -1;
-    if (!q) return;
-    const engine = await getPagefind();
-    const r = await engine.search(q);
-    if (!r.results.length) {{
-      results.innerHTML = '<div id="cmd-empty">Sin resultados</div>';
-      return;
-    }}
-    for (const hit of r.results.slice(0, 8)) {{
-      const data = await hit.data();
-      const a = document.createElement("a");
-      a.href = data.url;
-      a.innerHTML = `<div class="cmd-date">${{data.meta?.date ?? ""}}</div><div>${{data.meta?.title ?? data.url}}</div>`;
-      a.addEventListener("click", close);
-      results.appendChild(a);
-    }}
-  }}
-
-  input.addEventListener("input", search);
-
-  input.addEventListener("keydown", e => {{
-    const links = results.querySelectorAll("a");
-    if (e.key === "ArrowDown") {{ e.preventDefault(); setActive(activeIdx + 1); }}
-    else if (e.key === "ArrowUp") {{ e.preventDefault(); setActive(activeIdx - 1); }}
-    else if (e.key === "Enter" && links[activeIdx]) {{ links[activeIdx].click(); }}
-    else if (e.key === "Escape") {{ close(); }}
-  }});
-
-  backdrop.addEventListener("mousedown", e => {{
-    if (e.target === backdrop) close();
-  }});
-
-  document.addEventListener("keydown", e => {{
-    if ((e.metaKey || e.ctrlKey) && e.key === "k") {{ e.preventDefault(); open(); }}
-    else if (e.key === "/" && document.activeElement.tagName !== "INPUT") {{ e.preventDefault(); open(); }}
-  }});
-}})();
+document.addEventListener("keydown", e => {{
+  if ((e.metaKey || e.ctrlKey) && e.key === "k") {{ e.preventDefault(); window.location.href = "/search/"; }}
+  else if (e.key === "/" && document.activeElement.tagName !== "INPUT") {{ e.preventDefault(); window.location.href = "/search/"; }}
+}});
 </script>
 </body>
 </html>
