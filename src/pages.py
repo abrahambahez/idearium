@@ -37,7 +37,7 @@ def build_feed(
             else '<span class="placeholder">→</span>'
         )
 
-        pagination = f'<nav class="pagination">{prev_link}{next_link}</nav>'
+        pagination = f'<nav class="pagination">{prev_link}{next_link}</nav>' if total_pages > 1 else ''
         out = dist / "index.html" if page_num == 1 else dist / "page" / str(page_num) / "index.html"
         write(out, base(site_title, fragments + pagination, site_title=site_title, active="feed"))
 
