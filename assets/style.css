@@ -10,6 +10,7 @@
   --on-primary:       #e5e2e1;
   --on-surface:       #1a1a1a;
   --outline:          #777777;
+  --highlight-rgb:    26, 26, 26;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,6 +26,7 @@
     --on-primary:       #111110;
     --on-surface:       #e8e5e0;
     --outline:          #888885;
+    --highlight-rgb:    240, 237, 232;
   }
 }
 
@@ -207,7 +209,7 @@ header nav a.active { color: var(--primary); }
   margin-bottom: 0.25rem;
 }
 
-#search-results mark { background: rgba(234,179,8,0.3); padding: 0 2px; }
+#search-results mark { background: rgba(var(--highlight-rgb), 0.15); color: inherit; padding: 0 2px; }
 
 /* ── Footer ──────────────────────────────────────── */
 footer {
@@ -431,7 +433,7 @@ dialog::backdrop { background: rgba(26,26,26,0.35); }
 
 /* ── Heatmap ─────────────────────────────────────── */
 a.hm {
-  background: rgba(234, 179, 8, var(--s));
+  background: rgba(var(--highlight-rgb), var(--s));
   border-radius: 0;
   padding: 0 1px;
   text-decoration: none;
