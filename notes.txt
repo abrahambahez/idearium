@@ -1,5 +1,5 @@
 [2025-01-09 07:28:59 PM] Prototipar utopías.
-Podemos usar las metodologías de [pensamiento de diseño](https://es.wikipedia.org/wiki/Pensamiento_de_diseño) (creación) y [desarrollo ágil](https://es.wikipedia.org/wiki/Manifiesto_ágil) (gestión) para el diseño, implementación y escalamiento responsable de tecnologías convivenciales. Otra forma, más simple, de verlo, es pensando la relación entre prototipos y utopías como la relación entre medios (la filosofía de prototipar) y fines (un estado ideal de lo social).
+Podemos usar las metodologías de [pensamiento de diseño](https://es.wikipedia.org/wiki/Pensamiento_de_diseño) (creación) y [desarrollo ágil](https://es.wikipedia.org/wiki/Manifiesto_ágil) (gestión) para el diseño, implementación y escalamiento responsable de tecnologías convivenciales.
 
 Las tecnologías convivienciales prefiguran un mundo que ha superado sus problemas críticos. La noción de convivencialidad proviene de Iván Illich:
 
@@ -10,21 +10,16 @@ Esa descripción se refiere al contexto donde la conviviencialidad se desarrolla
 > La herramienta es convivencial en la medida en que cada uno puede utilizarla sin dificultad, tan frecuentemente como él lo desee y para los fines que él mismo determine. El uso que cada quien haga de ella no invade la  libertad del otro para hacer lo mismo. Nadie necesita de un diploma para tener el derecho de usarla a voluntad; se la puede tomar o no. Entre el hombre y el mundo ella es una conductora de sentido, una traductora de intencionalidad [@illich2006b, 397].
 
 [2025-03-11 04:42:41 PM] La subsistencia sin dinero es menos opresiva.
-Durante mi trabajo de campo aprendí algo que me cambió la cosmovisión:
 
-En una sociedad donde la subsistencia depende totalmente del dinero (porque **todo** está disponible únicamente a través del mercado), las personas que más lo tienen pueden fácilmente convertir su riqueza en poder sobre los demás. En un poder permanente.
+> En una sociedad donde la subsistencia depende totalmente del dinero (porque **todo** está disponible únicamente a través del mercado), las personas que más lo tienen pueden fácilmente convertir su riqueza en poder sobre los demás. En un poder permanente.
 
-Por lo tanto, de entre los muchos problemas que hay respecto a poner todo en un mercado, uno de los más críticos es que, en las sociedades ampliamente mercantilizadas, la desigualdad es necesariamente más opresiva.
+Las sociedades ampliamente mercantilizadas, la desigualdad es necesariamente más opresiva.
 
 Los abolicionistas del trabajo como Bob Black [@black1991] argumentan que el trabajo asalariado es la principal fuente de sufrimiento humano; algo que también sería apoyado, al menos parcialmente, por los estudios de psicopatología del trabajo [@dejours2015, parte 1]; también desde la filosofía continental [@han2022]. Es muy posible que un porcentaje significativo de los trabajos asalariados sean, de hecho, completamente innecesarios [@graeber2020].
 
 En las sociedades donde las personas no mueren de hambre o se quedan sin techo al no tener trabajo, uno tiene más capacidad de ejercer su autonomía, de resistir la arbitrariedad de los más ricos.
 
-Esta es mi pregunta: ¿cómo aumentamos la #autonomía de las personas por la vía de su subsistencia? La pregunta implica a su vez la de ¿cómo disminuimos nuestra dependencia del salario para la subsistencia?
+¿Cómo aumentamos la autonomía de las personas por la vía de su subsistencia? La pregunta implica a su vez la de ¿cómo disminuimos nuestra dependencia del salario para la subsistencia?
 
-[2026-03-29 08:52:47 PM] La IA no carece de capacidad técnica formal, carece de gusto.
+[2026-03-29 08:52:47 PM] La #ia no carece de capacidad técnica formal, carece de gusto.
 
-[2026-03-30 01:04:55 PM] ¿Qué es una referencia?
-Recién publiqué [*scholartools*](), una librería de python + CLI para que un agente IA gestione referencias en un archivo CSL-JSON.
-
-Pero #scholartools puede convertirse en un artefacto de cuestionamiento sobre qué cuenta como una referencia válida, y quién tiene autoridad para admitirla.
