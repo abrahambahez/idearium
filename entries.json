@@ -1,6 +1,7 @@
 {
   "tags": {
-    "#ia": 1
+    "#ia": 1,
+    "#infraestructuras": 2
   },
   "entries": [
     {
@@ -31,10 +32,22 @@
     },
     {
       "title": "Gobernanza es soberan\u00eda infraestuctural",
-      "body": "Es dif\u00edcil pensar en un pa\u00eds, un Estado, verdaderamente *aut\u00f3nomo* que no sea, a su vez, due\u00f1o de su infraestructura.\n\nSimilarmente, una comunidad de pr\u00e1ctica, un pueblo, un colectivo, incapaz de decidir sobre el entramado de relaciones que lo hacen posible, estar\u00e1 siempre a merced de quienes s\u00ed puedan decidir.\n\nLa infraestructura es invisible mientras funciona [@bowker_star1999]. La damos por sentada, y sin embargo, es la condici\u00f3n de posibilidad pol\u00edtica primaria.",
+      "body": "Es dif\u00edcil pensar en un pa\u00eds, un Estado, verdaderamente *aut\u00f3nomo* que no sea, a su vez, due\u00f1o de su infraestructura.\n\nSimilarmente, una comunidad de pr\u00e1ctica, un pueblo, un colectivo, incapaz de decidir sobre el entramado de relaciones que lo hacen posible, estar\u00e1 siempre a merced de quienes s\u00ed puedan decidir.\n\nLas #infraestructuras son invisibles hasta que fallan [@bowker_star1999]. Las damos por sentadas, y sin embargo, es la condici\u00f3n de posibilidad pol\u00edtica primaria.",
       "date": "2026-04-01",
       "time": "18:11",
-      "tags": [],
+      "tags": [
+        "#infraestructuras"
+      ],
+      "starred": false
+    },
+    {
+      "title": "Cada uno con su Twitter",
+      "body": "Soy fan de David Graeber, cada que puedo lo digo. \u00c9l era un curioso usuario del, otrora, *Twitter*. Cuando falleci\u00f3, sacaron sus *tweets* de la plataforma y los publicaron:\n\n<https://twitter.davidgraeber.org/>\n\nLey\u00e9ndolos es evidente que uno no puede simplemente exportarlos y pretender que conservar\u00e1n su utilidad cognitiva intacta. Est\u00e1n llenos de enlaces rotos a multimedia, hastags y expresiones descontextualizadas.\n\nEsto refuerza la idea de la gobernanza de #infraestructuras. Si la plataforma que usas como *\u00e1gora* es comprada por un neorreaccionario fascistoide (Musk) \u00bfLa alternativa es  crear un clon de Twitter \u00abm\u00e1s democr\u00e1tico\u00bb? \u00bfExplorar formas locales, personales, de expresi\u00f3n digital y hacer lo posible por interconectarlas? \u00bfEso las hace igual, m\u00e1s o menos fr\u00e1giles que la centralizaci\u00f3n y captura por multimillonarios?",
+      "date": "2026-04-01",
+      "time": "18:29",
+      "tags": [
+        "#infraestructuras"
+      ],
       "starred": false
     }
   ]

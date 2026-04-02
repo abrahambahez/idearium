@@ -23,4 +23,13 @@ Es difícil pensar en un país, un Estado, verdaderamente *autónomo* que no sea
 
 Similarmente, una comunidad de práctica, un pueblo, un colectivo, incapaz de decidir sobre el entramado de relaciones que lo hacen posible, estará siempre a merced de quienes sí puedan decidir.
 
-La infraestructura es invisible mientras funciona [@bowker_star1999]. La damos por sentada, y sin embargo, es la condición de posibilidad política primaria.
+Las #infraestructuras son invisibles hasta que fallan [@bowker_star1999]. Las damos por sentadas, y sin embargo, es la condición de posibilidad política primaria.
+
+[2026-04-01 06:29:10 PM] Cada uno con su Twitter
+Soy fan de David Graeber, cada que puedo lo digo. Él era un curioso usuario del, otrora, *Twitter*. Cuando falleció, sacaron sus *tweets* de la plataforma y los publicaron:
+
+<https://twitter.davidgraeber.org/>
+
+Leyéndolos es evidente que uno no puede simplemente exportarlos y pretender que conservarán su utilidad cognitiva intacta. Están llenos de enlaces rotos a multimedia, hastags y expresiones descontextualizadas.
+
+Esto refuerza la idea de la gobernanza de #infraestructuras. Si la plataforma que usas como *ágora* es comprada por un neorreaccionario fascistoide (Musk) ¿La alternativa es  crear un clon de Twitter «más democrático»? ¿Explorar formas locales, personales, de expresión digital y hacer lo posible por interconectarlas? ¿Eso las hace igual, más o menos frágiles que la centralización y captura por multimillonarios?
