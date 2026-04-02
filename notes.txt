@@ -1,25 +1,26 @@
 [2025-01-09 07:28:59 PM] Prototipar utopías.
-Podemos usar las metodologías de [pensamiento de diseño](https://es.wikipedia.org/wiki/Pensamiento_de_diseño) (creación) y [desarrollo ágil](https://es.wikipedia.org/wiki/Manifiesto_ágil) (gestión) para el diseño, implementación y escalamiento responsable de tecnologías convivenciales.
+Pensamiento de diseño + creación ágil + tecnologías convivenviales + política prefigurativa.
 
-Las tecnologías convivienciales prefiguran un mundo que ha superado sus problemas críticos. La noción de convivencialidad proviene de Iván Illich:
+Esto es: imaginar cómo sería un mundo futuro en el ahora (prefigurar), qué herramientas convivenciales existirían, y diseñarlo usando empatía, iteraciones rápidas y pruebas, para luego implementarlo de forma incremental y escalable.
 
-> Una sociedad convivencial es la que ofrece al hombre la posibilidad de ejercer la acción más autónoma y más creativa, con ayuda de las herramientas menos controlables por los otros. La productividad se conjuga en términos de tener, la convivencialidad en términos de ser. En tanto que el incremento de la instrumentación, pasados los umbrales críticos, produce siempre más uniformación reglamentada, mayor dependencia, explotación e impotencia, el respeto a los límites garantizará un libre florecimiento de la autonomía y de la creatividad humanas. Claramente, yo empleo el término herramienta en el sentido más amplio posible, como instrumento o como medio, independientemente de ser producto de la actividad fabricadora, organizadora o racionalizante del hombre o, como es el caso del sílex prehistórico, simplemente apropiado por la mano del hombre para realizar una tarea específica, es decir, para ser puesto al servicio de una intencionalidad [@illich2006b, 395].
-
-Esa descripción se refiere al contexto donde la conviviencialidad se desarrolla, pero, en cuando a la idea de «herramienta convivencial», Illich escribe:
+La idea de herramienta convivencia proviene de Iván Illich, y es sumamente fructífera para prefigurar futuros:
 
 > La herramienta es convivencial en la medida en que cada uno puede utilizarla sin dificultad, tan frecuentemente como él lo desee y para los fines que él mismo determine. El uso que cada quien haga de ella no invade la  libertad del otro para hacer lo mismo. Nadie necesita de un diploma para tener el derecho de usarla a voluntad; se la puede tomar o no. Entre el hombre y el mundo ella es una conductora de sentido, una traductora de intencionalidad [@illich2006b, 397].
 
 [2025-03-11 04:42:41 PM] La subsistencia sin dinero es menos opresiva.
+En las sociedades ampliamente mercantilizadas, la desigualdad es necesariamente más opresiva.
 
-> En una sociedad donde la subsistencia depende totalmente del dinero (porque **todo** está disponible únicamente a través del mercado), las personas que más lo tienen pueden fácilmente convertir su riqueza en poder sobre los demás. En un poder permanente.
-
-Las sociedades ampliamente mercantilizadas, la desigualdad es necesariamente más opresiva.
+Cuando la subsistencia depende totalmente del dinero (porque **todo** está disponible únicamente a través del mercado), las personas que más lo tienen pueden fácilmente convertir su riqueza en poder sobre los demás. En un poder permanente. Allí donde las personas no mueren de hambre o se quedan sin techo al no tener trabajo, uno tiene más capacidad de ejercer su autonomía, de resistir la arbitrariedad de los más ricos.
 
 Los abolicionistas del trabajo como Bob Black [@black1991] argumentan que el trabajo asalariado es la principal fuente de sufrimiento humano; algo que también sería apoyado, al menos parcialmente, por los estudios de psicopatología del trabajo [@dejours2015, parte 1]; también desde la filosofía continental [@han2022]. Es muy posible que un porcentaje significativo de los trabajos asalariados sean, de hecho, completamente innecesarios [@graeber2020].
 
-En las sociedades donde las personas no mueren de hambre o se quedan sin techo al no tener trabajo, uno tiene más capacidad de ejercer su autonomía, de resistir la arbitrariedad de los más ricos.
-
-¿Cómo aumentamos la autonomía de las personas por la vía de su subsistencia? La pregunta implica a su vez la de ¿cómo disminuimos nuestra dependencia del salario para la subsistencia?
+¿Cómo aumentamos la autonomía de las personas por la vía de una subsistencia sin salario?
 
 [2026-03-29 08:52:47 PM] La #ia no carece de capacidad técnica formal, carece de gusto.
 
+[2026-04-01 06:11:42 PM] Gobernanza es soberanía infraestuctural
+Es difícil pensar en un país, un Estado, verdaderamente *autónomo* que no sea, a su vez, dueño de su infraestructura.
+
+Similarmente, una comunidad de práctica, un pueblo, un colectivo, incapaz de decidir sobre el entramado de relaciones que lo hacen posible, estará siempre a merced de quienes sí puedan decidir.
+
+La infraestructura es invisible mientras funciona [@bowker_star1999]. La damos por sentada, y sin embargo, es la condición de posibilidad política primaria.
