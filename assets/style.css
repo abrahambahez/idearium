@@ -132,6 +132,16 @@ header nav a.active { color: var(--primary); }
 .entry-body blockquote p:first-child { margin-top: 0; }
 .entry-body blockquote p:last-child  { margin-bottom: 0; }
 
+/* Footnotes — inline dialog, same pattern as citations */
+sup.fn-ref {
+  cursor: pointer;
+  color: var(--outline);
+  font-size: 0.7rem;
+}
+sup.fn-ref:hover { color: var(--primary); }
+#fn-dialog { max-width: 28rem; }
+#fn-content { font-size: 0.9rem; line-height: 1.6; }
+
 /* Images — editorial photograph, paper on desk */
 .entry-body figure {
   margin: 2.5rem 0;
@@ -382,6 +392,7 @@ dialog::backdrop { background: rgba(26,26,26,0.35); }
   line-height: 1;
   cursor: pointer;
   padding: 0;
+  margin-left: 1rem;
   color: var(--outline);
 }
 .dialog-close:hover { color: var(--primary); }

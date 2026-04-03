@@ -1,4 +1,5 @@
 import html as _html
+import re
 from datetime import datetime
 from pathlib import Path as _Path
 from urllib.parse import quote
@@ -31,7 +32,7 @@ class _ImageRenderer(mistune.HTMLRenderer):
 
 def _make_md(grayscale: bool):
     renderer = _ImageRenderer(grayscale=grayscale, escape=False)
-    return mistune.create_markdown(renderer=renderer, plugins=["strikethrough", "url"])
+    return mistune.create_markdown(renderer=renderer, plugins=["strikethrough", "url", "footnotes"])
 
 
 md = _make_md(False)
@@ -103,6 +104,24 @@ def annotate_body(body: str, bigram_scores: dict[str, float]) -> str:
     return md("".join(parts))
 
 
+def _inline_footnotes(html: str) -> str:
+    section = re.search(r'<section class="footnotes">.*?</section>', html, re.DOTALL)
+    if not section:
+        return html
+    notes = {}
+    for m in re.finditer(r'<li id="fn-(\d+)"><p>(.*?)<a href="#fnref-\1"', section.group(), re.DOTALL):
+        notes[m.group(1)] = m.group(2).strip()
+    def _replace(m):
+        content = _html.escape(notes.get(m.group(1), ""), quote=True)
+        return f'<sup class="fn-ref" data-note="{content}">{m.group(1)}</sup>'
+    result = re.sub(
+        r'<sup class="footnote-ref" id="fnref-(\d+)"><a href="#fn-\1">\d+</a></sup>',
+        _replace,
+        html[:section.start()],
+    )
+    return result + html[section.end():]
+
+
 def entry_body_html(
     entry: dict,
     bigram_scores: dict[str, float] | None = None,
@@ -116,9 +135,8 @@ def entry_body_html(
         body = preprocess_citations(body, citation_refs)
     if quoteback_cache is not None:
         body = preprocess_quotebacks(body, quoteback_cache)
-    if bigram_scores:
-        return annotate_body(body, bigram_scores)
-    return md(body)
+    result = annotate_body(body, bigram_scores) if bigram_scores else md(body)
+    return _inline_footnotes(result)
 
 
 def render_entry_footer(eid: str, title: str) -> str:
@@ -246,6 +264,22 @@ document.querySelectorAll('.entry-body a[href^="http"]').forEach(a => {{
 document.addEventListener("keydown", e => {{
   if ((e.metaKey || e.ctrlKey) && e.key === "k") {{ e.preventDefault(); window.location.href = "/search/"; }}
   else if (e.key === "/" && document.activeElement.tagName !== "INPUT") {{ e.preventDefault(); window.location.href = "/search/"; }}
+}});
+document.addEventListener("click", e => {{
+  const ref = e.target.closest(".fn-ref");
+  if (ref) {{
+    let dlg = document.getElementById("fn-dialog");
+    if (!dlg) {{
+      dlg = document.createElement("dialog");
+      dlg.id = "fn-dialog";
+      dlg.innerHTML = '<button class="dialog-close" aria-label="Cerrar">\u00d7</button><div id="fn-content"></div>';
+      dlg.querySelector(".dialog-close").addEventListener("click", () => dlg.close());
+      dlg.addEventListener("click", e => {{ if (e.target === dlg) dlg.close(); }});
+      document.body.appendChild(dlg);
+    }}
+    document.getElementById("fn-content").innerHTML = ref.dataset.note;
+    dlg.showModal();
+  }}
 }});
 document.addEventListener("click", e => {{
   const cite = e.target.closest(".cite");
