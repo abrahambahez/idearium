@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-import json
 import os
 import shutil
 import subprocess
 from pathlib import Path
 
+import frontmatter
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -14,20 +14,35 @@ from src.nlp import compute_bigram_scores
 from src.pages import build_assets, build_entries, build_feed, build_search
 from src.quoteback import load_cache, save_cache
 
-ENTRIES_FILE = "entries.json"
+ENTRIES_DIR = Path("entries")
 DIST = Path("dist")
 PER_PAGE = 20
 SITE_TITLE = "idearium."
 SITE_URL = os.environ.get("SITE_URL", "").rstrip("/")
 
 
-def main() -> None:
-    with open(ENTRIES_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+def load_entries() -> list[dict]:
+    result = []
+    for path in ENTRIES_DIR.glob("*.md"):
+        stem = path.stem  # YYYYMMDDTHHMM
+        date = f"{stem[0:4]}-{stem[4:6]}-{stem[6:8]}"
+        time = f"{stem[9:11]}:{stem[11:13]}"
+        post = frontmatter.load(path)
+        result.append({
+            "title": post.get("title", ""),
+            "body": post.content,
+            "date": date,
+            "time": time,
+            "tags": post.get("tags") or [],
+            "starred": False,
+        })
+    return result
 
+
+def main() -> None:
     entries = sorted(
-        data["entries"],
-        key=lambda e: f"{e['date']}T{e.get('time', '00:00')}",
+        load_entries(),
+        key=lambda e: f"{e['date']}T{e['time']}",
         reverse=True,
     )
 
