@@ -12,11 +12,12 @@ MEANINGFUL_POS_PAIRS = {
     ("PROPN", "PROPN"),
     ("NOUN", "PROPN"),
 }
+MEANINGFUL_POS = {"NOUN", "PROPN"}
 HEATMAP_MIN_ENTRIES = 2
 
 
 def compute_bigram_scores(entries: list[dict]) -> dict[str, float]:
-    """Pass 1: score lemma bigrams by fraction of entries that contain them."""
+    """Pass 1: score lemma bigrams and monograms by fraction of entries that contain them."""
     total = len(entries)
     entry_counts: Counter = Counter()
     for entry in entries:
@@ -32,6 +33,13 @@ def compute_bigram_scores(entries: list[dict]) -> dict[str, float]:
             if len(a.lemma_) < 2 or len(b.lemma_) < 2:
                 continue
             key = f"{a.lemma_.lower()} {b.lemma_.lower()}"
+            if key not in seen:
+                seen.add(key)
+                entry_counts[key] += 1
+        for t in tokens:
+            if t.pos_ not in MEANINGFUL_POS or len(t.lemma_) < 2:
+                continue
+            key = t.lemma_.lower()
             if key not in seen:
                 seen.add(key)
                 entry_counts[key] += 1

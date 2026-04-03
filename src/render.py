@@ -10,7 +10,7 @@ from mistune.util import safe_entity as _safe_entity
 from mistune.util import striptags as _striptags
 
 from src.citations import preprocess_citations
-from src.nlp import MEANINGFUL_POS_PAIRS, nlp
+from src.nlp import MEANINGFUL_POS, MEANINGFUL_POS_PAIRS, nlp
 from src.quoteback import preprocess_quotebacks
 
 
@@ -86,6 +86,20 @@ def annotate_body(body: str, bigram_scores: dict[str, float]) -> str:
             continue
         spans.append((start, end, key))
         last_end = end
+
+    bigram_ranges = [(s, e) for s, e, _ in spans]
+    for t in tokens:
+        if t.pos_ not in MEANINGFUL_POS:
+            continue
+        key = t.lemma_.lower()
+        if key not in bigram_scores:
+            continue
+        start, end = t.idx, t.idx + len(t.text)
+        if any(s <= start < e or s < end <= e for s, e in bigram_ranges):
+            continue
+        spans.append((start, end, key))
+
+    spans.sort(key=lambda x: x[0])
 
     if not spans:
         return md(body)
