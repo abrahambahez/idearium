@@ -1,6 +1,7 @@
-# notas
+# Idearium
+Status: Prototype
 
-Static microblog built from [jrnl](https://jrnl.sh) entries. Paginated feed, full-text search, and bigram heatmap highlighting powered by spaCy.
+Python static microblog. Paginated feed, full-text search, and NLP heatmap highlighting powered by spaCy.
 
 ## Dependencies
 
@@ -9,28 +10,49 @@ uv sync
 uv run python -m spacy download es_core_news_sm
 ```
 
-## Writing
+## Configuration
 
-```bash
-jrnl "Primera oración como título. El resto es el cuerpo."
+Edit `config.toml`:
+
+```toml
+[entries]
+dir = "microblog"
+
+[site]
+url = "https://example.com"
+library_file = "./assets/library.json"
+
+[media]
+grayscale = true
 ```
 
-Supports inline Markdown. Tags with `@tag`.
+## Writing
+
+Entries are Markdown files in the configured `entries.dir`, named `YYYYMMDDTHHMM.md`:
+
+```
+microblog/20260401T1811.md
+```
+
+Each file uses YAML frontmatter:
+
+```markdown
+---
+title: First sentence as title.
+tags:
+  - TagName
+---
+
+Body text. Supports inline Markdown.
+```
 
 ## Building
 
 ```bash
-# export entries
-jrnl --export json > entries.json
-
-# build site
 uv run build.py
-
-# index for search
-uv run python -m pagefind --site dist/
 ```
 
-Output goes to `dist/`.
+Builds to `dist/` and runs Pagefind indexing automatically.
 
 ## Preview
 
@@ -45,7 +67,11 @@ Open `http://localhost:8000`.
 - **Feed** — paginated, newest first, full entry content
 - **Permalinks** — `/entry/20260327T143000/`
 - **Search** — `/search/` powered by Pagefind, also reads `?q=` from URL
-- **Heatmap** — recurring Spanish bigrams highlighted in amber; click to search
+- **Heatmap** — recurring Spanish nouns and noun phrases (monograms + bigrams) highlighted in amber; scored by frequency across entries; click to search
+- **Quotebacks** — `[url]` syntax embeds external quotes as styled blockquotes with source attribution
+- **Citations** — `[@key]` syntax links to bibliography entries via a BibTeX-style refs file
+- **Footnotes** — standard Markdown footnotes rendered inline as hover tooltips (no jump links)
+- **Images** — `![alt](YYYYMMDDTHHMM.png "Caption")` co-located with entries; renders with `<figcaption>`; grayscale conversion optional via `config.toml`
 
 ## Publishing
 
