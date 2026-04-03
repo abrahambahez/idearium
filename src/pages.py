@@ -29,7 +29,7 @@ def write(path: Path, content: str) -> None:
 
 def build_feed(
     entries: list[dict],
-    bigram_scores: dict[str, float],
+    ngram_scores: dict[str, float],
     dist: Path,
     per_page: int,
     site_title: str,
@@ -42,7 +42,7 @@ def build_feed(
     for page_num in range(1, total_pages + 1):
         chunk = entries[(page_num - 1) * per_page : page_num * per_page]
         fragments = "\n".join(
-            render_entry_fragment(e, bigram_scores=bigram_scores, quoteback_cache=quoteback_cache, citation_refs=citation_refs)
+            render_entry_fragment(e, ngram_scores=ngram_scores, quoteback_cache=quoteback_cache, citation_refs=citation_refs)
             for e in chunk
         )
 
@@ -64,7 +64,7 @@ def build_feed(
 
 def build_entries(
     entries: list[dict],
-    bigram_scores: dict[str, float],
+    ngram_scores: dict[str, float],
     dist: Path,
     site_title: str,
     quoteback_cache: dict | None = None,
@@ -83,7 +83,7 @@ def build_entries(
                 "image": f"{site_url}/assets/og-default.jpg",
             }
         fragment = render_entry_fragment(
-            entry, link_title=False, bigram_scores=bigram_scores,
+            entry, link_title=False, ngram_scores=ngram_scores,
             quoteback_cache=quoteback_cache, citation_refs=citation_refs, indexable=True
         )
         back = '<p style="font-size:0.85rem"><a href="/">← Inicio</a></p>'

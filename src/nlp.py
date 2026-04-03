@@ -16,8 +16,8 @@ MEANINGFUL_POS = {"NOUN", "PROPN"}
 HEATMAP_MIN_ENTRIES = 2
 
 
-def compute_bigram_scores(entries: list[dict]) -> dict[str, float]:
-    """Pass 1: score lemma bigrams and monograms by fraction of entries that contain them."""
+def compute_ngram_scores(entries: list[dict]) -> dict[str, float]:
+    """Pass 1: score lemma ngrams (monograms + bigrams) by fraction of entries that contain them."""
     total = len(entries)
     entry_counts: Counter = Counter()
     for entry in entries:

@@ -16,14 +16,14 @@ Edit `config.toml`:
 
 ```toml
 [entries]
-dir = "microblog"
+dir = "microblog"         # folder where .md entry files live
 
 [site]
-url = "https://example.com"
-library_file = "./assets/library.json"
+url = "https://example.com"              # used for permalinks and OG tags
+library_file = "./assets/library.json"  # bibliography for [@key] citations
 
 [media]
-grayscale = true
+grayscale = true  # convert images to grayscale on build
 ```
 
 ## Writing
@@ -72,6 +72,8 @@ Open `http://localhost:8000`.
 - **Citations** — `[@key]` syntax links to bibliography entries via a BibTeX-style refs file
 - **Footnotes** — standard Markdown footnotes rendered inline as hover tooltips (no jump links)
 - **Images** — `![alt](YYYYMMDDTHHMM.png "Caption")` co-located with entries; renders with `<figcaption>`; grayscale conversion optional via `config.toml`
+- **Share** — native share sheet on mobile; copies permalink on desktop
+- **Reply by email** — each entry has a pre-addressed reply button to spark conversation around the text
 
 ## Publishing
 

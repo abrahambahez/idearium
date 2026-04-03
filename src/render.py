@@ -65,9 +65,9 @@ def entry_tags(entry: dict) -> list[str]:
     return [t.lstrip("#@") for t in entry.get("tags", [])]
 
 
-def annotate_body(body: str, bigram_scores: dict[str, float]) -> str:
-    """Pass 2: inject <a class="hm"> spans for scored bigrams, then render markdown."""
-    if not body or not bigram_scores:
+def annotate_body(body: str, ngram_scores: dict[str, float]) -> str:
+    """Pass 2: inject <a class="hm"> spans for scored ngrams, then render markdown."""
+    if not body or not ngram_scores:
         return md(body) if body else ""
 
     doc = nlp(body)
@@ -79,7 +79,7 @@ def annotate_body(body: str, bigram_scores: dict[str, float]) -> str:
         if (a.pos_, b.pos_) not in MEANINGFUL_POS_PAIRS:
             continue
         key = f"{a.lemma_.lower()} {b.lemma_.lower()}"
-        if key not in bigram_scores:
+        if key not in ngram_scores:
             continue
         start, end = a.idx, b.idx + len(b.text)
         if start < last_end:
@@ -92,7 +92,7 @@ def annotate_body(body: str, bigram_scores: dict[str, float]) -> str:
         if t.pos_ not in MEANINGFUL_POS:
             continue
         key = t.lemma_.lower()
-        if key not in bigram_scores:
+        if key not in ngram_scores:
             continue
         start, end = t.idx, t.idx + len(t.text)
         if any(s <= start < e or s < end <= e for s, e in bigram_ranges):
@@ -108,7 +108,7 @@ def annotate_body(body: str, bigram_scores: dict[str, float]) -> str:
     cursor = 0
     for start, end, key in spans:
         parts.append(body[cursor:start])
-        score = round(bigram_scores[key], 3)
+        score = round(ngram_scores[key], 3)
         href = f"/search/?q={quote(key)}"
         original = body[start:end]
         parts.append(f'<a class="hm" style="--s:{score}" href="{href}">{original}</a>')
@@ -138,7 +138,7 @@ def _inline_footnotes(html: str) -> str:
 
 def entry_body_html(
     entry: dict,
-    bigram_scores: dict[str, float] | None = None,
+    ngram_scores: dict[str, float] | None = None,
     quoteback_cache: dict | None = None,
     citation_refs: dict[str, str] | None = None,
 ) -> str:
@@ -149,7 +149,7 @@ def entry_body_html(
         body = preprocess_citations(body, citation_refs)
     if quoteback_cache is not None:
         body = preprocess_quotebacks(body, quoteback_cache)
-    result = annotate_body(body, bigram_scores) if bigram_scores else md(body)
+    result = annotate_body(body, ngram_scores) if ngram_scores else md(body)
     return _inline_footnotes(result)
 
 
@@ -191,7 +191,7 @@ def render_entry_fragment(
     entry: dict,
     *,
     link_title: bool = True,
-    bigram_scores: dict[str, float] | None = None,
+    ngram_scores: dict[str, float] | None = None,
     quoteback_cache: dict | None = None,
     citation_refs: dict[str, str] | None = None,
     indexable: bool = False,
@@ -199,7 +199,7 @@ def render_entry_fragment(
     eid = entry_id(entry)
     date = entry_date_display(entry)
     title = entry_title(entry)
-    body_html = entry_body_html(entry, bigram_scores, quoteback_cache, citation_refs)
+    body_html = entry_body_html(entry, ngram_scores, quoteback_cache, citation_refs)
     tags = entry_tags(entry)
 
     title_html = f'<a href="/entry/{eid}/">{title}</a>' if link_title else title

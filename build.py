@@ -7,7 +7,7 @@ from pathlib import Path
 import frontmatter
 
 from src.citations import load_refs
-from src.nlp import compute_bigram_scores
+from src.nlp import compute_ngram_scores
 from src.pages import build_assets, build_entries, build_feed, build_media, build_search
 from src.quoteback import load_cache, save_cache
 from src.render import init_renderer
@@ -51,9 +51,9 @@ def main() -> None:
         reverse=True,
     )
 
-    print("Scoring bigrams…", flush=True)
-    bigram_scores = compute_bigram_scores(entries)
-    print(f"  {len(bigram_scores)} bigrams scored", flush=True)
+    print("Scoring ngrams…", flush=True)
+    ngram_scores = compute_ngram_scores(entries)
+    print(f"  {len(ngram_scores)} ngrams scored", flush=True)
 
     quoteback_cache = load_cache()
     citation_refs = load_refs(LIBRARY_FILE)
@@ -64,8 +64,8 @@ def main() -> None:
 
     build_assets(DIST)
     build_media(ENTRIES_DIR, DIST)
-    build_feed(entries, bigram_scores, DIST, PER_PAGE, SITE_TITLE, quoteback_cache, citation_refs)
-    build_entries(entries, bigram_scores, DIST, SITE_TITLE, quoteback_cache, citation_refs, site_url=SITE_URL)
+    build_feed(entries, ngram_scores, DIST, PER_PAGE, SITE_TITLE, quoteback_cache, citation_refs)
+    build_entries(entries, ngram_scores, DIST, SITE_TITLE, quoteback_cache, citation_refs, site_url=SITE_URL)
     build_search(DIST, SITE_TITLE)
 
     save_cache(quoteback_cache)
