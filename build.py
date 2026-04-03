@@ -8,8 +8,9 @@ import frontmatter
 
 from src.citations import load_refs
 from src.nlp import compute_bigram_scores
-from src.pages import build_assets, build_entries, build_feed, build_search
+from src.pages import build_assets, build_entries, build_feed, build_media, build_search
 from src.quoteback import load_cache, save_cache
+from src.render import init_renderer
 
 with open("config.toml", "rb") as f:
     _config = tomllib.load(f)
@@ -20,6 +21,9 @@ PER_PAGE = 20
 SITE_TITLE = "idearium."
 SITE_URL = _config["site"]["url"].rstrip("/")
 LIBRARY_FILE = _config["site"]["library_file"]
+GRAYSCALE = _config.get("media", {}).get("grayscale", True)
+
+init_renderer(GRAYSCALE)
 
 
 def load_entries() -> list[dict]:
@@ -59,6 +63,7 @@ def main() -> None:
     DIST.mkdir()
 
     build_assets(DIST)
+    build_media(ENTRIES_DIR, DIST)
     build_feed(entries, bigram_scores, DIST, PER_PAGE, SITE_TITLE, quoteback_cache, citation_refs)
     build_entries(entries, bigram_scores, DIST, SITE_TITLE, quoteback_cache, citation_refs, site_url=SITE_URL)
     build_search(DIST, SITE_TITLE)

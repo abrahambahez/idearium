@@ -4,3 +4,6 @@ dir = "microblog"
 [site]
 url = "https://idearium.sergio-barrera.com"
 library_file = "./assets/library.json"
+
+[media]
+grayscale = true

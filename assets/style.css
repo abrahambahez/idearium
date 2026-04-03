@@ -132,6 +132,27 @@ header nav a.active { color: var(--primary); }
 .entry-body blockquote p:first-child { margin-top: 0; }
 .entry-body blockquote p:last-child  { margin-bottom: 0; }
 
+/* Images — editorial photograph, paper on desk */
+.entry-body figure {
+  margin: 2.5rem 0;
+}
+.entry-body figure img {
+  display: block;
+  width: 100%;
+  box-shadow:
+    0 2px 8px rgba(26,26,26,0.10),
+    0 8px 32px rgba(26,26,26,0.07);
+}
+.entry-body figcaption {
+  margin-top: 0.5rem;
+  font-family: 'Newsreader', Georgia, serif;
+  font-variant-caps: all-small-caps;
+  font-size: 0.75rem;
+  color: var(--outline);
+  letter-spacing: 0.04em;
+}
+.entry-body figure img.img-grayscale { filter: grayscale(1); }
+
 /* Tags */
 .tags {
   margin-top: 0.9rem;

@@ -4,6 +4,24 @@ from src.og import extract_og_description
 from src.render import base, entry_id, entry_title, render_entry_fragment
 
 
+def build_media(entries_dir: Path, dist: Path) -> None:
+    src_media = entries_dir / "media"
+    if not src_media.exists():
+        return
+    from PIL import Image, UnidentifiedImageError
+    out_media = dist / "media"
+    out_media.mkdir(parents=True, exist_ok=True)
+    for src in src_media.iterdir():
+        if not src.is_file():
+            continue
+        try:
+            with Image.open(src) as img:
+                img.save(out_media / f"{src.stem}.webp", "WEBP", quality=82)
+                print(f"  {src.name} → {src.stem}.webp")
+        except UnidentifiedImageError:
+            pass
+
+
 def write(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8")

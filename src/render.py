@@ -1,14 +1,45 @@
 import html as _html
 from datetime import datetime
+from pathlib import Path as _Path
 from urllib.parse import quote
 
 import mistune
+from mistune.util import escape as _escape_text
+from mistune.util import safe_entity as _safe_entity
+from mistune.util import striptags as _striptags
 
 from src.citations import preprocess_citations
 from src.nlp import MEANINGFUL_POS_PAIRS, nlp
 from src.quoteback import preprocess_quotebacks
 
-md = mistune.create_markdown(plugins=["strikethrough", "url"], escape=False)
+
+class _ImageRenderer(mistune.HTMLRenderer):
+    def __init__(self, grayscale: bool = False, **kwargs):
+        super().__init__(**kwargs)
+        self._grayscale = grayscale
+
+    def image(self, text: str, url: str, title: str | None = None) -> str:
+        is_relative = not url.startswith(("http://", "https://", "/", "data:"))
+        src = f"/media/{_Path(url).stem}.webp" if is_relative else self.safe_url(url)
+        alt = _escape_text(_striptags(text))
+        cls = ' class="img-grayscale"' if self._grayscale else ""
+        img = f'<img src="{src}" alt="{alt}"{cls}>'
+        if title:
+            return f"<figure>{img}<figcaption>{_safe_entity(title)}</figcaption></figure>"
+        return f"<figure>{img}</figure>"
+
+
+def _make_md(grayscale: bool):
+    renderer = _ImageRenderer(grayscale=grayscale, escape=False)
+    return mistune.create_markdown(renderer=renderer, plugins=["strikethrough", "url"])
+
+
+md = _make_md(False)
+
+
+def init_renderer(grayscale: bool) -> None:
+    global md
+    md = _make_md(grayscale)
 
 ICON_SHARE = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>'
 ICON_MAIL  = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>'
