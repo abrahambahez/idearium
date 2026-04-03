@@ -1,6 +1,5 @@
 import html
 import json
-import os
 import re
 from pathlib import Path
 
@@ -144,14 +143,11 @@ def _format_ref(entry: dict) -> str:
     )
 
 
-def load_refs() -> dict[str, str]:
-    """Return {citekey: formatted_ref_string} for all entries in LIBRARY_FILE."""
-    lib_path = os.environ.get("LIBRARY_FILE")
-    if not lib_path:
-        raise RuntimeError("LIBRARY_FILE environment variable is not set")
-    path = Path(lib_path).expanduser()
+def load_refs(library_file: str) -> dict[str, str]:
+    """Return {citekey: formatted_ref_string} for all entries in library_file."""
+    path = Path(library_file).expanduser()
     if not path.exists():
-        raise RuntimeError(f"LIBRARY_FILE not found: {path}")
+        raise RuntimeError(f"library_file not found: {path}")
     with open(path, encoding="utf-8") as f:
         entries = json.load(f)
     return {e["id"]: _format_ref(e) for e in entries if "id" in e}

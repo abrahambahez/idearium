@@ -1,24 +1,25 @@
 #!/usr/bin/env python3
-import os
 import shutil
 import subprocess
+import tomllib
 from pathlib import Path
 
 import frontmatter
-from dotenv import load_dotenv
-
-load_dotenv()
 
 from src.citations import load_refs
 from src.nlp import compute_bigram_scores
 from src.pages import build_assets, build_entries, build_feed, build_search
 from src.quoteback import load_cache, save_cache
 
-ENTRIES_DIR = Path("entries")
+with open("config.toml", "rb") as f:
+    _config = tomllib.load(f)
+
+ENTRIES_DIR = Path(_config["entries"]["dir"])
 DIST = Path("dist")
 PER_PAGE = 20
 SITE_TITLE = "idearium."
-SITE_URL = os.environ.get("SITE_URL", "").rstrip("/")
+SITE_URL = _config["site"]["url"].rstrip("/")
+LIBRARY_FILE = _config["site"]["library_file"]
 
 
 def load_entries() -> list[dict]:
@@ -51,7 +52,7 @@ def main() -> None:
     print(f"  {len(bigram_scores)} bigrams scored", flush=True)
 
     quoteback_cache = load_cache()
-    citation_refs = load_refs()
+    citation_refs = load_refs(LIBRARY_FILE)
 
     if DIST.exists():
         shutil.rmtree(DIST)

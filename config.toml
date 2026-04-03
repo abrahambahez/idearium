@@ -1,0 +1,6 @@
+[entries]
+dir = "entries"
+
+[site]
+url = "https://idearium.sergio-barrera.com"
+library_file = "./assets/library.json"
