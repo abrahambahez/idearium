@@ -65,10 +65,18 @@ def entry_tags(entry: dict) -> list[str]:
     return [t.lstrip("#@") for t in entry.get("tags", [])]
 
 
+_MARKDOWN_SYNTAX_RE = re.compile(r'!?\[[^\]]*\]\([^)]*\)|<[^>]+>')
+
+
 def annotate_body(body: str, ngram_scores: dict[str, float]) -> str:
     """Pass 2: inject <a class="hm"> spans for scored ngrams, then render markdown."""
     if not body or not ngram_scores:
         return md(body) if body else ""
+
+    protected = [(m.start(), m.end()) for m in _MARKDOWN_SYNTAX_RE.finditer(body)]
+
+    def _protected(start: int, end: int) -> bool:
+        return any(ps <= start and end <= pe for ps, pe in protected)
 
     doc = nlp(body)
     tokens = [t for t in doc if not t.is_space]
@@ -82,7 +90,7 @@ def annotate_body(body: str, ngram_scores: dict[str, float]) -> str:
         if key not in ngram_scores:
             continue
         start, end = a.idx, b.idx + len(b.text)
-        if start < last_end:
+        if start < last_end or _protected(start, end):
             continue
         spans.append((start, end, key))
         last_end = end
@@ -96,6 +104,8 @@ def annotate_body(body: str, ngram_scores: dict[str, float]) -> str:
             continue
         start, end = t.idx, t.idx + len(t.text)
         if any(s <= start < e or s < end <= e for s, e in bigram_ranges):
+            continue
+        if _protected(start, end):
             continue
         spans.append((start, end, key))
 
@@ -145,12 +155,13 @@ def entry_body_html(
     body = entry.get("body", "").strip()
     if not body:
         return ""
-    if citation_refs is not None:
-        body = preprocess_citations(body, citation_refs)
     if quoteback_cache is not None:
         body = preprocess_quotebacks(body, quoteback_cache)
     result = annotate_body(body, ngram_scores) if ngram_scores else md(body)
-    return _inline_footnotes(result)
+    result = _inline_footnotes(result)
+    if citation_refs is not None:
+        result = preprocess_citations(result, citation_refs)
+    return result
 
 
 def render_entry_footer(eid: str, title: str) -> str:
