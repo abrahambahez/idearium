@@ -44,8 +44,10 @@ def compute_ngram_scores(entries: list[dict]) -> dict[str, float]:
                 seen.add(key)
                 entry_counts[key] += 1
 
-    return {
-        key: count / total
-        for key, count in entry_counts.items()
-        if count >= HEATMAP_MIN_ENTRIES
-    }
+    raw = {k: c / total for k, c in entry_counts.items() if c >= HEATMAP_MIN_ENTRIES}
+    if not raw:
+        return raw
+    mn, mx = min(raw.values()), max(raw.values())
+    if mn == mx:
+        return {k: 0.12 for k in raw}
+    return {k: 0.08 + (v - mn) / (mx - mn) * 0.42 for k, v in raw.items()}
