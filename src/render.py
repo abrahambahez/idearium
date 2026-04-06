@@ -66,6 +66,7 @@ def entry_tags(entry: dict) -> list[str]:
 
 
 _MARKDOWN_SYNTAX_RE = re.compile(r'!?\[[^\]]*\]\([^)]*\)|<[^>]+>')
+_QUOTEBACK_BLOCK_RE = re.compile(r'<blockquote class="quoteback".*?</blockquote>', re.DOTALL)
 
 
 def annotate_body(body: str, ngram_scores: dict[str, float]) -> str:
@@ -74,6 +75,7 @@ def annotate_body(body: str, ngram_scores: dict[str, float]) -> str:
         return md(body) if body else ""
 
     protected = [(m.start(), m.end()) for m in _MARKDOWN_SYNTAX_RE.finditer(body)]
+    protected += [(m.start(), m.end()) for m in _QUOTEBACK_BLOCK_RE.finditer(body)]
 
     def _protected(start: int, end: int) -> bool:
         return any(ps <= start and end <= pe for ps, pe in protected)
