@@ -52,9 +52,12 @@ def entry_id(entry: dict) -> str:
     return dt.strftime("%Y%m%dT%H%M%S")
 
 
+_MONTHS_ES = ("ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic")
+
+
 def entry_date_display(entry: dict) -> str:
     dt = datetime.fromisoformat(f"{entry['date']}T{entry.get('time', '00:00')}")
-    return dt.strftime("%Y-%m-%d %H:%M")
+    return f"{dt.day} {_MONTHS_ES[dt.month - 1]} {dt.year}"
 
 
 def entry_title(entry: dict) -> str:
