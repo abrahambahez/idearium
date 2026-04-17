@@ -13,13 +13,16 @@ MEANINGFUL_POS_PAIRS = {
     ("NOUN", "PROPN"),
 }
 MEANINGFUL_POS = {"NOUN", "PROPN"}
+MEANINGFUL_POS_CONTENT = {"NOUN", "PROPN", "ADJ"}
 HEATMAP_MIN_ENTRIES = 2
+MONOGRAM_MIN_ENTRIES = 4
 
 
 def compute_ngram_scores(entries: list[dict]) -> dict[str, float]:
     """Pass 1: score lemma ngrams (monograms + bigrams) by fraction of entries that contain them."""
     total = len(entries)
-    entry_counts: Counter = Counter()
+    mono_counts: Counter = Counter()
+    multi_counts: Counter = Counter()
     for entry in entries:
         body = entry.get("body", "").strip()
         if not body:
@@ -27,6 +30,15 @@ def compute_ngram_scores(entries: list[dict]) -> dict[str, float]:
         doc = nlp(body)
         seen = set()
         tokens = [t for t in doc if not t.is_space]
+        for a, b, c in zip(tokens, tokens[1:], tokens[2:]):
+            if not all(t.pos_ in MEANINGFUL_POS_CONTENT for t in (a, b, c)):
+                continue
+            if not all(len(t.lemma_) >= 2 for t in (a, b, c)):
+                continue
+            key = f"{a.lemma_.lower()} {b.lemma_.lower()} {c.lemma_.lower()}"
+            if key not in seen:
+                seen.add(key)
+                multi_counts[key] += 1
         for a, b in zip(tokens, tokens[1:]):
             if (a.pos_, b.pos_) not in MEANINGFUL_POS_PAIRS:
                 continue
@@ -35,16 +47,19 @@ def compute_ngram_scores(entries: list[dict]) -> dict[str, float]:
             key = f"{a.lemma_.lower()} {b.lemma_.lower()}"
             if key not in seen:
                 seen.add(key)
-                entry_counts[key] += 1
+                multi_counts[key] += 1
         for t in tokens:
             if t.pos_ not in MEANINGFUL_POS or len(t.lemma_) < 2:
                 continue
             key = t.lemma_.lower()
             if key not in seen:
                 seen.add(key)
-                entry_counts[key] += 1
+                mono_counts[key] += 1
 
-    raw = {k: c / total for k, c in entry_counts.items() if c >= HEATMAP_MIN_ENTRIES}
+    raw = {
+        **{k: c / total for k, c in multi_counts.items() if c >= HEATMAP_MIN_ENTRIES},
+        **{k: c / total for k, c in mono_counts.items() if c >= MONOGRAM_MIN_ENTRIES},
+    }
     if not raw:
         return raw
     mn, mx = min(raw.values()), max(raw.values())
